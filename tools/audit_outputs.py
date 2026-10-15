@@ -184,7 +184,8 @@ def build_audit(args: argparse.Namespace) -> dict[str, Any]:
             next_action="Review whether any remaining unresolved links should be normalized to article targets or excluded from chapter reference lists.",
         )
 
-    if epubcheck and not epubcheck.get("passed"):
+    epubcheck_passed = bool(epubcheck and epubcheck.get("passed"))
+    if epubcheck and not epubcheck_passed:
         add_finding(
             findings,
             output="ebook",
@@ -265,17 +266,24 @@ def build_audit(args: argparse.Namespace) -> dict[str, Any]:
                     "question": "Should public URL redirects or canonical public URLs be assigned?",
                     "reason": "Deferred until a public rebuild or redirect-map slice.",
                 },
-                {
-                    "question": "Should external epubcheck validation be required?",
-                    "reason": "Deferred until epubcheck is installed locally or available in release tooling.",
-                },
             ],
         },
         "recommended_next_slice": {
-            "name": "EPUB external validation",
-            "reason": "Release-facing static and EPUB behavior is aligned, unresolved internal EPUB links are now suppressed from reader-facing output, and the main remaining release gate is external epubcheck validation.",
+            "name": "Explicit user selection",
+            "reason": "Release-facing static and EPUB behavior is aligned and external epubcheck validation passed; DB work, custom domains, and redirects remain deferred until requested.",
         },
     }
+    if not epubcheck_passed:
+        report["open_questions"]["deferred"].append(
+            {
+                "question": "Should external epubcheck validation be required?",
+                "reason": "Deferred until epubcheck is installed locally or available in release tooling.",
+            }
+        )
+        report["recommended_next_slice"] = {
+            "name": "EPUB external validation",
+            "reason": "Release-facing static and EPUB behavior is aligned, unresolved internal EPUB links are now suppressed from reader-facing output, and the main remaining release gate is external epubcheck validation.",
+        }
     return report
 
 

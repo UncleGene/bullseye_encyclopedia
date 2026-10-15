@@ -195,10 +195,10 @@ Completion evidence so far:
 - Current raw article static output: `exports/static-site/raw/index.html`
 - Ebook output: `exports/ebook/bullseye-pistol.epub`
 - Final single-file release bundle: `exports/final/`
-- Raw as-is output contains canonical-grouped article folders, `10` top-level sections, `2` detected sub-article groups, `161` article-specific image files, `295` shared image files, `0` broken local references, and `0` bad page-local scripts across `295` checked files.
+- Raw as-is output contains canonical-grouped article folders, `10` top-level sections, `2` detected sub-article groups, `161` article-specific image files, `295` shared image files, `0` broken local references, and `0` bad page-local scripts across `294` checked files.
 - Canonical output contains `150` article pages, `165` recovered article assets, `21` additional recovered linked resources, and `0` broken local references after validation.
 - Current ebook output contains `150` article chapters, `160` embedded recovered image assets, and `0` non-reader-safe packaged resources; `59` internal non-article resource links are suppressed from reader-facing output.
-- The 2026-05-29 shared output audit records `0` blocking findings, `3` improvement candidates, and `1` deferred release risk. That EPUB validation risk was closed on 2026-10-15: EPUBCheck 5.4.0 passed with `0` errors and warnings; see `docs/recovery/ebook-export-report.md`.
+- The 2026-10-15 shared output audit records `0` blocking findings, `3` improvement candidates, and `0` deferred release risks. The earlier EPUB validation risk is closed: EPUBCheck 5.4.0 passed with `0` errors and warnings; see `docs/recovery/ebook-export-report.md`.
 - Enhanced browsing is already implemented in the raw article site while preserving recovered homepage navigation.
 - PDF release QA on 2026-10-15 confirms `574` pages, all `150` article destinations, and `838` working local link annotations. Sampled visual review and missing-resource policy checks passed without PDF changes; evidence, limitations, and PDF release notes are in `docs/recovery/pdf-export-report.md`.
 - GitHub Pages layout revised on 2026-10-15: historical `as-is` at root, normalized `raw` under `/raw/`. Both versions link to each other; the article header uses the recovered banner and the historical homepage's article-version link inherits its original navigation style. See `docs/recovery/github-pages.md` for publication and verification.

@@ -9,7 +9,7 @@ in `exports/static-site/as-is`. This is an analysis report only.
 
 ## Suppressed Internal URLs
 
-Total suppressed internal URLs: 17
+Total suppressed internal URLs: 18
 
 | Category | Count |
 | --- | ---: |
@@ -17,7 +17,7 @@ Total suppressed internal URLs: 17
 | hosting-template-artifact | 1 |
 | owner-file-candidate | 8 |
 | site-decoration | 1 |
-| unrecovered-article | 5 |
+| unrecovered-article | 6 |
 
 ### provider-artifact
 
@@ -57,8 +57,8 @@ Total suppressed internal URLs: 17
 
 ### unrecovered-article
 
-- `http://bullseyepistol.com/chaptr10.htm`
-  - Reason: Variant URL for a chapter article; content exists under a different recovered URL.
+- `http://bullseyepistol.com/brianbio.htm`
+  - Reason: Author biography linked from an article header; absent from the Wayback inventory.
 - `http://bullseyepistol.com/gilhebar.htm`
   - Reason: Linked content page not present in the selected baseline or overlay captures.
 - `http://bullseyepistol.com/help.htm`
@@ -67,22 +67,24 @@ Total suppressed internal URLs: 17
   - Reason: Likely Camp Perry championship page not present in the selected captures.
 - `http://bullseyepistol.com/statoffice.htm`
   - Reason: State office page linked by recovered content but not captured in the selected baseline.
+- `http://bullseyepistol.com/wong8.htm`
+  - Reason: Related Wong article linked from an article header; absent from the Wayback inventory.
 
 ## Unresolved Rewrite Pages
 
-Total pages with unresolved rewrites: 44
-Total external unresolved refs: 692
-Total internal unresolved refs: 70
+Total pages with unresolved rewrites: 43
+Total external unresolved refs: 691
+Total internal unresolved refs: 69
 
 | Page bucket | Pages |
 | --- | ---: |
-| external-only | 25 |
+| external-only | 24 |
 | mixed | 10 |
 | internal-only | 9 |
 
 ### Internal unresolved URL inventory
 
-Unique internal unresolved URLs: 33
+Unique internal unresolved URLs: 32
 
 | Category | Unique URLs | Reference Count |
 | --- | ---: | ---: |
@@ -91,7 +93,7 @@ Unique internal unresolved URLs: 33
 | owner-file-candidate | 8 | 8 |
 | site-decoration | 6 | 7 |
 | unrecovered-media | 1 | 1 |
-| unrecovered-article | 5 | 5 |
+| unrecovered-article | 4 | 4 |
 
 ### Internal unresolved: provider-artifact
 
@@ -222,10 +224,6 @@ Unique internal unresolved URLs: 33
 
 ### Internal unresolved: unrecovered-article
 
-- `http://bullseyepistol.com/chaptr10.htm`
-  - Refs: 1
-  - Pages: `shared/scripts/header4.js`
-  - Reason: Variant URL for a chapter article; content exists under a different recovered URL.
 - `http://bullseyepistol.com/gilhebar.htm`
   - Refs: 1
   - Pages: `shared/scripts/header4.js`
@@ -245,8 +243,8 @@ Unique internal unresolved URLs: 33
 
 ## Findings Summary
 
-- `as-is` suppresses `17` internal missing URLs from reader-facing pages.
-- The unresolved rewrite inventory contains `33` unique internal URLs and `692` external references.
+- `as-is` suppresses `18` internal missing URLs from reader-facing pages.
+- The unresolved rewrite inventory contains `32` unique internal URLs and `691` external references.
 - Hosting-template artifacts account for `11` unique internal unresolved URLs and are concentrated in provider-generated `pages/*` captures.
 - Owner-file candidates account for `8` suppressed URLs and should be the first owner-recovery request set.
 

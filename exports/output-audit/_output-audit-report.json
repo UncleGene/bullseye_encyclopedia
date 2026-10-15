@@ -2,7 +2,7 @@
   "finding_counts": {
     "blocking": 0,
     "candidate": 3,
-    "deferred": 1
+    "deferred": 0
   },
   "findings": [
     {
@@ -14,27 +14,20 @@
     },
     {
       "classification": "candidate",
-      "evidence": "8 suppressed owner-file candidates, 5 unrecovered article URLs, 2 provider artifacts.",
+      "evidence": "8 suppressed owner-file candidates, 6 unrecovered article URLs, 2 provider artifacts.",
       "next_action": "Treat the owner-file candidates as permanent non-Wayback gaps unless files are supplied out-of-band, and keep the other suppressed URLs as explicit gaps or artifacts.",
       "output": "as-is-static",
       "title": "As-is permanent non-Wayback file gaps are identified"
     },
     {
       "classification": "candidate",
-      "evidence": "44 pages have unresolved rewrites; 692 external refs and 11 unique hosting-template internal URLs dominate the internal set.",
+      "evidence": "43 pages have unresolved rewrites; 691 external refs and 11 unique hosting-template internal URLs dominate the internal set.",
       "next_action": "Keep pruning limited to release-facing provider placeholder pages and use the remaining inventory as a documented preservation artifact unless a narrower cleanup target emerges.",
       "output": "as-is-static",
       "title": "As-is unresolved rewrites are now mostly residual provider-era artifacts"
-    },
-    {
-      "classification": "deferred",
-      "evidence": "epubcheck not installed",
-      "next_action": "Run epubcheck before public release when available locally.",
-      "output": "ebook",
-      "title": "External EPUB validation unavailable"
     }
   ],
-  "generated_at": "2026-05-29T13:55:14Z",
+  "generated_at": "2026-10-15T23:17:36Z",
   "inputs": {
     "as_is_classification_report": "exports/output-audit/as-is-missing-resource-classification.json",
     "canonical_export_report": "exports/static-site/raw/_raw-export-report.json",
@@ -53,10 +46,6 @@
       {
         "question": "Should public URL redirects or canonical public URLs be assigned?",
         "reason": "Deferred until a public rebuild or redirect-map slice."
-      },
-      {
-        "question": "Should external epubcheck validation be required?",
-        "reason": "Deferred until epubcheck is installed locally or available in release tooling."
       }
     ],
     "routed": []
@@ -64,34 +53,34 @@
   "outputs": {
     "as_is_static": {
       "article_specific_image_count": 161,
-      "external_unresolved_ref_count": 692,
+      "external_unresolved_ref_count": 691,
       "files_written": 524,
       "internal_unresolved_by_category": {
         "hosting-template-artifact": 11,
         "owner-file-candidate": 8,
         "provider-artifact": 2,
         "site-decoration": 6,
-        "unrecovered-article": 5,
+        "unrecovered-article": 4,
         "unrecovered-media": 1
       },
       "missing_note_count": 0,
-      "missing_rewrite_page_count": 44,
+      "missing_rewrite_page_count": 43,
       "output": "exports/static-site/as-is",
-      "pages_with_unresolved_local_rewrites": 44,
-      "silent_missing_internal_url_count": 17,
+      "pages_with_unresolved_local_rewrites": 43,
+      "silent_missing_internal_url_count": 18,
       "suppressed_by_category": {
         "hosting-template-artifact": 1,
         "owner-file-candidate": 8,
         "provider-artifact": 2,
         "site-decoration": 1,
-        "unrecovered-article": 5
+        "unrecovered-article": 6
       },
       "validation": {
         "article_page_count": 0,
         "broken_local_reference_count": 0,
-        "external_reference_count": 880,
+        "external_reference_count": 1050,
         "html_file_count": 183,
-        "local_reference_count": 1102,
+        "local_reference_count": 1093,
         "passed": true
       }
     },
@@ -99,9 +88,11 @@
       "broken_package_reference_count": 0,
       "embedded_asset_count": 160,
       "epubcheck": {
-        "name": "epubcheck_available",
-        "passed": false,
-        "risk": "epubcheck not installed"
+        "name": "epubcheck",
+        "passed": true,
+        "returncode": 0,
+        "stderr": "",
+        "stdout": "Validating using EPUB version 3.4 rules.\nNo errors or warnings detected.\nMessages: 0 fatals / 0 errors / 0 warnings / 0 infos\n\nEPUBCheck completed\n"
       },
       "hard_wrap_candidate_count": 0,
       "included_article_count": 150,
@@ -128,15 +119,15 @@
       "validation": {
         "article_page_count": 150,
         "broken_local_reference_count": 0,
-        "external_reference_count": 380,
+        "external_reference_count": 548,
         "html_file_count": 168,
-        "local_reference_count": 1530,
+        "local_reference_count": 1698,
         "passed": true
       }
     }
   },
   "recommended_next_slice": {
-    "name": "EPUB external validation",
-    "reason": "Release-facing static and EPUB behavior is aligned, unresolved internal EPUB links are now suppressed from reader-facing output, and the main remaining release gate is external epubcheck validation."
+    "name": "Explicit user selection",
+    "reason": "Release-facing static and EPUB behavior is aligned and external epubcheck validation passed; DB work, custom domains, and redirects remain deferred until requested."
   }
 }

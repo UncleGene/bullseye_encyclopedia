@@ -1,14 +1,14 @@
 {
-  "external_unresolved_ref_count": 692,
+  "external_unresolved_ref_count": 691,
   "internal_unresolved_by_category": {
     "hosting-template-artifact": 11,
     "owner-file-candidate": 8,
     "provider-artifact": 2,
     "site-decoration": 6,
-    "unrecovered-article": 5,
+    "unrecovered-article": 4,
     "unrecovered-media": 1
   },
-  "internal_unresolved_url_count": 33,
+  "internal_unresolved_url_count": 32,
   "internal_unresolved_urls": [
     {
       "category": "provider-artifact",
@@ -329,16 +329,6 @@
     },
     {
       "category": "unrecovered-article",
-      "normalized_url": "http://bullseyepistol.com/chaptr10.htm",
-      "pages": [
-        "shared/scripts/header4.js"
-      ],
-      "reason": "Variant URL for a chapter article; content exists under a different recovered URL.",
-      "ref_count": 1,
-      "url": "http://bullseyepistol.com/chaptr10.htm"
-    },
-    {
-      "category": "unrecovered-article",
       "normalized_url": "http://bullseyepistol.com/gilhebar.htm",
       "pages": [
         "shared/scripts/header4.js"
@@ -379,19 +369,19 @@
     }
   ],
   "rewrite_page_buckets": {
-    "external-only": 25,
+    "external-only": 24,
     "internal-only": 9,
     "mixed": 10
   },
-  "rewrite_page_count": 44,
+  "rewrite_page_count": 43,
   "suppressed_by_category": {
     "hosting-template-artifact": 1,
     "owner-file-candidate": 8,
     "provider-artifact": 2,
     "site-decoration": 1,
-    "unrecovered-article": 5
+    "unrecovered-article": 6
   },
-  "suppressed_internal_url_count": 17,
+  "suppressed_internal_url_count": 18,
   "suppressed_internal_urls": [
     {
       "category": "provider-artifact",
@@ -467,9 +457,9 @@
     },
     {
       "category": "unrecovered-article",
-      "normalized_url": "http://bullseyepistol.com/chaptr10.htm",
-      "reason": "Variant URL for a chapter article; content exists under a different recovered URL.",
-      "url": "http://bullseyepistol.com/chaptr10.htm"
+      "normalized_url": "http://bullseyepistol.com/brianbio.htm",
+      "reason": "Author biography linked from an article header; absent from the Wayback inventory.",
+      "url": "http://bullseyepistol.com/brianbio.htm"
     },
     {
       "category": "unrecovered-article",
@@ -494,6 +484,12 @@
       "normalized_url": "http://bullseyepistol.com/statoffice.htm",
       "reason": "State office page linked by recovered content but not captured in the selected baseline.",
       "url": "http://bullseyepistol.com/statoffice.htm"
+    },
+    {
+      "category": "unrecovered-article",
+      "normalized_url": "http://bullseyepistol.com/wong8.htm",
+      "reason": "Related Wong article linked from an article header; absent from the Wayback inventory.",
+      "url": "http://bullseyepistol.com/wong8.htm"
     }
   ]
 }

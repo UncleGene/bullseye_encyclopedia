@@ -46,7 +46,7 @@ Current structure counts:
 - Detected sub-article groups: `2`
 - Article-specific image files: `161`
 - Shared image files: `295`
-- Page-local JavaScript files checked: `295`
+- Page-local JavaScript files checked: `294`
 
 Detected sub-article groups:
 
@@ -59,7 +59,7 @@ When the same recovered image appears in both an article folder and `shared/imag
 
 The raw-site builder recursively surfaced missing internal dependencies. Recovery passes downloaded additional assets/pages, including the `tournament.bullseyepistol.com` page and the tournament-related page/assets that were successfully archived.
 
-Current release-facing export behavior suppresses missing-resource prose from reader pages. The reproduction report records `17` suppressed internal URLs, and unresolved rewrite inventory is retained only in the machine report.
+Current release-facing export behavior suppresses missing-resource prose from reader pages. The reproduction report records `18` suppressed internal URLs, and unresolved rewrite inventory is retained only in the machine report.
 
 Permanent or historically unresolved internal URLs include:
 
@@ -118,7 +118,7 @@ Post-repair checksum audit: `0` mismatched blob references across the combined r
   - `exports/static-site/as-is/articles/technical-information/vision-topics/index.html`
   - `exports/static-site/as-is/articles/technical-information/vision-topics/bullseye-shooting-for-the-eyecare-professional/index.html`
   - `exports/static-site/as-is/articles/technical-information/vision-topics/images/wong.jpg`
-- Verified raw export has `0` broken local references across `1,102` local references:
+- Verified raw export has `0` broken local references across `1,093` local references:
 
 ```sh
 python3 tools/validate_static_site.py exports/static-site/as-is --report exports/static-site/as-is/_validation-report.json
@@ -139,4 +139,4 @@ print(len(bad))
 PY
 ```
 
-Result: `0` bad scripts across `295` checked files.
+Result: `0` bad scripts across `294` checked files.

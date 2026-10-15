@@ -26,7 +26,7 @@ GitHub Pages deployment verified on 2026-10-15 for `0b22bcd`: the historical `as
 - The `as-is` static site uses a canonical-grouped deployable layout: article pages under `articles/<canonical-section>/<article-or-subgroup>/index.html`, subarticles under `articles/<canonical-section>/<parent-article>/<sub-article>/index.html`, article-specific recovered images in `images/` beside the grouped article page, and site-wide images under `shared/images/`.
 - Current `as-is` grouping includes `10` top-level canonical sections and `2` detected sub-article groups: `technical-information/vision-topics` and `biography-and-history/army-marksmanship-unit-champion-profiles`.
 - `As-is` structured image convenience copies are hardlinked where possible; current check shows `161` of `161` same-name article/shared image pairs share the same inode.
-- `As-is` static validation now passes with `0` broken local references across `1,102` local references; `295` page-local scripts pass `node --check`.
+- `As-is` static validation now passes with `0` broken local references across `1,093` local references; `294` page-local scripts pass `node --check`.
 - A checksum repair pass restored accidentally modified hardlinked JavaScript blobs; current combined raw and image manifests audit with `0` mismatched blob references.
 - Current raw article site output is `exports/static-site/raw`.
 - Obsolete pre-rename export directories `exports/static-site/canonical` and `exports/static-site/raw-as-is` have been removed.
@@ -69,7 +69,7 @@ Deferred or routed questions:
 - Article-body/chrome patterns: first pass uses recovered `ARTICLE BEGINS/ENDS` markers and page-shell evidence; broaden only if a later normalization pass finds articles without reliable markers.
 - Ebook cover: deferred; a later pass may add a designed cover image.
 - Raw article site missing-artifact section: implemented with article backlinks and source-backed descriptions.
-- As-is output missing-resource presentation: implemented as silent suppression in reader-facing pages, with `17` internal missing URLs retained only in the report. Classification now breaks them down into `8` non-Wayback owner-file gaps, `5` unrecovered article URLs, `2` provider artifacts, `1` hosting-template artifact, and `1` decorative image.
+- As-is output missing-resource presentation: implemented as silent suppression in reader-facing pages, with `18` internal missing URLs retained only in the report. Classification now breaks them down into `8` non-Wayback owner-file gaps, `6` unrecovered article URLs, `2` provider artifacts, `1` hosting-template artifact, and `1` decorative image.
 - As-is unresolved rewrite inventory: classified; the current rebuild lists `43` pages with unresolved rewrites. The reproduction report retains individual references; the function audit records control removals and service replacements.
 - EPUB internal non-article resource handling: implemented as reader-safe suppression; `59` such links are omitted from active EPUB navigation and retained only in the export report.
 - DB import/export contract: postponed until the user explicitly requests DB work.

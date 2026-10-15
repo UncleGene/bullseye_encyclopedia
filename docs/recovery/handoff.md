@@ -172,10 +172,10 @@ Recovery is currently unavailable. If any of these files are later supplied out-
 - Raw as-is detected subgroups: `technical-information/vision-topics` and `biography-and-history/army-marksmanship-unit-champion-profiles`.
 - Raw as-is image counts: `161` article-specific image files and `295` shared image files.
 - Raw as-is duplicate-byte check: `161` of `161` same-name article/shared image pairs are hardlinks to the same inode.
-- As-is static validation: `0` broken local references across `1,102` local references
-- Raw as-is JavaScript syntax validation: `0` bad page-local scripts across `295` checked files.
+- As-is static validation: `0` broken local references across `1,093` local references
+- Raw as-is JavaScript syntax validation: `0` bad page-local scripts across `294` checked files.
 - As-is styling/fidelity correction rewrites JavaScript/CSS-generated references, preserves query strings/fragments, cleans stale output before rebuild, uses page-local `_scripts/` copies for historical script-generated chrome, skips HTML captures masquerading as JavaScript, prunes MyDomain-style provider placeholder captures from the release-facing output, and uses silent local `_missing` image placeholders plus report-only URL tracking for unrecovered internal references.
-- As-is classification after pruning: `17` suppressed internal URLs, `44` pages with unresolved rewrites, `692` external unresolved refs, and `33` unique internal unresolved URLs (`11` hosting-template artifacts, `8` owner-file candidates, `6` decorative assets, `5` unrecovered articles, `2` provider artifacts, `1` unrecovered media file).
+- As-is classification after pruning: `18` suppressed internal URLs, `43` pages with unresolved rewrites, `691` external unresolved refs, and `32` unique internal unresolved URLs (`11` hosting-template artifacts, `8` owner-file candidates, `6` decorative assets, `4` unrecovered articles, `2` provider artifacts, `1` unrecovered media file).
 - Current raw article site pages written: `150`
 - Current raw article site validation: `0` broken local references across `1,530` local references from a fresh 2026-05-29 validation run
 - Current raw article site output directory: `exports/static-site/raw`
