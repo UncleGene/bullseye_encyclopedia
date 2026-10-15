@@ -13,6 +13,11 @@ Recover and preserve `bullseyepistol.com` content after provider takedown, then 
 
 ## Skill Routing
 
+MiniMe skills are optional in this project. Use judgment: work directly,
+keep the Completion Gates below, and run the full MiniMe gate chain (doc-sync,
+scope, simplifier, reviewer, decision prompts) only when the user asks for it.
+The table below names the skill to reach for when one is wanted.
+
 | Work type | Owning skill | Gate |
 |---|---|---|
 | Requirements | `minime-requirements-manager` | Acceptance criteria must be verifiable |
