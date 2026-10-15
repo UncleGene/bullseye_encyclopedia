@@ -4,7 +4,7 @@ Date: 2026-10-15
 
 ## Current Slice
 
-PDF release QA passed on 2026-10-15: structural checks cover all `574` pages and `150` article destinations; sampled visual review found no export defect. The PDF already follows the missing-resource policy, so its bytes are unchanged. Evidence and review limits are recorded in `docs/recovery/pdf-export-report.md`. External EPUB validation also remains complete: EPUBCheck 5.4.0 passed with zero errors and warnings.
+GitHub Pages deployment is prepared: the normalized `raw` article site is at the publication root and the historical `as-is` site is under `/as-is/`. Local validation passed for the combined layout. Repository Pages activation and live deployment verification remain outstanding; see `docs/recovery/github-pages.md`. PDF QA and external EPUB validation remain complete for the current reading editions.
 
 ## Status
 
@@ -56,14 +56,14 @@ PDF release QA passed on 2026-10-15: structural checks cover all `574` pages and
 
 ## Open Questions
 
-Release-facing artifact alignment is implemented for `raw`, `as-is`, and EPUB. External EPUB validation has passed; DB work and public URL policy remain deferred.
+Release-facing artifact alignment is implemented for `raw`, `as-is`, and EPUB. External EPUB validation has passed. The GitHub Pages layout is settled; DB work, custom domains, and original-domain redirects remain deferred.
 
 Deferred or routed questions:
 
 - Historical baseline authority: deferred until conflicting snapshots affect generated output; current selected baseline/overlay set remains the working source.
 - Alternate hostnames: `www.bullseyepistol.com` is already included; any additional old subdomains, CDN hosts, or provider preview domains require owner input or a new inventory slice.
 - Non-public assets outside Wayback: route to the new `raw` site's `Missing Artifacts` section. Recovery is currently unavailable; only later out-of-band supplied files would change that.
-- Public URL policy: deferred until a public rebuild or redirect-map slice; current static outputs remain self-contained generated artifacts.
+- Public URL policy: user selected the `raw` article site at the GitHub Pages root and `as-is` under `/as-is/` on 2026-10-15. The publishing workflow validates and deploys committed exports; Pages must be enabled in repository settings. See `docs/recovery/github-pages.md`. Custom domains and original-domain redirects remain deferred.
 - Article-body/chrome patterns: first pass uses recovered `ARTICLE BEGINS/ENDS` markers and page-shell evidence; broaden only if a later normalization pass finds articles without reliable markers.
 - Ebook cover: deferred; a later pass may add a designed cover image.
 - Raw article site missing-artifact section: implemented with article backlinks and source-backed descriptions.
@@ -76,7 +76,7 @@ Deferred or routed questions:
 
 ## Next Step
 
-EPUBCheck and PDF QA are complete for the current editions. Select any further release or presentation work explicitly; DB import/export remains deferred. See `docs/recovery/ebook-export-report.md` and `docs/recovery/pdf-export-report.md` for evidence and review limits.
+Enable GitHub Pages with GitHub Actions as the publishing source, run the publishing workflow, and verify the main and historical URLs. See `docs/recovery/github-pages.md`. DB import/export remains deferred.
 
 ## Continuation / Handoff
 

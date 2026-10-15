@@ -1,0 +1,45 @@
+name: Publish encyclopedia
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Prepare website
+        run: |
+          mkdir -p "$RUNNER_TEMP/site"
+          cp -R exports/static-site/raw/. "$RUNNER_TEMP/site/"
+          cp -R exports/static-site/as-is "$RUNNER_TEMP/site/as-is"
+
+      - name: Validate published layout
+        run: |
+          python3 tools/validate_static_site.py "$RUNNER_TEMP/site" --expect-articles 150 --require-all-articles
+          python3 tools/validate_static_site.py "$RUNNER_TEMP/site/as-is"
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: ${{ runner.temp }}/site
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
