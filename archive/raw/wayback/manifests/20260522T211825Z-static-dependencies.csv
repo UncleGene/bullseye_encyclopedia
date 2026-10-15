@@ -1,0 +1,12 @@
+index,status,http_status,content_type,timestamp,original,requested_url,classification,byte_length,sha256,blob_path,storage_mode,local_path,retrieval_url,retrieved_at,reason
+1,unresolved,,,,http://bullseyepistol.com/Handicap.exe,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+2,unresolved,,,,http://bullseyepistol.com/ILMOScorecard.pdf,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+3,unresolved,,,,http://bullseyepistol.com/MidSeasonScorecard.pdf,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+4,unresolved,,,,http://bullseyepistol.com/NewShooter.pdf,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+5,unresolved,,,,http://bullseyepistol.com/POM2004.zip,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+6,unresolved,,,,http://bullseyepistol.com/SignupForm.pdf,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+7,unresolved,,,,http://bullseyepistol.com/TeamAdmin2004.zip,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+8,unresolved,,,,http://bullseyepistol.com/advertise1.php,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+9,success,200,text/html,20150525234217,http://tournament.bullseyepistol.com:80/,http://tournament.bullseyepistol.com,fallback_cdx,574,fb078ec38c1412ac8c50ea45596cb5644e8595c3d7f983a1397e60790e9b2e19,archive/raw/wayback/blobs/sha256/fb/fb078ec38c1412ac8c50ea45596cb5644e8595c3d7f983a1397e60790e9b2e19,blob_created_hardlink,archive/raw/wayback/files/20260522T211825Z/201505/static_dependency_fallback_cdx/tournament.bullseyepistol.com_80/20150525234217-index-c85dbca273030ffc.html,https://web.archive.org/web/20150525234217id_/http://tournament.bullseyepistol.com:80/,2026-05-22T21:20:03.800360+00:00,
+10,unresolved,,,,http://tournament.bullseyepistol.com/,,,,,,,,,,fallback_cdx_failed: TimeoutError('The read operation timed out')
+11,unresolved,,,,http://www.bullseyepistol.com:80/piasaapp.pdf,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx

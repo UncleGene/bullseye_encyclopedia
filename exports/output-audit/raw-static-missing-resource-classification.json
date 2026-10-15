@@ -1,0 +1,838 @@
+{
+  "missing_note_by_category": {
+    "owner-file-candidate": 8,
+    "provider-artifact": 10,
+    "site-decoration": 1,
+    "unrecovered-article": 5
+  },
+  "missing_note_count": 24,
+  "missing_notes": [
+    {
+      "category": "provider-artifact",
+      "note_path": "_missing/10-dddeccdd5cb8.html",
+      "reason": "Numeric path; consistent with a click-counter or ad-tracking artifact.",
+      "url": "http://bullseyepistol.com/10"
+    },
+    {
+      "category": "provider-artifact",
+      "note_path": "_missing/15-660eebcd71f2.html",
+      "reason": "Numeric path; consistent with a click-counter or ad-tracking artifact.",
+      "url": "http://bullseyepistol.com/15"
+    },
+    {
+      "category": "provider-artifact",
+      "note_path": "_missing/20-c318374985e8.html",
+      "reason": "Numeric path; consistent with a click-counter or ad-tracking artifact.",
+      "url": "http://bullseyepistol.com/20"
+    },
+    {
+      "category": "provider-artifact",
+      "note_path": "_missing/25-85096db8f086.html",
+      "reason": "Numeric path; consistent with a click-counter or ad-tracking artifact.",
+      "url": "http://bullseyepistol.com/25"
+    },
+    {
+      "category": "provider-artifact",
+      "note_path": "_missing/30-78eb3178ee88.html",
+      "reason": "Numeric path; consistent with a click-counter or ad-tracking artifact.",
+      "url": "http://bullseyepistol.com/30"
+    },
+    {
+      "category": "provider-artifact",
+      "note_path": "_missing/5-758b40269cfd.html",
+      "reason": "Numeric path; consistent with a click-counter or ad-tracking artifact.",
+      "url": "http://bullseyepistol.com/5"
+    },
+    {
+      "category": "provider-artifact",
+      "note_path": "_missing/60-4dfc07e1a614.html",
+      "reason": "Numeric path; consistent with a click-counter or ad-tracking artifact.",
+      "url": "http://bullseyepistol.com/60"
+    },
+    {
+      "category": "provider-artifact",
+      "note_path": "_missing/90-d2ac878e9d2a.html",
+      "reason": "Numeric path; consistent with a click-counter or ad-tracking artifact.",
+      "url": "http://bullseyepistol.com/90"
+    },
+    {
+      "category": "provider-artifact",
+      "note_path": "_missing/advertise1-78e21d87aa3a.html",
+      "reason": "Dynamic PHP page; advertising or affiliate rotation, no archived content.",
+      "url": "http://bullseyepistol.com/advertise1.php"
+    },
+    {
+      "category": "provider-artifact",
+      "note_path": "_missing/advertise3-0b18881e9430.html",
+      "reason": "Advertising/affiliate page; referenced by advertise article, no Wayback capture.",
+      "url": "http://bullseyepistol.com/advertise3.htm"
+    },
+    {
+      "category": "owner-file-candidate",
+      "note_path": "_missing/handicap-7484292b1789.html",
+      "reason": "Windows executable; league handicap scoring software linked from Il-Mo pages.",
+      "url": "http://bullseyepistol.com/Handicap.exe"
+    },
+    {
+      "category": "owner-file-candidate",
+      "note_path": "_missing/ilmoscorecard-01fe217fa642.html",
+      "reason": "Il-Mo league scorecard PDF; owner-supplied document.",
+      "url": "http://bullseyepistol.com/ILMOScorecard.pdf"
+    },
+    {
+      "category": "owner-file-candidate",
+      "note_path": "_missing/midseasonscorecard-42931eb5c518.html",
+      "reason": "Il-Mo mid-season scorecard PDF; owner-supplied document.",
+      "url": "http://bullseyepistol.com/MidSeasonScorecard.pdf"
+    },
+    {
+      "category": "owner-file-candidate",
+      "note_path": "_missing/newshooter-f3c546da02da.html",
+      "reason": "New shooter orientation PDF; owner-supplied document.",
+      "url": "http://bullseyepistol.com/NewShooter.pdf"
+    },
+    {
+      "category": "owner-file-candidate",
+      "note_path": "_missing/pom2004-a62f6cff85b9.html",
+      "reason": "2004 league data archive; owner-supplied binary.",
+      "url": "http://bullseyepistol.com/POM2004.zip"
+    },
+    {
+      "category": "owner-file-candidate",
+      "note_path": "_missing/signupform-8676ce5174d2.html",
+      "reason": "League signup form PDF; owner-supplied document.",
+      "url": "http://bullseyepistol.com/SignupForm.pdf"
+    },
+    {
+      "category": "owner-file-candidate",
+      "note_path": "_missing/teamadmin2004-128edb1ffa1e.html",
+      "reason": "2004 team administration archive; owner-supplied binary.",
+      "url": "http://bullseyepistol.com/TeamAdmin2004.zip"
+    },
+    {
+      "category": "owner-file-candidate",
+      "note_path": "_missing/piasaapp-705191d33daf.html",
+      "reason": "PIASA application PDF; owner-supplied document.",
+      "url": "http://bullseyepistol.com/piasaapp.pdf"
+    },
+    {
+      "category": "site-decoration",
+      "note_path": "_missing/fadebar3-0a91f60bdd85.html",
+      "reason": "Navigation fade-bar image; site chrome with no article content.",
+      "url": "http://bullseyepistol.com/fadebar3.jpg"
+    },
+    {
+      "category": "unrecovered-article",
+      "note_path": "_missing/chaptr10-da5a41e17b63.html",
+      "reason": "Variant URL for a chapter article; chapter10 was recovered via a different URL.",
+      "url": "http://bullseyepistol.com/chaptr10.htm"
+    },
+    {
+      "category": "unrecovered-article",
+      "note_path": "_missing/gilhebar-dc3fdfa15b80.html",
+      "reason": "Content page not captured in selected baseline/overlay; identity unclear.",
+      "url": "http://bullseyepistol.com/gilhebar.htm"
+    },
+    {
+      "category": "unrecovered-article",
+      "note_path": "_missing/help-3fb6f0f5598b.html",
+      "reason": "Site help page; not present in selected Wayback captures.",
+      "url": "http://bullseyepistol.com/help.htm"
+    },
+    {
+      "category": "unrecovered-article",
+      "note_path": "_missing/perchamp-598c5bcd9713.html",
+      "reason": "Likely a Camp Perry championship results page; not captured in selected captures.",
+      "url": "http://bullseyepistol.com/perchamp.htm"
+    },
+    {
+      "category": "unrecovered-article",
+      "note_path": "_missing/statoffice-5c600d56e16b.html",
+      "reason": "State office page; not present in selected Wayback captures.",
+      "url": "http://bullseyepistol.com/statoffice.htm"
+    }
+  ],
+  "rewrite_external_ref_count": 914,
+  "rewrite_internal_ref_count": 91,
+  "rewrite_page_count": 48,
+  "rewrite_pages": [
+    {
+      "category": "external-only",
+      "external_ref_count": 1,
+      "external_ref_sample": [
+        "http://www.clarkcustomguns.com/"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "articles/biography-and-history/james-e-clark-a-bullseye-legend/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 2,
+      "external_ref_sample": [
+        "http://www.Dillonprecision.com/",
+        "http://www.cato.org/"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "articles/general-firearms-information/the-real-causes-of-crime-not-guns/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 11,
+      "external_ref_sample": [
+        "http://compete.nra.org/documents/pdf/compete/RuleBooks/Pistol/pistol-book.pdf",
+        "http://www.bullseyeforum.net/",
+        "http://www.bullseyegear.com/bullseyepistol/home.php",
+        "http://www.champchoice.com/store/main.aspx",
+        "http://www.championshooters.com/"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "articles/introductory-information/outdoor-bullseye-pistol-shooting/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 2,
+      "external_ref_sample": [
+        "http://www.nrahq.org/compete/nm_campperry.asp",
+        "http://www.rbgc.org/"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "articles/other-recovered-articles/camp-perry-frequently-asked-questions/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 1,
+      "external_ref_sample": [
+        "http://formmailto.com/cgi-bin/odbicb.exe/formmailto/odb/sendform.odb"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "articles/other-recovered-articles/il-mo-current-season-standings/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 97,
+      "external_ref_sample": [
+        "http://20-20.8m.com/",
+        "http://browning.com/",
+        "http://i2i.org/",
+        "http://is-lan.com/challenge/",
+        "http://lenilenape.homestead.com/Master.html"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "articles/other-recovered-articles/links-to-other-sites/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 8,
+      "external_ref_sample": [
+        "http://thewhitecapsmotel.com/",
+        "http://www.cplcc.com/",
+        "http://www.facebook.com/pages/Jolly-Roger-Seafood-House-Port-Clinton-Ohio/87689094430",
+        "http://www.lake-erie.com/",
+        "http://www.monamiwinery.com/"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "articles/other-recovered-articles/lodging-dining-and-entertainment/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 9,
+      "external_ref_sample": [
+        "http://ihmsa.org/",
+        "http://www.gunfighter.com/fastdraw/",
+        "http://www.idpa.com/",
+        "http://www.ipsc.org",
+        "http://www.issf-shooting.org/"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "articles/other-recovered-articles/other-popular-disciplines/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 12,
+      "external_ref_sample": [
+        "http://www.411web.com/S/STARAMUNITION/",
+        "http://www.AlliantPowder.com/",
+        "http://www.dillonprecision.com/",
+        "http://www.hodgdon.com/",
+        "http://www.hornady.com/"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "articles/other-recovered-articles/technical-data/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 12,
+      "external_ref_sample": [
+        "http://www.nra.org/",
+        "http://www.nrahq.org/clubs/state.asp",
+        "http://www.nrahq.org/compete/RuleBooks/Pistol/pst-index.pdf",
+        "http://www.nrahq.org/compete/RuleBooks/Pistol/pst-w01.pdf",
+        "http://www.nrahq.org/compete/RuleBooks/Pistol/pst-w03.pdf"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "articles/other-recovered-articles/website-topic-index/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 1,
+      "external_ref_sample": [
+        "http://www.larrysguns.com"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "articles/technical-information/maintaining-your-hammerli-208s/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 13,
+      "external_ref_sample": [
+        "http://www.AlliantPowder.com/",
+        "http://www.alliantpowder.com/",
+        "http://www.dillonprecision.com/",
+        "http://www.hodgdon.com/",
+        "http://www.hornady.com/"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "articles/technical-information/reloading-data/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 1,
+      "external_ref_sample": [
+        "http://www.lava.net/~perrone/bullseye/"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "articles/technical-information/vision-topics/keeping-focused/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 170,
+      "external_ref_sample": [
+        "http://www.nrahq.org/compete/natpdf/cp100-05.pdf",
+        "http://www.nrahq.org/compete/natpdf/cp100-06.pdf",
+        "http://www.nrahq.org/compete/natpdf/cp100-07.pdf",
+        "http://www.nrahq.org/compete/natpdf/cp100-08.pdf",
+        "http://www.nrahq.org/compete/natpdf/cp100-09.pdf"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "articles/the-reference-room/nra-national-championship-match-bulletins/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 1,
+      "external_ref_sample": [
+        "http://www.ultradotusa.com/"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "articles/tools-of-the-trade/facts-and-figures-about-red-dot-sights/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 4,
+      "external_ref_sample": [
+        "http://jnb.com/~funggrip/",
+        "http://www.formgriffe.de/",
+        "http://www.morini.ch/",
+        "http://www.nill-grips.com/"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "articles/tools-of-the-trade/the-benefits-of-custom-anatomical-grips/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 2,
+      "external_ref_sample": [
+        "http://20-20.8m.com/",
+        "http://www.labsafety.com/"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "articles/tools-of-the-trade/the-essential-bullseye-equipment/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 48,
+      "external_ref_sample": [
+        "http://www.bullseyepistol.com:80/generalAppC/javascripts/mydomaincom/input-fields.js",
+        "http://www.bullseyepistol.com:80/generalAppC/javascripts/mydomaincom/jquery.pngFix.pack.js",
+        "http://www.bullseyepistol.com:80/generalAppC/javascripts/mydomaincom/scripts.js",
+        "http://www.bullseyepistol.com:80/generalAppC/javascripts/mydomaincom/superfish.js",
+        "http://www.bullseyepistol.com:80/generalAppC/javascripts/mydomaincom/util-functions.js"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "pages/945ecf10693ad5cae76c2d8f13e34e66/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 1,
+      "external_ref_sample": [
+        "http://www.piasaclub.com/"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "pages/pi-a/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 1,
+      "external_ref_sample": [
+        "http://www.piasaclub.com/"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "pages/pi-b/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 1,
+      "external_ref_sample": [
+        "http://www.ilmoleague.com/"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "pages/pi-e/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 2,
+      "external_ref_sample": [
+        "http://www.bullseyepistol.com:80/piasaapp.pdf",
+        "https://membership.nrahq.org/forms/signup.asp"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "pages/pi-g/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 1,
+      "external_ref_sample": [
+        "http://www.geocities.com/bullseyepistol/rapid.htm"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "pages/rapiddownload/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 1,
+      "external_ref_sample": [
+        "http://www.geocities.com/bullseyepistol/timed.htm"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "pages/timeddownload/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 12,
+      "external_ref_sample": [
+        "http://ihmsa.org/2007%20Rules%20Revised_files/2007%20Rules%20Revised.htm",
+        "http://shootata.com/pdfs/Rulebook_2007.pdf",
+        "http://www.issf-shooting.org/rules/english/2006/23_technical_2005_2nd.html",
+        "http://www.issf-shooting.org/rules/english/2006/24_rifle_2005_2nd.html",
+        "http://www.issf-shooting.org/rules/english/2006/25_pistol_2005_2nd.html"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "pages/tournament2/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 1,
+      "external_ref_sample": [
+        "https://www.paypal.com/cgi-bin/webscr"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "pages/tournament3/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 1,
+      "external_ref_sample": [
+        "http://www.bcltechnologies.com/"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "pages/tournament4/index.html"
+    },
+    {
+      "category": "external-only",
+      "external_ref_count": 5,
+      "external_ref_sample": [
+        "http://www.bullseyepistol.com:80/arpc.gif",
+        "http://www.bullseyepistol.com:80/canton.gif",
+        "http://www.bullseyepistol.com:80/dbgc.gif",
+        "http://www.bullseyepistol.com:80/delaware.gif",
+        "http://www.bullseyepistol.com:80/wlgc.gif"
+      ],
+      "internal_ref_count": 0,
+      "internal_refs": [],
+      "page": "pages/tournamenty/index.html"
+    },
+    {
+      "category": "internal-missing",
+      "external_ref_count": 0,
+      "external_ref_sample": [],
+      "internal_ref_count": 1,
+      "internal_refs": [
+        "http://bullseyepistol.com/advertise1.php"
+      ],
+      "page": "articles/other-recovered-articles/advertise-and-support-this-tremendous-resource/index.html"
+    },
+    {
+      "category": "internal-missing",
+      "external_ref_count": 0,
+      "external_ref_sample": [],
+      "internal_ref_count": 4,
+      "internal_refs": [
+        "http://bullseyepistol.com/ILMOScorecard.pdf",
+        "http://bullseyepistol.com/MidSeasonScorecard.pdf",
+        "http://bullseyepistol.com/NewShooter.pdf",
+        "http://bullseyepistol.com/SignupForm.pdf"
+      ],
+      "page": "articles/other-recovered-articles/league-forms/index.html"
+    },
+    {
+      "category": "internal-missing",
+      "external_ref_count": 0,
+      "external_ref_sample": [],
+      "internal_ref_count": 3,
+      "internal_refs": [
+        "http://bullseyepistol.com/Handicap.exe",
+        "http://bullseyepistol.com/POM2004.zip",
+        "http://bullseyepistol.com/TeamAdmin2004.zip"
+      ],
+      "page": "articles/other-recovered-articles/scorekeeping-software/index.html"
+    },
+    {
+      "category": "internal-missing",
+      "external_ref_count": 0,
+      "external_ref_sample": [],
+      "internal_ref_count": 1,
+      "internal_refs": [
+        "http://bullseyepistol.com/advertise3.htm"
+      ],
+      "page": "shared/scripts/header1.js"
+    },
+    {
+      "category": "internal-missing",
+      "external_ref_count": 0,
+      "external_ref_sample": [],
+      "internal_ref_count": 1,
+      "internal_refs": [
+        "http://bullseyepistol.com/fadebar3.jpg"
+      ],
+      "page": "shared/scripts/header2.js"
+    },
+    {
+      "category": "internal-missing",
+      "external_ref_count": 0,
+      "external_ref_sample": [],
+      "internal_ref_count": 4,
+      "internal_refs": [
+        "http://bullseyepistol.com/chaptr10.htm",
+        "http://bullseyepistol.com/gilhebar.htm",
+        "http://bullseyepistol.com/perchamp.htm",
+        "http://bullseyepistol.com/statoffice.htm"
+      ],
+      "page": "shared/scripts/header4.js"
+    },
+    {
+      "category": "internal-missing",
+      "external_ref_count": 0,
+      "external_ref_sample": [],
+      "internal_ref_count": 1,
+      "internal_refs": [
+        "http://www.bullseyepistol.com/fadebar3.jpg"
+      ],
+      "page": "shared/scripts/header5.js"
+    },
+    {
+      "category": "mixed",
+      "external_ref_count": 29,
+      "external_ref_sample": [
+        "http://bullseyepistol.forumotion.com/",
+        "http://bullseyepistol.us4.list-manage.com/subscribe/post?u=34e8db1d62162007952ceb387&amp;id=ba9e43b1e1",
+        "http://compete.nra.org/documents/pdf/compete/RuleBooks/Pistol/pistol-book.pdf",
+        "http://connect.facebook.net/en_US/all.js#xfbml=1",
+        "http://counter.digits.com/wc/-d/4/bullseyepistol"
+      ],
+      "internal_ref_count": 8,
+      "internal_refs": [
+        "http://www.bullseyepistol.com/10",
+        "http://www.bullseyepistol.com/15",
+        "http://www.bullseyepistol.com/20",
+        "http://www.bullseyepistol.com/25",
+        "http://www.bullseyepistol.com/30",
+        "http://www.bullseyepistol.com/5",
+        "http://www.bullseyepistol.com/60",
+        "http://www.bullseyepistol.com/90"
+      ],
+      "page": "index.html"
+    },
+    {
+      "category": "mixed",
+      "external_ref_count": 42,
+      "external_ref_sample": [
+        "http://www.mydomain.com",
+        "http://www.mydomain.com/affiliate/",
+        "http://www.mydomain.com/affiliate/gettingstarted.bml",
+        "http://www.mydomain.com/controlpanel/",
+        "http://www.mydomain.com/controlpanel/pastduesplash.bml"
+      ],
+      "internal_ref_count": 6,
+      "internal_refs": [
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/input-fields.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/jquery.pngFix.pack.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/scripts.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/superfish.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/util-functions.js",
+        "http://www.bullseyepistol.com/generalAppC/scriptcat/945ecf10693ad5cae76c2d8f13e34e66.1"
+      ],
+      "page": "pages/input-fields/index.html"
+    },
+    {
+      "category": "mixed",
+      "external_ref_count": 42,
+      "external_ref_sample": [
+        "http://www.mydomain.com",
+        "http://www.mydomain.com/affiliate/",
+        "http://www.mydomain.com/affiliate/gettingstarted.bml",
+        "http://www.mydomain.com/controlpanel/",
+        "http://www.mydomain.com/controlpanel/pastduesplash.bml"
+      ],
+      "internal_ref_count": 6,
+      "internal_refs": [
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/input-fields.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/jquery.pngFix.pack.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/scripts.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/superfish.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/util-functions.js",
+        "http://www.bullseyepistol.com/generalAppC/scriptcat/945ecf10693ad5cae76c2d8f13e34e66.1"
+      ],
+      "page": "pages/jquery-pngfix-pack/index.html"
+    },
+    {
+      "category": "mixed",
+      "external_ref_count": 42,
+      "external_ref_sample": [
+        "http://www.mydomain.com",
+        "http://www.mydomain.com/affiliate/",
+        "http://www.mydomain.com/affiliate/gettingstarted.bml",
+        "http://www.mydomain.com/controlpanel/",
+        "http://www.mydomain.com/controlpanel/pastduesplash.bml"
+      ],
+      "internal_ref_count": 6,
+      "internal_refs": [
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/input-fields.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/jquery.pngFix.pack.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/scripts.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/superfish.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/util-functions.js",
+        "http://www.bullseyepistol.com/generalAppC/scriptcat/945ecf10693ad5cae76c2d8f13e34e66.1"
+      ],
+      "page": "pages/screen7/index.html"
+    },
+    {
+      "category": "mixed",
+      "external_ref_count": 42,
+      "external_ref_sample": [
+        "http://www.mydomain.com",
+        "http://www.mydomain.com/affiliate/",
+        "http://www.mydomain.com/affiliate/gettingstarted.bml",
+        "http://www.mydomain.com/controlpanel/",
+        "http://www.mydomain.com/controlpanel/pastduesplash.bml"
+      ],
+      "internal_ref_count": 6,
+      "internal_refs": [
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/input-fields.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/jquery.pngFix.pack.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/scripts.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/superfish.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/util-functions.js",
+        "http://www.bullseyepistol.com/generalAppC/scriptcat/945ecf10693ad5cae76c2d8f13e34e66.1"
+      ],
+      "page": "pages/scripts/index.html"
+    },
+    {
+      "category": "mixed",
+      "external_ref_count": 42,
+      "external_ref_sample": [
+        "http://www.mydomain.com",
+        "http://www.mydomain.com/affiliate/",
+        "http://www.mydomain.com/affiliate/gettingstarted.bml",
+        "http://www.mydomain.com/controlpanel/",
+        "http://www.mydomain.com/controlpanel/pastduesplash.bml"
+      ],
+      "internal_ref_count": 6,
+      "internal_refs": [
+        "http://bullseyepistol.com/generalAppC/javascripts/mydomaincom/input-fields.js",
+        "http://bullseyepistol.com/generalAppC/javascripts/mydomaincom/jquery.pngFix.pack.js",
+        "http://bullseyepistol.com/generalAppC/javascripts/mydomaincom/scripts.js",
+        "http://bullseyepistol.com/generalAppC/javascripts/mydomaincom/superfish.js",
+        "http://bullseyepistol.com/generalAppC/javascripts/mydomaincom/util-functions.js",
+        "http://bullseyepistol.com/generalAppC/scriptcat/945ecf10693ad5cae76c2d8f13e34e66.1"
+      ],
+      "page": "pages/superfish/index.html"
+    },
+    {
+      "category": "mixed",
+      "external_ref_count": 2,
+      "external_ref_sample": [
+        "http://groups.yahoo.com/group/tournament-users",
+        "https://www.paypal.com/en_US/i/logo/PayPal_mark_37x23.gif"
+      ],
+      "internal_ref_count": 2,
+      "internal_refs": [
+        "http://www.bullseyepistol.com/bubba.wav",
+        "http://www.bullseyepistol.com/help.htm"
+      ],
+      "page": "pages/tournament0/index.html"
+    },
+    {
+      "category": "mixed",
+      "external_ref_count": 42,
+      "external_ref_sample": [
+        "http://www.mydomain.com",
+        "http://www.mydomain.com/affiliate/",
+        "http://www.mydomain.com/affiliate/gettingstarted.bml",
+        "http://www.mydomain.com/controlpanel/",
+        "http://www.mydomain.com/controlpanel/pastduesplash.bml"
+      ],
+      "internal_ref_count": 6,
+      "internal_refs": [
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/input-fields.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/jquery.pngFix.pack.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/scripts.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/superfish.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/util-functions.js",
+        "http://www.bullseyepistol.com/generalAppC/scriptcat/945ecf10693ad5cae76c2d8f13e34e66.1"
+      ],
+      "page": "pages/tournamentz/index.html"
+    },
+    {
+      "category": "mixed",
+      "external_ref_count": 42,
+      "external_ref_sample": [
+        "http://www.mydomain.com",
+        "http://www.mydomain.com/affiliate/",
+        "http://www.mydomain.com/affiliate/gettingstarted.bml",
+        "http://www.mydomain.com/controlpanel/",
+        "http://www.mydomain.com/controlpanel/pastduesplash.bml"
+      ],
+      "internal_ref_count": 6,
+      "internal_refs": [
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/input-fields.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/jquery.pngFix.pack.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/scripts.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/superfish.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/util-functions.js",
+        "http://www.bullseyepistol.com/generalAppC/scriptcat/945ecf10693ad5cae76c2d8f13e34e66.1"
+      ],
+      "page": "pages/tyenter/index.html"
+    },
+    {
+      "category": "mixed",
+      "external_ref_count": 42,
+      "external_ref_sample": [
+        "http://www.mydomain.com",
+        "http://www.mydomain.com/affiliate/",
+        "http://www.mydomain.com/affiliate/gettingstarted.bml",
+        "http://www.mydomain.com/controlpanel/",
+        "http://www.mydomain.com/controlpanel/pastduesplash.bml"
+      ],
+      "internal_ref_count": 6,
+      "internal_refs": [
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/input-fields.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/jquery.pngFix.pack.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/scripts.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/superfish.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/util-functions.js",
+        "http://www.bullseyepistol.com/generalAppC/scriptcat/945ecf10693ad5cae76c2d8f13e34e66.1"
+      ],
+      "page": "pages/tyhelp/index.html"
+    },
+    {
+      "category": "mixed",
+      "external_ref_count": 42,
+      "external_ref_sample": [
+        "http://www.mydomain.com",
+        "http://www.mydomain.com/affiliate/",
+        "http://www.mydomain.com/affiliate/gettingstarted.bml",
+        "http://www.mydomain.com/controlpanel/",
+        "http://www.mydomain.com/controlpanel/pastduesplash.bml"
+      ],
+      "internal_ref_count": 6,
+      "internal_refs": [
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/input-fields.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/jquery.pngFix.pack.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/scripts.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/superfish.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/util-functions.js",
+        "http://www.bullseyepistol.com/generalAppC/scriptcat/945ecf10693ad5cae76c2d8f13e34e66.1"
+      ],
+      "page": "pages/tylewis/index.html"
+    },
+    {
+      "category": "mixed",
+      "external_ref_count": 42,
+      "external_ref_sample": [
+        "http://www.mydomain.com",
+        "http://www.mydomain.com/affiliate/",
+        "http://www.mydomain.com/affiliate/gettingstarted.bml",
+        "http://www.mydomain.com/controlpanel/",
+        "http://www.mydomain.com/controlpanel/pastduesplash.bml"
+      ],
+      "internal_ref_count": 6,
+      "internal_refs": [
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/input-fields.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/jquery.pngFix.pack.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/scripts.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/superfish.js",
+        "http://www.bullseyepistol.com/generalAppC/javascripts/mydomaincom/util-functions.js",
+        "http://www.bullseyepistol.com/generalAppC/scriptcat/945ecf10693ad5cae76c2d8f13e34e66.1"
+      ],
+      "page": "pages/typix/index.html"
+    },
+    {
+      "category": "mixed",
+      "external_ref_count": 42,
+      "external_ref_sample": [
+        "http://www.mydomain.com",
+        "http://www.mydomain.com/affiliate/",
+        "http://www.mydomain.com/affiliate/gettingstarted.bml",
+        "http://www.mydomain.com/controlpanel/",
+        "http://www.mydomain.com/controlpanel/pastduesplash.bml"
+      ],
+      "internal_ref_count": 6,
+      "internal_refs": [
+        "http://bullseyepistol.com/generalAppC/javascripts/mydomaincom/input-fields.js",
+        "http://bullseyepistol.com/generalAppC/javascripts/mydomaincom/jquery.pngFix.pack.js",
+        "http://bullseyepistol.com/generalAppC/javascripts/mydomaincom/scripts.js",
+        "http://bullseyepistol.com/generalAppC/javascripts/mydomaincom/superfish.js",
+        "http://bullseyepistol.com/generalAppC/javascripts/mydomaincom/util-functions.js",
+        "http://bullseyepistol.com/generalAppC/scriptcat/945ecf10693ad5cae76c2d8f13e34e66.1"
+      ],
+      "page": "pages/util-functions/index.html"
+    }
+  ],
+  "rewrite_total_refs": 1005
+}

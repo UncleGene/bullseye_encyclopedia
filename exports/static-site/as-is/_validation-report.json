@@ -1,0 +1,24 @@
+{
+  "article_page_count": 0,
+  "broken_local_references": [],
+  "checks": [
+    {
+      "name": "site_root_exists",
+      "passed": true
+    },
+    {
+      "name": "index_exists",
+      "passed": true
+    },
+    {
+      "broken_count": 0,
+      "name": "no_broken_local_refs",
+      "passed": true
+    }
+  ],
+  "external_reference_count": 880,
+  "html_file_count": 183,
+  "local_reference_count": 1102,
+  "passed": true,
+  "site_root": "/Users/unge/Projects/bullseye/exports/static-site/as-is"
+}

@@ -1,0 +1,141 @@
+{
+  "article_records_scanned": 471,
+  "backup_manifest": "archive/raw/wayback/manifests/20260522T-combined-backup.json",
+  "image_jobs_selected": 1,
+  "image_refs_scanned": 1044,
+  "inventory_manifest": "archive/raw/wayback/manifests/20260522T135739Z-inventory.json",
+  "records": [
+    {
+      "article_original": "http://bullseyepistol.com/secret.htm",
+      "article_timestamp": "20100918001931",
+      "blob_path": "archive/raw/wayback/blobs/sha256/15/1537cfc97ffde88a0324f6ee45d9bff0b241df621d189fc07e494d862536a019",
+      "byte_length": 7182,
+      "content_type": "image/jpeg",
+      "http_status": 200,
+      "image_ref": "mayleigh.jpg",
+      "index": 1,
+      "local_path": "archive/raw/wayback/files/20260522T195719Z/201009/referenced_image/bullseyepistol.com/20100918002216-mayleigh-2a597ae3b14da218.jpg",
+      "original": "http://bullseyepistol.com/mayleigh.jpg",
+      "resolved_url": "http://bullseyepistol.com/mayleigh.jpg",
+      "retrieval_url": "https://web.archive.org/web/20100918002216id_/http://bullseyepistol.com/mayleigh.jpg",
+      "retrieved_at": "2026-05-22T19:57:20.649828+00:00",
+      "run_id": "20260522T195719Z",
+      "sha256": "1537cfc97ffde88a0324f6ee45d9bff0b241df621d189fc07e494d862536a019",
+      "source_digest": "UI64AUNJKYS6LSI7MXMKL6UQILGZOUVX",
+      "source_length": "7417",
+      "source_mimetype": "image/jpeg",
+      "status": "success",
+      "storage_mode": "blob_reused_hardlink",
+      "timestamp": "20100918002216"
+    },
+    {
+      "article_original": "http://bullseyepistol.com/",
+      "article_timestamp": "20100917234744",
+      "image_ref": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "reason": "no_matching_capture_in_inventory",
+      "resolved_url": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "status": "unresolved"
+    },
+    {
+      "article_original": "http://bullseyepistol.com/index.htm",
+      "article_timestamp": "20100918025538",
+      "image_ref": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "reason": "no_matching_capture_in_inventory",
+      "resolved_url": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "status": "unresolved"
+    },
+    {
+      "article_original": "http://www.bullseyepistol.com:80/index.htm",
+      "article_timestamp": "20100922093318",
+      "image_ref": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "reason": "no_matching_capture_in_inventory",
+      "resolved_url": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "status": "unresolved"
+    },
+    {
+      "article_original": "http://bullseyepistol.com:80/",
+      "article_timestamp": "20150222013253",
+      "image_ref": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "reason": "no_matching_capture_in_inventory",
+      "resolved_url": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "status": "unresolved"
+    },
+    {
+      "article_original": "http://www.bullseyepistol.com/",
+      "article_timestamp": "20230316123835",
+      "image_ref": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "reason": "no_matching_capture_in_inventory",
+      "resolved_url": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "status": "unresolved"
+    },
+    {
+      "article_original": "https://www.bullseyepistol.com/",
+      "article_timestamp": "20230326020149",
+      "image_ref": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "reason": "no_matching_capture_in_inventory",
+      "resolved_url": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "status": "unresolved"
+    },
+    {
+      "article_original": "http://bullseyepistol.com/",
+      "article_timestamp": "20230329142530",
+      "image_ref": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "reason": "no_matching_capture_in_inventory",
+      "resolved_url": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "status": "unresolved"
+    },
+    {
+      "article_original": "https://www.bullseyepistol.com/",
+      "article_timestamp": "20250102153655",
+      "image_ref": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "reason": "no_matching_capture_in_inventory",
+      "resolved_url": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "status": "unresolved"
+    },
+    {
+      "article_original": "http://www.bullseyepistol.com/",
+      "article_timestamp": "20250127184447",
+      "image_ref": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "reason": "no_matching_capture_in_inventory",
+      "resolved_url": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "status": "unresolved"
+    },
+    {
+      "article_original": "http://www.bullseyepistol.com/index.htm",
+      "article_timestamp": "20250130154047",
+      "image_ref": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "reason": "no_matching_capture_in_inventory",
+      "resolved_url": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "status": "unresolved"
+    },
+    {
+      "article_original": "https://www.bullseyepistol.com/",
+      "article_timestamp": "20250816022233",
+      "image_ref": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "reason": "no_matching_capture_in_inventory",
+      "resolved_url": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "status": "unresolved"
+    },
+    {
+      "article_original": "http://bullseyepistol.com/",
+      "article_timestamp": "20250816071345",
+      "image_ref": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "reason": "no_matching_capture_in_inventory",
+      "resolved_url": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "status": "unresolved"
+    },
+    {
+      "article_original": "http://www.bullseyepistol.com/",
+      "article_timestamp": "20250818003737",
+      "image_ref": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "reason": "no_matching_capture_in_inventory",
+      "resolved_url": "http://counter.digits.com/wc/-d/4/bullseyepistol",
+      "status": "unresolved"
+    }
+  ],
+  "run_id": "20260522T195719Z",
+  "status_counts": {
+    "success": 1,
+    "unresolved": 13
+  }
+}

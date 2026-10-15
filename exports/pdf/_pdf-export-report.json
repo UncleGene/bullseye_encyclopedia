@@ -1,0 +1,1501 @@
+{
+  "chapter_groups": [
+    {
+      "items": [
+        {
+          "article_id": "getinto",
+          "label": "Get Into Bullseye Pistol Shooting by Sherwood Veith"
+        },
+        {
+          "article_id": "bullseye",
+          "label": "American Rifleman's Bullseye Basics by Charles Petty"
+        },
+        {
+          "article_id": "comp",
+          "label": "NRA's Introductory Information on the Sport"
+        },
+        {
+          "article_id": "frankhig",
+          "label": "Tips for Bullseye Shooting by Frank Higginson"
+        },
+        {
+          "article_id": "oursport",
+          "label": "The Cause for Competition by Jake Shevlin"
+        },
+        {
+          "article_id": "nratips",
+          "label": "NRA's Tips on Being a Good Competitor"
+        },
+        {
+          "article_id": "secret",
+          "label": "A Secret to Shooting High Scores by Jake Shevlin"
+        },
+        {
+          "article_id": "etiquete",
+          "label": "Proper Etiquette for Competitors by Ron Porter"
+        },
+        {
+          "article_id": "mikelav1",
+          "label": "Bullseye Pistol Primer by Mike LaVoie"
+        },
+        {
+          "article_id": "mikelav2",
+          "label": "About Mike LaVoie",
+          "parent_id": "mikelav1"
+        },
+        {
+          "article_id": "savino2",
+          "label": "Outdoor Bullseye Pistol Shooting by Frank Savino"
+        },
+        {
+          "article_id": "savino",
+          "label": "Outdoor Bullseye Pistol Shooting (Earlier Version)",
+          "parent_id": "savino2"
+        }
+      ],
+      "title": "Introductory Information"
+    },
+    {
+      "items": [
+        {
+          "article_id": "equipmnt",
+          "label": "The Essential Bullseye Equipment"
+        },
+        {
+          "article_id": "pafford",
+          "label": "Don't Compromise on Equipment by Randy Pafford"
+        },
+        {
+          "article_id": "cstomgun",
+          "label": "The Custom-Built Bullseye Gun by Larry Leutenegger"
+        },
+        {
+          "article_id": "malfunction",
+          "label": "Troubleshooting and Preventing Malfunctions"
+        },
+        {
+          "article_id": "dotsight",
+          "label": "Facts and Figures About Red Dot Sights"
+        },
+        {
+          "article_id": "goodgrip",
+          "label": "The Benefits of Custom Anatomical Grips"
+        }
+      ],
+      "title": "Tools of the Trade"
+    },
+    {
+      "items": [
+        {
+          "article_id": "amucover",
+          "label": "Army Marksmanship Training Guide"
+        },
+        {
+          "article_id": "chapterf",
+          "label": "Foreword to the Training Guide",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter0",
+          "label": "Elements of Pistol Shooting",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter1",
+          "label": "Attaining a Minimum Arc of Movement",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter2",
+          "label": "Sight Alignment",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter3",
+          "label": "Trigger Control",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter4",
+          "label": "Establishing a System",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter5",
+          "label": "Technique of Slow Fire",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter6",
+          "label": "Technique of Sustained Fire",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter7",
+          "label": "Mental Discipline",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter8",
+          "label": "Physical Conditioning",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter9",
+          "label": "Diet and Health of the Pistol Shooter",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter10",
+          "label": "Alcohol, Coffee, Tobacco and Drugs",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "annex2",
+          "label": "Optical Properties of the Eye",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "glossary",
+          "label": "Glossary of Terms",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "zins",
+          "label": "A Fundamentals Clinic by Brian Zins"
+        },
+        {
+          "article_id": "zins1",
+          "label": "Brian Zins on Trigger Control",
+          "parent_id": "zins"
+        },
+        {
+          "article_id": "steinbrecher",
+          "label": "Focus on the Fundamentals by Ron Steinbrecher"
+        },
+        {
+          "article_id": "fulford",
+          "label": "Bullseye Pistol Basics by Allen Fulford"
+        },
+        {
+          "article_id": "billblnk",
+          "label": "Three Lessons by Bill Blankenship"
+        },
+        {
+          "article_id": "armymark",
+          "label": "Application of the Fundamentals by the USAMU"
+        },
+        {
+          "article_id": "zoyola",
+          "label": "Goal Setting and Training by Mario Lozoya"
+        },
+        {
+          "article_id": "zinsdot",
+          "label": "Method of Aiming the Red Dot Sight by Brian Zins"
+        },
+        {
+          "article_id": "henderson",
+          "label": "Advanced Beginner Q&A by Jim Henderson"
+        },
+        {
+          "article_id": "stamina",
+          "label": "Strength and Stamina of the Pistol Shooter"
+        },
+        {
+          "article_id": "training",
+          "label": "Error Analysis and Correction by the USAMU"
+        },
+        {
+          "article_id": "joyner",
+          "label": "Fundamentals of Pistol Marksmanship by Bill Joyner"
+        },
+        {
+          "article_id": "rapdfire",
+          "label": "Mastering the Rapid Fire Stage by David Cartes"
+        },
+        {
+          "article_id": "champion",
+          "label": "The Attributes of a Champion Shooter by the USAMU"
+        },
+        {
+          "article_id": "gregderr",
+          "label": "The True Fundamentals by Greg Derr"
+        }
+      ],
+      "title": "Perfecting Technique"
+    },
+    {
+      "items": [
+        {
+          "article_id": "joewhite",
+          "label": "Mental Aspects of Match Shooting by Joe White"
+        },
+        {
+          "article_id": "issfguide",
+          "label": "ISSF Guide to Sport Psychology in Competitive Shooting"
+        },
+        {
+          "article_id": "d-nygord",
+          "label": "The Psychology of Routine by Don Nygord"
+        },
+        {
+          "article_id": "musician",
+          "label": "The Art of Shooting Under Pressure by Dr. Lundeberg"
+        },
+        {
+          "article_id": "focus",
+          "label": "Staying Focused Despite Match Pressure"
+        },
+        {
+          "article_id": "salyer1",
+          "label": "Achieving the 'Zone' in Shooting by Dave Salyer"
+        },
+        {
+          "article_id": "sleep",
+          "label": "Sleeping Well Before a Big Match by Dr. E. Somer"
+        }
+      ],
+      "title": "Shooting Psychology"
+    },
+    {
+      "items": [
+        {
+          "article_id": "zeninfo",
+          "label": "Introduction to \"Zen in Shooting\""
+        },
+        {
+          "article_id": "spirit",
+          "label": "What is Zen? Shooting Meets Everyday Life"
+        },
+        {
+          "article_id": "polmind",
+          "label": "Beginning Zen in the Art of Shooting"
+        },
+        {
+          "article_id": "zelement",
+          "label": "Zen Elements of True Shooting"
+        },
+        {
+          "article_id": "issha",
+          "label": "\"Issha Zetsumei\" - Core Philosophy of Shooting"
+        },
+        {
+          "article_id": "zenpract",
+          "label": "Zen Practice, Action and Life in Shooting"
+        },
+        {
+          "article_id": "zenhist",
+          "label": "A Brief History of Zen: Origins and Evolution"
+        },
+        {
+          "article_id": "zenread",
+          "label": "Recommended Additional Reading on Zen"
+        }
+      ],
+      "title": "Zen in the Art of Shooting"
+    },
+    {
+      "items": [
+        {
+          "article_id": "natbulls",
+          "label": "NRA National Championship Match Bulletins"
+        },
+        {
+          "article_id": "rangecmd",
+          "label": "Studio-Recorded Audio Files of Range Commands"
+        },
+        {
+          "article_id": "matchdir",
+          "label": "Software Tools for Match Directors"
+        }
+      ],
+      "title": "The Reference Room"
+    },
+    {
+      "items": [
+        {
+          "article_id": "clark",
+          "label": "James E. Clark - A Bullseye Legend"
+        },
+        {
+          "article_id": "askins",
+          "label": "The Legendary Pistol of Charles Askins"
+        },
+        {
+          "article_id": "cj",
+          "label": "Chris Johnson: Making Master in One Year"
+        },
+        {
+          "article_id": "amuprfil",
+          "label": "Army Marksmanship Unit Champion Profiles"
+        },
+        {
+          "article_id": "profile1",
+          "label": "Foreword",
+          "parent_id": "amuprfil"
+        },
+        {
+          "article_id": "profile2",
+          "label": "Frederick J. Kiefer, International Coordinator USAMU",
+          "parent_id": "amuprfil"
+        },
+        {
+          "article_id": "profile3",
+          "label": "Oscar K. Weinmeister, CONUS Coordinator USAMU",
+          "parent_id": "amuprfil"
+        },
+        {
+          "article_id": "profile4",
+          "label": "SFC Bonnie D. Harmon, USAMU, 1972 National Champion",
+          "parent_id": "amuprfil"
+        },
+        {
+          "article_id": "profile5",
+          "label": "SFC Harland V. Rennolds, USAMU, Top Competitor",
+          "parent_id": "amuprfil"
+        },
+        {
+          "article_id": "profile6",
+          "label": "CPT Robert L. Merritt, USAMU, OIC Pistol Division",
+          "parent_id": "amuprfil"
+        },
+        {
+          "article_id": "profile7",
+          "label": "MSG Aubrey E. Smith, USAMU, NCOIC Pistol Division",
+          "parent_id": "amuprfil"
+        }
+      ],
+      "title": "Biography and History"
+    },
+    {
+      "items": [
+        {
+          "article_id": "wong",
+          "label": "Vision Topics for Pistol Shooters by Dr. Norman Wong"
+        },
+        {
+          "article_id": "wong1",
+          "label": "Bullseye Shooting for the Eyecare Professional",
+          "parent_id": "wong"
+        },
+        {
+          "article_id": "wong2",
+          "label": "ABBE Values of Shooting Glasses",
+          "parent_id": "wong"
+        },
+        {
+          "article_id": "wong3",
+          "label": "Eyeglass Prescription Innaccuracies",
+          "parent_id": "wong"
+        },
+        {
+          "article_id": "wong4",
+          "label": "The Eye Exam at 20 Feet",
+          "parent_id": "wong"
+        },
+        {
+          "article_id": "wong5",
+          "label": "Red Dot Focusing Position",
+          "parent_id": "wong"
+        },
+        {
+          "article_id": "wong6",
+          "label": "Using Obsolete RX Glasses for Shooting",
+          "parent_id": "wong"
+        },
+        {
+          "article_id": "wong7",
+          "label": "Keeping Focused",
+          "parent_id": "wong"
+        },
+        {
+          "article_id": "wongbio",
+          "label": "About Dr. Norman Wong",
+          "parent_id": "wong"
+        },
+        {
+          "article_id": "reloads",
+          "label": "Reloading Data for Pistol Competition"
+        },
+        {
+          "article_id": "22care",
+          "label": "Maintaining Your Hammerli 208s by Larry Carter"
+        },
+        {
+          "article_id": "oiling",
+          "label": "M-1911 Pistol Lubrication by Ed Masaki"
+        },
+        {
+          "article_id": "dcm",
+          "label": "Restrictions for a CMP (EIC) \"Service Pistol\""
+        },
+        {
+          "article_id": "salyer5",
+          "label": "Solutions for Malfunctions by Dave Salyer"
+        }
+      ],
+      "title": "Technical Information"
+    },
+    {
+      "items": [
+        {
+          "article_id": "safety",
+          "label": "Know All the Rules of Gun Safety"
+        },
+        {
+          "article_id": "experts",
+          "label": "Quotes from Scholars of Gun Control"
+        },
+        {
+          "article_id": "singlepr",
+          "label": "The Real Causes of Crime, Not Guns by David Kopel"
+        },
+        {
+          "article_id": "polsby",
+          "label": "The False Promise of Gun Control by Daniel Polsby"
+        }
+      ],
+      "title": "General Firearms Information"
+    },
+    {
+      "generated": true,
+      "items": [
+        {
+          "article_id": "rulebook",
+          "label": "Conventional Pistol Rules"
+        },
+        {
+          "article_id": "rulebook1",
+          "label": "1. NRA Competition"
+        },
+        {
+          "article_id": "rulebook2",
+          "label": "2. Eligibility of Competitors"
+        },
+        {
+          "article_id": "rulebook3",
+          "label": "3. Equipment and Ammunition"
+        },
+        {
+          "article_id": "rulebook4",
+          "label": "4. Targets"
+        },
+        {
+          "article_id": "rulebook5",
+          "label": "5. Positions"
+        },
+        {
+          "article_id": "rulebook6",
+          "label": "6. Range Standards"
+        },
+        {
+          "article_id": "rulebook7",
+          "label": "7. Courses of Fire"
+        },
+        {
+          "article_id": "rulebook8",
+          "label": "8. Time Limits"
+        },
+        {
+          "article_id": "rulebook9",
+          "label": "9. Tournament Conditions"
+        },
+        {
+          "article_id": "rulebook10",
+          "label": "10. Range Commands and Operations"
+        },
+        {
+          "article_id": "rulebook14",
+          "label": "14. Scoring and Marking"
+        },
+        {
+          "article_id": "rulebook15",
+          "label": "15. Decision of Ties"
+        },
+        {
+          "article_id": "rulebook16",
+          "label": "16. Challenges and Protests"
+        },
+        {
+          "article_id": "rulebook17",
+          "label": "17. National Records"
+        },
+        {
+          "article_id": "rulebook18",
+          "label": "18. Competitor's Responsibilities"
+        },
+        {
+          "article_id": "rulebook19",
+          "label": "19. National Pistol Classification"
+        }
+      ],
+      "title": "NRA Conventional Pistol Rules"
+    },
+    {
+      "generated": true,
+      "items": [
+        {
+          "article_id": "ilmo",
+          "label": "Il-Mo Indoor Pistol League"
+        },
+        {
+          "article_id": "imadmin",
+          "label": "Il-Mo Executive Officers"
+        },
+        {
+          "article_id": "imforms",
+          "label": "League Forms"
+        },
+        {
+          "article_id": "imhist",
+          "label": "Il-Mo History"
+        },
+        {
+          "article_id": "imnews",
+          "label": "Il-Mo News"
+        },
+        {
+          "article_id": "imprev",
+          "label": "Il-Mo Previous Season Standings"
+        },
+        {
+          "article_id": "imrecord",
+          "label": "Il-Mo Records"
+        },
+        {
+          "article_id": "imsoft",
+          "label": "Scorekeeping Software"
+        },
+        {
+          "article_id": "imstand",
+          "label": "Il-Mo Current Season Standings"
+        },
+        {
+          "article_id": "imteams",
+          "label": "Il-Mo Current Teams"
+        }
+      ],
+      "title": "Il-Mo League"
+    },
+    {
+      "generated": true,
+      "items": [
+        {
+          "article_id": "perenter",
+          "label": "How to Enter the National Matches"
+        },
+        {
+          "article_id": "perhist",
+          "label": "A History of the National Matches"
+        },
+        {
+          "article_id": "perinfo",
+          "label": "Lodging, Dining and Entertainment"
+        },
+        {
+          "article_id": "permem",
+          "label": "Memories of Camp Perry"
+        },
+        {
+          "article_id": "perryfaq",
+          "label": "Camp Perry Frequently Asked Questions"
+        },
+        {
+          "article_id": "perrysrv",
+          "label": "Camp Perry Survival Guide"
+        },
+        {
+          "article_id": "pertriv",
+          "label": "Camp Perry Trivia"
+        }
+      ],
+      "title": "Camp Perry / National Matches"
+    },
+    {
+      "generated": true,
+      "items": [
+        {
+          "article_id": "ron1",
+          "label": "Fundamentals Series: Stance"
+        },
+        {
+          "article_id": "ron2",
+          "label": "Fundamentals Series: Grip"
+        },
+        {
+          "article_id": "ron3",
+          "label": "Fundamentals Series: Breath Control"
+        },
+        {
+          "article_id": "ron4",
+          "label": "Fundamentals Series: Aiming & Sight Alignment"
+        },
+        {
+          "article_id": "ron5",
+          "label": "Fundamentals Series: Trigger Control"
+        },
+        {
+          "article_id": "ron6",
+          "label": "Fundamentals Series: Follow-Through"
+        },
+        {
+          "article_id": "ron7",
+          "label": "Fundamentals Series: Red Dot Scopes"
+        },
+        {
+          "article_id": "ronbio",
+          "label": "About Ron Steinbrecher"
+        }
+      ],
+      "title": "Ron Porter Fundamentals"
+    },
+    {
+      "generated": true,
+      "items": [
+        {
+          "article_id": "salyer2",
+          "label": "An Explanation of Area Aiming"
+        },
+        {
+          "article_id": "salyer3",
+          "label": "Trigger Control and Aiming Area"
+        },
+        {
+          "article_id": "salyer4",
+          "label": "Master Sustained Fire with Effective Practice"
+        },
+        {
+          "article_id": "salyer6",
+          "label": "About Dave Salyer"
+        }
+      ],
+      "title": "Dave Salyer Articles"
+    },
+    {
+      "generated": true,
+      "items": [
+        {
+          "article_id": "advertise",
+          "label": "Advertise and Support this Tremendous Resource"
+        },
+        {
+          "article_id": "alphadex",
+          "label": "Website Topic Index"
+        },
+        {
+          "article_id": "legal",
+          "label": "Terms and Conditions"
+        },
+        {
+          "article_id": "links",
+          "label": "Links to Other Sites"
+        },
+        {
+          "article_id": "records",
+          "label": "The NRA's National Records"
+        },
+        {
+          "article_id": "other",
+          "label": "Other Popular Disciplines"
+        },
+        {
+          "article_id": "techo",
+          "label": "Technical Data for Pistol Shooters"
+        },
+        {
+          "article_id": "why",
+          "label": "About this Website..."
+        },
+        {
+          "article_id": "visualize",
+          "label": "Zen in Visualization of Fundamentals"
+        }
+      ],
+      "title": "Site / Reference / General Index"
+    }
+  ],
+  "chapter_order": [
+    {
+      "article_id": "getinto",
+      "chapter_group": "Introductory Information"
+    },
+    {
+      "article_id": "bullseye",
+      "chapter_group": "Introductory Information"
+    },
+    {
+      "article_id": "comp",
+      "chapter_group": "Introductory Information"
+    },
+    {
+      "article_id": "frankhig",
+      "chapter_group": "Introductory Information"
+    },
+    {
+      "article_id": "oursport",
+      "chapter_group": "Introductory Information"
+    },
+    {
+      "article_id": "nratips",
+      "chapter_group": "Introductory Information"
+    },
+    {
+      "article_id": "secret",
+      "chapter_group": "Introductory Information"
+    },
+    {
+      "article_id": "etiquete",
+      "chapter_group": "Introductory Information"
+    },
+    {
+      "article_id": "mikelav1",
+      "chapter_group": "Introductory Information"
+    },
+    {
+      "article_id": "mikelav2",
+      "chapter_group": "Introductory Information"
+    },
+    {
+      "article_id": "savino2",
+      "chapter_group": "Introductory Information"
+    },
+    {
+      "article_id": "savino",
+      "chapter_group": "Introductory Information"
+    },
+    {
+      "article_id": "equipmnt",
+      "chapter_group": "Tools of the Trade"
+    },
+    {
+      "article_id": "pafford",
+      "chapter_group": "Tools of the Trade"
+    },
+    {
+      "article_id": "cstomgun",
+      "chapter_group": "Tools of the Trade"
+    },
+    {
+      "article_id": "malfunction",
+      "chapter_group": "Tools of the Trade"
+    },
+    {
+      "article_id": "dotsight",
+      "chapter_group": "Tools of the Trade"
+    },
+    {
+      "article_id": "goodgrip",
+      "chapter_group": "Tools of the Trade"
+    },
+    {
+      "article_id": "amucover",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "chapterf",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "chapter0",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "chapter1",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "chapter2",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "chapter3",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "chapter4",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "chapter5",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "chapter6",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "chapter7",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "chapter8",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "chapter9",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "chapter10",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "annex2",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "glossary",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "zins",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "zins1",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "steinbrecher",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "fulford",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "billblnk",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "armymark",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "zoyola",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "zinsdot",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "henderson",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "stamina",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "training",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "joyner",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "rapdfire",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "champion",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "gregderr",
+      "chapter_group": "Perfecting Technique"
+    },
+    {
+      "article_id": "joewhite",
+      "chapter_group": "Shooting Psychology"
+    },
+    {
+      "article_id": "issfguide",
+      "chapter_group": "Shooting Psychology"
+    },
+    {
+      "article_id": "d-nygord",
+      "chapter_group": "Shooting Psychology"
+    },
+    {
+      "article_id": "musician",
+      "chapter_group": "Shooting Psychology"
+    },
+    {
+      "article_id": "focus",
+      "chapter_group": "Shooting Psychology"
+    },
+    {
+      "article_id": "salyer1",
+      "chapter_group": "Shooting Psychology"
+    },
+    {
+      "article_id": "sleep",
+      "chapter_group": "Shooting Psychology"
+    },
+    {
+      "article_id": "zeninfo",
+      "chapter_group": "Zen in the Art of Shooting"
+    },
+    {
+      "article_id": "spirit",
+      "chapter_group": "Zen in the Art of Shooting"
+    },
+    {
+      "article_id": "polmind",
+      "chapter_group": "Zen in the Art of Shooting"
+    },
+    {
+      "article_id": "zelement",
+      "chapter_group": "Zen in the Art of Shooting"
+    },
+    {
+      "article_id": "issha",
+      "chapter_group": "Zen in the Art of Shooting"
+    },
+    {
+      "article_id": "zenpract",
+      "chapter_group": "Zen in the Art of Shooting"
+    },
+    {
+      "article_id": "zenhist",
+      "chapter_group": "Zen in the Art of Shooting"
+    },
+    {
+      "article_id": "zenread",
+      "chapter_group": "Zen in the Art of Shooting"
+    },
+    {
+      "article_id": "natbulls",
+      "chapter_group": "The Reference Room"
+    },
+    {
+      "article_id": "rangecmd",
+      "chapter_group": "The Reference Room"
+    },
+    {
+      "article_id": "matchdir",
+      "chapter_group": "The Reference Room"
+    },
+    {
+      "article_id": "clark",
+      "chapter_group": "Biography and History"
+    },
+    {
+      "article_id": "askins",
+      "chapter_group": "Biography and History"
+    },
+    {
+      "article_id": "cj",
+      "chapter_group": "Biography and History"
+    },
+    {
+      "article_id": "amuprfil",
+      "chapter_group": "Biography and History"
+    },
+    {
+      "article_id": "profile1",
+      "chapter_group": "Biography and History"
+    },
+    {
+      "article_id": "profile2",
+      "chapter_group": "Biography and History"
+    },
+    {
+      "article_id": "profile3",
+      "chapter_group": "Biography and History"
+    },
+    {
+      "article_id": "profile4",
+      "chapter_group": "Biography and History"
+    },
+    {
+      "article_id": "profile5",
+      "chapter_group": "Biography and History"
+    },
+    {
+      "article_id": "profile6",
+      "chapter_group": "Biography and History"
+    },
+    {
+      "article_id": "profile7",
+      "chapter_group": "Biography and History"
+    },
+    {
+      "article_id": "wong",
+      "chapter_group": "Technical Information"
+    },
+    {
+      "article_id": "wong1",
+      "chapter_group": "Technical Information"
+    },
+    {
+      "article_id": "wong2",
+      "chapter_group": "Technical Information"
+    },
+    {
+      "article_id": "wong3",
+      "chapter_group": "Technical Information"
+    },
+    {
+      "article_id": "wong4",
+      "chapter_group": "Technical Information"
+    },
+    {
+      "article_id": "wong5",
+      "chapter_group": "Technical Information"
+    },
+    {
+      "article_id": "wong6",
+      "chapter_group": "Technical Information"
+    },
+    {
+      "article_id": "wong7",
+      "chapter_group": "Technical Information"
+    },
+    {
+      "article_id": "wongbio",
+      "chapter_group": "Technical Information"
+    },
+    {
+      "article_id": "reloads",
+      "chapter_group": "Technical Information"
+    },
+    {
+      "article_id": "22care",
+      "chapter_group": "Technical Information"
+    },
+    {
+      "article_id": "oiling",
+      "chapter_group": "Technical Information"
+    },
+    {
+      "article_id": "dcm",
+      "chapter_group": "Technical Information"
+    },
+    {
+      "article_id": "salyer5",
+      "chapter_group": "Technical Information"
+    },
+    {
+      "article_id": "safety",
+      "chapter_group": "General Firearms Information"
+    },
+    {
+      "article_id": "experts",
+      "chapter_group": "General Firearms Information"
+    },
+    {
+      "article_id": "singlepr",
+      "chapter_group": "General Firearms Information"
+    },
+    {
+      "article_id": "polsby",
+      "chapter_group": "General Firearms Information"
+    },
+    {
+      "article_id": "rulebook",
+      "chapter_group": "NRA Conventional Pistol Rules"
+    },
+    {
+      "article_id": "rulebook1",
+      "chapter_group": "NRA Conventional Pistol Rules"
+    },
+    {
+      "article_id": "rulebook2",
+      "chapter_group": "NRA Conventional Pistol Rules"
+    },
+    {
+      "article_id": "rulebook3",
+      "chapter_group": "NRA Conventional Pistol Rules"
+    },
+    {
+      "article_id": "rulebook4",
+      "chapter_group": "NRA Conventional Pistol Rules"
+    },
+    {
+      "article_id": "rulebook5",
+      "chapter_group": "NRA Conventional Pistol Rules"
+    },
+    {
+      "article_id": "rulebook6",
+      "chapter_group": "NRA Conventional Pistol Rules"
+    },
+    {
+      "article_id": "rulebook7",
+      "chapter_group": "NRA Conventional Pistol Rules"
+    },
+    {
+      "article_id": "rulebook8",
+      "chapter_group": "NRA Conventional Pistol Rules"
+    },
+    {
+      "article_id": "rulebook9",
+      "chapter_group": "NRA Conventional Pistol Rules"
+    },
+    {
+      "article_id": "rulebook10",
+      "chapter_group": "NRA Conventional Pistol Rules"
+    },
+    {
+      "article_id": "rulebook14",
+      "chapter_group": "NRA Conventional Pistol Rules"
+    },
+    {
+      "article_id": "rulebook15",
+      "chapter_group": "NRA Conventional Pistol Rules"
+    },
+    {
+      "article_id": "rulebook16",
+      "chapter_group": "NRA Conventional Pistol Rules"
+    },
+    {
+      "article_id": "rulebook17",
+      "chapter_group": "NRA Conventional Pistol Rules"
+    },
+    {
+      "article_id": "rulebook18",
+      "chapter_group": "NRA Conventional Pistol Rules"
+    },
+    {
+      "article_id": "rulebook19",
+      "chapter_group": "NRA Conventional Pistol Rules"
+    },
+    {
+      "article_id": "ilmo",
+      "chapter_group": "Il-Mo League"
+    },
+    {
+      "article_id": "imadmin",
+      "chapter_group": "Il-Mo League"
+    },
+    {
+      "article_id": "imforms",
+      "chapter_group": "Il-Mo League"
+    },
+    {
+      "article_id": "imhist",
+      "chapter_group": "Il-Mo League"
+    },
+    {
+      "article_id": "imnews",
+      "chapter_group": "Il-Mo League"
+    },
+    {
+      "article_id": "imprev",
+      "chapter_group": "Il-Mo League"
+    },
+    {
+      "article_id": "imrecord",
+      "chapter_group": "Il-Mo League"
+    },
+    {
+      "article_id": "imsoft",
+      "chapter_group": "Il-Mo League"
+    },
+    {
+      "article_id": "imstand",
+      "chapter_group": "Il-Mo League"
+    },
+    {
+      "article_id": "imteams",
+      "chapter_group": "Il-Mo League"
+    },
+    {
+      "article_id": "perenter",
+      "chapter_group": "Camp Perry / National Matches"
+    },
+    {
+      "article_id": "perhist",
+      "chapter_group": "Camp Perry / National Matches"
+    },
+    {
+      "article_id": "perinfo",
+      "chapter_group": "Camp Perry / National Matches"
+    },
+    {
+      "article_id": "permem",
+      "chapter_group": "Camp Perry / National Matches"
+    },
+    {
+      "article_id": "perryfaq",
+      "chapter_group": "Camp Perry / National Matches"
+    },
+    {
+      "article_id": "perrysrv",
+      "chapter_group": "Camp Perry / National Matches"
+    },
+    {
+      "article_id": "pertriv",
+      "chapter_group": "Camp Perry / National Matches"
+    },
+    {
+      "article_id": "ron1",
+      "chapter_group": "Ron Porter Fundamentals"
+    },
+    {
+      "article_id": "ron2",
+      "chapter_group": "Ron Porter Fundamentals"
+    },
+    {
+      "article_id": "ron3",
+      "chapter_group": "Ron Porter Fundamentals"
+    },
+    {
+      "article_id": "ron4",
+      "chapter_group": "Ron Porter Fundamentals"
+    },
+    {
+      "article_id": "ron5",
+      "chapter_group": "Ron Porter Fundamentals"
+    },
+    {
+      "article_id": "ron6",
+      "chapter_group": "Ron Porter Fundamentals"
+    },
+    {
+      "article_id": "ron7",
+      "chapter_group": "Ron Porter Fundamentals"
+    },
+    {
+      "article_id": "ronbio",
+      "chapter_group": "Ron Porter Fundamentals"
+    },
+    {
+      "article_id": "salyer2",
+      "chapter_group": "Dave Salyer Articles"
+    },
+    {
+      "article_id": "salyer3",
+      "chapter_group": "Dave Salyer Articles"
+    },
+    {
+      "article_id": "salyer4",
+      "chapter_group": "Dave Salyer Articles"
+    },
+    {
+      "article_id": "salyer6",
+      "chapter_group": "Dave Salyer Articles"
+    },
+    {
+      "article_id": "advertise",
+      "chapter_group": "Site / Reference / General Index"
+    },
+    {
+      "article_id": "alphadex",
+      "chapter_group": "Site / Reference / General Index"
+    },
+    {
+      "article_id": "legal",
+      "chapter_group": "Site / Reference / General Index"
+    },
+    {
+      "article_id": "links",
+      "chapter_group": "Site / Reference / General Index"
+    },
+    {
+      "article_id": "records",
+      "chapter_group": "Site / Reference / General Index"
+    },
+    {
+      "article_id": "other",
+      "chapter_group": "Site / Reference / General Index"
+    },
+    {
+      "article_id": "techo",
+      "chapter_group": "Site / Reference / General Index"
+    },
+    {
+      "article_id": "why",
+      "chapter_group": "Site / Reference / General Index"
+    },
+    {
+      "article_id": "visualize",
+      "chapter_group": "Site / Reference / General Index"
+    }
+  ],
+  "embedded_image_count": 162,
+  "file_size_bytes": 3499025,
+  "generated_at": "2026-05-29T13:28:59Z",
+  "included_article_count": 150,
+  "inputs": {
+    "article_dir": "content/canonical/articles",
+    "article_index": "content/canonical/articles.index.json",
+    "asset_index": "content/assets/assets.index.json",
+    "raw_index": "archive/raw/wayback/files/20260522T143136Z/202508/article_candidate/www.bullseyepistol.com/20250818003737-index-5fffb450c2814c7e.html"
+  },
+  "not_raw_index_listed_article_count": 55,
+  "output": "exports/pdf/bullseye-pistol.pdf",
+  "page_count": 574,
+  "total_image_refs": 162,
+  "unresolved_internal_links": [
+    {
+      "article_id": "savino2",
+      "href": "http://www.bullseyepistol.com/",
+      "text": "http://www.bullseyepistol.com/"
+    },
+    {
+      "article_id": "equipmnt",
+      "href": "http://www.bullseyepistol.com/feed.htm",
+      "text": "Ammunition Accuracy Test"
+    },
+    {
+      "article_id": "chapterf",
+      "href": "http://bullseyepistol.com/bulseyel.htm",
+      "text": "Bullseye-L"
+    },
+    {
+      "article_id": "issfguide",
+      "href": "http://bullseyepistol.com/issfbook.pdf",
+      "text": "http://bullseyepistol.com/issfbook.pdf"
+    },
+    {
+      "article_id": "rangecmd",
+      "href": "https://www.bullseyepistol.com/timed.mp3",
+      "text": "Timed Fire MP3"
+    },
+    {
+      "article_id": "rangecmd",
+      "href": "https://www.bullseyepistol.com/rapid.mp3",
+      "text": "Rapid Fire MP3"
+    },
+    {
+      "article_id": "matchdir",
+      "href": "http://bullseyepistol.com/scorecards.pdf",
+      "text": "Download the Tournament Score Cards"
+    },
+    {
+      "article_id": "matchdir",
+      "href": "http://bullseyepistol.com/checklist2700.zip",
+      "text": "Download the Range Officer's Outline/Checklist"
+    },
+    {
+      "article_id": "matchdir",
+      "href": "http://bullseyepistol.com/timed.mp3",
+      "text": "Timed Fire MP3"
+    },
+    {
+      "article_id": "matchdir",
+      "href": "http://bullseyepistol.com/rapid.mp3",
+      "text": "Rapid Fire MP3"
+    },
+    {
+      "article_id": "matchdir",
+      "href": "http://bullseyepistol.com/imbylaws.htm",
+      "text": "Download Sample NRA-Sanctioned League By-Laws"
+    },
+    {
+      "article_id": "imforms",
+      "href": "http://bullseyepistol.com/SignupForm.pdf",
+      "text": "Match Sign-up Sheet:"
+    },
+    {
+      "article_id": "imforms",
+      "href": "http://bullseyepistol.com/ILMOScorecard.pdf",
+      "text": "Match Scorecards:"
+    },
+    {
+      "article_id": "imforms",
+      "href": "http://bullseyepistol.com/NewShooter.pdf",
+      "text": "New Shooter Info:"
+    },
+    {
+      "article_id": "imforms",
+      "href": "http://bullseyepistol.com/MidSeasonScorecard.pdf",
+      "text": "League Tournament \"900\" Scorecards:"
+    },
+    {
+      "article_id": "imprev",
+      "href": "http://bullseyepistol.com/60-61results.pdf",
+      "text": "1960-1961"
+    },
+    {
+      "article_id": "imprev",
+      "href": "http://bullseyepistol.com/71-72results.pdf",
+      "text": "1971-1972"
+    },
+    {
+      "article_id": "imprev",
+      "href": "http://bullseyepistol.com/83-84results.pdf",
+      "text": "1983-1984"
+    },
+    {
+      "article_id": "imprev",
+      "href": "http://bullseyepistol.com/98-99results.pdf",
+      "text": "1998-1999"
+    },
+    {
+      "article_id": "imprev",
+      "href": "http://bullseyepistol.com/99-00results.pdf",
+      "text": "1999-2000"
+    },
+    {
+      "article_id": "imprev",
+      "href": "http://bullseyepistol.com/00-01results.pdf",
+      "text": "2000-2001"
+    },
+    {
+      "article_id": "imprev",
+      "href": "http://bullseyepistol.com/01-02results.pdf",
+      "text": "2001-2002"
+    },
+    {
+      "article_id": "imprev",
+      "href": "http://bullseyepistol.com/02-03results.pdf",
+      "text": "2002-2003"
+    },
+    {
+      "article_id": "imprev",
+      "href": "http://bullseyepistol.com/03-04results.pdf",
+      "text": "2003-2004"
+    },
+    {
+      "article_id": "imprev",
+      "href": "http://bullseyepistol.com/04-05results.pdf",
+      "text": "2004-2005"
+    },
+    {
+      "article_id": "imprev",
+      "href": "http://bullseyepistol.com/05-06results.pdf",
+      "text": "2005-2006"
+    },
+    {
+      "article_id": "imprev",
+      "href": "http://bullseyepistol.com/06-07results.pdf",
+      "text": "2006-2007"
+    },
+    {
+      "article_id": "imsoft",
+      "href": "http://bullseyepistol.com/POM2004.zip",
+      "text": "Match Scorekeeping:"
+    },
+    {
+      "article_id": "imsoft",
+      "href": "http://bullseyepistol.com/TeamAdmin2004.zip",
+      "text": "Team Administration:"
+    },
+    {
+      "article_id": "imsoft",
+      "href": "http://bullseyepistol.com/Handicap.exe",
+      "text": "Handicap Calculator:"
+    },
+    {
+      "article_id": "alphadex",
+      "href": "http://bullseyepistol.com/bulseyel.htm",
+      "text": "for Paul Perrone"
+    },
+    {
+      "article_id": "alphadex",
+      "href": "http://bullseyepistol.com/bulseyel.htm",
+      "text": "the Bullseye-L forum"
+    },
+    {
+      "article_id": "techo",
+      "href": "http://bullseyepistol.com/feed.htm",
+      "text": "Testing Ammunition Accuracy"
+    }
+  ],
+  "valid_pdf": true
+}

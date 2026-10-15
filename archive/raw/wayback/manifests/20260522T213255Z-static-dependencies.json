@@ -1,0 +1,139 @@
+{
+  "inventory_manifest": "archive/raw/wayback/manifests/20260522T135739Z-inventory.json",
+  "records": [
+    {
+      "index": 1,
+      "original": "http://bullseyepistol.com/Handicap.exe",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://bullseyepistol.com/Handicap.exe",
+      "run_id": "20260522T213255Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 2,
+      "original": "http://bullseyepistol.com/ILMOScorecard.pdf",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://bullseyepistol.com/ILMOScorecard.pdf",
+      "run_id": "20260522T213255Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 3,
+      "original": "http://bullseyepistol.com/MidSeasonScorecard.pdf",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://bullseyepistol.com/MidSeasonScorecard.pdf",
+      "run_id": "20260522T213255Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 4,
+      "original": "http://bullseyepistol.com/NewShooter.pdf",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://bullseyepistol.com/NewShooter.pdf",
+      "run_id": "20260522T213255Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 5,
+      "original": "http://bullseyepistol.com/POM2004.zip",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://bullseyepistol.com/POM2004.zip",
+      "run_id": "20260522T213255Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 6,
+      "original": "http://bullseyepistol.com/SignupForm.pdf",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://bullseyepistol.com/SignupForm.pdf",
+      "run_id": "20260522T213255Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 7,
+      "original": "http://bullseyepistol.com/TeamAdmin2004.zip",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://bullseyepistol.com/TeamAdmin2004.zip",
+      "run_id": "20260522T213255Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 8,
+      "original": "http://bullseyepistol.com/advertise1.php",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://bullseyepistol.com/advertise1.php",
+      "run_id": "20260522T213255Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 9,
+      "original": "http://www.bullseyepistol.com/bubba.wav",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://www.bullseyepistol.com/bubba.wav",
+      "run_id": "20260522T213255Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 10,
+      "original": "http://www.bullseyepistol.com/help.htm",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://www.bullseyepistol.com/help.htm",
+      "run_id": "20260522T213255Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 11,
+      "original": "http://www.bullseyepistol.com:80/arpc.gif",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://www.bullseyepistol.com:80/arpc.gif",
+      "run_id": "20260522T213255Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 12,
+      "original": "http://www.bullseyepistol.com:80/canton.gif",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://www.bullseyepistol.com:80/canton.gif",
+      "run_id": "20260522T213255Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 13,
+      "original": "http://www.bullseyepistol.com:80/dbgc.gif",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://www.bullseyepistol.com:80/dbgc.gif",
+      "run_id": "20260522T213255Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 14,
+      "original": "http://www.bullseyepistol.com:80/delaware.gif",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://www.bullseyepistol.com:80/delaware.gif",
+      "run_id": "20260522T213255Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 15,
+      "original": "http://www.bullseyepistol.com:80/piasaapp.pdf",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://www.bullseyepistol.com:80/piasaapp.pdf",
+      "run_id": "20260522T213255Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 16,
+      "original": "http://www.bullseyepistol.com:80/wlgc.gif",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://www.bullseyepistol.com:80/wlgc.gif",
+      "run_id": "20260522T213255Z",
+      "status": "unresolved"
+    }
+  ],
+  "requested_count": 16,
+  "run_id": "20260522T213255Z",
+  "static_site_report": "exports/static-site/raw-as-is/_reproduction-report.json",
+  "status_counts": {
+    "unresolved": 16
+  }
+}

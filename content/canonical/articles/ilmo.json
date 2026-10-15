@@ -1,0 +1,44 @@
+{
+  "assets": [],
+  "body": {
+    "format": "html",
+    "html": "<p align=\"center\"><font color=\"#000000\" size=\"4\"></font>&nbsp;</p>\n<p align=\"center\"><font color=\"#000000\" size=\"4\"></font>&nbsp;</p>\n<p align=\"center\"><font color=\"#FF0000\" size=\"6\" face=\"Tahoma\"><strong>The\n60th Season of the Il-Mo Indoor Pistol League<br>\nIs Currently Underway!</strong></font></p>\n\n<p align=\"center\"><font color=\"#000000\" size=\"4\">Check out the Participating Team\nSection for Contact<br>Information to Join a Team!</font></p>\n\n<p align=\"center\"><font color=\"#000000\" size=\"4\"></font>&nbsp;</p>\n<p align=\"center\"><font color=\"#000000\" size=\"4\"></font>&nbsp;</p>\n<p align=\"center\"><font color=\"#000000\" size=\"4\"></font>&nbsp;</p>",
+    "text": "The\n60th Season of the Il-Mo Indoor Pistol League\nIs Currently Underway!\nCheck out the Participating Team\nSection for Contact\nInformation to Join a Team!"
+  },
+  "byline": null,
+  "context": {
+    "html_title": "Il-Mo Indoor Pistol League",
+    "parent_url": null
+  },
+  "id": "ilmo",
+  "images": [],
+  "links": [],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/ilmo.htm"
+  ],
+  "preferred_original_url": "http://bullseyepistol.com/ilmo.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 1,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "f0e0f227c3332ea7",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201009/article_candidate/bullseyepistol.com/20100918031442-ilmo-af3890320b2b3545.htm",
+        "original_url": "http://bullseyepistol.com/ilmo.htm",
+        "sha256": "bdb79501833c4f239a325f7eb69ccc95371f0c019f721c31cd4d4c1745cd18a2",
+        "wayback_timestamp": "20100918031442"
+      }
+    ],
+    "selected_capture_id": "f0e0f227c3332ea7"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "Il-Mo Indoor Pistol League",
+  "updated_at": null
+}

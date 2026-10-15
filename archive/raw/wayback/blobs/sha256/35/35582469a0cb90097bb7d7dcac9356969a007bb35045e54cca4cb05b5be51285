@@ -1,0 +1,79 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage Express 2.0">
+<title>League Forms</title>
+<style>
+<!--
+a:link, 
+a:visited, 
+a:active {text-decoration:none;} 
+.art A:link, .art A:visited, .art A:active {color: #000000;font-family: tahoma, arial;
+font-size: 13px;
+}
+.art A:hover, .nav A:hover {text-decoration:underline;}
+.hed {font-family: tahoma, arial;
+font-size: 38px;
+color: #000080}
+.hed A:hover {text-decoration:none;}
+
+.but {font-family: tahoma, arial;
+font-size: 19px;
+color: #ffffff}
+.but A:link, .but A:visited, .but A:active {color: #ffffff;}
+.but A:hover {text-decoration:none;}
+.nav {font-family: tahoma, arial;
+color: #ffffff;
+font-size: 13px;
+font-weight: bold;
+}
+.nav A:link, .nav A:visited, .nav A:active {color: #ffffff;}
+-->
+</style>
+</head>
+
+<body bgcolor="#FFFFFF"><center>
+<script language="JavaScript" src="imheader1.js"></script><script>header("Download League Forms");</script><!-- ========ARTICLE BEGINS HERE============ --><div
+align="center"><center>
+
+<table border="0" cellpadding="12" cellspacing="0" width="480">
+    <tr>
+        <td align="center" colspan="2"><font color="#000000"
+        size="4" face="Tahoma">Forms for League Match Operations:</font></td>
+    </tr>
+    <tr>
+        <td valign="top" width="240"><a href="SignupForm.pdf"><font
+        size="4" face="Tahoma"><strong>Match Sign-up Sheet:</strong></font></a></td>
+        <td width="240"><font size="2" face="Tahoma"><strong>Sign
+        up sheet for competitors to request their target and
+        relay for a match.</strong></font></td>
+    </tr>
+    <tr>
+        <td valign="top" width="240"><a
+        href="ILMOScorecard.pdf"><font size="4" face="Tahoma"><strong>Match
+        Scorecards:</strong></font></a></td>
+        <td width="240"><font size="2" face="Tahoma"><strong>Scorecards
+        for recording shot values for each competitor. </strong><em><strong>(Printed
+        2 scorecards per page.)</strong></em></font></td>
+    </tr>
+    <tr>
+        <td valign="top" width="240"><a href="NewShooter.pdf"><font
+        size="4" face="Tahoma"><strong>New Shooter Info:</strong></font></a></td>
+        <td width="240"><font size="2" face="Tahoma"><strong>Standardized
+        form for collecting information for new team members.</strong></font></td>
+    </tr>
+    <tr>
+        <td valign="top" width="240"><a
+        href="MidSeasonScorecard.pdf"><font size="4"
+        face="Tahoma"><strong>League Tournament </strong><em><strong>&quot;900&quot;</strong></em><strong>
+        Scorecards:</strong></font></a></td>
+        <td width="240"><font size="2" face="Tahoma"><strong>Scorecards
+        for use at the 90-shot League Tournaments </strong><em><strong>(i.e.
+        Mid-Season Tournament)</strong></em></font></td>
+    </tr>
+</table>
+</center></div><!-- ========ARTICLE ENDS HERE============== --><script>footer();</script>
+</center></body>
+</html>

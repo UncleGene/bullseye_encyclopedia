@@ -1,0 +1,18 @@
+{
+  "article_records": 150,
+  "article_status_counts": {
+    "recovered": 150
+  },
+  "articles_with_assets": 36,
+  "articles_with_variants": 31,
+  "asset_records": 165,
+  "backup_manifest": "archive/raw/wayback/manifests/20260522T-combined-backup-blobs.json",
+  "generated_at": "2026-05-22T21:36:05.210456+00:00",
+  "image_manifest": "archive/raw/wayback/manifests/20260522T-combined-image-recovery.json",
+  "notes": [
+    "Article bodies are extracted from ARTICLE BEGINS/ENDS comment regions when present.",
+    "Header/footer JavaScript, global styles, and template wrapper markup are omitted from canonical article bodies.",
+    "Records without article markers are retained as page shells, not canonical articles."
+  ],
+  "page_shell_records": 27
+}

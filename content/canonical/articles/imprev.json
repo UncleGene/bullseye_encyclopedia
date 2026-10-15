@@ -1,0 +1,105 @@
+{
+  "assets": [],
+  "body": {
+    "format": "html",
+    "html": "<p align=\"center\">The Final Team and Individual Results have\nbeen archived and are available for the following seasons:</p>\n\n<p align=\"center\">\n<a href=\"60-61results.pdf\">1960-1961</a><br>\n<a href=\"71-72results.pdf\">1971-1972</a><br>\n<a href=\"83-84results.pdf\">1983-1984</a><br>\n<a href=\"98-99results.pdf\">1998-1999</a><br>\n<a href=\"99-00results.pdf\">1999-2000</a><br>\n<a href=\"00-01results.pdf\">2000-2001</a><br>\n<a href=\"01-02results.pdf\">2001-2002</a><br>\n<a href=\"02-03results.pdf\">2002-2003</a><br>\n<a href=\"03-04results.pdf\">2003-2004</a><br>\n<a href=\"04-05results.pdf\">2004-2005</a><br>\n<a href=\"05-06results.pdf\">2005-2006</a><br>\n<a href=\"06-07results.pdf\">2006-2007</a></p>\n<p align=\"center\"><font color=\"#000000\" size=\"4\"></font>&nbsp;</p>",
+    "text": "The Final Team and Individual Results have\nbeen archived and are available for the following seasons:\n1960-1961\n1971-1972\n1983-1984\n1998-1999\n1999-2000\n2000-2001\n2001-2002\n2002-2003\n2003-2004\n2004-2005\n2005-2006\n2006-2007"
+  },
+  "byline": null,
+  "context": {
+    "html_title": "Il-Mo Previous Season Standings",
+    "parent_url": null
+  },
+  "id": "imprev",
+  "images": [],
+  "links": [
+    {
+      "href": "60-61results.pdf",
+      "resolved_url": "http://bullseyepistol.com/60-61results.pdf",
+      "text": "1960-1961"
+    },
+    {
+      "href": "71-72results.pdf",
+      "resolved_url": "http://bullseyepistol.com/71-72results.pdf",
+      "text": "1971-1972"
+    },
+    {
+      "href": "83-84results.pdf",
+      "resolved_url": "http://bullseyepistol.com/83-84results.pdf",
+      "text": "1983-1984"
+    },
+    {
+      "href": "98-99results.pdf",
+      "resolved_url": "http://bullseyepistol.com/98-99results.pdf",
+      "text": "1998-1999"
+    },
+    {
+      "href": "99-00results.pdf",
+      "resolved_url": "http://bullseyepistol.com/99-00results.pdf",
+      "text": "1999-2000"
+    },
+    {
+      "href": "00-01results.pdf",
+      "resolved_url": "http://bullseyepistol.com/00-01results.pdf",
+      "text": "2000-2001"
+    },
+    {
+      "href": "01-02results.pdf",
+      "resolved_url": "http://bullseyepistol.com/01-02results.pdf",
+      "text": "2001-2002"
+    },
+    {
+      "href": "02-03results.pdf",
+      "resolved_url": "http://bullseyepistol.com/02-03results.pdf",
+      "text": "2002-2003"
+    },
+    {
+      "href": "03-04results.pdf",
+      "resolved_url": "http://bullseyepistol.com/03-04results.pdf",
+      "text": "2003-2004"
+    },
+    {
+      "href": "04-05results.pdf",
+      "resolved_url": "http://bullseyepistol.com/04-05results.pdf",
+      "text": "2004-2005"
+    },
+    {
+      "href": "05-06results.pdf",
+      "resolved_url": "http://bullseyepistol.com/05-06results.pdf",
+      "text": "2005-2006"
+    },
+    {
+      "href": "06-07results.pdf",
+      "resolved_url": "http://bullseyepistol.com/06-07results.pdf",
+      "text": "2006-2007"
+    }
+  ],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/imprev.htm"
+  ],
+  "preferred_original_url": "http://bullseyepistol.com/imprev.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 1,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "d78ee98ab00c9e06",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201009/article_candidate/bullseyepistol.com/20100918031625-imprev-c4b22b53470601a0.htm",
+        "original_url": "http://bullseyepistol.com/imprev.htm",
+        "sha256": "b454ef7f8dcf8a70f49a1c5e8652a202e135b312edf6d02c8a94e48efb3add7c",
+        "wayback_timestamp": "20100918031625"
+      }
+    ],
+    "selected_capture_id": "d78ee98ab00c9e06"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "Il-Mo Previous Season Standings",
+  "updated_at": null
+}

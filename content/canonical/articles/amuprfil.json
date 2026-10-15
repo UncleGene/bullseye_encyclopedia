@@ -1,0 +1,117 @@
+{
+  "assets": [
+    "asset-fe8577ec54d2324d"
+  ],
+  "body": {
+    "format": "html",
+    "html": "<p><img src=\"smamu2.jpg\" align=\"right\" hspace=\"0\" width=\"142\"\nheight=\"175\">This section of the website is dedicated to the Army\nMarksmanship Unit's Profiles of Champions Booklet. Well worth the reading, It contains autobiographical information and tips from the top pistol shooters and coaches of the Army Pistol Team during the 1960's and 70's.</p>\n\n<ul><li><a href=\"profile1.htm\">FOREWORD</a></ul>\n<ul>\n<li><a href=\"profile2.htm\">Frederick J. Kiefer, International Coordinator USAMU</a>\n<li><a href=\"profile3.htm\">Oscar K. Weinmeister, CONUS Coordinator USAMU</a>\n<li><a href=\"profile4.htm\">SFC Bonnie D. Harmon, USAMU, 1972 National Champion</a>\n<li><a href=\"profile5.htm\">SFC Harland V. Rennolds, USAMU, Top Competitor</a>\n<li><a href=\"profile6.htm\">CPT Robert L. Merritt, USAMU, OIC Pistol Division</a>\n<li><a href=\"profile7.htm\">MSG Aubrey E. Smith, USAMU, NCOIC Pistol Division</a>\n</ul>",
+    "text": "This section of the website is dedicated to the Army\nMarksmanship Unit's Profiles of Champions Booklet. Well worth the reading, It contains autobiographical information and tips from the top pistol shooters and coaches of the Army Pistol Team during the 1960's and 70's.\nFOREWORD\nFrederick J. Kiefer, International Coordinator USAMU\nOscar K. Weinmeister, CONUS Coordinator USAMU\nSFC Bonnie D. Harmon, USAMU, 1972 National Champion\nSFC Harland V. Rennolds, USAMU, Top Competitor\nCPT Robert L. Merritt, USAMU, OIC Pistol Division\nMSG Aubrey E. Smith, USAMU, NCOIC Pistol Division"
+  },
+  "byline": "United States Army Marksmanship Unit",
+  "context": {
+    "html_title": "Encyclopedia of Bullseye Pistol",
+    "parent_url": "fulford.htm"
+  },
+  "id": "amuprfil",
+  "images": [
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-fe8577ec54d2324d"
+      ],
+      "resolved_url": "http://bullseyepistol.com/smamu2.jpg",
+      "src": "smamu2.jpg",
+      "status": "recovered"
+    }
+  ],
+  "links": [
+    {
+      "href": "profile1.htm",
+      "resolved_url": "http://bullseyepistol.com/profile1.htm",
+      "text": "FOREWORD"
+    },
+    {
+      "href": "profile2.htm",
+      "resolved_url": "http://bullseyepistol.com/profile2.htm",
+      "text": "Frederick J. Kiefer, International Coordinator USAMU"
+    },
+    {
+      "href": "profile3.htm",
+      "resolved_url": "http://bullseyepistol.com/profile3.htm",
+      "text": "Oscar K. Weinmeister, CONUS Coordinator USAMU"
+    },
+    {
+      "href": "profile4.htm",
+      "resolved_url": "http://bullseyepistol.com/profile4.htm",
+      "text": "SFC Bonnie D. Harmon, USAMU, 1972 National Champion"
+    },
+    {
+      "href": "profile5.htm",
+      "resolved_url": "http://bullseyepistol.com/profile5.htm",
+      "text": "SFC Harland V. Rennolds, USAMU, Top Competitor"
+    },
+    {
+      "href": "profile6.htm",
+      "resolved_url": "http://bullseyepistol.com/profile6.htm",
+      "text": "CPT Robert L. Merritt, USAMU, OIC Pistol Division"
+    },
+    {
+      "href": "profile7.htm",
+      "resolved_url": "http://bullseyepistol.com/profile7.htm",
+      "text": "MSG Aubrey E. Smith, USAMU, NCOIC Pistol Division"
+    }
+  ],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/amuprfil.htm",
+    "http://bullseyepistol.com:80/amuprfil.htm"
+  ],
+  "preferred_original_url": "http://bullseyepistol.com/amuprfil.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 4,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "21e54adcccafa829",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201009/article_candidate/bullseyepistol.com/20100918015504-amuprfil-b9a91001693ef6b9.htm",
+        "original_url": "http://bullseyepistol.com/amuprfil.htm",
+        "sha256": "fe025cbdf3e8a059b38baed49f431fc8074c5a0a305a9a5517a6684a14edaab2",
+        "wayback_timestamp": "20100918015504"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "a9641b7bb2df0edd",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201502/article_candidate/bullseyepistol.com_80/20150206132117-amuprfil-6b3d2b8689af1168.htm",
+        "original_url": "http://bullseyepistol.com:80/amuprfil.htm",
+        "sha256": "18bdd9c87dbd6573fc10bc58059f296ee9c621b80105a4b85731611bd49e15ae",
+        "wayback_timestamp": "20150206132117"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "1f5e15ce2e0eb3f8",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201502/article_candidate/bullseyepistol.com/20150214045810-amuprfil-621238d947d9e7ee.htm",
+        "original_url": "http://bullseyepistol.com/amuprfil.htm",
+        "sha256": "18bdd9c87dbd6573fc10bc58059f296ee9c621b80105a4b85731611bd49e15ae",
+        "wayback_timestamp": "20150214045810"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "4a101036b07aa833",
+        "local_path": "archive/raw/wayback/files/20260522T141108Z/202303/article_candidate/bullseyepistol.com/20230329142547-amuprfil-fd2f1d4e8a146c53.htm",
+        "original_url": "http://bullseyepistol.com/amuprfil.htm",
+        "sha256": "18bdd9c87dbd6573fc10bc58059f296ee9c621b80105a4b85731611bd49e15ae",
+        "wayback_timestamp": "20230329142547"
+      }
+    ],
+    "selected_capture_id": "4a101036b07aa833"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "Army Marksmanship Unit Champion Profiles",
+  "updated_at": null
+}

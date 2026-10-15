@@ -1,0 +1,50 @@
+{
+  "assets": [],
+  "body": {
+    "format": "html",
+    "html": "<font face=\"Arial\"><b>8. TIME LIMITS</b></font><br>\n<br>\n<b>8.1 Computing Time</b> - When rotating targets are\nused time is taken for the period during which the target is\nfully exposed. Time is not checked on each individual shot but is\ncomputed on the indicated allowance for each five-shot string\ndepending on the type of fire being conducted, except slow fire\nmay be fired in 10-shot strings. The signal to commence firing\nmay be given orally, by whistle or by having the targets turn.\nShots fired when targets are turning will be scored in accordance\nwith Rule 14.3.<br>\n<br>\n<b>8.2 Time Allowances</b> - See <a href=\"rulebook7.htm\">Section 7</a>.<br>\n<br>\n<b>8.3 Team Time</b> - Same as for individual matches.<br>\n<br>\n<b>8.4 Passage of Time</b> - Range Officers will not\nvoluntarily warn competitors of the passage of time. Competitors\nand Team Captains in team matches, may inquire of Range Officers\nas to the time remaining before expiration of the time limit. The\nrequest for time and the response shall be given in a tone which\nwill not disturb other competitors.<br>\n<br>",
+    "text": "8. TIME LIMITS\n8.1 Computing Time - When rotating targets are\nused time is taken for the period during which the target is\nfully exposed. Time is not checked on each individual shot but is\ncomputed on the indicated allowance for each five-shot string\ndepending on the type of fire being conducted, except slow fire\nmay be fired in 10-shot strings. The signal to commence firing\nmay be given orally, by whistle or by having the targets turn.\nShots fired when targets are turning will be scored in accordance\nwith Rule 14.3.\n8.2 Time Allowances - See Section 7.\n8.3 Team Time - Same as for individual matches.\n8.4 Passage of Time - Range Officers will not\nvoluntarily warn competitors of the passage of time. Competitors\nand Team Captains in team matches, may inquire of Range Officers\nas to the time remaining before expiration of the time limit. The\nrequest for time and the response shall be given in a tone which\nwill not disturb other competitors."
+  },
+  "byline": "NRA Conventional Pistol Rulebook",
+  "context": {
+    "html_title": "Encyclopedia of Bullseye Pistol",
+    "parent_url": "bullseye.htm"
+  },
+  "id": "rulebook8",
+  "images": [],
+  "links": [
+    {
+      "href": "rulebook7.htm",
+      "resolved_url": "http://bullseyepistol.com/rulebook7.htm",
+      "text": "Section 7"
+    }
+  ],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/rulebook8.htm"
+  ],
+  "preferred_original_url": "http://bullseyepistol.com/rulebook8.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 1,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "e1d0b3365761a8c7",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201009/article_candidate/bullseyepistol.com/20100918031003-rulebook8-6cdefc0c7b5189b9.htm",
+        "original_url": "http://bullseyepistol.com/rulebook8.htm",
+        "sha256": "63e44ef0bed140b7bc7359c5f389ad6750e8cb3de767c664f84007791afd3690",
+        "wayback_timestamp": "20100918031003"
+      }
+    ],
+    "selected_capture_id": "e1d0b3365761a8c7"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "8. Time Limits",
+  "updated_at": null
+}

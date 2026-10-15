@@ -1,0 +1,107 @@
+{
+  "assets": [
+    "asset-0abd512cbcd04223",
+    "asset-5ed5d7298ae9c11a",
+    "asset-623e07e1bba3c19c",
+    "asset-d917674a7317e4d6"
+  ],
+  "body": {
+    "format": "html",
+    "html": "<div\nalign=\"center\"><center>\n\n<table border=\"3\" cellpadding=\"12\">\n    <tr>\n        <td align=\"center\" valign=\"top\" bgcolor=\"#FFFFFF\"\n        class=\"art\"><img src=\"piasateam.jpg\" width=\"161\"\n        height=\"126\"><br>\n        Piasa Legends Team<br>\n        <a href=\"mailto:johncifco@aol.com\">John O'Donnell</a>,\n        Captain<br>\n        314-567-1737</td>\n        \n<td align=\"center\" valign=\"top\" bgcolor=\"#FFFFFF\"\n        class=\"art\"><img src=\"maverick.jpg\" width=\"161\" height=\"126\"><br>\n        Piasa Pirates Team<br>\n        <a href=\"mailto:mpholl@att.net\">Mike Holland</a>,\n        Captain<br>\n        314-839-4536</td>\n\n    </tr>\n    <tr>\n        <td align=\"center\" valign=\"top\" bgcolor=\"#FFFFFF\"\n        class=\"art\"><img src=\"mogun.jpg\" width=\"161\" height=\"126\"><br>\n        Missouri Gun &amp; Quail Club Team<br>\n        <a href=\"mailto:dew@greensfelder.com\">Don Weihl</a>,\n        Captain<br>\n        618-398-0145</td>\n        \n<td align=\"center\" valign=\"top\" bgcolor=\"#FFFFFF\"\n        class=\"art\"><img src=\"hornets.jpg\" width=\"161\"\n        height=\"126\"><br>\n        Boeing Employees Rifle &amp; Pistol Club<br>\n        <a href=\"mailto:jmhopson@sbcglobal.net\">Jon Hopson</a>,\n        Captain<br>\n        314-535-0448 </td>\n    </tr>\n</table>\n</center></div>",
+    "text": "Piasa Legends Team\nJohn O'Donnell,\nCaptain\n314-567-1737\nPiasa Pirates Team\nMike Holland,\nCaptain\n314-839-4536\nMissouri Gun & Quail Club Team\nDon Weihl,\nCaptain\n618-398-0145\nBoeing Employees Rifle & Pistol Club\nJon Hopson,\nCaptain\n314-535-0448"
+  },
+  "byline": null,
+  "context": {
+    "html_title": "Il-Mo Current Teams",
+    "parent_url": null
+  },
+  "id": "imteams",
+  "images": [
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-0abd512cbcd04223"
+      ],
+      "resolved_url": "http://bullseyepistol.com/piasateam.jpg",
+      "src": "piasateam.jpg",
+      "status": "recovered"
+    },
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-5ed5d7298ae9c11a"
+      ],
+      "resolved_url": "http://bullseyepistol.com/maverick.jpg",
+      "src": "maverick.jpg",
+      "status": "recovered"
+    },
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-623e07e1bba3c19c"
+      ],
+      "resolved_url": "http://bullseyepistol.com/mogun.jpg",
+      "src": "mogun.jpg",
+      "status": "recovered"
+    },
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-d917674a7317e4d6"
+      ],
+      "resolved_url": "http://bullseyepistol.com/hornets.jpg",
+      "src": "hornets.jpg",
+      "status": "recovered"
+    }
+  ],
+  "links": [
+    {
+      "href": "mailto:johncifco@aol.com",
+      "resolved_url": "mailto:johncifco@aol.com",
+      "text": "John O'Donnell"
+    },
+    {
+      "href": "mailto:mpholl@att.net",
+      "resolved_url": "mailto:mpholl@att.net",
+      "text": "Mike Holland"
+    },
+    {
+      "href": "mailto:dew@greensfelder.com",
+      "resolved_url": "mailto:dew@greensfelder.com",
+      "text": "Don Weihl"
+    },
+    {
+      "href": "mailto:jmhopson@sbcglobal.net",
+      "resolved_url": "mailto:jmhopson@sbcglobal.net",
+      "text": "Jon Hopson"
+    }
+  ],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/imteams.htm"
+  ],
+  "preferred_original_url": "http://bullseyepistol.com/imteams.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 1,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "1fedca2b9ffce193",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201009/article_candidate/bullseyepistol.com/20100918031843-imteams-6c12c710a52054c6.htm",
+        "original_url": "http://bullseyepistol.com/imteams.htm",
+        "sha256": "d3306611c5751faa5fc96cddaac194d33a09fdc1c843c7d3c87d8f9b5b27f2f9",
+        "wayback_timestamp": "20100918031843"
+      }
+    ],
+    "selected_capture_id": "1fedca2b9ffce193"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "Il-Mo Current Teams",
+  "updated_at": null
+}

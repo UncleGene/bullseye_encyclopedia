@@ -1,0 +1,86 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage Express 2.0">
+<title>Encyclopedia of Bullseye Pistol</title>
+</head>
+
+<body bgcolor="#FFFFFF"><center>
+<script language="JavaScript" src="header.js"></script>
+<script language="JavaScript" src="header3.js"></script>
+<style><!--
+a:link, 
+a:visited, 
+a:active {text-decoration:none;} 
+a:hover, 
+a {text-decoration:underline;} 
+--></style>
+<script>header("Facts and Figures About Dot Sights","John Dreyer","equipmnt.htm")</script>
+
+<!-- ========ARTICLE BEGINS HERE============ -->
+
+The red dot sight is possibly the greatest innovation in pistol shooting since 1911.  This gadget offers a level of precision and a simplicity of operation that does not exist with iron sights.  It also has allowed shooters with failing eyesight to stay competitive for much longer.  <br>
+<br>
+<font face="Arial,Helvetica,Helv,Arena,Gothic"  size=4  color="#000000">The Mechanics of a Dot Sight</font><br>
+<br>
+Understanding how a dot sight works is important in determining why different sights behave the way that they do.<br><br><center><img src="dothow.jpg" alt="" border=2 width=529 height=144></center><br>There is nothing magical about them; the system is actually quite simple.  The sight includes a concave lens with an extremely thin metallic coating that reflects red light but transmits other colors freely.  The "dot" reticle itself is simply a reflection of a light emitting diode mounted inside the sight tube.  The result is a red dot that appears as if it is "projected" upon the target.  While certainly not of micrometer caliber, two screws that work opposite of coil springs adjust elevation and windage by moving the diode/lens unit either horizontally or vertically.<br>
+<br><hr width=60%><br>
+<font  color="maroon">The middle portion of this article is dedicated to experimental studies of various aspects of dot sights.  It will hopefully help to uncover misunderstood facts and disprove popular misconceptions about dot sights.</font><br>
+<br>
+<font face="Arial,Helvetica,Helv,Arena,Gothic"  size=4  color="#000000">The Dot is Not Truly Focused at Infinity</font><br>
+<br>
+One popular fallacy that is commonly believed is that the dot itself is focused, or projected, at the same apparent distance as the target.  By doing tests on four different models of sights, it has become quite apparent that this is NOT the case.  With the aid of a SLR camera with a rangefinder focusing screen, by viewing the dot with 24 inches of eye relief, it becomes obvious that the dots on all four models are "focused" at around 30 feet, regardless of the distance of the target.  This is actually a good thing, because it causes the eye to focus on the 30 ft. projected reticle, and not on the target and those rapidly appearing bullet holes, a basic fundamental of pistol shooting. <br> <br>
+<font face="Arial,Helvetica,Helv,Arena,Gothic"  size=4  color="#000000">Dot Pitch or Size</font><br>
+<br>
+It is unfortunate, but expected, that a manufacturer's purported specifications on the "size" of their dot is seldom correct.  The dot size, usually reported in minutes of angle, is often pure hogwash. While most dot sights are advertised as having 3 or 4 minute dots, only your eyes can tell you what size they really are.  For example, the Aimpoint 5000 and the Tasco Pro Point 2 have smaller dots than basic UltraDots, and yet they all claim to have the same size dot!<br><br><hr width=60%>
+<br>
+<font  color="maroon">The remaining experiments were conducted with only two different models of sights.  The 30mm sized models of the UltraDot and the Tasco ProPoint 2.  They were selected because they are both in the same price range, enormously popular among bullseye shooters, and certainly very different indeed.</font><br>
+<br>
+
+
+<br>
+<font face="Arial,Helvetica,Helv,Arena,Gothic"  size=4  color="#000000">Parallax is an Issue with All Dot Sights</font><br>
+<br>
+The most popular misconception about dot sights is that some are blessed with complete freedom from parallax.  Nonsense!  Parallax exists in all dot sights because of the nature of the sight design itself.  While it is true that all sights do adjust for parallax at particular distances, they become more vulnerable to the problem at other distances.<br>
+<br>
+What exactly is parallax?  Parallax is the "error" that occurs when one of two vectors that are parallel is used as a reference for the other.   This is a factor with a dot sight because its reflecting lens is optimized for reflecting the image of the LED right down the center of the tube into your eye.  If the pistol is held incorrectly and the shooter views the dot near the edge of the tube, it will not actually be pointed at the actual correct point of aim.  In an attempt to correct for this, the reflecting lens is concave.  Unfortunately this design is only somewhat effective.<br>
+<br>
+The following experiment analyzes this phenomenon of parallax at varying distances with our two test sights.  The sights were mounted to a stable bench and pointed toward a special calibrated target placed at three different distances.  While maintaining a consistent 24" eye relief, and keeping one eye closed, I moved my viewing eye to the left/right and top/bottom extremes that the dot was still visible, and charted my observations.  The data was recorded as the measured point on the calibrated target at each viewing "extreme" where the dot appeared to actually be.  All target coordinates are based on the location of the CENTER of the dot reticle since the two test sights have different sized dots.<br>
+<br>Before continuing, let me assure you that slight off-center viewing with either model resulted in imperceptible errors.  If a shooter keeps a consistent rock-solid hold for every shot, parallax will not be as much of a concern.  But nonetheless, knowledge of the great POTENTIAL for error is useful and reinforces the values of good technique.<br>
+<br>
+The next three figures demonstrate the maximum potential for parallax with our two test sights as mapped upon the standard target for those three common shooting distances.  The circles represent the greatest possible error resulting from parallax alone for each model.  As you will see, each model is designed and acts much differently at various distances to the target.<br>
+<br>
+<center><table width=480><tr><td><img src="50ftdot.gif" height=254 width=255 alt="" border=0></td><td><font size=4 color="maroon">At fifty feet, the UltraDot can vary as much as 0.75" off-center.  The ProPoint2 can vary as much as 0.875" horizontally and 0.50" vertically. Both models perform effectively at their worst at this distance.</font></td></tr> 
+<tr><td><font size=4 color="maroon">At 25 yards, both models perform effectively very well.  Neither would distort the image so much that the actual point of impact would score outside of the X-ring of the timed and rapid fire target.</font>
+</td><td><img src="25yddot.gif" height=254 width=255 alt="" border=0></td></tr>
+<tr><td><img src="50yddot.gif" height=254 width=255 alt="" border=0></td><td><font size=4 color="maroon">At fifty yards, the two models again demonstrate their big design differences.  The UltraDot at maximum error will still pretty much hold the X-ring.  The ProPoint 2 is plagued with errors up to 2.50" horizontally and 0.875" vertically. </font>
+</td></tr></table></center>
+<br>
+To better compare the two sights, I charted these findings below as the "potential of error" for the sights at each distance.  This figure was computed by calculating the area of the "circles" above.  The results are perhaps deceiving, but demonstrate how different the two sights are designed.<br>
+<br><center><img src="expgraph.gif" alt="" border=0 width=495 height=344></center>
+<a name="polarize"></a>
+<br>
+<font face="Arial,Helvetica,Helv,Arena,Gothic"  size=4  color="#000000">The Function and Mechanics of the Polarizing Filter</font><br>
+<br>
+The most useful accessory supplied with a dot sight is the polarizing filter.  Attached to the far end of the sight, it functions as a variable light filter to adjust the brightness of the target independent of the dot intensity.  It is most valuable on a very bright sunny day.<br>
+<br>
+The accessory is actually a set of two polarizing filters that rotate independently of one another.  Each of the two filters is a sheet of transparent plastic with microscopic parallel lines etched upon it.  These lines act to reduce the amplitude of light waves that arrive to the filter vibrating in directions other than that of the lines.  The best image I could dream up to illustrate this is to imagine having to get a sheet of plywood through a wrought iron fence.  Any attempt to get the sheet through other than with the plywood PARALLEL to the fence bars is fruitless, and the plywood bounces back.  But the plywood still will get through that fence IN ITS ENTIRETY when it is turned the correct way.  This is the same principle with light rays passing through a single polarizing filter.<br>
+<br>
+ Now let's add the second filter.  Since it rotates independently, its lines can be parallel, perpendicular, or any angle between in relation to the first filter.  Now back to the image of the iron fence, let's place another fence section behind the first.  If the bars on each are parallel, that entire sheet of plywood will still pass through.  If you tilt the rear fence section a little bit, you'll have to cut off some of the plywood to get it to go.  As you tilt the rear fence section closer to perpendicular of the first, the plywood will have to be trimmed more and more.  This is how the second polarizing filter works in conjunction with the first to reduce the amplitude of light waves.  <br>
+<br><center><table width=480><tr><td><img src="britest.gif" alt="" border=0 width=240 height=249></td><td><font size=4 color=maroon>Here you can see how light waves vibrating with any amplitude can pass through two parallel polarizing filters.  This is the most transparent that the filter unit will become.</font></td></tr>
+<tr><td><img src="medium.gif" alt="" border=0 width=240 height=249></td><td><font size=4 color=maroon>When the second filter is turned 45 degrees, light waves of greater amplitude than the reduced "openings" are blocked.  Waves of lesser amplitude are allowed to pass freely. </font></td></tr>
+<tr><td><img src="darkest.gif" alt="" border=0 width=240 height=251></td><td><font size=4 color=maroon>Now that the polarizing lines are perpendicular to each other, only light waves with extremely small amplitude are allowed to pass.  The filter unit will appear almost opaque. </font></td></tr></table></center>
+<br>
+<font face="Arial,Helvetica,Helv,Arena,Gothic"  size=4  color="#000000">In Conclusion</font><br>
+<br>
+I hope that any doubts or misconceptions about red dot sights have been resolved with this article.  The comparative experiments were not intended to be "product reviews," but rather, to clarify phenomena that occur with these sights.   Before purchasing any dot sight, I suggest that you gaze through it to see if it meets your needs.  In this game of bullseye shooting, I have seen more military shooters using 1" UltraDots than any other sight, and these guys are the pros.  I used to shoot the Tasco ProPoint sights and based on my experiences, have now converted all six pistols to UltraDots.<br><br>And one last thought.  Before you throw out your hard-earned cash on a high-dollar dot sight, consider the fact that if that brand was better than the UltraDot, ALL of the high master shooters would already have them on their pistols.  But they don't.
+
+
+<!-- =========ARTICLE ENDS HERE============= -->
+
+<script>footer()</script>
+
+</center></body>
+</html>

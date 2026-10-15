@@ -1,0 +1,50 @@
+{
+  "assets": [],
+  "body": {
+    "format": "html",
+    "html": "<p align=\"center\">A second Piasa team called the \"Pirates\" now fires its home matches on Wednesday nights.  Contact Team Captain, <a href=\"mailto:mpholl@att.net\">Mike Holland</a> for more information.</p>\n<p>&nbsp;</p>",
+    "text": "A second Piasa team called the \"Pirates\" now fires its home matches on Wednesday nights. Contact Team Captain, Mike Holland for more information."
+  },
+  "byline": null,
+  "context": {
+    "html_title": "Il-Mo News",
+    "parent_url": null
+  },
+  "id": "imnews",
+  "images": [],
+  "links": [
+    {
+      "href": "mailto:mpholl@att.net",
+      "resolved_url": "mailto:mpholl@att.net",
+      "text": "Mike Holland"
+    }
+  ],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/imnews.htm"
+  ],
+  "preferred_original_url": "http://bullseyepistol.com/imnews.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 1,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "25a4ba8cbedfc04e",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201009/article_candidate/bullseyepistol.com/20100918031244-imnews-e0cd32753e5fba17.htm",
+        "original_url": "http://bullseyepistol.com/imnews.htm",
+        "sha256": "6472739822cac3c73adf058fa71182febb8852a8bc34691c32b0dc4b6fc9fe38",
+        "wayback_timestamp": "20100918031244"
+      }
+    ],
+    "selected_capture_id": "25a4ba8cbedfc04e"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "Il-Mo News",
+  "updated_at": null
+}

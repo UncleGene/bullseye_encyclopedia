@@ -1,0 +1,44 @@
+{
+  "assets": [],
+  "body": {
+    "format": "html",
+    "html": "<font face=\"Arial\"><b>4. TARGETS</b></font><br>\n<br>\n<b>4.1 Official Targets</b> - In NRA Sanctioned\ncompetition, only targets printed by NRA Licensed Manufacturers,\nbearing the Official Competition target seal, or military targets\nissued by the Armed Services, mithout modification except as\nauthorized by the NRA, will be used. All NRA Official Competition\nTargets are printed by NRA licensed manufacturers only. They may\nnot be modified by the user of the manufacturer, except with\nspecific written permission from NRA Competitions Division. NRA\nTarget masters are made using Computer Assisted Design and must\nbe used in production of all NRA Targets.<br>\n<br>\n<b>4.2 to 4.8</b> <b>(Summarized in Chart Form)</b>\nThe targets for official competition are: </p>\n<div align=\"center\"><center>\n\n<table border=\"1\" cellspacing=\"1\">\n<caption align=\"top\">Scoring ring dimesions for indoor\ntargets (in inches)</caption>\n<tr>\n<th align=\"left\">Distance </th>\n<th align=\"left\">Match </th>\n<th align=\"left\">Target No.</th>\n<th align=\"left\">X ring </th>\n<th align=\"left\">10 ring </th>\n<th align=\"left\">9 ring </th>\n<th align=\"left\">8 ring </th>\n<th align=\"left\">7 ring </th>\n<th align=\"left\">6 ring </th>\n<th align=\"left\">5 ring </th>\n<th align=\"left\">4 ring </th>\n</tr>\n<tr>\n<td rowspan=\"2\">50 feet </td>\n<td>Slow </td>\n<td>B-2 </td>\n<td bgcolor=\"#000000\">&nbsp;</td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">0.90 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">1.54 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">2.23 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">3.07 </font></td>\n<td>4.16 </td>\n<td>5.56 </td>\n<td>7.33 </td>\n</tr>\n<tr>\n<td>Timed/Rapid </td>\n<td>B-3 </td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">0.90 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">1.80 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">3.06 </font></td>\n<td>4.46 </td>\n<td>6.14 </td>\n<td>8.32 </td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"2\">20 yards </td>\n<td>Slow </td>\n<td>B-4 </td>\n<td bgcolor=\"#000000\">&nbsp;</td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">1.12 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">1.88 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">2.72 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">3.73 </font></td>\n<td>5.04 </td>\n<td>6.72 </td>\n<td>8.84 </td>\n</tr>\n<tr>\n<td>Timed/Rapid </td>\n<td>B-5 </td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">1.12 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">2.25 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">3.76 </font></td>\n<td>5.44 </td>\n<td>7.46 </td>\n<td>10.08 </td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"2\">25 yards </td>\n<td>Slow </td>\n<td>B-16 </td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">0.67 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">1.51 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">2.60 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">3.82 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">5.32 </font></td>\n<td>7.22 </td>\n<td>9.66 </td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>Timed/Rapid </td>\n<td>B-8 </td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">1.695 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">3.36 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">5.54 </font></td>\n<td>8.00 </td>\n<td>11.00 </td>\n<td>14.80 </td>\n<td>19.68 </td>\n<td>&nbsp;</td>\n</tr>\n</table>\n<br></center></div><div align=\"center\"><center>\n\n<table border=\"1\" cellspacing=\"1\">\n<caption align=\"top\">Scoring ring dimensions for outdoor\ntargets (in inches)</caption>\n<tr>\n<th align=\"left\">Distance </th>\n<th align=\"left\">Match </th>\n<th align=\"left\">Target No.</th>\n<th align=\"left\">X ring </th>\n<th align=\"left\">10 ring </th>\n<th align=\"left\">9 ring </th>\n<th align=\"left\">8 ring </th>\n<th align=\"left\">7 ring </th>\n<th align=\"left\">6 ring </th>\n<th align=\"left\">5 ring </th>\n</tr>\n<tr>\n<td>50 yards </td>\n<td>Slow </td>\n<td>B-6 </td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">1.695 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">3.36 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">5.54 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">8.00 </font></td>\n<td>11.00 </td>\n<td>14.80 </td>\n<td>19.68 </td>\n</tr>\n<tr>\n<td rowspan=\"2\">25 yards </td>\n<td>Slow </td>\n<td>B-16 </td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">0.67 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">1.51 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">2.60 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">3.82 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">5.32 </font></td>\n<td>7.22 </td>\n<td>9.66 </td>\n</tr>\n<tr>\n<td>Timed/Rapid </td>\n<td>B-8 </td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">1.695 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">3.36 </font></td>\n<td bgcolor=\"#000000\"><font color=\"#FFFFFF\">5.54 </font></td>\n<td><font color=\"#000000\">8.00 </font></td>\n<td>11.00 </td>\n<td>14.80 </td>\n<td>19.68 </td>\n</tr>\n</table>\n</center></div>",
+    "text": "4. TARGETS\n4.1 Official Targets - In NRA Sanctioned\ncompetition, only targets printed by NRA Licensed Manufacturers,\nbearing the Official Competition target seal, or military targets\nissued by the Armed Services, mithout modification except as\nauthorized by the NRA, will be used. All NRA Official Competition\nTargets are printed by NRA licensed manufacturers only. They may\nnot be modified by the user of the manufacturer, except with\nspecific written permission from NRA Competitions Division. NRA\nTarget masters are made using Computer Assisted Design and must\nbe used in production of all NRA Targets.\n4.2 to 4.8 (Summarized in Chart Form)\nThe targets for official competition are:\nScoring ring dimesions for indoor\ntargets (in inches)\nDistance\nMatch\nTarget No.\nX ring\n10 ring\n9 ring\n8 ring\n7 ring\n6 ring\n5 ring\n4 ring\n50 feet\nSlow\nB-2\n0.90\n1.54\n2.23\n3.07\n4.16\n5.56\n7.33\nTimed/Rapid\nB-3\n0.90\n1.80\n3.06\n4.46\n6.14\n8.32\n20 yards\nSlow\nB-4\n1.12\n1.88\n2.72\n3.73\n5.04\n6.72\n8.84\nTimed/Rapid\nB-5\n1.12\n2.25\n3.76\n5.44\n7.46\n10.08\n25 yards\nSlow\nB-16\n0.67\n1.51\n2.60\n3.82\n5.32\n7.22\n9.66\nTimed/Rapid\nB-8\n1.695\n3.36\n5.54\n8.00\n11.00\n14.80\n19.68\nScoring ring dimensions for outdoor\ntargets (in inches)\nDistance\nMatch\nTarget No.\nX ring\n10 ring\n9 ring\n8 ring\n7 ring\n6 ring\n5 ring\n50 yards\nSlow\nB-6\n1.695\n3.36\n5.54\n8.00\n11.00\n14.80\n19.68\n25 yards\nSlow\nB-16\n0.67\n1.51\n2.60\n3.82\n5.32\n7.22\n9.66\nTimed/Rapid\nB-8\n1.695\n3.36\n5.54\n8.00\n11.00\n14.80\n19.68"
+  },
+  "byline": "NRA Conventional Pistol Rulebook",
+  "context": {
+    "html_title": "Encyclopedia of Bullseye Pistol",
+    "parent_url": "bullseye.htm"
+  },
+  "id": "rulebook4",
+  "images": [],
+  "links": [],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/rulebook4.htm"
+  ],
+  "preferred_original_url": "http://bullseyepistol.com/rulebook4.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 1,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "16cbd6f399887989",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201009/article_candidate/bullseyepistol.com/20100918031115-rulebook4-9f95a9f02ddd74de.htm",
+        "original_url": "http://bullseyepistol.com/rulebook4.htm",
+        "sha256": "b82e8fb8f7409b51c69085f0222622434b2f3c1156dea7058adda44e9be7a788",
+        "wayback_timestamp": "20100918031115"
+      }
+    ],
+    "selected_capture_id": "16cbd6f399887989"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "4. Targets",
+  "updated_at": null
+}

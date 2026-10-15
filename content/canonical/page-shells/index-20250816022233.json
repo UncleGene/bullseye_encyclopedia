@@ -1,0 +1,18 @@
+{
+  "excluded_regions": [
+    "head",
+    "script header/footer",
+    "global style",
+    "no ARTICLE BEGINS marker"
+  ],
+  "id": "index",
+  "local_path": "archive/raw/wayback/files/20260522T143136Z/202508/article_candidate/www.bullseyepistol.com/20250816022233-index-1ddadd5a299948ab.html",
+  "navigation_links": [],
+  "original_url": "https://www.bullseyepistol.com/",
+  "source_capture_id": "7a551cba7bf0dabc",
+  "status": "page_shell",
+  "template_markers": [
+    "no ARTICLE BEGINS/ENDS marker"
+  ],
+  "wayback_timestamp": "20250816022233"
+}

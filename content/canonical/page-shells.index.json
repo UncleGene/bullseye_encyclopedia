@@ -1,0 +1,140 @@
+{
+  "count": 27,
+  "page_shells": [
+    {
+      "id": "index",
+      "original_url": "http://bullseyepistol.com/",
+      "path": "content/canonical/page-shells/index-20100917234744.json"
+    },
+    {
+      "id": "timeddownload",
+      "original_url": "http://bullseyepistol.com/timeddownload.htm",
+      "path": "content/canonical/page-shells/timeddownload-20100918001151.json"
+    },
+    {
+      "id": "rapiddownload",
+      "original_url": "http://bullseyepistol.com/rapiddownload.htm",
+      "path": "content/canonical/page-shells/rapiddownload-20100918001229.json"
+    },
+    {
+      "id": "bulseyel",
+      "original_url": "http://bullseyepistol.com/bulseyel.htm",
+      "path": "content/canonical/page-shells/bulseyel-20100918023604.json"
+    },
+    {
+      "id": "blank",
+      "original_url": "http://bullseyepistol.com/blank.htm",
+      "path": "content/canonical/page-shells/blank-20100918024925.json"
+    },
+    {
+      "id": "index",
+      "original_url": "http://bullseyepistol.com/index.htm",
+      "path": "content/canonical/page-shells/index-20100918025538.json"
+    },
+    {
+      "id": "imbylaws",
+      "original_url": "http://bullseyepistol.com/imbylaws.htm",
+      "path": "content/canonical/page-shells/imbylaws-20100918030512.json"
+    },
+    {
+      "id": "index",
+      "original_url": "http://www.bullseyepistol.com:80/index.htm",
+      "path": "content/canonical/page-shells/index-20100922093318.json"
+    },
+    {
+      "id": "index",
+      "original_url": "http://bullseyepistol.com:80/",
+      "path": "content/canonical/page-shells/index-20150222013253.json"
+    },
+    {
+      "id": "pi-a",
+      "original_url": "http://www.bullseyepistol.com:80/pi-a.htm",
+      "path": "content/canonical/page-shells/pi-a-20150225200823.json"
+    },
+    {
+      "id": "pi-b",
+      "original_url": "http://www.bullseyepistol.com:80/pi-b.htm",
+      "path": "content/canonical/page-shells/pi-b-20150225201315.json"
+    },
+    {
+      "id": "pi-c",
+      "original_url": "http://www.bullseyepistol.com:80/pi-c.htm",
+      "path": "content/canonical/page-shells/pi-c-20150226074613.json"
+    },
+    {
+      "id": "pi-e",
+      "original_url": "http://www.bullseyepistol.com:80/pi-e.htm",
+      "path": "content/canonical/page-shells/pi-e-20150226074618.json"
+    },
+    {
+      "id": "pi-f",
+      "original_url": "http://www.bullseyepistol.com:80/pi-f.htm",
+      "path": "content/canonical/page-shells/pi-f-20150226074623.json"
+    },
+    {
+      "id": "pi-d",
+      "original_url": "http://www.bullseyepistol.com:80/pi-d.htm",
+      "path": "content/canonical/page-shells/pi-d-20150226074705.json"
+    },
+    {
+      "id": "pi-g",
+      "original_url": "http://www.bullseyepistol.com:80/pi-g.htm",
+      "path": "content/canonical/page-shells/pi-g-20150226074725.json"
+    },
+    {
+      "id": "index",
+      "original_url": "http://www.bullseyepistol.com/",
+      "path": "content/canonical/page-shells/index-20230316123835.json"
+    },
+    {
+      "id": "index",
+      "original_url": "https://www.bullseyepistol.com/",
+      "path": "content/canonical/page-shells/index-20230326020149.json"
+    },
+    {
+      "id": "index",
+      "original_url": "http://bullseyepistol.com/",
+      "path": "content/canonical/page-shells/index-20230329142530.json"
+    },
+    {
+      "id": "records",
+      "original_url": "https://www.bullseyepistol.com/records.htm",
+      "path": "content/canonical/page-shells/records-20250102144636.json"
+    },
+    {
+      "id": "bulseyel",
+      "original_url": "https://www.bullseyepistol.com/bulseyel.htm",
+      "path": "content/canonical/page-shells/bulseyel-20250102152752.json"
+    },
+    {
+      "id": "index",
+      "original_url": "https://www.bullseyepistol.com/",
+      "path": "content/canonical/page-shells/index-20250102153655.json"
+    },
+    {
+      "id": "index",
+      "original_url": "http://www.bullseyepistol.com/",
+      "path": "content/canonical/page-shells/index-20250127184447.json"
+    },
+    {
+      "id": "index",
+      "original_url": "http://www.bullseyepistol.com/index.htm",
+      "path": "content/canonical/page-shells/index-20250130154047.json"
+    },
+    {
+      "id": "index",
+      "original_url": "https://www.bullseyepistol.com/",
+      "path": "content/canonical/page-shells/index-20250816022233.json"
+    },
+    {
+      "id": "index",
+      "original_url": "http://bullseyepistol.com/",
+      "path": "content/canonical/page-shells/index-20250816071345.json"
+    },
+    {
+      "id": "index",
+      "original_url": "http://www.bullseyepistol.com/",
+      "path": "content/canonical/page-shells/index-20250818003737.json"
+    }
+  ]
+}

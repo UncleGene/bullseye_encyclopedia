@@ -1,0 +1,82 @@
+{
+  "assets": [
+    "asset-6596907c47919d81"
+  ],
+  "body": {
+    "format": "html",
+    "html": "Ed Masaki is a master pistolsmith from Hawaii.  If there was someone who would know the best methods for maintaining a fine accurized pistol, he is the man.<br><br>\n<div><center>\n<font face=\"Arial\"  size=5  color=\"green\">OIL THESE PLACES</font><br>\n\n<img src=\"ed-oiler.gif\" height=305 width=573 alt=\"Ed Masaki on Oiling the 1911\" border=0><br><br>\nWhen the numbered places look dry, oil them.\n\n</center></div>",
+    "text": "Ed Masaki is a master pistolsmith from Hawaii. If there was someone who would know the best methods for maintaining a fine accurized pistol, he is the man.\nOIL THESE PLACES\nWhen the numbered places look dry, oil them."
+  },
+  "byline": "Edward Masaki",
+  "context": {
+    "html_title": "Encyclopedia of Bullseye Pistol",
+    "parent_url": "22care.htm"
+  },
+  "id": "oiling",
+  "images": [
+    {
+      "alt": "Ed Masaki on Oiling the 1911",
+      "asset_ids": [
+        "asset-6596907c47919d81"
+      ],
+      "resolved_url": "https://www.bullseyepistol.com/ed-oiler.gif",
+      "src": "ed-oiler.gif",
+      "status": "recovered"
+    }
+  ],
+  "links": [],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/oiling.htm",
+    "http://bullseyepistol.com:80/oiling.htm",
+    "https://www.bullseyepistol.com/oiling.htm"
+  ],
+  "preferred_original_url": "https://www.bullseyepistol.com/oiling.htm",
+  "provenance": {
+    "body_variant_count": 2,
+    "capture_count": 4,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "9ced448e9d26c7bf",
+        "local_path": "archive/raw/wayback/files/20260522T142631Z/201009/article_candidate/bullseyepistol.com/20100918000255-oiling-79f4629aba1a0a83.htm",
+        "original_url": "http://bullseyepistol.com/oiling.htm",
+        "sha256": "a7d722b6bf22a8b9eada741611a812fe3e915f54ea49caf1ae0e4d5fb9ca619d",
+        "wayback_timestamp": "20100918000255"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "273db942fd199da6",
+        "local_path": "archive/raw/wayback/files/20260522T141108Z/201502/article_candidate/bullseyepistol.com_80/20150206132719-oiling-c4a4cd7dcd9c2041.htm",
+        "original_url": "http://bullseyepistol.com:80/oiling.htm",
+        "sha256": "b07f91146a46eefc6da9c8621f849e5060b3518c5a703f56f9c030cfc808806f",
+        "wayback_timestamp": "20150206132719"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "400a64beb0a8e7fa",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/202303/article_candidate/bullseyepistol.com/20230329142547-oiling-020656a3dbead043.htm",
+        "original_url": "http://bullseyepistol.com/oiling.htm",
+        "sha256": "b07f91146a46eefc6da9c8621f849e5060b3518c5a703f56f9c030cfc808806f",
+        "wayback_timestamp": "20230329142547"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "2f0e5f5837aa455a",
+        "local_path": "archive/raw/wayback/files/20260522T141108Z/202501/article_candidate/www.bullseyepistol.com/20250102144447-oiling-024f461a1a487dfc.htm",
+        "original_url": "https://www.bullseyepistol.com/oiling.htm",
+        "sha256": "b07f91146a46eefc6da9c8621f849e5060b3518c5a703f56f9c030cfc808806f",
+        "wayback_timestamp": "20250102144447"
+      }
+    ],
+    "selected_capture_id": "2f0e5f5837aa455a"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "Oiling the M-1911 Pistol",
+  "updated_at": null
+}

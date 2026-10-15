@@ -1,0 +1,65 @@
+{
+  "assets": [],
+  "body": {
+    "format": "html",
+    "html": "<div\nalign=\"center\"><center>\n\n<table border=\"0\" cellpadding=\"12\" cellspacing=\"0\" width=\"480\">\n    <tr>\n        <td align=\"center\" colspan=\"2\"><font color=\"#000000\"\n        size=\"4\" face=\"Tahoma\">Forms for League Match Operations:</font></td>\n    </tr>\n    <tr>\n        <td valign=\"top\" width=\"240\"><a href=\"SignupForm.pdf\"><font\n        size=\"4\" face=\"Tahoma\"><strong>Match Sign-up Sheet:</strong></font></a></td>\n        <td width=\"240\"><font size=\"2\" face=\"Tahoma\"><strong>Sign\n        up sheet for competitors to request their target and\n        relay for a match.</strong></font></td>\n    </tr>\n    <tr>\n        <td valign=\"top\" width=\"240\"><a\n        href=\"ILMOScorecard.pdf\"><font size=\"4\" face=\"Tahoma\"><strong>Match\n        Scorecards:</strong></font></a></td>\n        <td width=\"240\"><font size=\"2\" face=\"Tahoma\"><strong>Scorecards\n        for recording shot values for each competitor. </strong><em><strong>(Printed\n        2 scorecards per page.)</strong></em></font></td>\n    </tr>\n    <tr>\n        <td valign=\"top\" width=\"240\"><a href=\"NewShooter.pdf\"><font\n        size=\"4\" face=\"Tahoma\"><strong>New Shooter Info:</strong></font></a></td>\n        <td width=\"240\"><font size=\"2\" face=\"Tahoma\"><strong>Standardized\n        form for collecting information for new team members.</strong></font></td>\n    </tr>\n    <tr>\n        <td valign=\"top\" width=\"240\"><a\n        href=\"MidSeasonScorecard.pdf\"><font size=\"4\"\n        face=\"Tahoma\"><strong>League Tournament </strong><em><strong>&quot;900&quot;</strong></em><strong>\n        Scorecards:</strong></font></a></td>\n        <td width=\"240\"><font size=\"2\" face=\"Tahoma\"><strong>Scorecards\n        for use at the 90-shot League Tournaments </strong><em><strong>(i.e.\n        Mid-Season Tournament)</strong></em></font></td>\n    </tr>\n</table>\n</center></div>",
+    "text": "Forms for League Match Operations:\nMatch Sign-up Sheet:\nSign\nup sheet for competitors to request their target and\nrelay for a match.\nMatch\nScorecards:\nScorecards\nfor recording shot values for each competitor. (Printed\n2 scorecards per page.)\nNew Shooter Info:\nStandardized\nform for collecting information for new team members.\nLeague Tournament \"900\"\nScorecards:\nScorecards\nfor use at the 90-shot League Tournaments (i.e.\nMid-Season Tournament)"
+  },
+  "byline": null,
+  "context": {
+    "html_title": "League Forms",
+    "parent_url": null
+  },
+  "id": "imforms",
+  "images": [],
+  "links": [
+    {
+      "href": "SignupForm.pdf",
+      "resolved_url": "http://bullseyepistol.com/SignupForm.pdf",
+      "text": "Match Sign-up Sheet:"
+    },
+    {
+      "href": "ILMOScorecard.pdf",
+      "resolved_url": "http://bullseyepistol.com/ILMOScorecard.pdf",
+      "text": "Match Scorecards:"
+    },
+    {
+      "href": "NewShooter.pdf",
+      "resolved_url": "http://bullseyepistol.com/NewShooter.pdf",
+      "text": "New Shooter Info:"
+    },
+    {
+      "href": "MidSeasonScorecard.pdf",
+      "resolved_url": "http://bullseyepistol.com/MidSeasonScorecard.pdf",
+      "text": "League Tournament \"900\" Scorecards:"
+    }
+  ],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/imforms.htm"
+  ],
+  "preferred_original_url": "http://bullseyepistol.com/imforms.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 1,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "455276a68c028783",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201009/article_candidate/bullseyepistol.com/20100918031744-imforms-6061955ab885c0c9.htm",
+        "original_url": "http://bullseyepistol.com/imforms.htm",
+        "sha256": "35582469a0cb90097bb7d7dcac9356969a007bb35045e54cca4cb05b5be51285",
+        "wayback_timestamp": "20100918031744"
+      }
+    ],
+    "selected_capture_id": "455276a68c028783"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "League Forms",
+  "updated_at": null
+}

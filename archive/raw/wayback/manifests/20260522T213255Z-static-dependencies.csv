@@ -1,0 +1,17 @@
+index,status,http_status,content_type,timestamp,original,requested_url,classification,byte_length,sha256,blob_path,storage_mode,local_path,retrieval_url,retrieved_at,reason
+1,unresolved,,,,http://bullseyepistol.com/Handicap.exe,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+2,unresolved,,,,http://bullseyepistol.com/ILMOScorecard.pdf,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+3,unresolved,,,,http://bullseyepistol.com/MidSeasonScorecard.pdf,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+4,unresolved,,,,http://bullseyepistol.com/NewShooter.pdf,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+5,unresolved,,,,http://bullseyepistol.com/POM2004.zip,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+6,unresolved,,,,http://bullseyepistol.com/SignupForm.pdf,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+7,unresolved,,,,http://bullseyepistol.com/TeamAdmin2004.zip,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+8,unresolved,,,,http://bullseyepistol.com/advertise1.php,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+9,unresolved,,,,http://www.bullseyepistol.com/bubba.wav,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+10,unresolved,,,,http://www.bullseyepistol.com/help.htm,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+11,unresolved,,,,http://www.bullseyepistol.com:80/arpc.gif,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+12,unresolved,,,,http://www.bullseyepistol.com:80/canton.gif,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+13,unresolved,,,,http://www.bullseyepistol.com:80/dbgc.gif,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+14,unresolved,,,,http://www.bullseyepistol.com:80/delaware.gif,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+15,unresolved,,,,http://www.bullseyepistol.com:80/piasaapp.pdf,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx
+16,unresolved,,,,http://www.bullseyepistol.com:80/wlgc.gif,,,,,,,,,,no_matching_successful_capture_in_inventory_or_cdx

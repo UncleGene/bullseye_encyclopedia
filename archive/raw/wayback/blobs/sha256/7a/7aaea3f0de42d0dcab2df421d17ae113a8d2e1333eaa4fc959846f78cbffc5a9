@@ -1,0 +1,122 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage Express 2.0">
+<title>Piasa Rifle and Pistol Club</title>
+
+<style>
+<!--
+.frm {
+border:           2px #a00000 solid; 
+border-color:     #a00000 solid;
+}
+.frm2 A:link, .frm A:visited, .frm A:active {color: #c0c000;
+text-decoration:none;
+font-family: arial, helvetica;
+font-size: 18px;
+}
+.frm2 A:hover {text-decoration:underline;
+color: #ff0000;
+font-family: arial, helvetica;
+font-size: 18px;
+}
+.frm2 {
+color: #d8d8d8;
+font-family: arial, helvetica;
+font-size: 18px;
+}
+-->
+</style>
+
+</head>
+
+<body bgcolor="#000000" onLoad="mStation(1)">
+
+<script language="JavaScript" src="piajav1.js"></script>
+
+<script language="JavaScript">
+
+if (window == top) top.location.href = 'http://www.piasaclub.com/';
+
+pic1= new Image(327,28); 
+pic1.src="memtab1.gif";
+pic2= new Image(327,28); 
+pic2.src="memtab2.gif";
+
+
+var lfram = new Array();
+lfram[0] = "";
+lfram[1] = "<img src='memtab1.gif' width='327' height='28' onClick='mStation(2)'>";
+lfram[2] = "<img src='memtab2.gif' width='327' height='28' onClick='mStation(1)'>";
+
+var rfram = new Array();
+rfram[0] = "";
+rfram[1] = "Maintaining a secure section of the website allows us to deliver&nbsp;our members&nbsp;their monthly club information electronically. &nbsp;Thus, we have effectively reduced one of the largest club expenses, printing and postage. Not only is this fiscally responsible but also environmentally responsible as well.<br><br>With the restrictions of printing space lifted, we have been able to expand the content of our monthly publication to beyond the former limitations of just a few pages for the newsletter and event calendar to now include additional information.<br><br>Select the 'ACCESS' tab above to enter the secured section for Members Only."; 
+rfram[2] = "To Enter the Members-Only Area...<br><br><img src='protect.gif'><br><br><form  autocomplete='off'>Type the Characters Above : <input type='text' name='text1' id='box1' size='9'> &nbsp;(all lower case)<br><br>Type Your Access Password: <input type='password' name='text2' size='5'><br><br><br><input type='button' value='Check In!' name='Submit' onclick=javascript:validate(text1.value,text2.value)></form>";
+
+
+function mStation(i) {
+ltext.innerHTML = lfram[i];
+rtext.innerHTML = rfram[i];
+if (i==2) {
+var box = document.getElementById('box1');
+box.focus();
+}
+
+}
+
+
+
+</script>
+
+
+<div align="center"><center>
+<table border="0" cellpadding="0" cellspacing="0" width="948"><tr><td background="bricks2.jpg">&nbsp;<br>&nbsp;<br></td></tr></table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="948">
+    <tr>
+        <td width="100"><!--webbot bot="ImageMap" startspan
+        rectangle=" (34,28) (100, 106)  pi-b.htm"
+        polygon=" (34,110) (34,185) (144,185) (143,163) (86,163) (103,142) (102,110) pi-c.htm"
+        rectangle=" (33,187) (118, 272)  pi-d.htm"
+        rectangle=" (33,274) (118, 359)  pi-e.htm"
+        polygon=" (33,360) (33,446) (138,446) (137,418) (100,418) (100,360) pi-f.htm"
+        polygon=" (33,448) (33,529) (142,529) (141,501) (95,501) (95,448) pi-g.htm"
+        src="navigation.jpg" border="0" width="175" height="560"
+        style="border-style:none" --><map id="FrontPageMap0" name="FrontPageMap0">
+<area shape="rect" alt="" coords="34,28,136,106" href="pi-b.htm" title="" />
+<area shape="poly" alt="" coords="33,109,34,184,139,184,138,161,139,109,137,109,138,108" href="pi-c.htm" title="" />
+<area shape="rect" alt="" coords="33,187,138,273" href="pi-d.htm" title="" />
+<area shape="rect" alt="" coords="33,274,138,359" href="pi-e.htm" title="" />
+<area shape="poly" alt="" coords="33,360,33,446,138,446,137,418,138,361,100,360" href="pi-f.htm" title="" />
+<area shape="poly" alt="" coords="33,448,33,529,142,529,141,501,142,447,95,448" href="pi-g.htm" title="" />
+<area shape="default" nohref="nohref" alt="" />
+</map>
+<img src="navigation.jpg" width="175" height="560" style="border-style:none" usemap="#FrontPageMap0"><!--webbot bot="ImageMap"
+        i-checksum="43473" endspan --></td>
+        <td align="center" valign="top" background="bricks2.jpg" nowrap><p align="left">&nbsp;<br>
+        &nbsp;&nbsp;&nbsp; <img src="formembers.jpg" width="259" height="61"></p>
+        <table border="0" cellpadding="0" cellspacing="0" width="600">
+            <tr>
+                <td valign="top" halign="left"><div id="ltext" onMouseOver="style.cursor='hand'; return true" onMouseOut="style.cursor='hand'; return true"><img src="memtab1.gif" width="328" height="28"></div></td>
+                <td><img src="spacer.gif" width="2" height="28"></td>
+            </tr>
+            <tr>
+                <td bgcolor="#202020" class="frm" valign="top">
+<table width="100%" cellpadding="25" cellspacing="0" border="0"><tr><td class="frm2" bgcolor="#202020"><div id="rtext">&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</div></td></tr></table>
+
+</td>
+                <td><img src="spacer.gif" width="2" height="360"></td>
+            </tr>
+        </table>
+        </td>
+    </tr>
+
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="948"><tr><td background="bricks2.jpg">&nbsp;<br>&nbsp;<br>&nbsp;<br></td></tr></table>
+<table border="0" cellpadding="0" cellspacing="0" width="948"><tr><td align="center" style="color:white; font-family:arial; font-size:10px;">Designed by John A. Dreyer, &copy; Copyrighted 2012</td></tr></table>
+</center></div>
+</body>
+</html>

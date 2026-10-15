@@ -1,0 +1,44 @@
+{
+  "assets": [],
+  "body": {
+    "format": "html",
+    "html": "<p align=\"center\"><font color=\"#000000\" size=\"4\" face=\"Tahoma\">\nIf you would like the most current update of the standings\ndelivered automatically to your email address every week, you may register for this\nservice by entering the information requested below: </font></p>\n\n<div align=\"center\"><table><tr><td>\n<FORM ACTION=\"http://formmailto.com/cgi-bin/odbicb.exe/formmailto/odb/sendform.odb\" METHOD=\"post\">\n<INPUT TYPE=\"hidden\" NAME=\"form\" VALUE=\"bullseyepistol/orderad\">\n<TABLE width='450'>\n<INPUT NAME=\"Hello\" TYPE=\"hidden\" SIZE=32 VALUE=\"Kirk!\">\n<INPUT NAME=\"Register me for\" TYPE=\"hidden\" SIZE=32 VALUE=\"IL-MO League Email Standings\">\n<TR><TD ALIGN=left><FONT FACE='tahoma' SIZE=4 COLOR='#000000'>\n<B>Full Name</B>\n<font color=red>*</font><INPUT NAME=\"check\" TYPE=\"hidden\"  VALUE=\"R=Full Name&#132;Name\">\n</FONT></TD>\n<TD><FONT FACE='tahoma' SIZE=4 COLOR='#000000'>\n<INPUT NAME=\"Name\" TYPE=\"text\" SIZE=24 VALUE=\"\">\n</FONT></TD></TR>\n<TR><TD ALIGN=left><FONT FACE='tahoma' SIZE=4 COLOR='#000000'>\n<B>Email Address</B>\n<font color=red>*</font><INPUT NAME=\"check\" TYPE=\"hidden\"  VALUE=\"R=Email Address&#132;Email\">\n</FONT></TD>\n<TD><FONT FACE='tahoma' SIZE=4 COLOR='#000000'>\n<INPUT NAME=\"Email\" TYPE=\"text\" SIZE=33 VALUE=\"\">\n<INPUT NAME=\"check\" TYPE=\"hidden\"  VALUE=\"5=Email Address&#132;Email\">\n</FONT></TD></TR>\n</TABLE>\n<P><INPUT TYPE=\"submit\" VALUE=\"Register\">\n</FORM></td></tr></table>\n\n<P><font color=\"#000000\" size=\"4\" face=\"Tahoma\">This is a free service provided by Secretary/Treasurer, Kirk Yates</font></p>\n\n</div>",
+    "text": "If you would like the most current update of the standings\ndelivered automatically to your email address every week, you may register for this\nservice by entering the information requested below:\nFull Name\n*\nEmail Address\n*\nThis is a free service provided by Secretary/Treasurer, Kirk Yates"
+  },
+  "byline": null,
+  "context": {
+    "html_title": "Il-Mo Current Season Standings",
+    "parent_url": null
+  },
+  "id": "imstand",
+  "images": [],
+  "links": [],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/imstand.htm"
+  ],
+  "preferred_original_url": "http://bullseyepistol.com/imstand.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 1,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "bea16eb4921386fa",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201009/article_candidate/bullseyepistol.com/20100918031730-imstand-81c83069cc1514aa.htm",
+        "original_url": "http://bullseyepistol.com/imstand.htm",
+        "sha256": "163cf730667cf7e971a284f2da90fe2aa81440957fe35d75c79f70d91be3d8ec",
+        "wayback_timestamp": "20100918031730"
+      }
+    ],
+    "selected_capture_id": "bea16eb4921386fa"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "Il-Mo Current Season Standings",
+  "updated_at": null
+}

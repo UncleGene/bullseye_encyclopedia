@@ -1,0 +1,65 @@
+{
+  "assets": [],
+  "body": {
+    "format": "html",
+    "html": "<div\nalign=\"center\"><center>\n\n<table border=\"0\" cellpadding=\"12\" cellspacing=\"0\" width=\"480\">\n    <tr>\n        <td align=\"center\" colspan=\"2\"><font color=\"#000000\"\n        size=\"4\" face=\"Tahoma\">Current Board of League Officers:</font></td>\n    </tr>\n    <tr>\n        <td valign=\"top\" width=\"240\"><script>eMail1();</script></td>\n        <td width=\"240\"><script>eMail2();</script><br><font size=\"2\" face=\"Tahoma\">2227 Bentley Manor Dr.<br>\n        Manchester, MO 63026</font><font face=\"Tahoma\"><br>\n        <strong>636-825-6727</strong></font></td>\n    </tr>\n    <tr>\n        <td valign=\"top\" width=\"240\"><a href=\"mailto:kirk.yates@usa.net\"><font size=\"4\" face=\"Tahoma\"><strong>Secretary-Treasurer:</strong></font></a></td>\n        <td width=\"240\"><a href=\"mailto:kirk.yates@usa.net\"><font\n        size=\"4\" face=\"Tahoma\"><strong>Kirk Yates</strong></font></a><font\n        face=\"Tahoma\"><br>\n        </font><font size=\"2\" face=\"Tahoma\">102 Hunters Lake Ct<br>\n        Eureka,&nbsp;MO&nbsp;63025-1049</font><font face=\"Tahoma\"><br>\n        <strong>636-587-2858 </strong></font></td>\n    </tr>\n    <tr>\n        <td valign=\"top\" width=\"240\"><a href=\"mailto:kschmitt@jcn.net\"><font size=\"4\" face=\"Tahoma\"><strong>Executive\n        Officer:</strong></font></a></td>\n        <td width=\"240\"><a href=\"mailto:kschmitt@jcn.net\"><font\n        size=\"4\" face=\"Tahoma\"><strong>Karl Schmitt</strong></font></a><font\n        face=\"Tahoma\"><br>\n        </font><font size=\"2\" face=\"Tahoma\">203 Dehner Rd,<br>\n        Hillsboro, MO&nbsp;63050-1936&nbsp;</font><font\n        face=\"Tahoma\"><br>\n        <strong>636-797-4203</strong></font></td>\n    </tr>\n</table>\n</center></div>",
+    "text": "Current Board of League Officers:\neMail1();\neMail2();\n2227 Bentley Manor Dr.\nManchester, MO 63026\n636-825-6727\nSecretary-Treasurer:\nKirk Yates\n102 Hunters Lake Ct\nEureka, MO 63025-1049\n636-587-2858\nExecutive\nOfficer:\nKarl Schmitt\n203 Dehner Rd,\nHillsboro, MO 63050-1936\n636-797-4203"
+  },
+  "byline": null,
+  "context": {
+    "html_title": "Il-Mo Executive Officers",
+    "parent_url": null
+  },
+  "id": "imadmin",
+  "images": [],
+  "links": [
+    {
+      "href": "mailto:kirk.yates@usa.net",
+      "resolved_url": "mailto:kirk.yates@usa.net",
+      "text": "Secretary-Treasurer:"
+    },
+    {
+      "href": "mailto:kirk.yates@usa.net",
+      "resolved_url": "mailto:kirk.yates@usa.net",
+      "text": "Kirk Yates"
+    },
+    {
+      "href": "mailto:kschmitt@jcn.net",
+      "resolved_url": "mailto:kschmitt@jcn.net",
+      "text": "Executive Officer:"
+    },
+    {
+      "href": "mailto:kschmitt@jcn.net",
+      "resolved_url": "mailto:kschmitt@jcn.net",
+      "text": "Karl Schmitt"
+    }
+  ],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/imadmin.htm"
+  ],
+  "preferred_original_url": "http://bullseyepistol.com/imadmin.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 1,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "3c48102e51a48563",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201009/article_candidate/bullseyepistol.com/20100918031808-imadmin-62284a2bc94d7637.htm",
+        "original_url": "http://bullseyepistol.com/imadmin.htm",
+        "sha256": "7b737632fce6ee06ae4c4b75dc5b82c9b0c1fa2ac3bd8c3e320bc81c7a4d0971",
+        "wayback_timestamp": "20100918031808"
+      }
+    ],
+    "selected_capture_id": "3c48102e51a48563"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "Il-Mo Executive Officers",
+  "updated_at": null
+}

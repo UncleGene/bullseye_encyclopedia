@@ -1,0 +1,18 @@
+{
+  "excluded_regions": [
+    "head",
+    "script header/footer",
+    "global style",
+    "no ARTICLE BEGINS marker"
+  ],
+  "id": "bulseyel",
+  "local_path": "archive/raw/wayback/files/20260522T143136Z/201009/article_candidate/bullseyepistol.com/20100918023604-bulseyel-dcbdb33fd4da7733.htm",
+  "navigation_links": [],
+  "original_url": "http://bullseyepistol.com/bulseyel.htm",
+  "source_capture_id": "f13de395441c337b",
+  "status": "page_shell",
+  "template_markers": [
+    "no ARTICLE BEGINS/ENDS marker"
+  ],
+  "wayback_timestamp": "20100918023604"
+}

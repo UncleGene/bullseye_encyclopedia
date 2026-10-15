@@ -1,0 +1,249 @@
+{
+  "assets": [
+    "asset-0a7cba4d3c8ecaaa",
+    "asset-228e31c273cc8289",
+    "asset-2c2fdf8470d809da",
+    "asset-34eb8e0f0535ecdb",
+    "asset-45d2eff2d62edb49",
+    "asset-5e10df7b80ca137a",
+    "asset-7aef4db9959ca1ab",
+    "asset-89c5282ef666d822",
+    "asset-94c6bd15fda3f5ea",
+    "asset-b65daea03cf61cf9",
+    "asset-bfd5a619326e794a",
+    "asset-c399b39cb9e78154",
+    "asset-dbce47c3d1dd4e5a",
+    "asset-dee708ce8f9189d9",
+    "asset-e59487d21855f62b",
+    "asset-eccf232a11e4f244",
+    "asset-f269a83cb7240a0f"
+  ],
+  "body": {
+    "format": "html",
+    "html": "<p\nstyle=\"font-family:arial,helvetica; font-size:20px; font-weight:bold;\">INTRODUCTION</p>\n\n<p>Over ten years ago, I began writing a troubleshooting article\ndedicated to solving a very common riddle: &quot;Why has my .22\ncaliber pistol suddenly developed an urge to occasionally\nmalfunction?&quot; The inspiration for the piece was my own\nexperience of developing an occasional alibi with my Model 41\nafter two years of literally <em>flawless</em> performance.\nUntimely perhaps, my problems first appeared during the NMC at\nthe 1999 Illinois State Championship and just seemed to recur\nmore and more often over the next several months.</p>\n\n<p>This is undoubtedly one of the most frustrating experiences a\nshooter might have, especially if your pistol has run like a\nclock for years. In my opinion, it is imperative that you have\ncomplete confidence in your pistol to function 100% of the time\nduring strings of sustained fire. After weeks and weeks of\ncleaning, measuring, testing and replacing parts, I finally\nsolved the mystery with my pistol. Better late than never, I want\nto share my experiences with you, as well as other information on\nthis subject that I have collected over the past decade.</p>\n\n<p\nstyle=\"font-family:arial,helvetica; font-size:20px; font-weight:bold;\">TYPES\nOF MALFUNCTIONS</p>\n\n<p>You can generally classify all alibis into one of three types:\na misfeed, failure to eject, or a misfire.</p>\n\n<p align=\"center\"><img src=\"nofeed.jpg\" hspace=\"2\" vspace=\"2\"\nwidth=\"290\" height=\"186\"> <img src=\"stovepip.jpg\" hspace=\"2\"\nvspace=\"2\" width=\"275\" height=\"186\"> <img src=\"goodhit.jpg\"\nhspace=\"2\" vspace=\"2\" width=\"130\" height=\"186\"></p>\n\n<p\nstyle=\"font-family:arial,helvetica; font-size:20px; font-weight:bold;\">RULE\nOUT THE OBVIOUS</p>\n\n<p>Before we go any further, if you are experiencing function\nissues, you must be absolutely sure that the pistol is <u>clean</u>.\nA dirty gun is the cause of possibly 90% of mechanical function\nproblems. And just for the record, I had heard many of the\nbullseye <em>old-timers</em> claim that, &quot;cleaning your .22\npistol does more harm than good.&quot; Most likely because they\nhad always used improper methods in cleaning their pistols! To\nthe contrary, a regular cleaning routine is paramount to accuracy\nand reliability.</p>\n\n<p align=\"center\"><img src=\"breech.jpg\" hspace=\"2\" vspace=\"2\"\nwidth=\"350\" height=\"224\"> <img src=\"boltface.jpg\" hspace=\"2\"\nvspace=\"2\" width=\"350\" height=\"224\"></p>\n\n<p align=\"left\"><img src=\"cutaway2.jpg\" align=\"right\" hspace=\"6\"\nvspace=\"2\" width=\"379\" height=\"224\">Recognize that crud (in the\nform of primer, powder and bullet wax residue) will naturally\nbuild up within the active parts of the pistol. After even a\nshort time of accumulation, it will impede the ability of the\npistol to function correctly and efficiently. Furthermore, low\ntemperatures have a way of magnifying the effects of accumulated\ncrud by making it less pliable.</p>\n\n<p align=\"left\">Crud at the breech or bolt face or in the chamber\nwill prevent the the cartridge to load fully and will leave the\nits rim unsupported. This will cause a light firing pin strike\nand possibly a misfire.</p>\n\n<p align=\"left\">Crud on the inside, the follower or the lips of\nmagazines may cause a misfeed. Crud on the feed ramp or in the\nbolt face recess or extractor groove can also cause a misfeed.</p>\n\n<p align=\"left\">Crud on the top of the slide or recoil rod will\npossibly slow down the blowback action and cause either feeding\nor ejection problems.</p>\n\n<p>To read an excellent article by Larry Carter on proper\ncleaning and maintanance of a .22 caliber pistol, click <a\nhref=\"22care.htm\">HERE</a>.</p>\n\n<p\nstyle=\"font-family:arial,helvetica; font-size:20px; font-weight:bold;\">THE\nAMMUNITION</p>\n\n<p align=\"left\">SAAMI (The Sporting Arms and Ammunition\nManufacturers Institute) founded in 1926, provides and maintains\na database of cartridge and chamber specifications for the many\nfirearms calibers. As shown below, here are the SAAMI\nspecifications for the .22 Long Rifle Match cartridge.</p>\n\n<p align=\"center\"><img src=\"saami.jpg\" width=\"600\" height=\"291\"></p>\n\n<p>And while these dimensions are <em>not</em> vague, it is clear\nthat they do allow for tolerance variations in application.</p>\n\n<p><img src=\"ammocomp.jpg\" align=\"right\" hspace=\"2\" vspace=\"2\"\nwidth=\"341\" height=\"255\">In the image on the right are six\npopular cartridges side-by-side. At a glance, you can easily see\nthat each cartridge has a specific yet differing bullet profile\nand set of dimensions. Above each cartridge is a set of colored\ndimension markers: the blue line indicating overall cartridge\nlength and red indicating shoulder to rim length. As their red\nlines show, CCI Standard and Eley Target have a longer shoulder\nlength than the other cartridges.</p>\n\n<p>Similarly, pistol manufacturers oftentimes chamber their\npistols slightly short to enhance accuracy. For example, Ruger\ntarget pistols and Clark replacement barrels have typically tight\nchamber dimensions. </p>\n\n<p>This combination of long bullet shoulder and short chamber can\nprevent a cartridge from chambering completely, keeping the bolt\nfrom closing fully. In cases like this, all appears OK until the\nhammer falls. The inertia of the hammer closes the bolt and\nforces the cartridge the rest of the way into the chamber, but\nlacks the energy to cause the firing pin to dent the unsupported\ncase rim. The result is a misfire.</p>\n\n<p>While the cartridge dimensions will not change from\nday-to-day, there is an element of cartridge design that does\nchange with the ambient temperature - the lubricant bullet wax.\nEach brand of cartridge is coated with a different type and\nquantity of lubricant wax. Some brands like Remington use a thin\ncoat of a firm wax. Others like Eley use a heavy coat of a softer\ntype of wax. In the accuracy department, the heavy soft wax seems\nto be the winner. However, be advised that cold weather will\ncause that soft wax to firm up and effectively increase the\ndimensions of the cartridge - thus, creating feeding problems.\nBut worry not, the solution is easy. In cold shooting conditions,\nkeep your ammunition in your pocket to allow your body heat to\nkeep the cartridges relatively warm. Blowing once or twice on a\nloaded magazine before inserting it into the pistol is also a\npopular solution that works well.</p>\n\n<p><img src=\"goodhit2.jpg\" align=\"right\" hspace=\"6\" vspace=\"2\"\nwidth=\"188\" height=\"120\">And now the last, but most notorious\ncontribution of a particular cartridge to reliability: primer\ncompound. If you are experiencing occasional misfires and the\nstruck rim of these have a good firing pin dent such as that in\nthe image on the right, they can be ruled as <em>true</em>\nmisfires or &quot;duds.&quot; It is entirely the fault of the\ncartridge and not the pistol.</p>\n\n<p>In more than 15 years of using Eley ammunition I have honestly\nnever experienced a dud, a credit to their industry leading\npriming method. Other brands can boast this same reputation.\nHowever, to the contrary, some domestic brands such as Remington\nand Winchester are almost <em>expected</em> to have inconsistent\npriming and at <em>least</em> a few duds in every 100 rounds.</p>\n\n<p\nstyle=\"font-family:arial,helvetica; font-size:20px; font-weight:bold;\">THE\nMAGAZINES</p>\n\n<p>The health of your magazines has a huge impact on the pistol's\nfunctionality. The magazine can cause a variety of manfunctions\nincluding feeding problems and even failures to eject. Because of\nthe critical nature of the magazine, I recommend that you take\ngenuine precautions to keep them clean and healthy. For starters,\nI suggest using the Gun Box Magnet to keep your magazines secure\ninstead of just tossing them into your pistol box.</p>\n\n<p>A properly <em>tuned</em> magazine is truly important for 100%\nreliability in function. There really should not be much surprise\nin this when you consider that they are merely made of stamped\nand bent sheet metal. To qualify this theory, I purchased six new\nmagazines directly from Smith and Wesson and, while all were\nexcellent in quality, each had slightly different dimensions at\nthe lips. And, each functioned differently in the pistol as well.</p>\n\n<p>Tuning involves tweaking the top-front corner of the rear\nmagazine lips in order that it makes contact with the brass of\nthe top cartridge. The naked eye is the best gauge for this.\nCheck for lip to cartridge contact and empty the magazine to make\ncorrections if needed, pinching gently with pliars. Then repeat\nthe process as needed. When properly tuned, the top cartridge\nwill stay in its proper place, not too high and not too low.</p>\n\n<p align=\"center\"><img src=\"clipview.jpg\" hspace=\"2\" vspace=\"2\"\nwidth=\"350\" height=\"224\"> <img src=\"toohigh.jpg\" hspace=\"2\"\nvspace=\"2\" width=\"350\" height=\"224\"></p>\n\n<p align=\"left\">Because tolerances in the specifications allow\nfor variations in cartridge dimensions, different brands of\ncartridges will fit against the same magazine lips differently.\nIn other words, if recently changing ammunition brands has caused\nimmediate feeding malfunctions, the solution might be a simple a\ntuning of the magazines - and truly no fault of the ammunition.</p>\n\n<p align=\"left\"><img src=\"magrange.jpg\" align=\"right\" hspace=\"4\"\nvspace=\"2\" width=\"422\" height=\"172\">Because magazine construction\nis done by merely stamping them from sheet metal, tiny burrs,\nslight defects on the edges of stamped cutouts, sometimes form on\nthe inside of the magazine during the manufacturing process.\nThese burrs can make contact with the internal spring or follower\nand cause it to stutter. This stuttering will cause a feeding\nproblem.</p>\n\n<p align=\"left\">Test your magazines for smooth movement\nthroughout its five-round range. If you can feel hesitation as\nthe follower moves up or down, you may need to disassemble the\nmagazine and inspect the inside. A fine sandpaper of the 400-600\ngrit range, wrapped around a pencil, will easily clean up any\nburrs inside the magazine that may be catching the spring. Be\nsure that the magazine is <em>completely</em> clean of any\nfilings before reassembling it.</p>\n\n<p\nstyle=\"font-family:arial,helvetica; font-size:20px; font-weight:bold;\">EXTRACTOR\nAND EJECTOR</p>\n\n<p>Often overlooked for importance in functionality, the\nextractor has a critical role in both the <em>extraction</em> and\n<em>feeding</em> processes. The extractor is commisioned with a\nvery important duty: hold the blowing-back spent case in the\ncorrect horizontal position against the bolt-face until it\nstrikes the ejector and flips to the right at the <em>correct</em>\nangle, exiting through the ejection port. Without a sharp and\nsnug extractor on the case rim, the case will spin off-axis and\nhave difficulty getting out of the chamber and/or hitting the\nejector correctly. The spent case might also spin downward and\nimpede the top cartridge in the magazine from entering the\nchamber.</p>\n\n<p align=\"center\"><img src=\"extractcomp.jpg\" width=\"600\"\nheight=\"180\"></p>\n\n<p>As shown above on the left, this worn and misshapen extractor\nwill clearly not hold the newly spent case in its proper position\nat ignition. Replacement with a new extractor claw would be the\nsolution - but the new extractor will need to be prepared by\nchecking and adjusting its dimensions against the old extractor\nand honing the claw a sharp point with a file or other abrasive.</p>\n\n<p>The ejector on most pistols is a pretty maintenance-free part.\nHowever, some pistols (especially the Ruger) are plagued with\nejectors that come loose and no longer function correctly. A\nloose ejector may cause excessive drag on the backward and\nforward motion of the bolt causing either ejection or feeding\nproblems. A damaged or bent ejector might also cause an\nextraction problem. A quick inspection of the ejector in the\nframe is well worth it.</p>\n\n<p\nstyle=\"font-family:arial,helvetica; font-size:20px; font-weight:bold;\">CHAMBER\nPROFILE AND CONDITION</p>\n\n<p>Dry firing is an undisputed essential in the training process\nfor competitive shooting. However, in some cases, it might be\ndetrimental to the health of your .22 caliber pistol. The travel\non many firing pins is longer than necessary and when sent\nflying, it will actually make contact with the metal of the\nchamber edge if a cartridge is not present.</p>\n\n<p>This condition of excess firing pin travel may also slowly\ndevelop over time. A pistol whose firing pin had never touched\nthe breech of the barrel when new may slowly make it there as the\nfiring pin or the firing pin stop within the bolt slowly wears.</p>\n\n<p>The ding that may have formed on the edge of the chamber will\nforce metal inwards, thus shrinking the dimensions of the chamber\nopening at that point. This can cause both feeding and extraction\nproblems.</p>\n\n<p align=\"center\"><img src=\"dingdong.jpg\" hspace=\"2\" width=\"350\"\nheight=\"234\"> <img src=\"menck.jpg\" hspace=\"2\" width=\"350\"\nheight=\"234\"></p>\n\n<p>But all is not lost. Available from Brownells is the Menck\nChamber Iron, a tool that allows you to swage out the ding, and\nrestore the original round profile of the chamber. It is\ninexpensive and easy-to-use.</p>\n\n<p>To prevent problems from ever occurring, a best practice is to\nuse a <em>dummy-plug</em> in the chamber as you dry fire. They\nare commercially available, but you can easily make your own. I\nsuggest collecting some spent cases that you have fired (from\nthis pistol or they won't fit) and grinding off one side of the\nrim to make a superb dummy-plug at no cost. Insert the case into\nthe chamber with the grinded-off side facing the extractor and\nthe case will not be extracted when you rack the slide to cock\nthe hammer. I have used the same case for as many as 50 clicks.</p>\n\n<p\nstyle=\"font-family:arial,helvetica; font-size:20px; font-weight:bold;\">RECOIL\nGUIDE ROD AND SPRING</p>\n\n<p><img src=\"rod.jpg\" align=\"right\" hspace=\"0\" width=\"440\"\nheight=\"120\">The condition of the recoil guide rod is quite\nimportant. If it is rusty, dinged up or has an otherwise rough\nsurface, the recoil spring will drag upon it and slow the cycling\nslide in both its backward and forward motions. A real example is\na 1971 pristine Model 41 that I had purchased from a frustrated\nowner for less than half its street value. In over 30 years, he\njust could not get it to function, so it sat mostly unfired in\nhis gunsafe. After taking a chance and buying it, I discovered\nthat the recoil guide rod had circular machining marks from one\nend to the other, the single cause of the extraction problems.\nPlacing the rod in a drill press and sanding it smooth with 400\ngrit sandpaper solved all problems.</p>\n\n<p>And finally, last but not least, consideration of the recoil\nspring. While the recoil spring is oftentimes the first thing\nthat gets examined in the case of malfunctions, in this primer,\nit is the last. Many a shooter has a collection of various\nlengths and weights of types of recoil springs for his prized\npistol. But they were likely purchased (at high expense) to\nremedy a problem caused by some other reason.</p>\n\n<p>However, recoil springs do have a real life-span. As shown\nbelow, a recoil spring will compress and shorten over time.</p>\n\n<p align=\"center\"><img src=\"twospring.jpg\" align=\"middle\"\nwidth=\"398\" height=\"172\"></p>\n\n<p>It is quite likely that the older spring, in its shortened and\ncompressed state, may be responsible for feeding problems. In\nthis situation, a replacement with a new factory spring is\nprobably the best solution. Pouring out extra cash on specialty\nsprings such as the Wolff variable-weight springs is not\nnecessary with a .22 caliber pistol.</p>\n\n<p\nstyle=\"font-family:arial,helvetica; font-size:20px; font-weight:bold;\">FINALE</p>\n\n<p>Once again, complete confidence in the function performance of\nyour pistol is essential for confidence on the firing line. I\nhope that this document has provided you with the knowledge to\nsolve any problem you might have encountered, and give you that\nneeded confidence!</p>\n\n<p><script type=\"text/javascript\">copyNotice();</script></p>",
+    "text": "INTRODUCTION\nOver ten years ago, I began writing a troubleshooting article\ndedicated to solving a very common riddle: \"Why has my .22\ncaliber pistol suddenly developed an urge to occasionally\nmalfunction?\" The inspiration for the piece was my own\nexperience of developing an occasional alibi with my Model 41\nafter two years of literally flawless performance.\nUntimely perhaps, my problems first appeared during the NMC at\nthe 1999 Illinois State Championship and just seemed to recur\nmore and more often over the next several months.\nThis is undoubtedly one of the most frustrating experiences a\nshooter might have, especially if your pistol has run like a\nclock for years. In my opinion, it is imperative that you have\ncomplete confidence in your pistol to function 100% of the time\nduring strings of sustained fire. After weeks and weeks of\ncleaning, measuring, testing and replacing parts, I finally\nsolved the mystery with my pistol. Better late than never, I want\nto share my experiences with you, as well as other information on\nthis subject that I have collected over the past decade.\nTYPES\nOF MALFUNCTIONS\nYou can generally classify all alibis into one of three types:\na misfeed, failure to eject, or a misfire.\nRULE\nOUT THE OBVIOUS\nBefore we go any further, if you are experiencing function\nissues, you must be absolutely sure that the pistol is clean.\nA dirty gun is the cause of possibly 90% of mechanical function\nproblems. And just for the record, I had heard many of the\nbullseye old-timers claim that, \"cleaning your .22\npistol does more harm than good.\" Most likely because they\nhad always used improper methods in cleaning their pistols! To\nthe contrary, a regular cleaning routine is paramount to accuracy\nand reliability.\nRecognize that crud (in the\nform of primer, powder and bullet wax residue) will naturally\nbuild up within the active parts of the pistol. After even a\nshort time of accumulation, it will impede the ability of the\npistol to function correctly and efficiently. Furthermore, low\ntemperatures have a way of magnifying the effects of accumulated\ncrud by making it less pliable.\nCrud at the breech or bolt face or in the chamber\nwill prevent the the cartridge to load fully and will leave the\nits rim unsupported. This will cause a light firing pin strike\nand possibly a misfire.\nCrud on the inside, the follower or the lips of\nmagazines may cause a misfeed. Crud on the feed ramp or in the\nbolt face recess or extractor groove can also cause a misfeed.\nCrud on the top of the slide or recoil rod will\npossibly slow down the blowback action and cause either feeding\nor ejection problems.\nTo read an excellent article by Larry Carter on proper\ncleaning and maintanance of a .22 caliber pistol, click HERE.\nTHE\nAMMUNITION\nSAAMI (The Sporting Arms and Ammunition\nManufacturers Institute) founded in 1926, provides and maintains\na database of cartridge and chamber specifications for the many\nfirearms calibers. As shown below, here are the SAAMI\nspecifications for the .22 Long Rifle Match cartridge.\nAnd while these dimensions are not vague, it is clear\nthat they do allow for tolerance variations in application.\nIn the image on the right are six\npopular cartridges side-by-side. At a glance, you can easily see\nthat each cartridge has a specific yet differing bullet profile\nand set of dimensions. Above each cartridge is a set of colored\ndimension markers: the blue line indicating overall cartridge\nlength and red indicating shoulder to rim length. As their red\nlines show, CCI Standard and Eley Target have a longer shoulder\nlength than the other cartridges.\nSimilarly, pistol manufacturers oftentimes chamber their\npistols slightly short to enhance accuracy. For example, Ruger\ntarget pistols and Clark replacement barrels have typically tight\nchamber dimensions.\nThis combination of long bullet shoulder and short chamber can\nprevent a cartridge from chambering completely, keeping the bolt\nfrom closing fully. In cases like this, all appears OK until the\nhammer falls. The inertia of the hammer closes the bolt and\nforces the cartridge the rest of the way into the chamber, but\nlacks the energy to cause the firing pin to dent the unsupported\ncase rim. The result is a misfire.\nWhile the cartridge dimensions will not change from\nday-to-day, there is an element of cartridge design that does\nchange with the ambient temperature - the lubricant bullet wax.\nEach brand of cartridge is coated with a different type and\nquantity of lubricant wax. Some brands like Remington use a thin\ncoat of a firm wax. Others like Eley use a heavy coat of a softer\ntype of wax. In the accuracy department, the heavy soft wax seems\nto be the winner. However, be advised that cold weather will\ncause that soft wax to firm up and effectively increase the\ndimensions of the cartridge - thus, creating feeding problems.\nBut worry not, the solution is easy. In cold shooting conditions,\nkeep your ammunition in your pocket to allow your body heat to\nkeep the cartridges relatively warm. Blowing once or twice on a\nloaded magazine before inserting it into the pistol is also a\npopular solution that works well.\nAnd now the last, but most notorious\ncontribution of a particular cartridge to reliability: primer\ncompound. If you are experiencing occasional misfires and the\nstruck rim of these have a good firing pin dent such as that in\nthe image on the right, they can be ruled as true\nmisfires or \"duds.\" It is entirely the fault of the\ncartridge and not the pistol.\nIn more than 15 years of using Eley ammunition I have honestly\nnever experienced a dud, a credit to their industry leading\npriming method. Other brands can boast this same reputation.\nHowever, to the contrary, some domestic brands such as Remington\nand Winchester are almost expected to have inconsistent\npriming and at least a few duds in every 100 rounds.\nTHE\nMAGAZINES\nThe health of your magazines has a huge impact on the pistol's\nfunctionality. The magazine can cause a variety of manfunctions\nincluding feeding problems and even failures to eject. Because of\nthe critical nature of the magazine, I recommend that you take\ngenuine precautions to keep them clean and healthy. For starters,\nI suggest using the Gun Box Magnet to keep your magazines secure\ninstead of just tossing them into your pistol box.\nA properly tuned magazine is truly important for 100%\nreliability in function. There really should not be much surprise\nin this when you consider that they are merely made of stamped\nand bent sheet metal. To qualify this theory, I purchased six new\nmagazines directly from Smith and Wesson and, while all were\nexcellent in quality, each had slightly different dimensions at\nthe lips. And, each functioned differently in the pistol as well.\nTuning involves tweaking the top-front corner of the rear\nmagazine lips in order that it makes contact with the brass of\nthe top cartridge. The naked eye is the best gauge for this.\nCheck for lip to cartridge contact and empty the magazine to make\ncorrections if needed, pinching gently with pliars. Then repeat\nthe process as needed. When properly tuned, the top cartridge\nwill stay in its proper place, not too high and not too low.\nBecause tolerances in the specifications allow\nfor variations in cartridge dimensions, different brands of\ncartridges will fit against the same magazine lips differently.\nIn other words, if recently changing ammunition brands has caused\nimmediate feeding malfunctions, the solution might be a simple a\ntuning of the magazines - and truly no fault of the ammunition.\nBecause magazine construction\nis done by merely stamping them from sheet metal, tiny burrs,\nslight defects on the edges of stamped cutouts, sometimes form on\nthe inside of the magazine during the manufacturing process.\nThese burrs can make contact with the internal spring or follower\nand cause it to stutter. This stuttering will cause a feeding\nproblem.\nTest your magazines for smooth movement\nthroughout its five-round range. If you can feel hesitation as\nthe follower moves up or down, you may need to disassemble the\nmagazine and inspect the inside. A fine sandpaper of the 400-600\ngrit range, wrapped around a pencil, will easily clean up any\nburrs inside the magazine that may be catching the spring. Be\nsure that the magazine is completely clean of any\nfilings before reassembling it.\nEXTRACTOR\nAND EJECTOR\nOften overlooked for importance in functionality, the\nextractor has a critical role in both the extraction and\nfeeding processes. The extractor is commisioned with a\nvery important duty: hold the blowing-back spent case in the\ncorrect horizontal position against the bolt-face until it\nstrikes the ejector and flips to the right at the correct\nangle, exiting through the ejection port. Without a sharp and\nsnug extractor on the case rim, the case will spin off-axis and\nhave difficulty getting out of the chamber and/or hitting the\nejector correctly. The spent case might also spin downward and\nimpede the top cartridge in the magazine from entering the\nchamber.\nAs shown above on the left, this worn and misshapen extractor\nwill clearly not hold the newly spent case in its proper position\nat ignition. Replacement with a new extractor claw would be the\nsolution - but the new extractor will need to be prepared by\nchecking and adjusting its dimensions against the old extractor\nand honing the claw a sharp point with a file or other abrasive.\nThe ejector on most pistols is a pretty maintenance-free part.\nHowever, some pistols (especially the Ruger) are plagued with\nejectors that come loose and no longer function correctly. A\nloose ejector may cause excessive drag on the backward and\nforward motion of the bolt causing either ejection or feeding\nproblems. A damaged or bent ejector might also cause an\nextraction problem. A quick inspection of the ejector in the\nframe is well worth it.\nCHAMBER\nPROFILE AND CONDITION\nDry firing is an undisputed essential in the training process\nfor competitive shooting. However, in some cases, it might be\ndetrimental to the health of your .22 caliber pistol. The travel\non many firing pins is longer than necessary and when sent\nflying, it will actually make contact with the metal of the\nchamber edge if a cartridge is not present.\nThis condition of excess firing pin travel may also slowly\ndevelop over time. A pistol whose firing pin had never touched\nthe breech of the barrel when new may slowly make it there as the\nfiring pin or the firing pin stop within the bolt slowly wears.\nThe ding that may have formed on the edge of the chamber will\nforce metal inwards, thus shrinking the dimensions of the chamber\nopening at that point. This can cause both feeding and extraction\nproblems.\nBut all is not lost. Available from Brownells is the Menck\nChamber Iron, a tool that allows you to swage out the ding, and\nrestore the original round profile of the chamber. It is\ninexpensive and easy-to-use.\nTo prevent problems from ever occurring, a best practice is to\nuse a dummy-plug in the chamber as you dry fire. They\nare commercially available, but you can easily make your own. I\nsuggest collecting some spent cases that you have fired (from\nthis pistol or they won't fit) and grinding off one side of the\nrim to make a superb dummy-plug at no cost. Insert the case into\nthe chamber with the grinded-off side facing the extractor and\nthe case will not be extracted when you rack the slide to cock\nthe hammer. I have used the same case for as many as 50 clicks.\nRECOIL\nGUIDE ROD AND SPRING\nThe condition of the recoil guide rod is quite\nimportant. If it is rusty, dinged up or has an otherwise rough\nsurface, the recoil spring will drag upon it and slow the cycling\nslide in both its backward and forward motions. A real example is\na 1971 pristine Model 41 that I had purchased from a frustrated\nowner for less than half its street value. In over 30 years, he\njust could not get it to function, so it sat mostly unfired in\nhis gunsafe. After taking a chance and buying it, I discovered\nthat the recoil guide rod had circular machining marks from one\nend to the other, the single cause of the extraction problems.\nPlacing the rod in a drill press and sanding it smooth with 400\ngrit sandpaper solved all problems.\nAnd finally, last but not least, consideration of the recoil\nspring. While the recoil spring is oftentimes the first thing\nthat gets examined in the case of malfunctions, in this primer,\nit is the last. Many a shooter has a collection of various\nlengths and weights of types of recoil springs for his prized\npistol. But they were likely purchased (at high expense) to\nremedy a problem caused by some other reason.\nHowever, recoil springs do have a real life-span. As shown\nbelow, a recoil spring will compress and shorten over time.\nIt is quite likely that the older spring, in its shortened and\ncompressed state, may be responsible for feeding problems. In\nthis situation, a replacement with a new factory spring is\nprobably the best solution. Pouring out extra cash on specialty\nsprings such as the Wolff variable-weight springs is not\nnecessary with a .22 caliber pistol.\nFINALE\nOnce again, complete confidence in the function performance of\nyour pistol is essential for confidence on the firing line. I\nhope that this document has provided you with the knowledge to\nsolve any problem you might have encountered, and give you that\nneeded confidence!\ncopyNotice();"
+  },
+  "byline": "by John A. Dreyer",
+  "context": {
+    "html_title": "Encyclopedia of Bullseye Pistol",
+    "parent_url": "22care.htm"
+  },
+  "id": "malfunction",
+  "images": [
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-bfd5a619326e794a"
+      ],
+      "resolved_url": "https://www.bullseyepistol.com/nofeed.jpg",
+      "src": "nofeed.jpg",
+      "status": "recovered"
+    },
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-45d2eff2d62edb49"
+      ],
+      "resolved_url": "https://www.bullseyepistol.com/stovepip.jpg",
+      "src": "stovepip.jpg",
+      "status": "recovered"
+    },
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-0a7cba4d3c8ecaaa"
+      ],
+      "resolved_url": "https://www.bullseyepistol.com/goodhit.jpg",
+      "src": "goodhit.jpg",
+      "status": "recovered"
+    },
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-94c6bd15fda3f5ea"
+      ],
+      "resolved_url": "https://www.bullseyepistol.com/breech.jpg",
+      "src": "breech.jpg",
+      "status": "recovered"
+    },
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-dbce47c3d1dd4e5a"
+      ],
+      "resolved_url": "https://www.bullseyepistol.com/boltface.jpg",
+      "src": "boltface.jpg",
+      "status": "recovered"
+    },
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-b65daea03cf61cf9"
+      ],
+      "resolved_url": "https://www.bullseyepistol.com/cutaway2.jpg",
+      "src": "cutaway2.jpg",
+      "status": "recovered"
+    },
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-dee708ce8f9189d9"
+      ],
+      "resolved_url": "https://www.bullseyepistol.com/saami.jpg",
+      "src": "saami.jpg",
+      "status": "recovered"
+    },
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-5e10df7b80ca137a"
+      ],
+      "resolved_url": "https://www.bullseyepistol.com/ammocomp.jpg",
+      "src": "ammocomp.jpg",
+      "status": "recovered"
+    },
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-e59487d21855f62b"
+      ],
+      "resolved_url": "https://www.bullseyepistol.com/goodhit2.jpg",
+      "src": "goodhit2.jpg",
+      "status": "recovered"
+    },
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-228e31c273cc8289"
+      ],
+      "resolved_url": "https://www.bullseyepistol.com/clipview.jpg",
+      "src": "clipview.jpg",
+      "status": "recovered"
+    },
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-f269a83cb7240a0f"
+      ],
+      "resolved_url": "https://www.bullseyepistol.com/toohigh.jpg",
+      "src": "toohigh.jpg",
+      "status": "recovered"
+    },
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-89c5282ef666d822"
+      ],
+      "resolved_url": "https://www.bullseyepistol.com/magrange.jpg",
+      "src": "magrange.jpg",
+      "status": "recovered"
+    },
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-34eb8e0f0535ecdb"
+      ],
+      "resolved_url": "https://www.bullseyepistol.com/extractcomp.jpg",
+      "src": "extractcomp.jpg",
+      "status": "recovered"
+    },
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-7aef4db9959ca1ab"
+      ],
+      "resolved_url": "https://www.bullseyepistol.com/dingdong.jpg",
+      "src": "dingdong.jpg",
+      "status": "recovered"
+    },
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-c399b39cb9e78154"
+      ],
+      "resolved_url": "https://www.bullseyepistol.com/menck.jpg",
+      "src": "menck.jpg",
+      "status": "recovered"
+    },
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-eccf232a11e4f244"
+      ],
+      "resolved_url": "https://www.bullseyepistol.com/rod.jpg",
+      "src": "rod.jpg",
+      "status": "recovered"
+    },
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-2c2fdf8470d809da"
+      ],
+      "resolved_url": "https://www.bullseyepistol.com/twospring.jpg",
+      "src": "twospring.jpg",
+      "status": "recovered"
+    }
+  ],
+  "links": [
+    {
+      "href": "22care.htm",
+      "resolved_url": "https://www.bullseyepistol.com/22care.htm",
+      "text": "HERE"
+    }
+  ],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/malfunction.htm",
+    "http://bullseyepistol.com:80/malfunction.htm",
+    "http://www.bullseyepistol.com:80/malfunction.htm",
+    "https://www.bullseyepistol.com/malfunction.htm"
+  ],
+  "preferred_original_url": "https://www.bullseyepistol.com/malfunction.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 4,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "b6f067f5c7d1d24b",
+        "local_path": "archive/raw/wayback/files/20260522T141108Z/201502/article_candidate/bullseyepistol.com_80/20150206132645-malfunction-fa76e18fbdecda3c.htm",
+        "original_url": "http://bullseyepistol.com:80/malfunction.htm",
+        "sha256": "c600a9931510570528d5dab46468282dfeb47c8c3205ebe38a981b21d8246ea1",
+        "wayback_timestamp": "20150206132645"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "4bda4c86b9ae2d4b",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201502/article_candidate/www.bullseyepistol.com_80/20150215011219-malfunction-6322631f1164140e.htm",
+        "original_url": "http://www.bullseyepistol.com:80/malfunction.htm",
+        "sha256": "c600a9931510570528d5dab46468282dfeb47c8c3205ebe38a981b21d8246ea1",
+        "wayback_timestamp": "20150215011219"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "a7198b8727c9510d",
+        "local_path": "archive/raw/wayback/files/20260522T141108Z/202303/article_candidate/bullseyepistol.com/20230329142545-malfunction-afaf44ddee763787.htm",
+        "original_url": "http://bullseyepistol.com/malfunction.htm",
+        "sha256": "c600a9931510570528d5dab46468282dfeb47c8c3205ebe38a981b21d8246ea1",
+        "wayback_timestamp": "20230329142545"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "418d367b02e01be9",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/202508/article_candidate/www.bullseyepistol.com/20250817130421-malfunction-866a7b05a31ed6fb.htm",
+        "original_url": "https://www.bullseyepistol.com/malfunction.htm",
+        "sha256": "c600a9931510570528d5dab46468282dfeb47c8c3205ebe38a981b21d8246ea1",
+        "wayback_timestamp": "20250817130421"
+      }
+    ],
+    "selected_capture_id": "418d367b02e01be9"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "Troubleshooting and Preventing Malfunctions",
+  "updated_at": null
+}

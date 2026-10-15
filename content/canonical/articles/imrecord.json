@@ -1,0 +1,44 @@
+{
+  "assets": [],
+  "body": {
+    "format": "html",
+    "html": "<p align=\"left\"><br>\nIf you have knowledge of records that qualify for\ninclusion here in any of these categories and you can provide\nofficial support documentation for confirmation, please contact\nthe league President, John Dreyer.</p>\n<div align=\"center\"><center>\n\n<table border=\"0\" cellpadding=\"10\" cellspacing=\"0\" width=\"450\">\n    <tr>\n        <td bgcolor=\"#FFFFFF\"><pre>\n\n ILL-MO PISTOL LEAGUE    AS OF 12/21/2009\n HIGHEST FIRED SCORES ON RECORD\n\n SLOW FIRE            SCORE        DATE\n\n PAUL NOLES           198        12/21/2005\n JOHN DREYER          195        03/06/2002\n CHRIS CONSTANTINO    193        11/13/2000\n\n\n TIMED FIRE           SCORE        DATE\n\n PAUL NOLES           200-17     12/21/2005\n JOHN DREYER          200-16     10/10/2001\n JOHN O'DONNELL       200-14     11/02/2009\n CHRIS CONSTANTINO    200-09     02/17/2003\n\n\n RAPID FIRE           SCORE        DATE\n\n PAUL NOLES           200-18     12/07/2005\n JOHN DREYER          200-15     11/14/2001\n CHRIS CONSTANTINO    199-14     11/12/2001\n \n\n AGGREGATE            SCORE        DATE\n\n PAUL NOLES           597-27     12/21/2005\n JOHN DREYER          586-28     03/07/2001\n JOHN O'DONNELL       586-20     11/02/2009\n ALVIN BOXDORFER      586-xx     ??/??/1986</pre>\n        </td>\n    </tr>\n</table>\n</center></div>\n\n<p>&nbsp;</p>",
+    "text": "If you have knowledge of records that qualify for\ninclusion here in any of these categories and you can provide\nofficial support documentation for confirmation, please contact\nthe league President, John Dreyer.\nILL-MO PISTOL LEAGUE AS OF 12/21/2009\nHIGHEST FIRED SCORES ON RECORD\nSLOW FIRE SCORE DATE\nPAUL NOLES 198 12/21/2005\nJOHN DREYER 195 03/06/2002\nCHRIS CONSTANTINO 193 11/13/2000\nTIMED FIRE SCORE DATE\nPAUL NOLES 200-17 12/21/2005\nJOHN DREYER 200-16 10/10/2001\nJOHN O'DONNELL 200-14 11/02/2009\nCHRIS CONSTANTINO 200-09 02/17/2003\nRAPID FIRE SCORE DATE\nPAUL NOLES 200-18 12/07/2005\nJOHN DREYER 200-15 11/14/2001\nCHRIS CONSTANTINO 199-14 11/12/2001\nAGGREGATE SCORE DATE\nPAUL NOLES 597-27 12/21/2005\nJOHN DREYER 586-28 03/07/2001\nJOHN O'DONNELL 586-20 11/02/2009\nALVIN BOXDORFER 586-xx ??/??/1986"
+  },
+  "byline": null,
+  "context": {
+    "html_title": "Il-Mo Records",
+    "parent_url": null
+  },
+  "id": "imrecord",
+  "images": [],
+  "links": [],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/imrecord.htm"
+  ],
+  "preferred_original_url": "http://bullseyepistol.com/imrecord.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 1,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "c462afa00fe18a7e",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201009/article_candidate/bullseyepistol.com/20100918031405-imrecord-f86e193d87cb9ee1.htm",
+        "original_url": "http://bullseyepistol.com/imrecord.htm",
+        "sha256": "ac4e55b4ddaf1234e597eebab02506cd768d387da90b696ffd99f2682b63334a",
+        "wayback_timestamp": "20100918031405"
+      }
+    ],
+    "selected_capture_id": "c462afa00fe18a7e"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "Il-Mo Records",
+  "updated_at": null
+}

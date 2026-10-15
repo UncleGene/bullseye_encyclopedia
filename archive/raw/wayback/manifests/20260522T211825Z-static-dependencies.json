@@ -1,0 +1,113 @@
+{
+  "inventory_manifest": "archive/raw/wayback/manifests/20260522T135739Z-inventory.json",
+  "records": [
+    {
+      "index": 1,
+      "original": "http://bullseyepistol.com/Handicap.exe",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://bullseyepistol.com/Handicap.exe",
+      "run_id": "20260522T211825Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 2,
+      "original": "http://bullseyepistol.com/ILMOScorecard.pdf",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://bullseyepistol.com/ILMOScorecard.pdf",
+      "run_id": "20260522T211825Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 3,
+      "original": "http://bullseyepistol.com/MidSeasonScorecard.pdf",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://bullseyepistol.com/MidSeasonScorecard.pdf",
+      "run_id": "20260522T211825Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 4,
+      "original": "http://bullseyepistol.com/NewShooter.pdf",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://bullseyepistol.com/NewShooter.pdf",
+      "run_id": "20260522T211825Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 5,
+      "original": "http://bullseyepistol.com/POM2004.zip",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://bullseyepistol.com/POM2004.zip",
+      "run_id": "20260522T211825Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 6,
+      "original": "http://bullseyepistol.com/SignupForm.pdf",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://bullseyepistol.com/SignupForm.pdf",
+      "run_id": "20260522T211825Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 7,
+      "original": "http://bullseyepistol.com/TeamAdmin2004.zip",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://bullseyepistol.com/TeamAdmin2004.zip",
+      "run_id": "20260522T211825Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 8,
+      "original": "http://bullseyepistol.com/advertise1.php",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://bullseyepistol.com/advertise1.php",
+      "run_id": "20260522T211825Z",
+      "status": "unresolved"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/fb/fb078ec38c1412ac8c50ea45596cb5644e8595c3d7f983a1397e60790e9b2e19",
+      "byte_length": 574,
+      "classification": "fallback_cdx",
+      "content_type": "text/html",
+      "http_status": 200,
+      "index": 9,
+      "local_path": "archive/raw/wayback/files/20260522T211825Z/201505/static_dependency_fallback_cdx/tournament.bullseyepistol.com_80/20150525234217-index-c85dbca273030ffc.html",
+      "original": "http://tournament.bullseyepistol.com:80/",
+      "requested_url": "http://tournament.bullseyepistol.com",
+      "retrieval_url": "https://web.archive.org/web/20150525234217id_/http://tournament.bullseyepistol.com:80/",
+      "retrieved_at": "2026-05-22T21:20:03.800360+00:00",
+      "run_id": "20260522T211825Z",
+      "sha256": "fb078ec38c1412ac8c50ea45596cb5644e8595c3d7f983a1397e60790e9b2e19",
+      "source_digest": "5FGV5CCJO2KNTISUUR3EP4WDLSCE4L2H",
+      "source_length": "629",
+      "source_mimetype": "text/html",
+      "status": "success",
+      "storage_mode": "blob_created_hardlink",
+      "timestamp": "20150525234217"
+    },
+    {
+      "index": 10,
+      "original": "http://tournament.bullseyepistol.com/",
+      "reason": "fallback_cdx_failed: TimeoutError('The read operation timed out')",
+      "resolved_url": "http://tournament.bullseyepistol.com/",
+      "run_id": "20260522T211825Z",
+      "status": "unresolved"
+    },
+    {
+      "index": 11,
+      "original": "http://www.bullseyepistol.com:80/piasaapp.pdf",
+      "reason": "no_matching_successful_capture_in_inventory_or_cdx",
+      "resolved_url": "http://www.bullseyepistol.com:80/piasaapp.pdf",
+      "run_id": "20260522T211825Z",
+      "status": "unresolved"
+    }
+  ],
+  "requested_count": 11,
+  "run_id": "20260522T211825Z",
+  "static_site_report": "exports/static-site/raw-as-is/_reproduction-report.json",
+  "status_counts": {
+    "success": 1,
+    "unresolved": 10
+  }
+}

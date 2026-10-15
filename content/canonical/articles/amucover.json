@@ -1,0 +1,98 @@
+{
+  "assets": [
+    "asset-4d68fe160f67371a"
+  ],
+  "body": {
+    "format": "html",
+    "html": "<p><img src=\"smamu1.jpg\" align=\"right\" hspace=\"0\" width=\"142\"\nheight=\"175\">This section of the website is dedicated to the Army\nMarksmanship Unit's Pistol Training Guide. Quite simply, this is\nthe &quot;Bible&quot; of Bullseye Pistol Shooting. No one serious\nabout the game of shooting should miss the information in this\nbooklet.</p>\n\n<p>Use the green buttons to the right to navigate through this massive\ntreasure of information.</p>\n\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "text": "This section of the website is dedicated to the Army\nMarksmanship Unit's Pistol Training Guide. Quite simply, this is\nthe \"Bible\" of Bullseye Pistol Shooting. No one serious\nabout the game of shooting should miss the information in this\nbooklet.\nUse the green buttons to the right to navigate through this massive\ntreasure of information."
+  },
+  "byline": "United States Army Marksmanship Unit",
+  "context": {
+    "html_title": "Encyclopedia of Bullseye Pistol",
+    "parent_url": "fulford.htm"
+  },
+  "id": "amucover",
+  "images": [
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-4d68fe160f67371a"
+      ],
+      "resolved_url": "http://www.bullseyepistol.com/smamu1.jpg",
+      "src": "smamu1.jpg",
+      "status": "recovered"
+    }
+  ],
+  "links": [],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/amucover.htm",
+    "http://bullseyepistol.com:80/amucover.htm",
+    "http://www.bullseyepistol.com/amucover.htm"
+  ],
+  "preferred_original_url": "http://www.bullseyepistol.com/amucover.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 6,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "348b4cfc47abb60f",
+        "local_path": "archive/raw/wayback/files/20260522T142631Z/201009/article_candidate/bullseyepistol.com/20100918010857-amucover-935ad5a99081cc9c.htm",
+        "original_url": "http://bullseyepistol.com/amucover.htm",
+        "sha256": "bfa41858d23f0877f3037e75ac6fe76df9794afbb57340495da393059943c9ca",
+        "wayback_timestamp": "20100918010857"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "fc4299d1c9cc405e",
+        "local_path": "archive/raw/wayback/files/20260522T141108Z/201009/article_candidate/bullseyepistol.com_80/20100924001520-amucover-534bf00bb69c7271.htm",
+        "original_url": "http://bullseyepistol.com:80/amucover.htm",
+        "sha256": "bfa41858d23f0877f3037e75ac6fe76df9794afbb57340495da393059943c9ca",
+        "wayback_timestamp": "20100924001520"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "249bc3751f99cdce",
+        "local_path": "archive/raw/wayback/files/20260522T141108Z/201502/article_candidate/bullseyepistol.com_80/20150206002518-amucover-1c62930fee4411df.htm",
+        "original_url": "http://bullseyepistol.com:80/amucover.htm",
+        "sha256": "48121732bac1a2fe707e97ef397fe44df160059241acd362d724db758a56d26d",
+        "wayback_timestamp": "20150206002518"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "c357e2745fec32f8",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201502/article_candidate/bullseyepistol.com/20150214044932-amucover-5f6b248bd73fdbe7.htm",
+        "original_url": "http://bullseyepistol.com/amucover.htm",
+        "sha256": "48121732bac1a2fe707e97ef397fe44df160059241acd362d724db758a56d26d",
+        "wayback_timestamp": "20150214044932"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "6c773d7ae4fc635b",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/202303/article_candidate/bullseyepistol.com/20230329142545-amucover-6d9abe7d7aeddb9e.htm",
+        "original_url": "http://bullseyepistol.com/amucover.htm",
+        "sha256": "48121732bac1a2fe707e97ef397fe44df160059241acd362d724db758a56d26d",
+        "wayback_timestamp": "20230329142545"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "64498fab8179a58c",
+        "local_path": "archive/raw/wayback/files/20260522T141108Z/202508/article_candidate/www.bullseyepistol.com/20250813161041-amucover-f2f920f766289f4d.htm",
+        "original_url": "http://www.bullseyepistol.com/amucover.htm",
+        "sha256": "48121732bac1a2fe707e97ef397fe44df160059241acd362d724db758a56d26d",
+        "wayback_timestamp": "20250813161041"
+      }
+    ],
+    "selected_capture_id": "64498fab8179a58c"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "Pistol Marksmanship Training Guide",
+  "updated_at": null
+}

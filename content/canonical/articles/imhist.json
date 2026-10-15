@@ -1,0 +1,44 @@
+{
+  "assets": [],
+  "body": {
+    "format": "html",
+    "html": "<p align=\"left\"><br>\nThe Illinois-Missouri Indoor Bullseye Pistol League was\nestablished in 1949. The wise men who founded our organization\nare:</p>\n\n<p align=\"center\">Max Thompson<br>\nFrank Novak<br>\nHerman Bockstruck<br>\nFrank Stubits</p>\n\n<p align=\"left\">In the late forties, there were several shooting\nteams participating in outdoor matches during the summer in the\nbi-state area. In 1949, employees of the Winchester-Western\ncompany thought it would be good idea to organize an indoor\nwinter league to keep everyone sharp over the off-season. Indeed\nit was! Thus the &quot;Ill-Mo Pistol League&quot; was born. The\noriginal teams that participated in that very first season were:</p>\n\n<p align=\"center\">Winchester-Western<br>\nIndustrial Pistol Club<br>\nSt. Louis Police<br>\nPiasa Pistol Club<br>\nSt. Louis Revolver Club<br>\nSmall Arms Armory Team</p>\n\n<p align=\"center\">(A complete historiography of our organization,\ncomplete with photographs and interviews, is being researched and\ndeveloped. Check back often as information will be added as it is\navailable.)</p>\n\n<p align=\"center\">&nbsp;</p>",
+    "text": "The Illinois-Missouri Indoor Bullseye Pistol League was\nestablished in 1949. The wise men who founded our organization\nare:\nMax Thompson\nFrank Novak\nHerman Bockstruck\nFrank Stubits\nIn the late forties, there were several shooting\nteams participating in outdoor matches during the summer in the\nbi-state area. In 1949, employees of the Winchester-Western\ncompany thought it would be good idea to organize an indoor\nwinter league to keep everyone sharp over the off-season. Indeed\nit was! Thus the \"Ill-Mo Pistol League\" was born. The\noriginal teams that participated in that very first season were:\nWinchester-Western\nIndustrial Pistol Club\nSt. Louis Police\nPiasa Pistol Club\nSt. Louis Revolver Club\nSmall Arms Armory Team\n(A complete historiography of our organization,\ncomplete with photographs and interviews, is being researched and\ndeveloped. Check back often as information will be added as it is\navailable.)"
+  },
+  "byline": null,
+  "context": {
+    "html_title": "Il-Mo History",
+    "parent_url": null
+  },
+  "id": "imhist",
+  "images": [],
+  "links": [],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/imhist.htm"
+  ],
+  "preferred_original_url": "http://bullseyepistol.com/imhist.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 1,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "6e33ee35616346ad",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201009/article_candidate/bullseyepistol.com/20100918031332-imhist-566b99d069eed455.htm",
+        "original_url": "http://bullseyepistol.com/imhist.htm",
+        "sha256": "90f172fd473edef58e9be29ca8ba7eafb30a0c68ca43be9dd2d2efb0ffc256fc",
+        "wayback_timestamp": "20100918031332"
+      }
+    ],
+    "selected_capture_id": "6e33ee35616346ad"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "Il-Mo History",
+  "updated_at": null
+}

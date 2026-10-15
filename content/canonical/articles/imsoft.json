@@ -1,0 +1,60 @@
+{
+  "assets": [],
+  "body": {
+    "format": "html",
+    "html": "<div\nalign=\"center\"><center>\n\n<table border=\"0\" cellpadding=\"12\" cellspacing=\"0\" width=\"480\">\n    <tr>\n        <td align=\"center\" colspan=\"2\"><font color=\"#000000\"\n        size=\"4\" face=\"Tahoma\">Scorekeeping Software Available:</font></td>\n    </tr>\n    <tr>\n        <td valign=\"top\" width=\"240\"><a href=\"POM2004.zip\"><font\n        size=\"4\" face=\"Tahoma\"><strong>Match Scorekeeping:</strong></font></a></td>\n        <td width=\"240\"><font size=\"2\" face=\"Tahoma\"><strong>Excel-based\n        program used at the range for calculating handicaps and\n        match totals. </strong></font></td>\n    </tr>\n    <tr>\n        <td valign=\"top\" width=\"240\"><a\n        href=\"TeamAdmin2004.zip\"><font size=\"4\"\n        face=\"Tahoma\"><strong>Team Administration:</strong></font></a></td>\n        <td width=\"240\"><font size=\"2\" face=\"Tahoma\"><strong>Excel-based\n        program to track scores to keep indices updated and to\n        print scoresheets.</strong></font></td>\n    </tr>\n    <tr>\n        <td valign=\"top\" width=\"240\"><a href=\"Handicap.exe\"><font\n        size=\"4\" face=\"Tahoma\"><strong>Handicap Calculator:</strong></font></a></td>\n        <td width=\"240\"><font size=\"2\" face=\"Tahoma\"><strong>A\n        small DOS-based program to compute handicap scores</strong></font></td>\n    </tr>\n</table>\n</center></div>",
+    "text": "Scorekeeping Software Available:\nMatch Scorekeeping:\nExcel-based\nprogram used at the range for calculating handicaps and\nmatch totals.\nTeam Administration:\nExcel-based\nprogram to track scores to keep indices updated and to\nprint scoresheets.\nHandicap Calculator:\nA\nsmall DOS-based program to compute handicap scores"
+  },
+  "byline": null,
+  "context": {
+    "html_title": "Scorekeeping Software",
+    "parent_url": null
+  },
+  "id": "imsoft",
+  "images": [],
+  "links": [
+    {
+      "href": "POM2004.zip",
+      "resolved_url": "http://bullseyepistol.com/POM2004.zip",
+      "text": "Match Scorekeeping:"
+    },
+    {
+      "href": "TeamAdmin2004.zip",
+      "resolved_url": "http://bullseyepistol.com/TeamAdmin2004.zip",
+      "text": "Team Administration:"
+    },
+    {
+      "href": "Handicap.exe",
+      "resolved_url": "http://bullseyepistol.com/Handicap.exe",
+      "text": "Handicap Calculator:"
+    }
+  ],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/imsoft.htm"
+  ],
+  "preferred_original_url": "http://bullseyepistol.com/imsoft.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 1,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "99afc3f34ea5ac2e",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201009/article_candidate/bullseyepistol.com/20100918031603-imsoft-12a01df8d682fb6b.htm",
+        "original_url": "http://bullseyepistol.com/imsoft.htm",
+        "sha256": "36097156b12851f0fe148589ca5afcd7ce6c99cbd90917696e6c885013fc0d88",
+        "wayback_timestamp": "20100918031603"
+      }
+    ],
+    "selected_capture_id": "99afc3f34ea5ac2e"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "Scorekeeping Software",
+  "updated_at": null
+}

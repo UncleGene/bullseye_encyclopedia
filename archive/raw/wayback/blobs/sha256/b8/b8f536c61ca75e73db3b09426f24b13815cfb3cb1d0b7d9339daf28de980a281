@@ -1,0 +1,142 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage Express 2.0">
+<title>Piasa Rifle and Pistol Club</title>
+
+
+<script language="JavaScript">
+
+pic1= new Image(528,299); 
+pic1.src="center1.jpg"; 
+pic2= new Image(528,299); 
+pic2.src="center2.jpg";
+pic3= new Image(528,299); 
+pic3.src="center3.jpg";
+pic4= new Image(528,299); 
+pic4.src="center4.jpg";
+pic5= new Image(528,299); 
+pic5.src="center5.jpg";
+pic6= new Image(528,299); 
+pic6.src="center6.jpg";
+pic7= new Image(528,299); 
+pic7.src="center7.jpg";
+pic8= new Image(528,299); 
+pic8.src="center8.jpg";
+pic9= new Image(528,299); 
+pic9.src="center9.jpg";
+pic10= new Image(528,299); 
+pic10.src="center10.jpg";
+pic11= new Image(528,299); 
+pic11.src="center11.jpg";
+pic12= new Image(528,299); 
+pic12.src="center12.jpg";
+
+
+
+var fram = new Array();
+fram[0] = "";
+fram[1] = "<img src='center1.jpg' width='528' height='299'>";
+fram[2] = "<img src='center2.jpg' width='528' height='299'>";
+fram[3] = "<img src='center3.jpg' width='528' height='299'>";
+fram[4] = "<img src='center4.jpg' width='528' height='299'>";
+fram[5] = "<img src='center5.jpg' width='528' height='299'>";
+fram[6] = "<img src='center6.jpg' width='528' height='299'>";
+fram[7] = "<img src='center7.jpg' width='528' height='299'>";
+fram[8] = "<img src='center8.jpg' width='528' height='299'>";
+fram[9] = "<img src='center9.jpg' width='528' height='299'>";
+fram[10] = "<img src='center10.jpg' width='528' height='299'>";
+fram[11] = "<img src='center11.jpg' width='528' height='299'>";
+fram[12] = "<img src='center12.jpg' width='528' height='299'>";
+
+
+
+function mStation(i) {
+ftext.innerHTML = fram[i];
+}
+
+</script>
+
+</head>
+
+
+
+
+
+
+
+
+
+
+
+<body bgcolor="#000000">
+
+<div align="center"><center>
+<table border="0" cellpadding="0" cellspacing="0" width="948"><tr><td background="bricks2.jpg">&nbsp;<br>&nbsp;<br></td></tr></table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="948">
+    <tr>
+        <td width="100"><!--webbot bot="ImageMap" startspan
+        rectangle=" (34,28) (100, 106)  pi-b.htm"
+        polygon=" (34,110) (34,185) (144,185) (143,163) (86,163) (103,142) (102,110) pi-c.htm"
+        rectangle=" (33,187) (118, 272)  pi-d.htm"
+        rectangle=" (33,274) (118, 359)  pi-e.htm"
+        polygon=" (33,360) (33,446) (138,446) (137,418) (100,418) (100,360) pi-f.htm"
+        polygon=" (33,448) (33,529) (142,529) (141,501) (95,501) (95,448) pi-g.htm"
+        src="navigation.jpg" border="0" width="175" height="560"
+        style="border-style:none" --><map id="FrontPageMap0" name="FrontPageMap0">
+<area shape="rect" alt="" coords="34,28,136,106" href="pi-b.htm" title="" />
+<area shape="poly" alt="" coords="33,109,34,184,139,184,138,161,139,109,137,109,138,108" href="pi-c.htm" title="" />
+<area shape="rect" alt="" coords="33,187,138,273" href="pi-d.htm" title="" />
+<area shape="rect" alt="" coords="33,274,138,359" href="pi-e.htm" title="" />
+<area shape="poly" alt="" coords="33,360,33,446,138,446,137,418,138,361,100,360" href="pi-f.htm" title="" />
+<area shape="poly" alt="" coords="33,448,33,529,142,529,141,501,142,447,95,448" href="pi-g.htm" title="" />
+<area shape="default" nohref="nohref" alt="" />
+</map>
+<img src="navigation.jpg" width="175" height="560" style="border-style:none" usemap="#FrontPageMap0"><!--webbot bot="ImageMap"
+        i-checksum="43473" endspan --></td>
+        <td align="center" valign="top" background="bricks2.jpg" nowrap><p align="left">&nbsp;<br>
+        &nbsp;&nbsp;&nbsp; <img src="piasatv.jpg" width="174" height="62"></p>
+        <table border="0" cellpadding="0" cellspacing="0">
+            <tr>
+                <td colspan="3"><img src="top.gif" width="580" height="27"></td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td><img src="left.gif" width="27" height="299"></td>
+                <td bgcolor="#000000"><div id="ftext" bgcolor="#000000"><img src="center1.gif" width="528" height="299"></div></td>
+                <td><img src="right.gif" width="25" height="299"></td><td valign="bottom">&nbsp;&nbsp;&nbsp;&nbsp;<img src="remote.jpg" width="70" height="280" usemap="#remote" style="border-style:none" onMouseOver="style.cursor='hand'; return true" onMouseOut="style.cursor='hand'; return true">&nbsp;</td>
+            </tr>
+            <tr>
+                <td colspan="3"><img src="bottom.gif" width="580" height="72"></td><td>&nbsp;</td>
+
+            </tr>
+        </table>
+        </td>
+    </tr>
+
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="948"><tr><td background="bricks2.jpg">&nbsp;<br>&nbsp;<br>&nbsp;<br></td></tr></table>
+<table border="0" cellpadding="0" cellspacing="0" width="948"><tr><td align="center" style="color:white; font-family:arial; font-size:10px;">Designed by John A. Dreyer, &copy; Copyrighted 2012</td></tr></table>
+</center></div>
+<div>
+<map id="remote" name="remote">
+<area shape="rect" alt="" coords="5,58,21,77" nohref title="" onClick="mStation(1)" />
+<area shape="rect" alt="" coords="27,58,42,77" nohref title="" onClick="mStation(2)" />
+<area shape="rect" alt="" coords="48,58,63,77" nohref title="" onClick="mStation(3)" />
+<area shape="rect" alt="" coords="5,86,20,105" nohref title="" onClick="mStation(4)" />
+<area shape="rect" alt="" coords="26,86,42,105" nohref title="" onClick="mStation(5)" />
+<area shape="rect" alt="" coords="48,86,63,105" nohref title="" onClick="mStation(6)" />
+<area shape="rect" alt="" coords="5,114,20,133" nohref title="" onClick="mStation(7)" />
+<area shape="rect" alt="" coords="26,114,42,133" nohref title="" onClick="mStation(8)" />
+<area shape="rect" alt="" coords="47,114,63,133" nohref title="" onClick="mStation(9)" />
+<area shape="rect" alt="" coords="6,143,22,162" nohref title="" onClick="mStation(10)" />
+<area shape="rect" alt="" coords="26,142,42,162" nohref title="" onClick="mStation(11)" />
+<area shape="rect" alt="" coords="47,142,63,162" nohref title="" onClick="mStation(12)" />
+<area shape="rect" alt="" coords="46,19,65,39" href="pi-b.htm" title="" />
+<area shape="default" nohref="nohref" alt="" />
+</map>
+</div>
+</body>
+</html>

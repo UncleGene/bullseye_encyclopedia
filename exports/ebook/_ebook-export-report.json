@@ -1,0 +1,2210 @@
+{
+  "chapter_groups": [
+    {
+      "items": [
+        {
+          "article_id": "getinto",
+          "label": "Get Into Bullseye Pistol Shooting by Sherwood Veith"
+        },
+        {
+          "article_id": "bullseye",
+          "label": "American Rifleman's Bullseye Basics by Charles Petty"
+        },
+        {
+          "article_id": "comp",
+          "label": "NRA's Introductory Information on the Sport"
+        },
+        {
+          "article_id": "frankhig",
+          "label": "Tips for Bullseye Shooting by Frank Higginson"
+        },
+        {
+          "article_id": "oursport",
+          "label": "The Cause for Competition by Jake Shevlin"
+        },
+        {
+          "article_id": "nratips",
+          "label": "NRA's Tips on Being a Good Competitor"
+        },
+        {
+          "article_id": "secret",
+          "label": "A Secret to Shooting High Scores by Jake Shevlin"
+        },
+        {
+          "article_id": "etiquete",
+          "label": "Proper Etiquette for Competitors by Ron Porter"
+        },
+        {
+          "article_id": "mikelav1",
+          "label": "Bullseye Pistol Primer by Mike LaVoie"
+        },
+        {
+          "article_id": "mikelav2",
+          "label": "About Mike LaVoie",
+          "parent_id": "mikelav1"
+        },
+        {
+          "article_id": "savino2",
+          "label": "Outdoor Bullseye Pistol Shooting by Frank Savino"
+        },
+        {
+          "article_id": "savino",
+          "label": "Outdoor Bullseye Pistol Shooting (Earlier Version)",
+          "parent_id": "savino2"
+        }
+      ],
+      "title": "Introductory Information"
+    },
+    {
+      "items": [
+        {
+          "article_id": "equipmnt",
+          "label": "The Essential Bullseye Equipment"
+        },
+        {
+          "article_id": "pafford",
+          "label": "Don't Compromise on Equipment by Randy Pafford"
+        },
+        {
+          "article_id": "cstomgun",
+          "label": "The Custom-Built Bullseye Gun by Larry Leutenegger"
+        },
+        {
+          "article_id": "malfunction",
+          "label": "Troubleshooting and Preventing Malfunctions"
+        },
+        {
+          "article_id": "dotsight",
+          "label": "Facts and Figures About Red Dot Sights"
+        },
+        {
+          "article_id": "goodgrip",
+          "label": "The Benefits of Custom Anatomical Grips"
+        }
+      ],
+      "title": "Tools of the Trade"
+    },
+    {
+      "items": [
+        {
+          "article_id": "amucover",
+          "label": "Army Marksmanship Training Guide"
+        },
+        {
+          "article_id": "chapterf",
+          "label": "Foreword to the Training Guide",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter0",
+          "label": "Elements of Pistol Shooting",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter1",
+          "label": "Attaining a Minimum Arc of Movement",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter2",
+          "label": "Sight Alignment",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter3",
+          "label": "Trigger Control",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter4",
+          "label": "Establishing a System",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter5",
+          "label": "Technique of Slow Fire",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter6",
+          "label": "Technique of Sustained Fire",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter7",
+          "label": "Mental Discipline",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter8",
+          "label": "Physical Conditioning",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter9",
+          "label": "Diet and Health of the Pistol Shooter",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "chapter10",
+          "label": "Alcohol, Coffee, Tobacco and Drugs",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "annex2",
+          "label": "Optical Properties of the Eye",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "glossary",
+          "label": "Glossary of Terms",
+          "parent_id": "amucover"
+        },
+        {
+          "article_id": "zins",
+          "label": "A Fundamentals Clinic by Brian Zins"
+        },
+        {
+          "article_id": "zins1",
+          "label": "Brian Zins on Trigger Control",
+          "parent_id": "zins"
+        },
+        {
+          "article_id": "steinbrecher",
+          "label": "Focus on the Fundamentals by Ron Steinbrecher"
+        },
+        {
+          "article_id": "fulford",
+          "label": "Bullseye Pistol Basics by Allen Fulford"
+        },
+        {
+          "article_id": "billblnk",
+          "label": "Three Lessons by Bill Blankenship"
+        },
+        {
+          "article_id": "armymark",
+          "label": "Application of the Fundamentals by the USAMU"
+        },
+        {
+          "article_id": "zoyola",
+          "label": "Goal Setting and Training by Mario Lozoya"
+        },
+        {
+          "article_id": "zinsdot",
+          "label": "Method of Aiming the Red Dot Sight by Brian Zins"
+        },
+        {
+          "article_id": "henderson",
+          "label": "Advanced Beginner Q&A by Jim Henderson"
+        },
+        {
+          "article_id": "stamina",
+          "label": "Strength and Stamina of the Pistol Shooter"
+        },
+        {
+          "article_id": "training",
+          "label": "Error Analysis and Correction by the USAMU"
+        },
+        {
+          "article_id": "joyner",
+          "label": "Fundamentals of Pistol Marksmanship by Bill Joyner"
+        },
+        {
+          "article_id": "rapdfire",
+          "label": "Mastering the Rapid Fire Stage by David Cartes"
+        },
+        {
+          "article_id": "champion",
+          "label": "The Attributes of a Champion Shooter by the USAMU"
+        },
+        {
+          "article_id": "gregderr",
+          "label": "The True Fundamentals by Greg Derr"
+        }
+      ],
+      "title": "Perfecting Technique"
+    },
+    {
+      "items": [
+        {
+          "article_id": "joewhite",
+          "label": "Mental Aspects of Match Shooting by Joe White"
+        },
+        {
+          "article_id": "issfguide",
+          "label": "ISSF Guide to Sport Psychology in Competitive Shooting"
+        },
+        {
+          "article_id": "d-nygord",
+          "label": "The Psychology of Routine by Don Nygord"
+        },
+        {
+          "article_id": "musician",
+          "label": "The Art of Shooting Under Pressure by Dr. Lundeberg"
+        },
+        {
+          "article_id": "focus",
+          "label": "Staying Focused Despite Match Pressure"
+        },
+        {
+          "article_id": "salyer1",
+          "label": "Achieving the 'Zone' in Shooting by Dave Salyer"
+        },
+        {
+          "article_id": "sleep",
+          "label": "Sleeping Well Before a Big Match by Dr. E. Somer"
+        }
+      ],
+      "title": "Shooting Psychology"
+    },
+    {
+      "items": [
+        {
+          "article_id": "zeninfo",
+          "label": "Introduction to \"Zen in Shooting\""
+        },
+        {
+          "article_id": "spirit",
+          "label": "What is Zen? Shooting Meets Everyday Life"
+        },
+        {
+          "article_id": "polmind",
+          "label": "Beginning Zen in the Art of Shooting"
+        },
+        {
+          "article_id": "zelement",
+          "label": "Zen Elements of True Shooting"
+        },
+        {
+          "article_id": "issha",
+          "label": "\"Issha Zetsumei\" - Core Philosophy of Shooting"
+        },
+        {
+          "article_id": "zenpract",
+          "label": "Zen Practice, Action and Life in Shooting"
+        },
+        {
+          "article_id": "zenhist",
+          "label": "A Brief History of Zen: Origins and Evolution"
+        },
+        {
+          "article_id": "zenread",
+          "label": "Recommended Additional Reading on Zen"
+        }
+      ],
+      "title": "Zen in the Art of Shooting"
+    },
+    {
+      "items": [
+        {
+          "article_id": "natbulls",
+          "label": "NRA National Championship Match Bulletins"
+        },
+        {
+          "article_id": "rangecmd",
+          "label": "Studio-Recorded Audio Files of Range Commands"
+        },
+        {
+          "article_id": "matchdir",
+          "label": "Software Tools for Match Directors"
+        }
+      ],
+      "title": "The Reference Room"
+    },
+    {
+      "items": [
+        {
+          "article_id": "clark",
+          "label": "James E. Clark - A Bullseye Legend"
+        },
+        {
+          "article_id": "askins",
+          "label": "The Legendary Pistol of Charles Askins"
+        },
+        {
+          "article_id": "cj",
+          "label": "Chris Johnson: Making Master in One Year"
+        },
+        {
+          "article_id": "amuprfil",
+          "label": "Army Marksmanship Unit Champion Profiles"
+        },
+        {
+          "article_id": "profile1",
+          "label": "Foreword",
+          "parent_id": "amuprfil"
+        },
+        {
+          "article_id": "profile2",
+          "label": "Frederick J. Kiefer, International Coordinator USAMU",
+          "parent_id": "amuprfil"
+        },
+        {
+          "article_id": "profile3",
+          "label": "Oscar K. Weinmeister, CONUS Coordinator USAMU",
+          "parent_id": "amuprfil"
+        },
+        {
+          "article_id": "profile4",
+          "label": "SFC Bonnie D. Harmon, USAMU, 1972 National Champion",
+          "parent_id": "amuprfil"
+        },
+        {
+          "article_id": "profile5",
+          "label": "SFC Harland V. Rennolds, USAMU, Top Competitor",
+          "parent_id": "amuprfil"
+        },
+        {
+          "article_id": "profile6",
+          "label": "CPT Robert L. Merritt, USAMU, OIC Pistol Division",
+          "parent_id": "amuprfil"
+        },
+        {
+          "article_id": "profile7",
+          "label": "MSG Aubrey E. Smith, USAMU, NCOIC Pistol Division",
+          "parent_id": "amuprfil"
+        }
+      ],
+      "title": "Biography and History"
+    },
+    {
+      "items": [
+        {
+          "article_id": "wong",
+          "label": "Vision Topics for Pistol Shooters by Dr. Norman Wong"
+        },
+        {
+          "article_id": "wong1",
+          "label": "Bullseye Shooting for the Eyecare Professional",
+          "parent_id": "wong"
+        },
+        {
+          "article_id": "wong2",
+          "label": "ABBE Values of Shooting Glasses",
+          "parent_id": "wong"
+        },
+        {
+          "article_id": "wong3",
+          "label": "Eyeglass Prescription Innaccuracies",
+          "parent_id": "wong"
+        },
+        {
+          "article_id": "wong4",
+          "label": "The Eye Exam at 20 Feet",
+          "parent_id": "wong"
+        },
+        {
+          "article_id": "wong5",
+          "label": "Red Dot Focusing Position",
+          "parent_id": "wong"
+        },
+        {
+          "article_id": "wong6",
+          "label": "Using Obsolete RX Glasses for Shooting",
+          "parent_id": "wong"
+        },
+        {
+          "article_id": "wong7",
+          "label": "Keeping Focused",
+          "parent_id": "wong"
+        },
+        {
+          "article_id": "wongbio",
+          "label": "About Dr. Norman Wong",
+          "parent_id": "wong"
+        },
+        {
+          "article_id": "reloads",
+          "label": "Reloading Data for Pistol Competition"
+        },
+        {
+          "article_id": "22care",
+          "label": "Maintaining Your Hammerli 208s by Larry Carter"
+        },
+        {
+          "article_id": "oiling",
+          "label": "M-1911 Pistol Lubrication by Ed Masaki"
+        },
+        {
+          "article_id": "dcm",
+          "label": "Restrictions for a CMP (EIC) \"Service Pistol\""
+        },
+        {
+          "article_id": "salyer5",
+          "label": "Solutions for Malfunctions by Dave Salyer"
+        }
+      ],
+      "title": "Technical Information"
+    },
+    {
+      "items": [
+        {
+          "article_id": "safety",
+          "label": "Know All the Rules of Gun Safety"
+        },
+        {
+          "article_id": "experts",
+          "label": "Quotes from Scholars of Gun Control"
+        },
+        {
+          "article_id": "singlepr",
+          "label": "The Real Causes of Crime, Not Guns by David Kopel"
+        },
+        {
+          "article_id": "polsby",
+          "label": "The False Promise of Gun Control by Daniel Polsby"
+        }
+      ],
+      "title": "General Firearms Information"
+    },
+    {
+      "generated": true,
+      "items": [
+        {
+          "article_id": "rulebook",
+          "label": "Conventional Pistol Rules"
+        },
+        {
+          "article_id": "rulebook1",
+          "label": "1. NRA Competition"
+        },
+        {
+          "article_id": "rulebook2",
+          "label": "2. Eligibility of Competitors"
+        },
+        {
+          "article_id": "rulebook3",
+          "label": "3. Equipment and Ammunition"
+        },
+        {
+          "article_id": "rulebook4",
+          "label": "4. Targets"
+        },
+        {
+          "article_id": "rulebook5",
+          "label": "5. Positions"
+        },
+        {
+          "article_id": "rulebook6",
+          "label": "6. Range Standards"
+        },
+        {
+          "article_id": "rulebook7",
+          "label": "7. Courses of Fire"
+        },
+        {
+          "article_id": "rulebook8",
+          "label": "8. Time Limits"
+        },
+        {
+          "article_id": "rulebook9",
+          "label": "9. Tournament Conditions"
+        },
+        {
+          "article_id": "rulebook10",
+          "label": "10. Range Commands and Operations"
+        },
+        {
+          "article_id": "rulebook14",
+          "label": "14. Scoring and Marking"
+        },
+        {
+          "article_id": "rulebook15",
+          "label": "15. Decision of Ties"
+        },
+        {
+          "article_id": "rulebook16",
+          "label": "16. Challenges and Protests"
+        },
+        {
+          "article_id": "rulebook17",
+          "label": "17. National Records"
+        },
+        {
+          "article_id": "rulebook18",
+          "label": "18. Competitor's Responsibilities"
+        },
+        {
+          "article_id": "rulebook19",
+          "label": "19. National Pistol Classification"
+        }
+      ],
+      "title": "NRA Conventional Pistol Rules"
+    },
+    {
+      "generated": true,
+      "items": [
+        {
+          "article_id": "ilmo",
+          "label": "Il-Mo Indoor Pistol League"
+        },
+        {
+          "article_id": "imadmin",
+          "label": "Il-Mo Executive Officers"
+        },
+        {
+          "article_id": "imforms",
+          "label": "League Forms"
+        },
+        {
+          "article_id": "imhist",
+          "label": "Il-Mo History"
+        },
+        {
+          "article_id": "imnews",
+          "label": "Il-Mo News"
+        },
+        {
+          "article_id": "imprev",
+          "label": "Il-Mo Previous Season Standings"
+        },
+        {
+          "article_id": "imrecord",
+          "label": "Il-Mo Records"
+        },
+        {
+          "article_id": "imsoft",
+          "label": "Scorekeeping Software"
+        },
+        {
+          "article_id": "imstand",
+          "label": "Il-Mo Current Season Standings"
+        },
+        {
+          "article_id": "imteams",
+          "label": "Il-Mo Current Teams"
+        }
+      ],
+      "title": "Il-Mo League"
+    },
+    {
+      "generated": true,
+      "items": [
+        {
+          "article_id": "perenter",
+          "label": "How to Enter the National Matches"
+        },
+        {
+          "article_id": "perhist",
+          "label": "A History of the National Matches"
+        },
+        {
+          "article_id": "perinfo",
+          "label": "Lodging, Dining and Entertainment"
+        },
+        {
+          "article_id": "permem",
+          "label": "Memories of Camp Perry"
+        },
+        {
+          "article_id": "perryfaq",
+          "label": "Camp Perry Frequently Asked Questions"
+        },
+        {
+          "article_id": "perrysrv",
+          "label": "Camp Perry Survival Guide"
+        },
+        {
+          "article_id": "pertriv",
+          "label": "Camp Perry Trivia"
+        }
+      ],
+      "title": "Camp Perry / National Matches"
+    },
+    {
+      "generated": true,
+      "items": [
+        {
+          "article_id": "ron1",
+          "label": "Fundamentals Series: Stance"
+        },
+        {
+          "article_id": "ron2",
+          "label": "Fundamentals Series: Grip"
+        },
+        {
+          "article_id": "ron3",
+          "label": "Fundamentals Series: Breath Control"
+        },
+        {
+          "article_id": "ron4",
+          "label": "Fundamentals Series: Aiming & Sight Alignment"
+        },
+        {
+          "article_id": "ron5",
+          "label": "Fundamentals Series: Trigger Control"
+        },
+        {
+          "article_id": "ron6",
+          "label": "Fundamentals Series: Follow-Through"
+        },
+        {
+          "article_id": "ron7",
+          "label": "Fundamentals Series: Red Dot Scopes"
+        },
+        {
+          "article_id": "ronbio",
+          "label": "About Ron Steinbrecher"
+        }
+      ],
+      "title": "Ron Porter Fundamentals"
+    },
+    {
+      "generated": true,
+      "items": [
+        {
+          "article_id": "salyer2",
+          "label": "An Explanation of Area Aiming"
+        },
+        {
+          "article_id": "salyer3",
+          "label": "Trigger Control and Aiming Area"
+        },
+        {
+          "article_id": "salyer4",
+          "label": "Master Sustained Fire with Effective Practice"
+        },
+        {
+          "article_id": "salyer6",
+          "label": "About Dave Salyer"
+        }
+      ],
+      "title": "Dave Salyer Articles"
+    },
+    {
+      "generated": true,
+      "items": [
+        {
+          "article_id": "advertise",
+          "label": "Advertise and Support this Tremendous Resource"
+        },
+        {
+          "article_id": "alphadex",
+          "label": "Website Topic Index"
+        },
+        {
+          "article_id": "legal",
+          "label": "Terms and Conditions"
+        },
+        {
+          "article_id": "links",
+          "label": "Links to Other Sites"
+        },
+        {
+          "article_id": "records",
+          "label": "The NRA's National Records"
+        },
+        {
+          "article_id": "other",
+          "label": "Other Popular Disciplines"
+        },
+        {
+          "article_id": "techo",
+          "label": "Technical Data for Pistol Shooters"
+        },
+        {
+          "article_id": "why",
+          "label": "About this Website..."
+        },
+        {
+          "article_id": "visualize",
+          "label": "Zen in Visualization of Fundamentals"
+        }
+      ],
+      "title": "Site / Reference / General Index"
+    }
+  ],
+  "chapter_order": [
+    {
+      "article_id": "getinto",
+      "chapter_group": "Introductory Information",
+      "href": "chapters/getinto.xhtml"
+    },
+    {
+      "article_id": "bullseye",
+      "chapter_group": "Introductory Information",
+      "href": "chapters/bullseye.xhtml"
+    },
+    {
+      "article_id": "comp",
+      "chapter_group": "Introductory Information",
+      "href": "chapters/comp.xhtml"
+    },
+    {
+      "article_id": "frankhig",
+      "chapter_group": "Introductory Information",
+      "href": "chapters/frankhig.xhtml"
+    },
+    {
+      "article_id": "oursport",
+      "chapter_group": "Introductory Information",
+      "href": "chapters/oursport.xhtml"
+    },
+    {
+      "article_id": "nratips",
+      "chapter_group": "Introductory Information",
+      "href": "chapters/nratips.xhtml"
+    },
+    {
+      "article_id": "secret",
+      "chapter_group": "Introductory Information",
+      "href": "chapters/secret.xhtml"
+    },
+    {
+      "article_id": "etiquete",
+      "chapter_group": "Introductory Information",
+      "href": "chapters/etiquete.xhtml"
+    },
+    {
+      "article_id": "mikelav1",
+      "chapter_group": "Introductory Information",
+      "href": "chapters/mikelav1.xhtml"
+    },
+    {
+      "article_id": "mikelav2",
+      "chapter_group": "Introductory Information",
+      "href": "chapters/mikelav2.xhtml"
+    },
+    {
+      "article_id": "savino2",
+      "chapter_group": "Introductory Information",
+      "href": "chapters/savino2.xhtml"
+    },
+    {
+      "article_id": "savino",
+      "chapter_group": "Introductory Information",
+      "href": "chapters/savino.xhtml"
+    },
+    {
+      "article_id": "equipmnt",
+      "chapter_group": "Tools of the Trade",
+      "href": "chapters/equipmnt.xhtml"
+    },
+    {
+      "article_id": "pafford",
+      "chapter_group": "Tools of the Trade",
+      "href": "chapters/pafford.xhtml"
+    },
+    {
+      "article_id": "cstomgun",
+      "chapter_group": "Tools of the Trade",
+      "href": "chapters/cstomgun.xhtml"
+    },
+    {
+      "article_id": "malfunction",
+      "chapter_group": "Tools of the Trade",
+      "href": "chapters/malfunction.xhtml"
+    },
+    {
+      "article_id": "dotsight",
+      "chapter_group": "Tools of the Trade",
+      "href": "chapters/dotsight.xhtml"
+    },
+    {
+      "article_id": "goodgrip",
+      "chapter_group": "Tools of the Trade",
+      "href": "chapters/goodgrip.xhtml"
+    },
+    {
+      "article_id": "amucover",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/amucover.xhtml"
+    },
+    {
+      "article_id": "chapterf",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/chapterf.xhtml"
+    },
+    {
+      "article_id": "chapter0",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/chapter0.xhtml"
+    },
+    {
+      "article_id": "chapter1",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/chapter1.xhtml"
+    },
+    {
+      "article_id": "chapter2",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/chapter2.xhtml"
+    },
+    {
+      "article_id": "chapter3",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/chapter3.xhtml"
+    },
+    {
+      "article_id": "chapter4",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/chapter4.xhtml"
+    },
+    {
+      "article_id": "chapter5",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/chapter5.xhtml"
+    },
+    {
+      "article_id": "chapter6",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/chapter6.xhtml"
+    },
+    {
+      "article_id": "chapter7",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/chapter7.xhtml"
+    },
+    {
+      "article_id": "chapter8",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/chapter8.xhtml"
+    },
+    {
+      "article_id": "chapter9",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/chapter9.xhtml"
+    },
+    {
+      "article_id": "chapter10",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/chapter10.xhtml"
+    },
+    {
+      "article_id": "annex2",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/annex2.xhtml"
+    },
+    {
+      "article_id": "glossary",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/glossary.xhtml"
+    },
+    {
+      "article_id": "zins",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/zins.xhtml"
+    },
+    {
+      "article_id": "zins1",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/zins1.xhtml"
+    },
+    {
+      "article_id": "steinbrecher",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/steinbrecher.xhtml"
+    },
+    {
+      "article_id": "fulford",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/fulford.xhtml"
+    },
+    {
+      "article_id": "billblnk",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/billblnk.xhtml"
+    },
+    {
+      "article_id": "armymark",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/armymark.xhtml"
+    },
+    {
+      "article_id": "zoyola",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/zoyola.xhtml"
+    },
+    {
+      "article_id": "zinsdot",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/zinsdot.xhtml"
+    },
+    {
+      "article_id": "henderson",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/henderson.xhtml"
+    },
+    {
+      "article_id": "stamina",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/stamina.xhtml"
+    },
+    {
+      "article_id": "training",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/training.xhtml"
+    },
+    {
+      "article_id": "joyner",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/joyner.xhtml"
+    },
+    {
+      "article_id": "rapdfire",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/rapdfire.xhtml"
+    },
+    {
+      "article_id": "champion",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/champion.xhtml"
+    },
+    {
+      "article_id": "gregderr",
+      "chapter_group": "Perfecting Technique",
+      "href": "chapters/gregderr.xhtml"
+    },
+    {
+      "article_id": "joewhite",
+      "chapter_group": "Shooting Psychology",
+      "href": "chapters/joewhite.xhtml"
+    },
+    {
+      "article_id": "issfguide",
+      "chapter_group": "Shooting Psychology",
+      "href": "chapters/issfguide.xhtml"
+    },
+    {
+      "article_id": "d-nygord",
+      "chapter_group": "Shooting Psychology",
+      "href": "chapters/d-nygord.xhtml"
+    },
+    {
+      "article_id": "musician",
+      "chapter_group": "Shooting Psychology",
+      "href": "chapters/musician.xhtml"
+    },
+    {
+      "article_id": "focus",
+      "chapter_group": "Shooting Psychology",
+      "href": "chapters/focus.xhtml"
+    },
+    {
+      "article_id": "salyer1",
+      "chapter_group": "Shooting Psychology",
+      "href": "chapters/salyer1.xhtml"
+    },
+    {
+      "article_id": "sleep",
+      "chapter_group": "Shooting Psychology",
+      "href": "chapters/sleep.xhtml"
+    },
+    {
+      "article_id": "zeninfo",
+      "chapter_group": "Zen in the Art of Shooting",
+      "href": "chapters/zeninfo.xhtml"
+    },
+    {
+      "article_id": "spirit",
+      "chapter_group": "Zen in the Art of Shooting",
+      "href": "chapters/spirit.xhtml"
+    },
+    {
+      "article_id": "polmind",
+      "chapter_group": "Zen in the Art of Shooting",
+      "href": "chapters/polmind.xhtml"
+    },
+    {
+      "article_id": "zelement",
+      "chapter_group": "Zen in the Art of Shooting",
+      "href": "chapters/zelement.xhtml"
+    },
+    {
+      "article_id": "issha",
+      "chapter_group": "Zen in the Art of Shooting",
+      "href": "chapters/issha.xhtml"
+    },
+    {
+      "article_id": "zenpract",
+      "chapter_group": "Zen in the Art of Shooting",
+      "href": "chapters/zenpract.xhtml"
+    },
+    {
+      "article_id": "zenhist",
+      "chapter_group": "Zen in the Art of Shooting",
+      "href": "chapters/zenhist.xhtml"
+    },
+    {
+      "article_id": "zenread",
+      "chapter_group": "Zen in the Art of Shooting",
+      "href": "chapters/zenread.xhtml"
+    },
+    {
+      "article_id": "natbulls",
+      "chapter_group": "The Reference Room",
+      "href": "chapters/natbulls.xhtml"
+    },
+    {
+      "article_id": "rangecmd",
+      "chapter_group": "The Reference Room",
+      "href": "chapters/rangecmd.xhtml"
+    },
+    {
+      "article_id": "matchdir",
+      "chapter_group": "The Reference Room",
+      "href": "chapters/matchdir.xhtml"
+    },
+    {
+      "article_id": "clark",
+      "chapter_group": "Biography and History",
+      "href": "chapters/clark.xhtml"
+    },
+    {
+      "article_id": "askins",
+      "chapter_group": "Biography and History",
+      "href": "chapters/askins.xhtml"
+    },
+    {
+      "article_id": "cj",
+      "chapter_group": "Biography and History",
+      "href": "chapters/cj.xhtml"
+    },
+    {
+      "article_id": "amuprfil",
+      "chapter_group": "Biography and History",
+      "href": "chapters/amuprfil.xhtml"
+    },
+    {
+      "article_id": "profile1",
+      "chapter_group": "Biography and History",
+      "href": "chapters/profile1.xhtml"
+    },
+    {
+      "article_id": "profile2",
+      "chapter_group": "Biography and History",
+      "href": "chapters/profile2.xhtml"
+    },
+    {
+      "article_id": "profile3",
+      "chapter_group": "Biography and History",
+      "href": "chapters/profile3.xhtml"
+    },
+    {
+      "article_id": "profile4",
+      "chapter_group": "Biography and History",
+      "href": "chapters/profile4.xhtml"
+    },
+    {
+      "article_id": "profile5",
+      "chapter_group": "Biography and History",
+      "href": "chapters/profile5.xhtml"
+    },
+    {
+      "article_id": "profile6",
+      "chapter_group": "Biography and History",
+      "href": "chapters/profile6.xhtml"
+    },
+    {
+      "article_id": "profile7",
+      "chapter_group": "Biography and History",
+      "href": "chapters/profile7.xhtml"
+    },
+    {
+      "article_id": "wong",
+      "chapter_group": "Technical Information",
+      "href": "chapters/wong.xhtml"
+    },
+    {
+      "article_id": "wong1",
+      "chapter_group": "Technical Information",
+      "href": "chapters/wong1.xhtml"
+    },
+    {
+      "article_id": "wong2",
+      "chapter_group": "Technical Information",
+      "href": "chapters/wong2.xhtml"
+    },
+    {
+      "article_id": "wong3",
+      "chapter_group": "Technical Information",
+      "href": "chapters/wong3.xhtml"
+    },
+    {
+      "article_id": "wong4",
+      "chapter_group": "Technical Information",
+      "href": "chapters/wong4.xhtml"
+    },
+    {
+      "article_id": "wong5",
+      "chapter_group": "Technical Information",
+      "href": "chapters/wong5.xhtml"
+    },
+    {
+      "article_id": "wong6",
+      "chapter_group": "Technical Information",
+      "href": "chapters/wong6.xhtml"
+    },
+    {
+      "article_id": "wong7",
+      "chapter_group": "Technical Information",
+      "href": "chapters/wong7.xhtml"
+    },
+    {
+      "article_id": "wongbio",
+      "chapter_group": "Technical Information",
+      "href": "chapters/wongbio.xhtml"
+    },
+    {
+      "article_id": "reloads",
+      "chapter_group": "Technical Information",
+      "href": "chapters/reloads.xhtml"
+    },
+    {
+      "article_id": "22care",
+      "chapter_group": "Technical Information",
+      "href": "chapters/22care.xhtml"
+    },
+    {
+      "article_id": "oiling",
+      "chapter_group": "Technical Information",
+      "href": "chapters/oiling.xhtml"
+    },
+    {
+      "article_id": "dcm",
+      "chapter_group": "Technical Information",
+      "href": "chapters/dcm.xhtml"
+    },
+    {
+      "article_id": "salyer5",
+      "chapter_group": "Technical Information",
+      "href": "chapters/salyer5.xhtml"
+    },
+    {
+      "article_id": "safety",
+      "chapter_group": "General Firearms Information",
+      "href": "chapters/safety.xhtml"
+    },
+    {
+      "article_id": "experts",
+      "chapter_group": "General Firearms Information",
+      "href": "chapters/experts.xhtml"
+    },
+    {
+      "article_id": "singlepr",
+      "chapter_group": "General Firearms Information",
+      "href": "chapters/singlepr.xhtml"
+    },
+    {
+      "article_id": "polsby",
+      "chapter_group": "General Firearms Information",
+      "href": "chapters/polsby.xhtml"
+    },
+    {
+      "article_id": "rulebook",
+      "chapter_group": "NRA Conventional Pistol Rules",
+      "href": "chapters/rulebook.xhtml"
+    },
+    {
+      "article_id": "rulebook1",
+      "chapter_group": "NRA Conventional Pistol Rules",
+      "href": "chapters/rulebook1.xhtml"
+    },
+    {
+      "article_id": "rulebook2",
+      "chapter_group": "NRA Conventional Pistol Rules",
+      "href": "chapters/rulebook2.xhtml"
+    },
+    {
+      "article_id": "rulebook3",
+      "chapter_group": "NRA Conventional Pistol Rules",
+      "href": "chapters/rulebook3.xhtml"
+    },
+    {
+      "article_id": "rulebook4",
+      "chapter_group": "NRA Conventional Pistol Rules",
+      "href": "chapters/rulebook4.xhtml"
+    },
+    {
+      "article_id": "rulebook5",
+      "chapter_group": "NRA Conventional Pistol Rules",
+      "href": "chapters/rulebook5.xhtml"
+    },
+    {
+      "article_id": "rulebook6",
+      "chapter_group": "NRA Conventional Pistol Rules",
+      "href": "chapters/rulebook6.xhtml"
+    },
+    {
+      "article_id": "rulebook7",
+      "chapter_group": "NRA Conventional Pistol Rules",
+      "href": "chapters/rulebook7.xhtml"
+    },
+    {
+      "article_id": "rulebook8",
+      "chapter_group": "NRA Conventional Pistol Rules",
+      "href": "chapters/rulebook8.xhtml"
+    },
+    {
+      "article_id": "rulebook9",
+      "chapter_group": "NRA Conventional Pistol Rules",
+      "href": "chapters/rulebook9.xhtml"
+    },
+    {
+      "article_id": "rulebook10",
+      "chapter_group": "NRA Conventional Pistol Rules",
+      "href": "chapters/rulebook10.xhtml"
+    },
+    {
+      "article_id": "rulebook14",
+      "chapter_group": "NRA Conventional Pistol Rules",
+      "href": "chapters/rulebook14.xhtml"
+    },
+    {
+      "article_id": "rulebook15",
+      "chapter_group": "NRA Conventional Pistol Rules",
+      "href": "chapters/rulebook15.xhtml"
+    },
+    {
+      "article_id": "rulebook16",
+      "chapter_group": "NRA Conventional Pistol Rules",
+      "href": "chapters/rulebook16.xhtml"
+    },
+    {
+      "article_id": "rulebook17",
+      "chapter_group": "NRA Conventional Pistol Rules",
+      "href": "chapters/rulebook17.xhtml"
+    },
+    {
+      "article_id": "rulebook18",
+      "chapter_group": "NRA Conventional Pistol Rules",
+      "href": "chapters/rulebook18.xhtml"
+    },
+    {
+      "article_id": "rulebook19",
+      "chapter_group": "NRA Conventional Pistol Rules",
+      "href": "chapters/rulebook19.xhtml"
+    },
+    {
+      "article_id": "ilmo",
+      "chapter_group": "Il-Mo League",
+      "href": "chapters/ilmo.xhtml"
+    },
+    {
+      "article_id": "imadmin",
+      "chapter_group": "Il-Mo League",
+      "href": "chapters/imadmin.xhtml"
+    },
+    {
+      "article_id": "imforms",
+      "chapter_group": "Il-Mo League",
+      "href": "chapters/imforms.xhtml"
+    },
+    {
+      "article_id": "imhist",
+      "chapter_group": "Il-Mo League",
+      "href": "chapters/imhist.xhtml"
+    },
+    {
+      "article_id": "imnews",
+      "chapter_group": "Il-Mo League",
+      "href": "chapters/imnews.xhtml"
+    },
+    {
+      "article_id": "imprev",
+      "chapter_group": "Il-Mo League",
+      "href": "chapters/imprev.xhtml"
+    },
+    {
+      "article_id": "imrecord",
+      "chapter_group": "Il-Mo League",
+      "href": "chapters/imrecord.xhtml"
+    },
+    {
+      "article_id": "imsoft",
+      "chapter_group": "Il-Mo League",
+      "href": "chapters/imsoft.xhtml"
+    },
+    {
+      "article_id": "imstand",
+      "chapter_group": "Il-Mo League",
+      "href": "chapters/imstand.xhtml"
+    },
+    {
+      "article_id": "imteams",
+      "chapter_group": "Il-Mo League",
+      "href": "chapters/imteams.xhtml"
+    },
+    {
+      "article_id": "perenter",
+      "chapter_group": "Camp Perry / National Matches",
+      "href": "chapters/perenter.xhtml"
+    },
+    {
+      "article_id": "perhist",
+      "chapter_group": "Camp Perry / National Matches",
+      "href": "chapters/perhist.xhtml"
+    },
+    {
+      "article_id": "perinfo",
+      "chapter_group": "Camp Perry / National Matches",
+      "href": "chapters/perinfo.xhtml"
+    },
+    {
+      "article_id": "permem",
+      "chapter_group": "Camp Perry / National Matches",
+      "href": "chapters/permem.xhtml"
+    },
+    {
+      "article_id": "perryfaq",
+      "chapter_group": "Camp Perry / National Matches",
+      "href": "chapters/perryfaq.xhtml"
+    },
+    {
+      "article_id": "perrysrv",
+      "chapter_group": "Camp Perry / National Matches",
+      "href": "chapters/perrysrv.xhtml"
+    },
+    {
+      "article_id": "pertriv",
+      "chapter_group": "Camp Perry / National Matches",
+      "href": "chapters/pertriv.xhtml"
+    },
+    {
+      "article_id": "ron1",
+      "chapter_group": "Ron Porter Fundamentals",
+      "href": "chapters/ron1.xhtml"
+    },
+    {
+      "article_id": "ron2",
+      "chapter_group": "Ron Porter Fundamentals",
+      "href": "chapters/ron2.xhtml"
+    },
+    {
+      "article_id": "ron3",
+      "chapter_group": "Ron Porter Fundamentals",
+      "href": "chapters/ron3.xhtml"
+    },
+    {
+      "article_id": "ron4",
+      "chapter_group": "Ron Porter Fundamentals",
+      "href": "chapters/ron4.xhtml"
+    },
+    {
+      "article_id": "ron5",
+      "chapter_group": "Ron Porter Fundamentals",
+      "href": "chapters/ron5.xhtml"
+    },
+    {
+      "article_id": "ron6",
+      "chapter_group": "Ron Porter Fundamentals",
+      "href": "chapters/ron6.xhtml"
+    },
+    {
+      "article_id": "ron7",
+      "chapter_group": "Ron Porter Fundamentals",
+      "href": "chapters/ron7.xhtml"
+    },
+    {
+      "article_id": "ronbio",
+      "chapter_group": "Ron Porter Fundamentals",
+      "href": "chapters/ronbio.xhtml"
+    },
+    {
+      "article_id": "salyer2",
+      "chapter_group": "Dave Salyer Articles",
+      "href": "chapters/salyer2.xhtml"
+    },
+    {
+      "article_id": "salyer3",
+      "chapter_group": "Dave Salyer Articles",
+      "href": "chapters/salyer3.xhtml"
+    },
+    {
+      "article_id": "salyer4",
+      "chapter_group": "Dave Salyer Articles",
+      "href": "chapters/salyer4.xhtml"
+    },
+    {
+      "article_id": "salyer6",
+      "chapter_group": "Dave Salyer Articles",
+      "href": "chapters/salyer6.xhtml"
+    },
+    {
+      "article_id": "advertise",
+      "chapter_group": "Site / Reference / General Index",
+      "href": "chapters/advertise.xhtml"
+    },
+    {
+      "article_id": "alphadex",
+      "chapter_group": "Site / Reference / General Index",
+      "href": "chapters/alphadex.xhtml"
+    },
+    {
+      "article_id": "legal",
+      "chapter_group": "Site / Reference / General Index",
+      "href": "chapters/legal.xhtml"
+    },
+    {
+      "article_id": "links",
+      "chapter_group": "Site / Reference / General Index",
+      "href": "chapters/links.xhtml"
+    },
+    {
+      "article_id": "records",
+      "chapter_group": "Site / Reference / General Index",
+      "href": "chapters/records.xhtml"
+    },
+    {
+      "article_id": "other",
+      "chapter_group": "Site / Reference / General Index",
+      "href": "chapters/other.xhtml"
+    },
+    {
+      "article_id": "techo",
+      "chapter_group": "Site / Reference / General Index",
+      "href": "chapters/techo.xhtml"
+    },
+    {
+      "article_id": "why",
+      "chapter_group": "Site / Reference / General Index",
+      "href": "chapters/why.xhtml"
+    },
+    {
+      "article_id": "visualize",
+      "chapter_group": "Site / Reference / General Index",
+      "href": "chapters/visualize.xhtml"
+    }
+  ],
+  "chapter_paths": [
+    "chapters/getinto.xhtml",
+    "chapters/bullseye.xhtml",
+    "chapters/comp.xhtml",
+    "chapters/frankhig.xhtml",
+    "chapters/oursport.xhtml",
+    "chapters/nratips.xhtml",
+    "chapters/secret.xhtml",
+    "chapters/etiquete.xhtml",
+    "chapters/mikelav1.xhtml",
+    "chapters/mikelav2.xhtml",
+    "chapters/savino2.xhtml",
+    "chapters/savino.xhtml",
+    "chapters/equipmnt.xhtml",
+    "chapters/pafford.xhtml",
+    "chapters/cstomgun.xhtml",
+    "chapters/malfunction.xhtml",
+    "chapters/dotsight.xhtml",
+    "chapters/goodgrip.xhtml",
+    "chapters/amucover.xhtml",
+    "chapters/chapterf.xhtml",
+    "chapters/chapter0.xhtml",
+    "chapters/chapter1.xhtml",
+    "chapters/chapter2.xhtml",
+    "chapters/chapter3.xhtml",
+    "chapters/chapter4.xhtml",
+    "chapters/chapter5.xhtml",
+    "chapters/chapter6.xhtml",
+    "chapters/chapter7.xhtml",
+    "chapters/chapter8.xhtml",
+    "chapters/chapter9.xhtml",
+    "chapters/chapter10.xhtml",
+    "chapters/annex2.xhtml",
+    "chapters/glossary.xhtml",
+    "chapters/zins.xhtml",
+    "chapters/zins1.xhtml",
+    "chapters/steinbrecher.xhtml",
+    "chapters/fulford.xhtml",
+    "chapters/billblnk.xhtml",
+    "chapters/armymark.xhtml",
+    "chapters/zoyola.xhtml",
+    "chapters/zinsdot.xhtml",
+    "chapters/henderson.xhtml",
+    "chapters/stamina.xhtml",
+    "chapters/training.xhtml",
+    "chapters/joyner.xhtml",
+    "chapters/rapdfire.xhtml",
+    "chapters/champion.xhtml",
+    "chapters/gregderr.xhtml",
+    "chapters/joewhite.xhtml",
+    "chapters/issfguide.xhtml",
+    "chapters/d-nygord.xhtml",
+    "chapters/musician.xhtml",
+    "chapters/focus.xhtml",
+    "chapters/salyer1.xhtml",
+    "chapters/sleep.xhtml",
+    "chapters/zeninfo.xhtml",
+    "chapters/spirit.xhtml",
+    "chapters/polmind.xhtml",
+    "chapters/zelement.xhtml",
+    "chapters/issha.xhtml",
+    "chapters/zenpract.xhtml",
+    "chapters/zenhist.xhtml",
+    "chapters/zenread.xhtml",
+    "chapters/natbulls.xhtml",
+    "chapters/rangecmd.xhtml",
+    "chapters/matchdir.xhtml",
+    "chapters/clark.xhtml",
+    "chapters/askins.xhtml",
+    "chapters/cj.xhtml",
+    "chapters/amuprfil.xhtml",
+    "chapters/profile1.xhtml",
+    "chapters/profile2.xhtml",
+    "chapters/profile3.xhtml",
+    "chapters/profile4.xhtml",
+    "chapters/profile5.xhtml",
+    "chapters/profile6.xhtml",
+    "chapters/profile7.xhtml",
+    "chapters/wong.xhtml",
+    "chapters/wong1.xhtml",
+    "chapters/wong2.xhtml",
+    "chapters/wong3.xhtml",
+    "chapters/wong4.xhtml",
+    "chapters/wong5.xhtml",
+    "chapters/wong6.xhtml",
+    "chapters/wong7.xhtml",
+    "chapters/wongbio.xhtml",
+    "chapters/reloads.xhtml",
+    "chapters/22care.xhtml",
+    "chapters/oiling.xhtml",
+    "chapters/dcm.xhtml",
+    "chapters/salyer5.xhtml",
+    "chapters/safety.xhtml",
+    "chapters/experts.xhtml",
+    "chapters/singlepr.xhtml",
+    "chapters/polsby.xhtml",
+    "chapters/rulebook.xhtml",
+    "chapters/rulebook1.xhtml",
+    "chapters/rulebook2.xhtml",
+    "chapters/rulebook3.xhtml",
+    "chapters/rulebook4.xhtml",
+    "chapters/rulebook5.xhtml",
+    "chapters/rulebook6.xhtml",
+    "chapters/rulebook7.xhtml",
+    "chapters/rulebook8.xhtml",
+    "chapters/rulebook9.xhtml",
+    "chapters/rulebook10.xhtml",
+    "chapters/rulebook14.xhtml",
+    "chapters/rulebook15.xhtml",
+    "chapters/rulebook16.xhtml",
+    "chapters/rulebook17.xhtml",
+    "chapters/rulebook18.xhtml",
+    "chapters/rulebook19.xhtml",
+    "chapters/ilmo.xhtml",
+    "chapters/imadmin.xhtml",
+    "chapters/imforms.xhtml",
+    "chapters/imhist.xhtml",
+    "chapters/imnews.xhtml",
+    "chapters/imprev.xhtml",
+    "chapters/imrecord.xhtml",
+    "chapters/imsoft.xhtml",
+    "chapters/imstand.xhtml",
+    "chapters/imteams.xhtml",
+    "chapters/perenter.xhtml",
+    "chapters/perhist.xhtml",
+    "chapters/perinfo.xhtml",
+    "chapters/permem.xhtml",
+    "chapters/perryfaq.xhtml",
+    "chapters/perrysrv.xhtml",
+    "chapters/pertriv.xhtml",
+    "chapters/ron1.xhtml",
+    "chapters/ron2.xhtml",
+    "chapters/ron3.xhtml",
+    "chapters/ron4.xhtml",
+    "chapters/ron5.xhtml",
+    "chapters/ron6.xhtml",
+    "chapters/ron7.xhtml",
+    "chapters/ronbio.xhtml",
+    "chapters/salyer2.xhtml",
+    "chapters/salyer3.xhtml",
+    "chapters/salyer4.xhtml",
+    "chapters/salyer6.xhtml",
+    "chapters/advertise.xhtml",
+    "chapters/alphadex.xhtml",
+    "chapters/legal.xhtml",
+    "chapters/links.xhtml",
+    "chapters/records.xhtml",
+    "chapters/other.xhtml",
+    "chapters/techo.xhtml",
+    "chapters/why.xhtml",
+    "chapters/visualize.xhtml"
+  ],
+  "eligible_article_count": 150,
+  "embedded_asset_count": 160,
+  "embedded_asset_paths": [
+    "images/asset-0ad841cd6cc3ef49.gif",
+    "images/asset-eb1c847b28665f29.jpg",
+    "images/asset-6333f649b55f0795.jpg",
+    "images/asset-0422bbd06f536907.gif",
+    "images/asset-0c4fd9e4ce282b25.jpg",
+    "images/asset-65f9ad72e1bee6a0.jpg",
+    "images/asset-6557f8c0e9bc75e7.jpg",
+    "images/asset-1537cfc97ffde88a.jpg",
+    "images/asset-9f781e4bde31702f.jpg",
+    "images/asset-e2c2e1173ecffdd5.jpg",
+    "images/asset-ed57faeabc9f5b1b.jpg",
+    "images/asset-58c5c3e73e2495b8.jpg",
+    "images/asset-09449ffe2fc09edf.jpg",
+    "images/asset-7d7070464bf76d54.jpg",
+    "images/asset-8af4fafc372f5380.jpg",
+    "images/asset-dc8acfadacaad2c0.jpg",
+    "images/asset-95d7644d238807c5.jpg",
+    "images/asset-a890bf34222b0409.jpg",
+    "images/asset-a1e9c2139a1f0923.jpg",
+    "images/asset-3e00aadcaeba3e7c.jpg",
+    "images/asset-aa8977d67821ad72.jpg",
+    "images/asset-640a44929cfb4034.jpg",
+    "images/asset-7e38727dd2f637d3.jpg",
+    "images/asset-5f35918dcf2128b0.jpg",
+    "images/asset-56276868ccb21a91.gif",
+    "images/asset-861f1d9ff640c3b2.jpg",
+    "images/asset-7ad1f9416049233f.jpg",
+    "images/asset-83259b99553692ee.jpg",
+    "images/asset-a2e2c3b102cbecf2.jpg",
+    "images/asset-0ce22fd527ee518b.jpg",
+    "images/asset-90ec1e62e42ab299.jpg",
+    "images/asset-6cafb5ec9a376c40.jpg",
+    "images/asset-e81d61128c5ead07.jpg",
+    "images/asset-53c6b21333c9a122.jpg",
+    "images/asset-a0dfafda35da6f3b.jpg",
+    "images/asset-84a8179e8a697edb.jpg",
+    "images/asset-158b5df68631b2f5.jpg",
+    "images/asset-1c60563b2f7ada7e.jpg",
+    "images/asset-3e5b076ed75594f7.jpg",
+    "images/asset-7023e98c893a37c0.jpg",
+    "images/asset-210f992a3134869e.jpg",
+    "images/asset-b21f8f809f019726.jpg",
+    "images/asset-27b98203dcccc412.jpg",
+    "images/asset-51f150cea17d274b.jpg",
+    "images/asset-aeddcd23d60008ac.jpg",
+    "images/asset-66707fd68ab21629.jpg",
+    "images/asset-4ce58ce7d5193c6f.jpg",
+    "images/asset-bfd5a619326e794a.jpg",
+    "images/asset-45d2eff2d62edb49.jpg",
+    "images/asset-0a7cba4d3c8ecaaa.jpg",
+    "images/asset-94c6bd15fda3f5ea.jpg",
+    "images/asset-dbce47c3d1dd4e5a.jpg",
+    "images/asset-b65daea03cf61cf9.jpg",
+    "images/asset-dee708ce8f9189d9.jpg",
+    "images/asset-5e10df7b80ca137a.jpg",
+    "images/asset-e59487d21855f62b.jpg",
+    "images/asset-228e31c273cc8289.jpg",
+    "images/asset-f269a83cb7240a0f.jpg",
+    "images/asset-89c5282ef666d822.jpg",
+    "images/asset-34eb8e0f0535ecdb.jpg",
+    "images/asset-7aef4db9959ca1ab.jpg",
+    "images/asset-c399b39cb9e78154.jpg",
+    "images/asset-eccf232a11e4f244.jpg",
+    "images/asset-2c2fdf8470d809da.jpg",
+    "images/asset-aa06782e17b71414.jpg",
+    "images/asset-140acea789bd2d87.jpg",
+    "images/asset-b6b36b2a37ac0f2d.jpg",
+    "images/asset-4530537f779e8ff2.gif",
+    "images/asset-5217f1fd2e93bf21.gif",
+    "images/asset-33c18c0762c13553.gif",
+    "images/asset-71610c63702a2678.gif",
+    "images/asset-efc272e7db8d90a9.gif",
+    "images/asset-296d94480071a27b.gif",
+    "images/asset-2142472ac7a231ac.gif",
+    "images/asset-3930ed69631f6b75.jpg",
+    "images/asset-4d68fe160f67371a.jpg",
+    "images/asset-dee449d1de1d1b8c.gif",
+    "images/asset-c2c3b3e40eae47a6.jpg",
+    "images/asset-be0f575de5a19741.gif",
+    "images/asset-75a43bd02ff9d38e.jpg",
+    "images/asset-f6ac530b51682532.jpg",
+    "images/asset-fad4c74128b3dac5.gif",
+    "images/asset-87e11affcb1b2eb1.gif",
+    "images/asset-8939c02cd5381c84.gif",
+    "images/asset-803c4228109b8158.gif",
+    "images/asset-8b454d1fdee6c429.gif",
+    "images/asset-c982c8a6d91e909c.gif",
+    "images/asset-8078a44917fe562c.gif",
+    "images/asset-c3946479396774a6.gif",
+    "images/asset-dac93b6e291638a1.gif",
+    "images/asset-1ab373b4ff21052f.gif",
+    "images/asset-ca5e686ec95a6cb5.gif",
+    "images/asset-d51b97e351bef6bb.gif",
+    "images/asset-c8426b04fdf90f74.gif",
+    "images/asset-0efe99efd8093719.gif",
+    "images/asset-c18593913ceeeb90.gif",
+    "images/asset-56a51fded7e4b454.gif",
+    "images/asset-6f5cb08a8cfb3445.gif",
+    "images/asset-155e84140171851f.gif",
+    "images/asset-a6266d1b89abd6c2.jpg",
+    "images/asset-3eab09852d553380.jpg",
+    "images/asset-cc8c7211e97be192.gif",
+    "images/asset-06ab43bb96e67265.gif",
+    "images/asset-8e1ffc90ea6a8999.gif",
+    "images/asset-2f76210acb6c2048.gif",
+    "images/asset-b0f98e6c5f384d2c.gif",
+    "images/asset-305a86f9b924f5a2.gif",
+    "images/asset-99a36240fdb35c2e.gif",
+    "images/asset-6624e6b13a54a930.gif",
+    "images/asset-86232ca9ebad9e2a.jpg",
+    "images/asset-f515cac2b4b741c6.jpg",
+    "images/asset-05ade924c9284835.jpg",
+    "images/asset-f404f02f31df9bdb.gif",
+    "images/asset-b9693eee8e1644b5.gif",
+    "images/asset-c9db48a68966ea66.gif",
+    "images/asset-c57240e5561eadd5.gif",
+    "images/asset-acc4c02bb7a6428d.gif",
+    "images/asset-bdc3c4502dd03aad.gif",
+    "images/asset-1f0d149d0ed85fed.gif",
+    "images/asset-f6ee2ae43a015901.jpg",
+    "images/asset-0e5caed64a37a118.gif",
+    "images/asset-a227a06a93abedd0.gif",
+    "images/asset-41deb084bb656d45.jpg",
+    "images/asset-018d3fc9f217dc9b.jpg",
+    "images/asset-cda4692748f04d23.jpg",
+    "images/asset-3f95e1651f2b8e44.jpg",
+    "images/asset-15d1e87eb86d1aff.jpg",
+    "images/asset-f12cf09a7a84c79e.jpg",
+    "images/asset-582cf0a5424fad36.jpg",
+    "images/asset-87edeebabb4fc812.jpg",
+    "images/asset-02a769440e8638ee.gif",
+    "images/asset-54c9183f269b3e7f.jpg",
+    "images/asset-2169b76446efa1eb.jpg",
+    "images/asset-ae6acb44d9f14397.jpg",
+    "images/asset-91ddb4018da91524.jpg",
+    "images/asset-0d60e46fa5e8de16.jpg",
+    "images/asset-f039f3295ede0b93.jpg",
+    "images/asset-d87dcc79285ea33c.jpg",
+    "images/asset-fe8577ec54d2324d.jpg",
+    "images/asset-a1df42574080026e.jpg",
+    "images/asset-6596907c47919d81.gif",
+    "images/asset-3112e6ca2f321622.gif",
+    "images/asset-0abd512cbcd04223.jpg",
+    "images/asset-5ed5d7298ae9c11a.jpg",
+    "images/asset-623e07e1bba3c19c.jpg",
+    "images/asset-d917674a7317e4d6.jpg",
+    "images/asset-2d9ccad71a3d35c8.gif",
+    "images/asset-f56a89e6e7b7a69e.jpg",
+    "images/asset-cc64d5e50dcca399.jpg",
+    "images/asset-81c2159a629bc008.jpg",
+    "images/asset-9d48a5415494c835.jpg",
+    "images/asset-b5dfaaf46586cbd8.jpg",
+    "images/asset-ee621b40e7585872.jpg",
+    "images/asset-93c00a62e75910da.jpg",
+    "images/asset-08df49358cda9fce.jpg",
+    "images/asset-e09a23ea739266c8.gif",
+    "images/asset-a37024dab715270f.gif",
+    "images/asset-e5c70172193375e8.jpg",
+    "images/asset-b8b2f7baf6175058.jpg",
+    "images/asset-9d59392dc13989b1.jpg"
+  ],
+  "generated_at": "2026-05-29T13:54:21Z",
+  "included_article_count": 150,
+  "inputs": {
+    "article_dir": "content/canonical/articles",
+    "article_index": "content/canonical/articles.index.json",
+    "asset_index": "content/assets/assets.index.json",
+    "canonical_report": "exports/static-site/raw/_raw-export-report.json",
+    "raw_index": "archive/raw/wayback/files/20260522T143136Z/202508/article_candidate/www.bullseyepistol.com/20250818003737-index-5fffb450c2814c7e.html"
+  },
+  "missing_assets": [],
+  "not_raw_index_listed_article_count": 55,
+  "output": "exports/ebook/bullseye-pistol.epub",
+  "raw_index_listed_article_count": 95,
+  "raw_index_source": {
+    "canonical_report_homepage_matches": true,
+    "canonical_report_homepage_source": {
+      "local_path": "archive/raw/wayback/files/20260522T143136Z/202508/article_candidate/www.bullseyepistol.com/20250818003737-index-5fffb450c2814c7e.html",
+      "original": "http://www.bullseyepistol.com/",
+      "timestamp": "20250818003737"
+    },
+    "local_path": "archive/raw/wayback/files/20260522T143136Z/202508/article_candidate/www.bullseyepistol.com/20250818003737-index-5fffb450c2814c7e.html"
+  },
+  "skipped_records": [],
+  "suppressed_internal_resource_links": [
+    {
+      "article_id": "savino2",
+      "context": "body-link",
+      "href": "http://www.bullseyepistol.com/"
+    },
+    {
+      "article_id": "savino2",
+      "context": "reference-list",
+      "href": "http://www.bullseyepistol.com/",
+      "text": "http://www.bullseyepistol.com/"
+    },
+    {
+      "article_id": "equipmnt",
+      "context": "body-link",
+      "href": "http://www.bullseyepistol.com/feed.htm"
+    },
+    {
+      "article_id": "equipmnt",
+      "context": "reference-list",
+      "href": "http://www.bullseyepistol.com/feed.htm",
+      "text": "Ammunition Accuracy Test"
+    },
+    {
+      "article_id": "chapterf",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/bulseyel.htm"
+    },
+    {
+      "article_id": "chapterf",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/bulseyel.htm",
+      "text": "Bullseye-L"
+    },
+    {
+      "article_id": "issfguide",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/issfbook.pdf"
+    },
+    {
+      "article_id": "issfguide",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/issfbook.pdf",
+      "text": "http://bullseyepistol.com/issfbook.pdf"
+    },
+    {
+      "article_id": "rangecmd",
+      "context": "body-link",
+      "href": "https://www.bullseyepistol.com/timed.mp3"
+    },
+    {
+      "article_id": "rangecmd",
+      "context": "body-link",
+      "href": "https://www.bullseyepistol.com/rapid.mp3"
+    },
+    {
+      "article_id": "rangecmd",
+      "context": "reference-list",
+      "href": "https://www.bullseyepistol.com/timed.mp3",
+      "text": "Timed Fire MP3"
+    },
+    {
+      "article_id": "rangecmd",
+      "context": "reference-list",
+      "href": "https://www.bullseyepistol.com/rapid.mp3",
+      "text": "Rapid Fire MP3"
+    },
+    {
+      "article_id": "matchdir",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/scorecards.pdf"
+    },
+    {
+      "article_id": "matchdir",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/checklist2700.zip"
+    },
+    {
+      "article_id": "matchdir",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/timed.mp3"
+    },
+    {
+      "article_id": "matchdir",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/rapid.mp3"
+    },
+    {
+      "article_id": "matchdir",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/imbylaws.htm"
+    },
+    {
+      "article_id": "matchdir",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/scorecards.pdf",
+      "text": "Download the Tournament Score Cards"
+    },
+    {
+      "article_id": "matchdir",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/checklist2700.zip",
+      "text": "Download the Range Officer's Outline/Checklist"
+    },
+    {
+      "article_id": "matchdir",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/timed.mp3",
+      "text": "Timed Fire MP3"
+    },
+    {
+      "article_id": "matchdir",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/rapid.mp3",
+      "text": "Rapid Fire MP3"
+    },
+    {
+      "article_id": "matchdir",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/imbylaws.htm",
+      "text": "Download Sample NRA-Sanctioned League By-Laws"
+    },
+    {
+      "article_id": "imforms",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/SignupForm.pdf",
+      "reason": "unavailable-internal-resource",
+      "text": "Match Sign-up Sheet:"
+    },
+    {
+      "article_id": "imforms",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/ILMOScorecard.pdf",
+      "reason": "unavailable-internal-resource",
+      "text": "Match Scorecards:"
+    },
+    {
+      "article_id": "imforms",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/NewShooter.pdf",
+      "reason": "unavailable-internal-resource",
+      "text": "New Shooter Info:"
+    },
+    {
+      "article_id": "imforms",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/MidSeasonScorecard.pdf",
+      "reason": "unavailable-internal-resource",
+      "text": "League Tournament \"900\" Scorecards:"
+    },
+    {
+      "article_id": "imprev",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/60-61results.pdf"
+    },
+    {
+      "article_id": "imprev",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/71-72results.pdf"
+    },
+    {
+      "article_id": "imprev",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/83-84results.pdf"
+    },
+    {
+      "article_id": "imprev",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/98-99results.pdf"
+    },
+    {
+      "article_id": "imprev",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/99-00results.pdf"
+    },
+    {
+      "article_id": "imprev",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/00-01results.pdf"
+    },
+    {
+      "article_id": "imprev",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/01-02results.pdf"
+    },
+    {
+      "article_id": "imprev",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/02-03results.pdf"
+    },
+    {
+      "article_id": "imprev",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/03-04results.pdf"
+    },
+    {
+      "article_id": "imprev",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/04-05results.pdf"
+    },
+    {
+      "article_id": "imprev",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/05-06results.pdf"
+    },
+    {
+      "article_id": "imprev",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/06-07results.pdf"
+    },
+    {
+      "article_id": "imprev",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/60-61results.pdf",
+      "text": "1960-1961"
+    },
+    {
+      "article_id": "imprev",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/71-72results.pdf",
+      "text": "1971-1972"
+    },
+    {
+      "article_id": "imprev",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/83-84results.pdf",
+      "text": "1983-1984"
+    },
+    {
+      "article_id": "imprev",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/98-99results.pdf",
+      "text": "1998-1999"
+    },
+    {
+      "article_id": "imprev",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/99-00results.pdf",
+      "text": "1999-2000"
+    },
+    {
+      "article_id": "imprev",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/00-01results.pdf",
+      "text": "2000-2001"
+    },
+    {
+      "article_id": "imprev",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/01-02results.pdf",
+      "text": "2001-2002"
+    },
+    {
+      "article_id": "imprev",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/02-03results.pdf",
+      "text": "2002-2003"
+    },
+    {
+      "article_id": "imprev",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/03-04results.pdf",
+      "text": "2003-2004"
+    },
+    {
+      "article_id": "imprev",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/04-05results.pdf",
+      "text": "2004-2005"
+    },
+    {
+      "article_id": "imprev",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/05-06results.pdf",
+      "text": "2005-2006"
+    },
+    {
+      "article_id": "imprev",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/06-07results.pdf",
+      "text": "2006-2007"
+    },
+    {
+      "article_id": "imsoft",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/POM2004.zip",
+      "reason": "unavailable-internal-resource",
+      "text": "Match Scorekeeping:"
+    },
+    {
+      "article_id": "imsoft",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/TeamAdmin2004.zip",
+      "reason": "unavailable-internal-resource",
+      "text": "Team Administration:"
+    },
+    {
+      "article_id": "imsoft",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/Handicap.exe",
+      "reason": "unavailable-internal-resource",
+      "text": "Handicap Calculator:"
+    },
+    {
+      "article_id": "alphadex",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/bulseyel.htm"
+    },
+    {
+      "article_id": "alphadex",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/bulseyel.htm"
+    },
+    {
+      "article_id": "alphadex",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/bulseyel.htm",
+      "text": "for Paul Perrone"
+    },
+    {
+      "article_id": "alphadex",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/bulseyel.htm",
+      "text": "the Bullseye-L forum"
+    },
+    {
+      "article_id": "techo",
+      "context": "body-link",
+      "href": "http://bullseyepistol.com/feed.htm"
+    },
+    {
+      "article_id": "techo",
+      "context": "reference-list",
+      "href": "http://bullseyepistol.com/feed.htm",
+      "text": "Testing Ammunition Accuracy"
+    }
+  ],
+  "unresolved_internal_links": [],
+  "unsupported_assets": [],
+  "validation": {
+    "checks": [
+      {
+        "name": "epub_exists",
+        "passed": true,
+        "path": "exports/ebook/bullseye-pistol.epub"
+      },
+      {
+        "name": "mimetype_first",
+        "passed": true
+      },
+      {
+        "name": "container_exists",
+        "passed": true
+      },
+      {
+        "name": "package_exists",
+        "passed": true
+      },
+      {
+        "name": "nav_exists",
+        "passed": true
+      },
+      {
+        "missing": [],
+        "name": "embedded_assets_exist",
+        "passed": true
+      },
+      {
+        "missing": [],
+        "name": "chapters_exist",
+        "passed": true
+      },
+      {
+        "broken_references": [],
+        "external_reference_count": 0,
+        "local_reference_count": 787,
+        "name": "local_package_references_resolve",
+        "passed": true
+      },
+      {
+        "chapters": [],
+        "name": "no_legacy_prewrapped_chapters",
+        "passed": true
+      },
+      {
+        "chapters": [],
+        "name": "no_hard_wrap_candidates",
+        "passed": true
+      },
+      {
+        "captions": [],
+        "name": "no_visible_asset_id_captions",
+        "passed": true
+      },
+      {
+        "name": "epubcheck_available",
+        "passed": false,
+        "risk": "epubcheck not installed"
+      }
+    ],
+    "passed": true
+  }
+}

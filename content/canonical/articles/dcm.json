@@ -1,0 +1,44 @@
+{
+  "assets": [],
+  "body": {
+    "format": "html",
+    "html": "There is often confusion on the restrictions for the .45 caliber \"service pistol\" as designated in the\nNRA rules for CMP (or EIC) Matches.  The following information answers commonly asked questions\nrelating to hardball guns.<br>\n<br>\nThis information was distributed at Camp Perry a couple of years ago.  It was prepared by Michael W.\nRose of the DCM. Its intent is to clarify AR 920-30, the Army Regulation that applies to Leg matches.<br>\n<br>\n<center><font face=\"Arial,Helvetica\"  size=\"4\"><b>GENERAL RESTRICTIONS:</b></font></center>\n<ul>\n<li>Trigger pull must be at least 4 lbs.\n\n<li>Grips, right and left, must be \"mirror image\" no thumb rest.\n\n<li>Pachmayr style wrap around grips are legal as long as they do not have finger grooves.\n</ul><br>\n<center><font face=\"Arial,Helvetica\"  size=\"4\"><b>ADDITIONAL RESTRICTIONS:</b></font><br><br>\n<table border=\"1\" cellspacing=\"0\" cellpadding=\"1\">\n<tr>\n<td align=center><font face=\"Arial,Helvetica\"  size=\"4\">LEGAL ITEMS</font></td>\n<td align=center><font face=\"Arial,Helvetica\"  size=\"4\">ILLEGAL ITEMS</font></td>\n</tr>\n<tr>\n<td>Extended Triggers</td>\n<td>Allen head or torx head grip screws </td>\n</tr>\n<tr>\n<td>Adjustable Triggers</td>\n<td>Ambidextrous Safety </td>\n</tr>\n<tr>\n<td>Vented Triggers</td>\n<td>Beavertail Grip Safety </td>\n</tr>\n<tr>\n<td>Trigger Shoes </td>\n<td>Combat style hammer </td>\n</tr>\n<tr>\n<td>Bright Finish </td>\n<td>Covered Mainspring Housing </td>\n</tr>\n<tr>\n<td>Colt \"Gold Cup\" (no illegal items)</td>\n<td>Extended Magazine Release </td>\n</tr>\n<tr>\n<td>Front Strap Stippled </td>\n<td>Extended Magazine Well Funnel </td>\n</tr>\n<tr>\n<td>Gold Cup Dimple </td>\n<td>Extended Slide Stop </td>\n</tr>\n<tr>\n<td>Lowered Ejection Port </td>\n<td>Extended Thumb Safety </td>\n</tr>\n<tr>\n<td>Rear Sight \"Melted\" into Slide </td>\n<td>Magazine Base Pads </td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>Ribs </td>\n</tr>\n</table>\n</center>",
+    "text": "There is often confusion on the restrictions for the .45 caliber \"service pistol\" as designated in the\nNRA rules for CMP (or EIC) Matches. The following information answers commonly asked questions\nrelating to hardball guns.\nThis information was distributed at Camp Perry a couple of years ago. It was prepared by Michael W.\nRose of the DCM. Its intent is to clarify AR 920-30, the Army Regulation that applies to Leg matches.\nGENERAL RESTRICTIONS:\nTrigger pull must be at least 4 lbs.\nGrips, right and left, must be \"mirror image\" no thumb rest.\nPachmayr style wrap around grips are legal as long as they do not have finger grooves.\nADDITIONAL RESTRICTIONS:\nLEGAL ITEMS\nILLEGAL ITEMS\nExtended Triggers\nAllen head or torx head grip screws\nAdjustable Triggers\nAmbidextrous Safety\nVented Triggers\nBeavertail Grip Safety\nTrigger Shoes\nCombat style hammer\nBright Finish\nCovered Mainspring Housing\nColt \"Gold Cup\" (no illegal items)\nExtended Magazine Release\nFront Strap Stippled\nExtended Magazine Well Funnel\nGold Cup Dimple\nExtended Slide Stop\nLowered Ejection Port\nExtended Thumb Safety\nRear Sight \"Melted\" into Slide\nMagazine Base Pads\nRibs"
+  },
+  "byline": "As Defined by the DCM",
+  "context": {
+    "html_title": "Encyclopedia of Bullseye Pistol",
+    "parent_url": "rulebook.htm"
+  },
+  "id": "dcm",
+  "images": [],
+  "links": [],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/dcm.htm"
+  ],
+  "preferred_original_url": "http://bullseyepistol.com/dcm.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 1,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "ab488a8d9ac54498",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201009/article_candidate/bullseyepistol.com/20100918013941-dcm-edf06456df05f49d.htm",
+        "original_url": "http://bullseyepistol.com/dcm.htm",
+        "sha256": "721e49e9ca676806b15785933a1754d426b0b279eaacf8443149d884db7f2056",
+        "wayback_timestamp": "20100918013941"
+      }
+    ],
+    "selected_capture_id": "ab488a8d9ac54498"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "Restrictions on the .45 Caliber Service Pistol",
+  "updated_at": null
+}

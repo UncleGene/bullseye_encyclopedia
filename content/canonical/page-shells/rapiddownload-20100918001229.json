@@ -1,0 +1,18 @@
+{
+  "excluded_regions": [
+    "head",
+    "script header/footer",
+    "global style",
+    "no ARTICLE BEGINS marker"
+  ],
+  "id": "rapiddownload",
+  "local_path": "archive/raw/wayback/files/20260522T142631Z/201009/article_candidate/bullseyepistol.com/20100918001229-rapiddownload-3d92d26598607f47.htm",
+  "navigation_links": [],
+  "original_url": "http://bullseyepistol.com/rapiddownload.htm",
+  "source_capture_id": "6047777cdab65f86",
+  "status": "page_shell",
+  "template_markers": [
+    "no ARTICLE BEGINS/ENDS marker"
+  ],
+  "wayback_timestamp": "20100918001229"
+}

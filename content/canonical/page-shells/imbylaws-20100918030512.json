@@ -1,0 +1,18 @@
+{
+  "excluded_regions": [
+    "head",
+    "script header/footer",
+    "global style",
+    "no ARTICLE BEGINS marker"
+  ],
+  "id": "imbylaws",
+  "local_path": "archive/raw/wayback/files/20260522T141108Z/201009/article_candidate/bullseyepistol.com/20100918030512-imbylaws-326a61a3351c2ed6.htm",
+  "navigation_links": [],
+  "original_url": "http://bullseyepistol.com/imbylaws.htm",
+  "source_capture_id": "07e9d628d7fe0041",
+  "status": "page_shell",
+  "template_markers": [
+    "no ARTICLE BEGINS/ENDS marker"
+  ],
+  "wayback_timestamp": "20100918030512"
+}

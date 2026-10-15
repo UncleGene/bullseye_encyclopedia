@@ -1,0 +1,87 @@
+{
+  "assets": [
+    "asset-f6ee2ae43a015901"
+  ],
+  "body": {
+    "format": "html",
+    "html": "<p><a href=\"issfbook.pdf\"><img src=\"issfcover.jpg\" align=\"right\"\nborder=\"0\" hspace=\"0\" vspace=\"3\" width=\"133\" height=\"168\"></a>This\nis the very informative publication of the ISSF covering the many\naspects of psychology in competitive shooting. <br>\n<br>\nThe 84-page book is in PDF format and may be accessed by clicking\non the cover of the booklet to the right.</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><br>\n<br>",
+    "text": "This\nis the very informative publication of the ISSF covering the many\naspects of psychology in competitive shooting.\nThe 84-page book is in PDF format and may be accessed by clicking\non the cover of the booklet to the right."
+  },
+  "byline": "International Sport Shooting Federation",
+  "context": {
+    "html_title": "Encyclopedia of Bullseye Pistol",
+    "parent_url": "joewhite.htm"
+  },
+  "id": "issfguide",
+  "images": [
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-f6ee2ae43a015901"
+      ],
+      "resolved_url": "http://bullseyepistol.com/issfcover.jpg",
+      "src": "issfcover.jpg",
+      "status": "recovered"
+    }
+  ],
+  "links": [
+    {
+      "href": "issfbook.pdf",
+      "resolved_url": "http://bullseyepistol.com/issfbook.pdf",
+      "text": ""
+    }
+  ],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/issfguide.htm",
+    "http://bullseyepistol.com:80/issfguide.htm"
+  ],
+  "preferred_original_url": "http://bullseyepistol.com/issfguide.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 4,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "a4ffd8c5a1c64d61",
+        "local_path": "archive/raw/wayback/files/20260522T195833Z/201009/article_candidate/bullseyepistol.com/20100918012912-issfguide-bc9048196dbe4296.htm",
+        "original_url": "http://bullseyepistol.com/issfguide.htm",
+        "sha256": "87872f982c55ca7977320899e931798a77f0042be649bb1955d2f02573b36cd6",
+        "wayback_timestamp": "20100918012912"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "e0b25989275b08af",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201502/article_candidate/bullseyepistol.com_80/20150206132615-issfguide-a936a162cbea8d9e.htm",
+        "original_url": "http://bullseyepistol.com:80/issfguide.htm",
+        "sha256": "cfda541b3dbf1bc255c669348bd1c073f95e76274d6e3c9fc5a826d28cf90d15",
+        "wayback_timestamp": "20150206132615"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "ca8bd9abcc8210d2",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201502/article_candidate/bullseyepistol.com/20150213213305-issfguide-27b3a17db7e7dd98.htm",
+        "original_url": "http://bullseyepistol.com/issfguide.htm",
+        "sha256": "cfda541b3dbf1bc255c669348bd1c073f95e76274d6e3c9fc5a826d28cf90d15",
+        "wayback_timestamp": "20150213213305"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "818ebe788c20b831",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/202303/article_candidate/bullseyepistol.com/20230329142547-issfguide-44725589250ad29d.htm",
+        "original_url": "http://bullseyepistol.com/issfguide.htm",
+        "sha256": "cfda541b3dbf1bc255c669348bd1c073f95e76274d6e3c9fc5a826d28cf90d15",
+        "wayback_timestamp": "20230329142547"
+      }
+    ],
+    "selected_capture_id": "818ebe788c20b831"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "Competitive Shooting - Practical Psychology",
+  "updated_at": null
+}

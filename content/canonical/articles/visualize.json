@@ -1,0 +1,44 @@
+{
+  "assets": [],
+  "body": {
+    "format": "html",
+    "html": "<p>This was projected to be my masterpiece of the writings in the\nZen category. I spent an enormous amount of time in collecting\nresearch materials and in planning to piece the information\ntogether in a format that would really dazzle! Unfortunately, the\nproject really kicked my butt and I burnt out on it way back in\nSeptember of 2001. Years later, as I look over the outline again,\nI see the potential of the piece, and will resume working on it\nover the Spring and Summer of 2005.</p>\n\n<p>Thank you for your patience.</p>",
+    "text": "This was projected to be my masterpiece of the writings in the\nZen category. I spent an enormous amount of time in collecting\nresearch materials and in planning to piece the information\ntogether in a format that would really dazzle! Unfortunately, the\nproject really kicked my butt and I burnt out on it way back in\nSeptember of 2001. Years later, as I look over the outline again,\nI see the potential of the piece, and will resume working on it\nover the Spring and Summer of 2005.\nThank you for your patience."
+  },
+  "byline": "John Dreyer",
+  "context": {
+    "html_title": "Encyclopedia of Bullseye Pistol",
+    "parent_url": "issha.htm"
+  },
+  "id": "visualize",
+  "images": [],
+  "links": [],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/visualize.htm"
+  ],
+  "preferred_original_url": "http://bullseyepistol.com/visualize.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 1,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "077fe6f3bf6253b4",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201009/article_candidate/bullseyepistol.com/20100918015122-visualize-6a4086ef7f7933ee.htm",
+        "original_url": "http://bullseyepistol.com/visualize.htm",
+        "sha256": "1fa43b7d6955e6cbe7da046461a442107c444b64eb3eb7c27095f5c137292965",
+        "wayback_timestamp": "20100918015122"
+      }
+    ],
+    "selected_capture_id": "077fe6f3bf6253b4"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "Zen in Visualization of Fundamentals",
+  "updated_at": null
+}

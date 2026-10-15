@@ -1,0 +1,2911 @@
+{
+  "assets": [
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/01/018d3fc9f217dc9bcd49b7b0462cf9604f062ca8dcd702019b7f4b877f0dc670",
+      "checksum": "018d3fc9f217dc9bcd49b7b0462cf9604f062ca8dcd702019b7f4b877f0dc670",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202012/referenced_image/www.bullseyepistol.com/20201209043254-b3-63a20b7a7f50b689.jpg",
+      "id": "asset-018d3fc9f217dc9b",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/b3.jpg",
+        "https://www.bullseyepistol.com/b3.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/zenread.htm",
+        "parent_article_timestamp": "20250102144629",
+        "retrieval_url": "https://web.archive.org/web/20201209043254id_/http://www.bullseyepistol.com/b3.jpg",
+        "wayback_timestamp": "20201209043254"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/02/02a769440e8638eecd73df4899f1cc394085ff22bf71b6ab95515c2698c99a71",
+      "checksum": "02a769440e8638eecd73df4899f1cc394085ff22bf71b6ab95515c2698c99a71",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202501/referenced_image/www.bullseyepistol.com/20250102143940-spacer-2376234b6f894873.gif",
+      "id": "asset-02a769440e8638ee",
+      "media_type": "image/gif",
+      "original_urls": [
+        "https://www.bullseyepistol.com/spacer.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/zenread.htm",
+        "parent_article_timestamp": "20250102144629",
+        "retrieval_url": "https://web.archive.org/web/20250102143940id_/https://www.bullseyepistol.com/spacer.gif",
+        "wayback_timestamp": "20250102143940"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/04/0422bbd06f5369077e6ba8812fb2c695cd9c46ec93ab3d2d49545dd5069131b5",
+      "checksum": "0422bbd06f5369077e6ba8812fb2c695cd9c46ec93ab3d2d49545dd5069131b5",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250817142842-bullguns-9dd68d00afa3d50c.gif",
+      "id": "asset-0422bbd06f536907",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://www.bullseyepistol.com/bullguns.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/bullseye.htm",
+        "parent_article_timestamp": "20250817135527",
+        "retrieval_url": "https://web.archive.org/web/20250817142842id_/http://www.bullseyepistol.com/bullguns.gif",
+        "wayback_timestamp": "20250817142842"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/05/05ade924c9284835634b5ca52eaa5906017488aa64f9f2ecc2b8947df8ac58a9",
+      "checksum": "05ade924c9284835634b5ca52eaa5906017488aa64f9f2ecc2b8947df8ac58a9",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250823163943-hold1-4845ffb5ee1ec10a.jpg",
+      "id": "asset-05ade924c9284835",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/hold1.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/stamina.htm",
+        "parent_article_timestamp": "20250823163800",
+        "retrieval_url": "https://web.archive.org/web/20250823163943id_/http://www.bullseyepistol.com/hold1.jpg",
+        "wayback_timestamp": "20250823163943"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/06/06ab43bb96e67265a7026f69c4f4358586c31920b964178bd7d47995488a8e1d",
+      "checksum": "06ab43bb96e67265a7026f69c4f4358586c31920b964178bd7d47995488a8e1d",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201011/referenced_image/bullseyepistol.com/20101120111838-a2-2-0b5d9dc921a190d2.gif",
+      "id": "asset-06ab43bb96e67265",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/a2-2.gif",
+        "http://www.bullseyepistol.com:80/a2-2.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/annex2.htm",
+        "parent_article_timestamp": "20150218001128",
+        "retrieval_url": "https://web.archive.org/web/20101120111838id_/http://bullseyepistol.com/a2-2.gif",
+        "wayback_timestamp": "20101120111838"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/08/08df49358cda9fce571fd87807df0adfd936b5ab769c8d008b70a600ab8c6de5",
+      "checksum": "08df49358cda9fce571fd87807df0adfd936b5ab769c8d008b70a600ab8c6de5",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202108/referenced_image/bullseyepistol.com/20210818050652-adimage-5538c04751a2bf31.jpg",
+      "id": "asset-08df49358cda9fce",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/adimage.jpg",
+        "https://bullseyepistol.com/adimage.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/advertise.htm",
+        "parent_article_timestamp": "20230329142539",
+        "retrieval_url": "https://web.archive.org/web/20210818050652id_/https://bullseyepistol.com/adimage.jpg",
+        "wayback_timestamp": "20210818050652"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/09/09449ffe2fc09edf8cd2102657df74a3b05f824e5875b2e4e7af28e7f17f8de1",
+      "checksum": "09449ffe2fc09edf8cd2102657df74a3b05f824e5875b2e4e7af28e7f17f8de1",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202312/referenced_image/www.bullseyepistol.com/20231222021112-hambo-2bf4d5143022832d.jpg",
+      "id": "asset-09449ffe2fc09edf",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/hambo.jpg",
+        "https://www.bullseyepistol.com/hambo.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/equipmnt.htm",
+        "parent_article_timestamp": "20250109010726",
+        "retrieval_url": "https://web.archive.org/web/20231222021112id_/https://www.bullseyepistol.com/hambo.jpg",
+        "wayback_timestamp": "20231222021112"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/0a/0a7cba4d3c8ecaaaf9f163361f99a992a6321ef319a8c628c965bce5e5be44e0",
+      "checksum": "0a7cba4d3c8ecaaaf9f163361f99a992a6321ef319a8c628c965bce5e5be44e0",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250823004558-goodhit-1100152341e8cf3b.jpg",
+      "id": "asset-0a7cba4d3c8ecaaa",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "https://www.bullseyepistol.com/goodhit.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/malfunction.htm",
+        "parent_article_timestamp": "20250817130421",
+        "retrieval_url": "https://web.archive.org/web/20250823004558id_/https://www.bullseyepistol.com/goodhit.jpg",
+        "wayback_timestamp": "20250823004558"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/0a/0abd512cbcd042231616575ffd4a0fd8ef30cc4f2dd2280b00379b401024548c",
+      "checksum": "0abd512cbcd042231616575ffd4a0fd8ef30cc4f2dd2280b00379b401024548c",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918032903-piasateam-c6747e5c0ded591b.jpg",
+      "id": "asset-0abd512cbcd04223",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/piasateam.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/imteams.htm",
+        "parent_article_timestamp": "20100918031843",
+        "retrieval_url": "https://web.archive.org/web/20100918032903id_/http://bullseyepistol.com/piasateam.jpg",
+        "wayback_timestamp": "20100918032903"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/0a/0ad841cd6cc3ef495c9920cc64d7d52189a65c012c23a8358f1c526fa0ff561b",
+      "checksum": "0ad841cd6cc3ef495c9920cc64d7d52189a65c012c23a8358f1c526fa0ff561b",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202404/referenced_image/www.bullseyepistol.com/20240406030758-bulfact-2b31f49383a8ab7f.gif",
+      "id": "asset-0ad841cd6cc3ef49",
+      "media_type": "image/gif",
+      "original_urls": [
+        "https://www.bullseyepistol.com/bulfact.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/getinto.htm",
+        "parent_article_timestamp": "20250803081017",
+        "retrieval_url": "https://web.archive.org/web/20240406030758id_/https://www.bullseyepistol.com/bulfact.gif",
+        "wayback_timestamp": "20240406030758"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/0c/0c4fd9e4ce282b25b4e0a5162369f79ba0a2f02b8ca417f3ef897cd5b91c50ed",
+      "checksum": "0c4fd9e4ce282b25b4e0a5162369f79ba0a2f02b8ca417f3ef897cd5b91c50ed",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250818015754-arcover-84e7731159b7cc34.jpg",
+      "id": "asset-0c4fd9e4ce282b25",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/arcover.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/bullseye.htm",
+        "parent_article_timestamp": "20250817135527",
+        "retrieval_url": "https://web.archive.org/web/20250818015754id_/http://www.bullseyepistol.com/arcover.jpg",
+        "wayback_timestamp": "20250818015754"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/0c/0ce22fd527ee518b718e9dbb143525ad6e84e7c4c3e31246babd9e1dc9ffd1b5",
+      "checksum": "0ce22fd527ee518b718e9dbb143525ad6e84e7c4c3e31246babd9e1dc9ffd1b5",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250803102727-lla07-b4ab00e44e7095f4.jpg",
+      "id": "asset-0ce22fd527ee518b",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla07.jpg",
+        "http://www.bullseyepistol.com/lla07.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20250817093424",
+        "retrieval_url": "https://web.archive.org/web/20250803102727id_/http://www.bullseyepistol.com/lla07.jpg",
+        "wayback_timestamp": "20250803102727"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/0d/0d60e46fa5e8de16b98ec42548a48726d5a2d4f983e39a5c08bd51638c1e6a99",
+      "checksum": "0d60e46fa5e8de16b98ec42548a48726d5a2d4f983e39a5c08bd51638c1e6a99",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202012/referenced_image/www.bullseyepistol.com/20201209043158-askins1-ccc6de96172be0b6.jpg",
+      "id": "asset-0d60e46fa5e8de16",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/askins1.jpg",
+        "http://www.bullseyepistol.com/askins1.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/askins.htm",
+        "parent_article_timestamp": "20230329142547",
+        "retrieval_url": "https://web.archive.org/web/20201209043158id_/http://www.bullseyepistol.com/askins1.jpg",
+        "wayback_timestamp": "20201209043158"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/0e/0e5caed64a37a118941098ecb63ed935aaffae2dee4ae8af11c195bf5c3faaa8",
+      "checksum": "0e5caed64a37a118941098ecb63ed935aaffae2dee4ae8af11c195bf5c3faaa8",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202105/referenced_image/www.bullseyepistol.com/20210506161854-nygord-59ae57f5c295ed11.gif",
+      "id": "asset-0e5caed64a37a118",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://www.bullseyepistol.com/nygord.gif",
+        "https://www.bullseyepistol.com/nygord.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/d-nygord.htm",
+        "parent_article_timestamp": "20250102144536",
+        "retrieval_url": "https://web.archive.org/web/20210506161854id_/http://www.bullseyepistol.com/nygord.gif",
+        "wayback_timestamp": "20210506161854"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/0e/0efe99efd809371956cd5b2fa7779d9c57972d7f5695c2d8711efd408468d0c6",
+      "checksum": "0efe99efd809371956cd5b2fa7779d9c57972d7f5695c2d8711efd408468d0c6",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201011/referenced_image/bullseyepistol.com/20101120111433-f3-4-6b25ee17c9b0dc7a.gif",
+      "id": "asset-0efe99efd8093719",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/f3-4.gif",
+        "http://www.bullseyepistol.com:80/f3-4.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/chapter3.htm",
+        "parent_article_timestamp": "20150217121630",
+        "retrieval_url": "https://web.archive.org/web/20101120111433id_/http://bullseyepistol.com/f3-4.gif",
+        "wayback_timestamp": "20101120111433"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/14/140acea789bd2d87f1188d4d4d2f618ff633248417e840aa4f100cdf586a9ebf",
+      "checksum": "140acea789bd2d87f1188d4d4d2f618ff633248417e840aa4f100cdf586a9ebf",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202301/referenced_image/www.bullseyepistol.com/20230117164156-sixdots-5cb4a97d9e4490bf.jpg",
+      "id": "asset-140acea789bd2d87",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/sixdots.jpg",
+        "https://www.bullseyepistol.com/sixdots.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/dotsight.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20230117164156id_/https://www.bullseyepistol.com/sixdots.jpg",
+        "wayback_timestamp": "20230117164156"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/15/1537cfc97ffde88a0324f6ee45d9bff0b241df621d189fc07e494d862536a019",
+      "checksum": "1537cfc97ffde88a0324f6ee45d9bff0b241df621d189fc07e494d862536a019",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202012/referenced_image/www.bullseyepistol.com/20201209043200-mayleigh-001fa0b0065bf4c0.jpg",
+      "id": "asset-1537cfc97ffde88a",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/mayleigh.jpg",
+        "http://www.bullseyepistol.com/mayleigh.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/secret.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20201209043200id_/http://www.bullseyepistol.com/mayleigh.jpg",
+        "wayback_timestamp": "20201209043200"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/15/155e84140171851f153538d9de3000a6266cd3c8bee8824cf68218e343a8dc57",
+      "checksum": "155e84140171851f153538d9de3000a6266cd3c8bee8824cf68218e343a8dc57",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201011/referenced_image/bullseyepistol.com/20101120110706-f4-4-2bfcf65e87328465.gif",
+      "id": "asset-155e84140171851f",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/f4-4.gif",
+        "http://www.bullseyepistol.com:80/f4-4.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/chapter4.htm",
+        "parent_article_timestamp": "20150217171536",
+        "retrieval_url": "https://web.archive.org/web/20101120110706id_/http://bullseyepistol.com/f4-4.gif",
+        "wayback_timestamp": "20101120110706"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/15/158b5df68631b2f52180fa035e2efcb896d33073d315aac2657f8bbc14bdf26e",
+      "checksum": "158b5df68631b2f52180fa035e2efcb896d33073d315aac2657f8bbc14bdf26e",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918003907-lla14-79e732bb760e8b35.jpg",
+      "id": "asset-158b5df68631b2f5",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla14.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20100918002333",
+        "retrieval_url": "https://web.archive.org/web/20100918003907id_/http://bullseyepistol.com/lla14.jpg",
+        "wayback_timestamp": "20100918003907"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/15/15d1e87eb86d1aff7e9ee0af2f0747a86cd6b1972d8c44d896ce7aea5b9755fa",
+      "checksum": "15d1e87eb86d1aff7e9ee0af2f0747a86cd6b1972d8c44d896ce7aea5b9755fa",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202012/referenced_image/www.bullseyepistol.com/20201209043254-b5-3e2c27e99acca019.jpg",
+      "id": "asset-15d1e87eb86d1aff",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/b5.jpg",
+        "https://www.bullseyepistol.com/b5.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/zenread.htm",
+        "parent_article_timestamp": "20250102144629",
+        "retrieval_url": "https://web.archive.org/web/20201209043254id_/http://www.bullseyepistol.com/b5.jpg",
+        "wayback_timestamp": "20201209043254"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/1a/1ab373b4ff21052f2197d475c3df8f77f83238435d3adde71d3c2ed7ab6f029c",
+      "checksum": "1ab373b4ff21052f2197d475c3df8f77f83238435d3adde71d3c2ed7ab6f029c",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250813164237-f2-4c-952297746deb75da.gif",
+      "id": "asset-1ab373b4ff21052f",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://www.bullseyepistol.com/f2-4c.gif",
+        "https://www.bullseyepistol.com/f2-4c.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/chapter2.htm",
+        "parent_article_timestamp": "20250818163619",
+        "retrieval_url": "https://web.archive.org/web/20250813164237id_/http://www.bullseyepistol.com/f2-4c.gif",
+        "wayback_timestamp": "20250813164237"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/1c/1c60563b2f7ada7e4f612eb7162feabc021be4fb6668528c39db94fa10571554",
+      "checksum": "1c60563b2f7ada7e4f612eb7162feabc021be4fb6668528c39db94fa10571554",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918003553-lla15-d7c8889928249fd4.jpg",
+      "id": "asset-1c60563b2f7ada7e",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla15.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20100918002333",
+        "retrieval_url": "https://web.archive.org/web/20100918003553id_/http://bullseyepistol.com/lla15.jpg",
+        "wayback_timestamp": "20100918003553"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/1f/1f0d149d0ed85fed139f423c0cf88a49ecc23d534af6ac070502d9b76941a568",
+      "checksum": "1f0d149d0ed85fed139f423c0cf88a49ecc23d534af6ac070502d9b76941a568",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202201/referenced_image/www.bullseyepistol.com/20220102055532-wheel-3521617a56352cc3.gif",
+      "id": "asset-1f0d149d0ed85fed",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/wheel.gif",
+        "https://www.bullseyepistol.com/wheel.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/training.htm",
+        "parent_article_timestamp": "20230329142547",
+        "retrieval_url": "https://web.archive.org/web/20220102055532id_/https://www.bullseyepistol.com/wheel.gif",
+        "wayback_timestamp": "20220102055532"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/21/210f992a3134869e4088a36ae1ac84e829e296f01e5eb768c6ccf8599cf6fa14",
+      "checksum": "210f992a3134869e4088a36ae1ac84e829e296f01e5eb768c6ccf8599cf6fa14",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918003808-lla18-fa6f455c6a09e25c.jpg",
+      "id": "asset-210f992a3134869e",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla18.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20100918002333",
+        "retrieval_url": "https://web.archive.org/web/20100918003808id_/http://bullseyepistol.com/lla18.jpg",
+        "wayback_timestamp": "20100918003808"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/21/2142472ac7a231ac1433291bb8bd6a9d642de717b3117a0a0a7dd6b5b1d1d61a",
+      "checksum": "2142472ac7a231ac1433291bb8bd6a9d642de717b3117a0a0a7dd6b5b1d1d61a",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202301/referenced_image/www.bullseyepistol.com/20230117171916-darkest-19908ee6ad738c80.gif",
+      "id": "asset-2142472ac7a231ac",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/darkest.gif",
+        "https://www.bullseyepistol.com/darkest.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/dotsight.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20230117171916id_/https://www.bullseyepistol.com/darkest.gif",
+        "wayback_timestamp": "20230117171916"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/21/2169b76446efa1eb7f32196cd7bd627c7873de079b2d08e791ff45c3302ef4fe",
+      "checksum": "2169b76446efa1eb7f32196cd7bd627c7873de079b2d08e791ff45c3302ef4fe",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918005523-clark69-c122ec7c5550a2d2.jpg",
+      "id": "asset-2169b76446efa1eb",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/clark69.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/clark.htm",
+        "parent_article_timestamp": "20100918005302",
+        "retrieval_url": "https://web.archive.org/web/20100918005523id_/http://bullseyepistol.com/clark69.jpg",
+        "wayback_timestamp": "20100918005523"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/22/228e31c273cc82891bd71fcf9a877d7163213d4f4247eb817356890d0800d8a4",
+      "checksum": "228e31c273cc82891bd71fcf9a877d7163213d4f4247eb817356890d0800d8a4",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250817134148-clipview-424924d5096c934f.jpg",
+      "id": "asset-228e31c273cc8289",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "https://www.bullseyepistol.com/clipview.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/malfunction.htm",
+        "parent_article_timestamp": "20250817130421",
+        "retrieval_url": "https://web.archive.org/web/20250817134148id_/https://www.bullseyepistol.com/clipview.jpg",
+        "wayback_timestamp": "20250817134148"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/27/27b98203dcccc4124f07c383be285f9dca988accd1a69cd6d7a1d3a3bf1cb9d8",
+      "checksum": "27b98203dcccc4124f07c383be285f9dca988accd1a69cd6d7a1d3a3bf1cb9d8",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202012/referenced_image/www.bullseyepistol.com/20201209043237-lla20-63356529f6f54574.jpg",
+      "id": "asset-27b98203dcccc412",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla20.jpg",
+        "http://www.bullseyepistol.com/lla20.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20201209043237id_/http://www.bullseyepistol.com/lla20.jpg",
+        "wayback_timestamp": "20201209043237"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/29/296d94480071a27b0596b701bc62826f53bba2227ba0aa50186809f44c727d74",
+      "checksum": "296d94480071a27b0596b701bc62826f53bba2227ba0aa50186809f44c727d74",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202301/referenced_image/www.bullseyepistol.com/20230117164148-medium-5cddc495ed3d2b85.gif",
+      "id": "asset-296d94480071a27b",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/medium.gif",
+        "https://www.bullseyepistol.com/medium.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/dotsight.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20230117164148id_/https://www.bullseyepistol.com/medium.gif",
+        "wayback_timestamp": "20230117164148"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/2c/2c2fdf8470d809daeaeb9b4dd04199b57147d98a1b1be919f370725f5cd44f19",
+      "checksum": "2c2fdf8470d809daeaeb9b4dd04199b57147d98a1b1be919f370725f5cd44f19",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250823010903-twospring-2e40750b63406243.jpg",
+      "id": "asset-2c2fdf8470d809da",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "https://www.bullseyepistol.com/twospring.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/malfunction.htm",
+        "parent_article_timestamp": "20250817130421",
+        "retrieval_url": "https://web.archive.org/web/20250823010903id_/https://www.bullseyepistol.com/twospring.jpg",
+        "wayback_timestamp": "20250823010903"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/2d/2d9ccad71a3d35c84f50362a4f0c8ce42bafaee96ea02f3d702fcc77381edf98",
+      "checksum": "2d9ccad71a3d35c84f50362a4f0c8ce42bafaee96ea02f3d702fcc77381edf98",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918013804-rivrbend-b1f9f6675b6aa99d.gif",
+      "id": "asset-2d9ccad71a3d35c8",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/rivrbend.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/perryfaq.htm",
+        "parent_article_timestamp": "20100918013726",
+        "retrieval_url": "https://web.archive.org/web/20100918013804id_/http://bullseyepistol.com/rivrbend.gif",
+        "wayback_timestamp": "20100918013804"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/2f/2f76210acb6c2048c6cace804613e422f68a81c2c94c1f68501be51abd77bdc8",
+      "checksum": "2f76210acb6c2048c6cace804613e422f68a81c2c94c1f68501be51abd77bdc8",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201011/referenced_image/bullseyepistol.com/20101120111658-a2-4-02d88cbbda13d45e.gif",
+      "id": "asset-2f76210acb6c2048",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/a2-4.gif",
+        "http://www.bullseyepistol.com:80/a2-4.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/annex2.htm",
+        "parent_article_timestamp": "20150218001128",
+        "retrieval_url": "https://web.archive.org/web/20101120111658id_/http://bullseyepistol.com/a2-4.gif",
+        "wayback_timestamp": "20101120111658"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/30/305a86f9b924f5a241b9dc2cdb8f20fc31a660070fa6db8b469912c67b7b9820",
+      "checksum": "305a86f9b924f5a241b9dc2cdb8f20fc31a660070fa6db8b469912c67b7b9820",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201011/referenced_image/bullseyepistol.com/20101120111818-a2-6-e3d36420dc0f6215.gif",
+      "id": "asset-305a86f9b924f5a2",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/a2-6.gif",
+        "http://www.bullseyepistol.com:80/a2-6.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/annex2.htm",
+        "parent_article_timestamp": "20150218001128",
+        "retrieval_url": "https://web.archive.org/web/20101120111818id_/http://bullseyepistol.com/a2-6.gif",
+        "wayback_timestamp": "20101120111818"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/31/3112e6ca2f321622d98a63e54ea143b182275033d15770c91c868256675ec6ab",
+      "checksum": "3112e6ca2f321622d98a63e54ea143b182275033d15770c91c868256675ec6ab",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918005750-nodad-e7cc5aad71f3ddec.gif",
+      "id": "asset-3112e6ca2f321622",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/nodad.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/singlepr.htm",
+        "parent_article_timestamp": "20100918005657",
+        "retrieval_url": "https://web.archive.org/web/20100918005750id_/http://bullseyepistol.com/nodad.gif",
+        "wayback_timestamp": "20100918005750"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/33/33c18c0762c1355346d4cd20652cfc9e92116b201972809134ede26d100126bf",
+      "checksum": "33c18c0762c1355346d4cd20652cfc9e92116b201972809134ede26d100126bf",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202301/referenced_image/www.bullseyepistol.com/20230117174856-50yddot-9504e22f98dbc7f3.gif",
+      "id": "asset-33c18c0762c13553",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/50yddot.gif",
+        "https://www.bullseyepistol.com/50yddot.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/dotsight.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20230117174856id_/https://www.bullseyepistol.com/50yddot.gif",
+        "wayback_timestamp": "20230117174856"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/34/34eb8e0f0535ecdb5e1b84eda5a651cca2152c5dbeb8ad40ee0d6e3aa541d10f",
+      "checksum": "34eb8e0f0535ecdb5e1b84eda5a651cca2152c5dbeb8ad40ee0d6e3aa541d10f",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250822214239-extractcomp-45fa01bcae160660.jpg",
+      "id": "asset-34eb8e0f0535ecdb",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "https://www.bullseyepistol.com/extractcomp.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/malfunction.htm",
+        "parent_article_timestamp": "20250817130421",
+        "retrieval_url": "https://web.archive.org/web/20250822214239id_/https://www.bullseyepistol.com/extractcomp.jpg",
+        "wayback_timestamp": "20250822214239"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/37/3753d14f957bd525425c1bc0600d0149e003262b7dabf461fdcbf31b9e845c65",
+      "checksum": "3753d14f957bd525425c1bc0600d0149e003262b7dabf461fdcbf31b9e845c65",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918013044-funggun-8055287663376865.gif",
+      "id": "asset-3753d14f957bd525",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/funggun.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/goodgrip.htm",
+        "parent_article_timestamp": "20100918013027",
+        "retrieval_url": "https://web.archive.org/web/20100918013044id_/http://bullseyepistol.com/funggun.gif",
+        "wayback_timestamp": "20100918013044"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/39/3930ed69631f6b75d12e2488a6bf30535a4b98f91547d6d1acf8eb6d9a7f1c75",
+      "checksum": "3930ed69631f6b75d12e2488a6bf30535a4b98f91547d6d1acf8eb6d9a7f1c75",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250816032556-funggun-8c882dff480ff1fa.jpg",
+      "id": "asset-3930ed69631f6b75",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "https://www.bullseyepistol.com/funggun.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/goodgrip.htm",
+        "parent_article_timestamp": "20250816021344",
+        "retrieval_url": "https://web.archive.org/web/20250816032556id_/https://www.bullseyepistol.com/funggun.jpg",
+        "wayback_timestamp": "20250816032556"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/3e/3e00aadcaeba3e7c6af807d1faeba23c6a25e8a94fcc068a91aafe602f87578a",
+      "checksum": "3e00aadcaeba3e7c6af807d1faeba23c6a25e8a94fcc068a91aafe602f87578a",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202312/referenced_image/www.bullseyepistol.com/20231222021109-sp22m4-b3ae6de5717d5e23.jpg",
+      "id": "asset-3e00aadcaeba3e7c",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/sp22m4.jpg",
+        "https://www.bullseyepistol.com/sp22m4.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/equipmnt.htm",
+        "parent_article_timestamp": "20250109010726",
+        "retrieval_url": "https://web.archive.org/web/20231222021109id_/https://www.bullseyepistol.com/sp22m4.jpg",
+        "wayback_timestamp": "20231222021109"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/3e/3e5b076ed75594f7a2960c0e84b33b0d8f83e8af6909cbfffcac67fc12757208",
+      "checksum": "3e5b076ed75594f7a2960c0e84b33b0d8f83e8af6909cbfffcac67fc12757208",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202012/referenced_image/www.bullseyepistol.com/20201209043237-lla16-ba7120e833801541.jpg",
+      "id": "asset-3e5b076ed75594f7",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla16.jpg",
+        "http://www.bullseyepistol.com/lla16.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20201209043237id_/http://www.bullseyepistol.com/lla16.jpg",
+        "wayback_timestamp": "20201209043237"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/3e/3eab09852d5533801a001ee0d174dbe05e83c61922587c431453290c03fe0cda",
+      "checksum": "3eab09852d5533801a001ee0d174dbe05e83c61922587c431453290c03fe0cda",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201011/referenced_image/bullseyepistol.com/20101120111118-f6-2-368bd7d5a5727189.jpg",
+      "id": "asset-3eab09852d553380",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/f6-2.jpg",
+        "https://www.bullseyepistol.com/f6-2.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/chapter6.htm",
+        "parent_article_timestamp": "20250102144721",
+        "retrieval_url": "https://web.archive.org/web/20101120111118id_/http://bullseyepistol.com/f6-2.jpg",
+        "wayback_timestamp": "20101120111118"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/3f/3f95e1651f2b8e44cd94c868d0b6f4e85c7d1535f2b1bfab57dcb17b4300bbe4",
+      "checksum": "3f95e1651f2b8e44cd94c868d0b6f4e85c7d1535f2b1bfab57dcb17b4300bbe4",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202012/referenced_image/www.bullseyepistol.com/20201209043254-b4-972bfa6003b3157c.jpg",
+      "id": "asset-3f95e1651f2b8e44",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/b4.jpg",
+        "https://www.bullseyepistol.com/b4.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/zenread.htm",
+        "parent_article_timestamp": "20250102144629",
+        "retrieval_url": "https://web.archive.org/web/20201209043254id_/http://www.bullseyepistol.com/b4.jpg",
+        "wayback_timestamp": "20201209043254"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/41/41deb084bb656d45412900039a1b8c565454ce8ba2f8897fe56acc2893d6f3d5",
+      "checksum": "41deb084bb656d45412900039a1b8c565454ce8ba2f8897fe56acc2893d6f3d5",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202012/referenced_image/www.bullseyepistol.com/20201209043254-b1-8e80a9103f5da5c7.jpg",
+      "id": "asset-41deb084bb656d45",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/b1.jpg",
+        "https://www.bullseyepistol.com/b1.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/zenread.htm",
+        "parent_article_timestamp": "20250102144629",
+        "retrieval_url": "https://web.archive.org/web/20201209043254id_/http://www.bullseyepistol.com/b1.jpg",
+        "wayback_timestamp": "20201209043254"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/45/4530537f779e8ff2c0f70be41b561e6c7fa6122b20e509306771db474ca6fbfd",
+      "checksum": "4530537f779e8ff2c0f70be41b561e6c7fa6122b20e509306771db474ca6fbfd",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202301/referenced_image/www.bullseyepistol.com/20230117164152-50ftdot-97bd17badea85744.gif",
+      "id": "asset-4530537f779e8ff2",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/50ftdot.gif",
+        "https://www.bullseyepistol.com/50ftdot.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/dotsight.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20230117164152id_/https://www.bullseyepistol.com/50ftdot.gif",
+        "wayback_timestamp": "20230117164152"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/45/45d2eff2d62edb495db082e47579335440fece0575e21a28adac2b710598b613",
+      "checksum": "45d2eff2d62edb495db082e47579335440fece0575e21a28adac2b710598b613",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250823002038-stovepip-5d02efaee9ea3adb.jpg",
+      "id": "asset-45d2eff2d62edb49",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "https://www.bullseyepistol.com/stovepip.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/malfunction.htm",
+        "parent_article_timestamp": "20250817130421",
+        "retrieval_url": "https://web.archive.org/web/20250823002038id_/https://www.bullseyepistol.com/stovepip.jpg",
+        "wayback_timestamp": "20250823002038"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/4c/4ce58ce7d5193c6fb6296b15acee675c152ecfd00650b4127778e6253ddc377b",
+      "checksum": "4ce58ce7d5193c6fb6296b15acee675c152ecfd00650b4127778e6253ddc377b",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202012/referenced_image/www.bullseyepistol.com/20201209043238-lla24-148a5730649bce4a.jpg",
+      "id": "asset-4ce58ce7d5193c6f",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla24.jpg",
+        "http://www.bullseyepistol.com/lla24.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20201209043238id_/http://www.bullseyepistol.com/lla24.jpg",
+        "wayback_timestamp": "20201209043238"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/4d/4d68fe160f67371a83d5b5f89383d940f4801ddfefe1c28b9157f5779aad1bc3",
+      "checksum": "4d68fe160f67371a83d5b5f89383d940f4801ddfefe1c28b9157f5779aad1bc3",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250813163711-smamu1-8d2480bfe3209794.jpg",
+      "id": "asset-4d68fe160f67371a",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/smamu1.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/amucover.htm",
+        "parent_article_timestamp": "20250813161041",
+        "retrieval_url": "https://web.archive.org/web/20250813163711id_/http://www.bullseyepistol.com/smamu1.jpg",
+        "wayback_timestamp": "20250813163711"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/51/51f150cea17d274bd25846be5ff2fea3d7dc234f5dd282a4920859128f4a24f9",
+      "checksum": "51f150cea17d274bd25846be5ff2fea3d7dc234f5dd282a4920859128f4a24f9",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918002839-lla21-0c86c5898b7ab642.jpg",
+      "id": "asset-51f150cea17d274b",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla21.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20100918002333",
+        "retrieval_url": "https://web.archive.org/web/20100918002839id_/http://bullseyepistol.com/lla21.jpg",
+        "wayback_timestamp": "20100918002839"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/52/5217f1fd2e93bf21d9447dcdb0adb3d41c36c181cfcbab1961b0626890c963c5",
+      "checksum": "5217f1fd2e93bf21d9447dcdb0adb3d41c36c181cfcbab1961b0626890c963c5",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202301/referenced_image/www.bullseyepistol.com/20230117164205-25yddot-ff843123b23e3ad6.gif",
+      "id": "asset-5217f1fd2e93bf21",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/25yddot.gif",
+        "https://www.bullseyepistol.com/25yddot.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/dotsight.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20230117164205id_/https://www.bullseyepistol.com/25yddot.gif",
+        "wayback_timestamp": "20230117164205"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/53/53c6b21333c9a12293bbcb270cd766a7257871dc1f6c89752b052d1aeb456d02",
+      "checksum": "53c6b21333c9a12293bbcb270cd766a7257871dc1f6c89752b052d1aeb456d02",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918002825-lla11-728c782aecb23ad6.jpg",
+      "id": "asset-53c6b21333c9a122",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla11.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20100918002333",
+        "retrieval_url": "https://web.archive.org/web/20100918002825id_/http://bullseyepistol.com/lla11.jpg",
+        "wayback_timestamp": "20100918002825"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/54/54c9183f269b3e7fd92530f3887ab2768e3907c890d580c595a8498b449d70ed",
+      "checksum": "54c9183f269b3e7fd92530f3887ab2768e3907c890d580c595a8498b449d70ed",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918005540-clark-a508f9247632b5ce.jpg",
+      "id": "asset-54c9183f269b3e7f",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/clark.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/clark.htm",
+        "parent_article_timestamp": "20100918005302",
+        "retrieval_url": "https://web.archive.org/web/20100918005540id_/http://bullseyepistol.com/clark.jpg",
+        "wayback_timestamp": "20100918005540"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/56/56276868ccb21a914e1857206ffe1b54437b41d5cc5e7db23ef64b60241dac1a",
+      "checksum": "56276868ccb21a914e1857206ffe1b54437b41d5cc5e7db23ef64b60241dac1a",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202312/referenced_image/www.bullseyepistol.com/20231222021112-timer-963898f78046bf95.gif",
+      "id": "asset-56276868ccb21a91",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://www.bullseyepistol.com/timer.gif",
+        "https://www.bullseyepistol.com/timer.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/equipmnt.htm",
+        "parent_article_timestamp": "20250109010726",
+        "retrieval_url": "https://web.archive.org/web/20231222021112id_/https://www.bullseyepistol.com/timer.gif",
+        "wayback_timestamp": "20231222021112"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/56/56a51fded7e4b454baf21b8a0c11b44f776abb406be90cdf9e6fc5a4a612e6a6",
+      "checksum": "56a51fded7e4b454baf21b8a0c11b44f776abb406be90cdf9e6fc5a4a612e6a6",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201110/referenced_image/www.bullseyepistol.com/20111005164218-f4-2-e22c9c9a74aff532.gif",
+      "id": "asset-56a51fded7e4b454",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://www.bullseyepistol.com/f4-2.gif",
+        "http://www.bullseyepistol.com:80/f4-2.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/chapter4.htm",
+        "parent_article_timestamp": "20150217171536",
+        "retrieval_url": "https://web.archive.org/web/20111005164218id_/http://www.bullseyepistol.com/f4-2.gif",
+        "wayback_timestamp": "20111005164218"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/58/582cf0a5424fad36eb2a2cf6810bd8da20db2ea96a0ae9d5f55c968ef6c7b06d",
+      "checksum": "582cf0a5424fad36eb2a2cf6810bd8da20db2ea96a0ae9d5f55c968ef6c7b06d",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202202/referenced_image/bullseyepistol.com/20220206023916-b7-346c4872b0141212.jpg",
+      "id": "asset-582cf0a5424fad36",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/b7.jpg",
+        "https://www.bullseyepistol.com/b7.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/zenread.htm",
+        "parent_article_timestamp": "20250102144629",
+        "retrieval_url": "https://web.archive.org/web/20220206023916id_/http://bullseyepistol.com/b7.jpg",
+        "wayback_timestamp": "20220206023916"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/58/58c5c3e73e2495b82384ab65cfd10c44cb2ffde877f224b873ae4a08800c69e7",
+      "checksum": "58c5c3e73e2495b82384ab65cfd10c44cb2ffde877f224b873ae4a08800c69e7",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202312/referenced_image/www.bullseyepistol.com/20231222021107-feinbo-28e6140c9a2184f8.jpg",
+      "id": "asset-58c5c3e73e2495b8",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/feinbo.jpg",
+        "https://www.bullseyepistol.com/feinbo.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/equipmnt.htm",
+        "parent_article_timestamp": "20250109010726",
+        "retrieval_url": "https://web.archive.org/web/20231222021107id_/https://www.bullseyepistol.com/feinbo.jpg",
+        "wayback_timestamp": "20231222021107"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/5e/5e10df7b80ca137a2b5a7f32dc67646b3938e9bc8e189cd37aaa90dc81ea20fa",
+      "checksum": "5e10df7b80ca137a2b5a7f32dc67646b3938e9bc8e189cd37aaa90dc81ea20fa",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250817130930-ammocomp-fabd883d4d291202.jpg",
+      "id": "asset-5e10df7b80ca137a",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "https://www.bullseyepistol.com/ammocomp.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/malfunction.htm",
+        "parent_article_timestamp": "20250817130421",
+        "retrieval_url": "https://web.archive.org/web/20250817130930id_/https://www.bullseyepistol.com/ammocomp.jpg",
+        "wayback_timestamp": "20250817130930"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/5e/5ed5d7298ae9c11a91db7a7860d3ad7025861f1a58c930aee05b0748fcaacc6c",
+      "checksum": "5ed5d7298ae9c11a91db7a7860d3ad7025861f1a58c930aee05b0748fcaacc6c",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918032828-maverick-7b30bbc4696f075e.jpg",
+      "id": "asset-5ed5d7298ae9c11a",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/maverick.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/imteams.htm",
+        "parent_article_timestamp": "20100918031843",
+        "retrieval_url": "https://web.archive.org/web/20100918032828id_/http://bullseyepistol.com/maverick.jpg",
+        "wayback_timestamp": "20100918032828"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/5f/5f35918dcf2128b041470fa80a8115f7fe41bc34c9f104561173b7528125b8bb",
+      "checksum": "5f35918dcf2128b041470fa80a8115f7fe41bc34c9f104561173b7528125b8bb",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202312/referenced_image/www.bullseyepistol.com/20231222021112-box-64c203955261eaf1.jpg",
+      "id": "asset-5f35918dcf2128b0",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/box.jpg",
+        "https://www.bullseyepistol.com/box.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/equipmnt.htm",
+        "parent_article_timestamp": "20250109010726",
+        "retrieval_url": "https://web.archive.org/web/20231222021112id_/https://www.bullseyepistol.com/box.jpg",
+        "wayback_timestamp": "20231222021112"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/62/623e07e1bba3c19c058d345294c4dd3643c09e17088ed997de494fa48b62883e",
+      "checksum": "623e07e1bba3c19c058d345294c4dd3643c09e17088ed997de494fa48b62883e",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918032815-mogun-cc7bfae1b01dfb91.jpg",
+      "id": "asset-623e07e1bba3c19c",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/mogun.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/imteams.htm",
+        "parent_article_timestamp": "20100918031843",
+        "retrieval_url": "https://web.archive.org/web/20100918032815id_/http://bullseyepistol.com/mogun.jpg",
+        "wayback_timestamp": "20100918032815"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/63/6333f649b55f0795a7f75578566919d6f1baeb488cffe4dfeb7de5a31973831c",
+      "checksum": "6333f649b55f0795a7f75578566919d6f1baeb488cffe4dfeb7de5a31973831c",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250817135656-ladyshot-166fc875f97cb731.jpg",
+      "id": "asset-6333f649b55f0795",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/ladyshot.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/bullseye.htm",
+        "parent_article_timestamp": "20250817135527",
+        "retrieval_url": "https://web.archive.org/web/20250817135656id_/http://www.bullseyepistol.com/ladyshot.jpg",
+        "wayback_timestamp": "20250817135656"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/64/640a44929cfb4034766d0a7681798b83c3be536b63ead65ae14ebe1fd26e4691",
+      "checksum": "640a44929cfb4034766d0a7681798b83c3be536b63ead65ae14ebe1fd26e4691",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202312/referenced_image/www.bullseyepistol.com/20231222021108-ruger-135472621f2ab9ae.jpg",
+      "id": "asset-640a44929cfb4034",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/ruger.jpg",
+        "https://www.bullseyepistol.com/ruger.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/equipmnt.htm",
+        "parent_article_timestamp": "20250109010726",
+        "retrieval_url": "https://web.archive.org/web/20231222021108id_/https://www.bullseyepistol.com/ruger.jpg",
+        "wayback_timestamp": "20231222021108"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/65/6557f8c0e9bc75e7dc80e841637a89806b98631133fec523067a326699235619",
+      "checksum": "6557f8c0e9bc75e7dc80e841637a89806b98631133fec523067a326699235619",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202105/referenced_image/www.bullseyepistol.com/20210506151232-possible-d9dc8a20bca1647b.jpg",
+      "id": "asset-6557f8c0e9bc75e7",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/possible.jpg",
+        "http://www.bullseyepistol.com/possible.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/secret.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20210506151232id_/http://www.bullseyepistol.com/possible.jpg",
+        "wayback_timestamp": "20210506151232"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/65/6596907c47919d816efb11f300855b3296a6f035039e0d501e18f7f66dbd3153",
+      "checksum": "6596907c47919d816efb11f300855b3296a6f035039e0d501e18f7f66dbd3153",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202111/referenced_image/www.bullseyepistol.com/20211115020422-ed-oiler-b43c47652a0acf49.gif",
+      "id": "asset-6596907c47919d81",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://www.bullseyepistol.com/ed-oiler.gif",
+        "https://www.bullseyepistol.com/ed-oiler.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/oiling.htm",
+        "parent_article_timestamp": "20250102144447",
+        "retrieval_url": "https://web.archive.org/web/20211115020422id_/http://www.bullseyepistol.com/ed-oiler.gif",
+        "wayback_timestamp": "20211115020422"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/65/65f9ad72e1bee6a071c0ce55bbc1b69bcaa5e43f1e7bbd3cf5497027e3c582c8",
+      "checksum": "65f9ad72e1bee6a071c0ce55bbc1b69bcaa5e43f1e7bbd3cf5497027e3c582c8",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202012/referenced_image/www.bullseyepistol.com/20201209043200-2600club-de7225b6588bca2d.jpg",
+      "id": "asset-65f9ad72e1bee6a0",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/2600club.jpg",
+        "http://www.bullseyepistol.com/2600club.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/secret.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20201209043200id_/http://www.bullseyepistol.com/2600club.jpg",
+        "wayback_timestamp": "20201209043200"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/66/6624e6b13a54a930fd0cd4716697d67fecff2d2dfc52f008d49d9c2226496c44",
+      "checksum": "6624e6b13a54a930fd0cd4716697d67fecff2d2dfc52f008d49d9c2226496c44",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201011/referenced_image/bullseyepistol.com/20101120112054-a2-8-bbd915b7b9119d48.gif",
+      "id": "asset-6624e6b13a54a930",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/a2-8.gif",
+        "http://www.bullseyepistol.com:80/a2-8.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/annex2.htm",
+        "parent_article_timestamp": "20150218001128",
+        "retrieval_url": "https://web.archive.org/web/20101120112054id_/http://bullseyepistol.com/a2-8.gif",
+        "wayback_timestamp": "20101120112054"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/66/66707fd68ab21629f0865dfc77780f74dd0b9b42b2529532a3ff0c772b834512",
+      "checksum": "66707fd68ab21629f0865dfc77780f74dd0b9b42b2529532a3ff0c772b834512",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918003732-lla23-5096c9d4862f2608.jpg",
+      "id": "asset-66707fd68ab21629",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla23.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20100918002333",
+        "retrieval_url": "https://web.archive.org/web/20100918003732id_/http://bullseyepistol.com/lla23.jpg",
+        "wayback_timestamp": "20100918003732"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/6c/6cafb5ec9a376c4031f8329dc2aafa0d9954759882eb92c12f19b176e3d862aa",
+      "checksum": "6cafb5ec9a376c4031f8329dc2aafa0d9954759882eb92c12f19b176e3d862aa",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202012/referenced_image/www.bullseyepistol.com/20201209043237-lla09-e36bf05e8c3868f9.jpg",
+      "id": "asset-6cafb5ec9a376c40",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla09.jpg",
+        "http://www.bullseyepistol.com/lla09.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20201209043237id_/http://www.bullseyepistol.com/lla09.jpg",
+        "wayback_timestamp": "20201209043237"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/6f/6f5cb08a8cfb34454de0dfd62c0b088c3a8f396a5308a2d5fe45c9daf1af697a",
+      "checksum": "6f5cb08a8cfb34454de0dfd62c0b088c3a8f396a5308a2d5fe45c9daf1af697a",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201011/referenced_image/bullseyepistol.com/20101120110837-f4-3-7657a55586a4fdf5.gif",
+      "id": "asset-6f5cb08a8cfb3445",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/f4-3.gif",
+        "http://www.bullseyepistol.com:80/f4-3.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/chapter4.htm",
+        "parent_article_timestamp": "20150217171536",
+        "retrieval_url": "https://web.archive.org/web/20101120110837id_/http://bullseyepistol.com/f4-3.gif",
+        "wayback_timestamp": "20101120110837"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/70/7023e98c893a37c0750826406e42f130a7e9d9fa06de02cc63f7a63eeacc8691",
+      "checksum": "7023e98c893a37c0750826406e42f130a7e9d9fa06de02cc63f7a63eeacc8691",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918003605-lla17-5d2d39f31d8f5a30.jpg",
+      "id": "asset-7023e98c893a37c0",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla17.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20100918002333",
+        "retrieval_url": "https://web.archive.org/web/20100918003605id_/http://bullseyepistol.com/lla17.jpg",
+        "wayback_timestamp": "20100918003605"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/71/71610c63702a26785bf73bf537228c2a19f402b6756e5b5c2676c8944cd46a78",
+      "checksum": "71610c63702a26785bf73bf537228c2a19f402b6756e5b5c2676c8944cd46a78",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202301/referenced_image/www.bullseyepistol.com/20230117164151-expgraph-605536e42e93832b.gif",
+      "id": "asset-71610c63702a2678",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/expgraph.gif",
+        "https://www.bullseyepistol.com/expgraph.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/dotsight.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20230117164151id_/https://www.bullseyepistol.com/expgraph.gif",
+        "wayback_timestamp": "20230117164151"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/75/75a43bd02ff9d38edecfd49268462d41a7ae0736caca88afb4cca339cb7397f7",
+      "checksum": "75a43bd02ff9d38edecfd49268462d41a7ae0736caca88afb4cca339cb7397f7",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918024620-f1-4a-4d190d457221e74c.jpg",
+      "id": "asset-75a43bd02ff9d38e",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/f1-4a.jpg",
+        "http://www.bullseyepistol.com:80/f1-4a.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/chapter1.htm",
+        "parent_article_timestamp": "20100922092530",
+        "retrieval_url": "https://web.archive.org/web/20100918024620id_/http://bullseyepistol.com/f1-4a.jpg",
+        "wayback_timestamp": "20100918024620"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/7a/7ad1f9416049233f825d6e5fd0fa4b4369198ded5ecf426a473918267d9551ef",
+      "checksum": "7ad1f9416049233f825d6e5fd0fa4b4369198ded5ecf426a473918267d9551ef",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918004027-lla02-84e092526d16876e.jpg",
+      "id": "asset-7ad1f9416049233f",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla02.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20100918002333",
+        "retrieval_url": "https://web.archive.org/web/20100918004027id_/http://bullseyepistol.com/lla02.jpg",
+        "wayback_timestamp": "20100918004027"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/7a/7aef4db9959ca1ab0f494c1435356ae8a5e85cf5367c17d50317a40c31f21c17",
+      "checksum": "7aef4db9959ca1ab0f494c1435356ae8a5e85cf5367c17d50317a40c31f21c17",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250822230738-dingdong-0380e2e8fd053e7c.jpg",
+      "id": "asset-7aef4db9959ca1ab",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "https://www.bullseyepistol.com/dingdong.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/malfunction.htm",
+        "parent_article_timestamp": "20250817130421",
+        "retrieval_url": "https://web.archive.org/web/20250822230738id_/https://www.bullseyepistol.com/dingdong.jpg",
+        "wayback_timestamp": "20250822230738"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/7d/7d7070464bf76d544329899b02255fa7f671ec780b8337c11454c8a50bdf1311",
+      "checksum": "7d7070464bf76d544329899b02255fa7f671ec780b8337c11454c8a50bdf1311",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202312/referenced_image/www.bullseyepistol.com/20231222021111-long41-71f1ab517c00aceb.jpg",
+      "id": "asset-7d7070464bf76d54",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/long41.jpg",
+        "https://www.bullseyepistol.com/long41.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/equipmnt.htm",
+        "parent_article_timestamp": "20250109010726",
+        "retrieval_url": "https://web.archive.org/web/20231222021111id_/https://www.bullseyepistol.com/long41.jpg",
+        "wayback_timestamp": "20231222021111"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/7e/7e38727dd2f637d39c0db79c0fa9d1d1aa7b7d51d90fd0775701d9cdc9cf8546",
+      "checksum": "7e38727dd2f637d39c0db79c0fa9d1d1aa7b7d51d90fd0775701d9cdc9cf8546",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202312/referenced_image/www.bullseyepistol.com/20231222021110-buckmark-b6a1a147efde5700.jpg",
+      "id": "asset-7e38727dd2f637d3",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/buckmark.jpg",
+        "https://www.bullseyepistol.com/buckmark.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/equipmnt.htm",
+        "parent_article_timestamp": "20250109010726",
+        "retrieval_url": "https://web.archive.org/web/20231222021110id_/https://www.bullseyepistol.com/buckmark.jpg",
+        "wayback_timestamp": "20231222021110"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/80/803c4228109b81580d54f7d81177e23a08aac0b96372262d4e69a1315ca3de37",
+      "checksum": "803c4228109b81580d54f7d81177e23a08aac0b96372262d4e69a1315ca3de37",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918024409-f1-8-6414219e01eebc5f.gif",
+      "id": "asset-803c4228109b8158",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/f1-8.gif",
+        "http://www.bullseyepistol.com:80/f1-8.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/chapter1.htm",
+        "parent_article_timestamp": "20100922092530",
+        "retrieval_url": "https://web.archive.org/web/20100918024409id_/http://bullseyepistol.com/f1-8.gif",
+        "wayback_timestamp": "20100918024409"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/80/8078a44917fe562c6594decfdb955a5ef928b47be68c1162504086234015a823",
+      "checksum": "8078a44917fe562c6594decfdb955a5ef928b47be68c1162504086234015a823",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250820160504-f2-3-122d124cc3c7a10d.gif",
+      "id": "asset-8078a44917fe562c",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://www.bullseyepistol.com/f2-3.gif",
+        "https://www.bullseyepistol.com/f2-3.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/chapter2.htm",
+        "parent_article_timestamp": "20250818163619",
+        "retrieval_url": "https://web.archive.org/web/20250820160504id_/http://www.bullseyepistol.com/f2-3.gif",
+        "wayback_timestamp": "20250820160504"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/81/81c2159a629bc00868822def07a7e546666bbd3fdc5c9e267733c8d33e3c80bd",
+      "checksum": "81c2159a629bc00868822def07a7e546666bbd3fdc5c9e267733c8d33e3c80bd",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202202/referenced_image/bullseyepistol.com/20220210135625-perry6-9560a9140a72f495.jpg",
+      "id": "asset-81c2159a629bc008",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/perry6.jpg",
+        "https://www.bullseyepistol.com/perry6.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/perrysrv.htm",
+        "parent_article_timestamp": "20250102144857",
+        "retrieval_url": "https://web.archive.org/web/20220210135625id_/http://bullseyepistol.com/perry6.jpg",
+        "wayback_timestamp": "20220210135625"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/83/83259b99553692ee36166f8c073e6f9fee61f55e19420ae544247ec6091403a5",
+      "checksum": "83259b99553692ee36166f8c073e6f9fee61f55e19420ae544247ec6091403a5",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918003540-lla03-7e17cb34a196ce81.jpg",
+      "id": "asset-83259b99553692ee",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla03.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20100918002333",
+        "retrieval_url": "https://web.archive.org/web/20100918003540id_/http://bullseyepistol.com/lla03.jpg",
+        "wayback_timestamp": "20100918003540"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/84/84a8179e8a697edbbf9094cb2a7442103e5a1e677a68f9d27f687b729eee6a5c",
+      "checksum": "84a8179e8a697edbbf9094cb2a7442103e5a1e677a68f9d27f687b729eee6a5c",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250806095205-lla13-61fc00ce7ffdeaa2.jpg",
+      "id": "asset-84a8179e8a697edb",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla13.jpg",
+        "http://www.bullseyepistol.com/lla13.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20250817093424",
+        "retrieval_url": "https://web.archive.org/web/20250806095205id_/http://www.bullseyepistol.com/lla13.jpg",
+        "wayback_timestamp": "20250806095205"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/86/861f1d9ff640c3b2a22c81933634e3542c688b5dc8db1e3faaa63f2a02701d39",
+      "checksum": "861f1d9ff640c3b2a22c81933634e3542c688b5dc8db1e3faaa63f2a02701d39",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202012/referenced_image/www.bullseyepistol.com/20201209043237-lla01-c41dc23d87c88cfd.jpg",
+      "id": "asset-861f1d9ff640c3b2",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla01.jpg",
+        "http://www.bullseyepistol.com/lla01.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20201209043237id_/http://www.bullseyepistol.com/lla01.jpg",
+        "wayback_timestamp": "20201209043237"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/86/86232ca9ebad9e2ab89372e295bd8b21b5a967856600efacfee9d23dffa2a8c2",
+      "checksum": "86232ca9ebad9e2ab89372e295bd8b21b5a967856600efacfee9d23dffa2a8c2",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/bullseyepistol.com/20250818054901-zingrip1-90d13126fc2dc03d.jpg",
+      "id": "asset-86232ca9ebad9e2a",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/zingrip1.jpg",
+        "http://www.bullseyepistol.com/zingrip1.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/zins.htm",
+        "parent_article_timestamp": "20250818162844",
+        "retrieval_url": "https://web.archive.org/web/20250818054901id_/http://bullseyepistol.com/zingrip1.jpg",
+        "wayback_timestamp": "20250818054901"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/87/87e11affcb1b2eb1b839254a49785d5864fd2dee11e182ccd28ae2490248e963",
+      "checksum": "87e11affcb1b2eb1b839254a49785d5864fd2dee11e182ccd28ae2490248e963",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918024822-f1-6-f736718416279574.gif",
+      "id": "asset-87e11affcb1b2eb1",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/f1-6.gif",
+        "http://www.bullseyepistol.com:80/f1-6.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/chapter1.htm",
+        "parent_article_timestamp": "20100922092530",
+        "retrieval_url": "https://web.archive.org/web/20100918024822id_/http://bullseyepistol.com/f1-6.gif",
+        "wayback_timestamp": "20100918024822"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/87/87edeebabb4fc8128685d597ce5e7b19515c0ee3416a38961974a7a5fa2dbd3a",
+      "checksum": "87edeebabb4fc8128685d597ce5e7b19515c0ee3416a38961974a7a5fa2dbd3a",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202108/referenced_image/bullseyepistol.com/20210818144826-b8-5333c039dab7a400.jpg",
+      "id": "asset-87edeebabb4fc812",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "https://bullseyepistol.com/b8.jpg",
+        "https://www.bullseyepistol.com/b8.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/zenread.htm",
+        "parent_article_timestamp": "20250102144629",
+        "retrieval_url": "https://web.archive.org/web/20210818144826id_/https://bullseyepistol.com/b8.jpg",
+        "wayback_timestamp": "20210818144826"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/89/8939c02cd5381c84926a2ae9267e3a94ae3499ad15d310d73d28764bb521eb94",
+      "checksum": "8939c02cd5381c84926a2ae9267e3a94ae3499ad15d310d73d28764bb521eb94",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918024542-f1-7-763b424e95bc7a18.gif",
+      "id": "asset-8939c02cd5381c84",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/f1-7.gif",
+        "http://www.bullseyepistol.com:80/f1-7.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/chapter1.htm",
+        "parent_article_timestamp": "20100922092530",
+        "retrieval_url": "https://web.archive.org/web/20100918024542id_/http://bullseyepistol.com/f1-7.gif",
+        "wayback_timestamp": "20100918024542"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/89/89c5282ef666d82256739451a8cc3d29cea16a93c9f656f9582039aa84929749",
+      "checksum": "89c5282ef666d82256739451a8cc3d29cea16a93c9f656f9582039aa84929749",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250822230146-magrange-6bbe3e45093b4986.jpg",
+      "id": "asset-89c5282ef666d822",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "https://www.bullseyepistol.com/magrange.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/malfunction.htm",
+        "parent_article_timestamp": "20250817130421",
+        "retrieval_url": "https://web.archive.org/web/20250822230146id_/https://www.bullseyepistol.com/magrange.jpg",
+        "wayback_timestamp": "20250822230146"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/8a/8af4fafc372f53808920ad40e527ba818d670d0a0c74c286b00f155caf22cc9b",
+      "checksum": "8af4fafc372f53808920ad40e527ba818d670d0a0c74c286b00f155caf22cc9b",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202312/referenced_image/www.bullseyepistol.com/20231222021112-tside-2e9a3da700ecb77d.jpg",
+      "id": "asset-8af4fafc372f5380",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/tside.jpg",
+        "https://www.bullseyepistol.com/tside.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/equipmnt.htm",
+        "parent_article_timestamp": "20250109010726",
+        "retrieval_url": "https://web.archive.org/web/20231222021112id_/https://www.bullseyepistol.com/tside.jpg",
+        "wayback_timestamp": "20231222021112"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/8b/8b454d1fdee6c429cf6c96e54413ebbd0c2d5caa868473f9fd9f648cbbb9d4fd",
+      "checksum": "8b454d1fdee6c429cf6c96e54413ebbd0c2d5caa868473f9fd9f648cbbb9d4fd",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250818170137-f2-1-04cdc1bd1289fefb.gif",
+      "id": "asset-8b454d1fdee6c429",
+      "media_type": "image/gif",
+      "original_urls": [
+        "https://www.bullseyepistol.com/f2-1.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/chapter2.htm",
+        "parent_article_timestamp": "20250818163619",
+        "retrieval_url": "https://web.archive.org/web/20250818170137id_/https://www.bullseyepistol.com/f2-1.gif",
+        "wayback_timestamp": "20250818170137"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/8e/8e1ffc90ea6a899934c2c7ee132cf466883a3ab1a4491f1858f998814d36b569",
+      "checksum": "8e1ffc90ea6a899934c2c7ee132cf466883a3ab1a4491f1858f998814d36b569",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201011/referenced_image/bullseyepistol.com/20101120111915-a2-3-68da1d8f1520d51f.gif",
+      "id": "asset-8e1ffc90ea6a8999",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/a2-3.gif",
+        "http://www.bullseyepistol.com:80/a2-3.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/annex2.htm",
+        "parent_article_timestamp": "20150218001128",
+        "retrieval_url": "https://web.archive.org/web/20101120111915id_/http://bullseyepistol.com/a2-3.gif",
+        "wayback_timestamp": "20101120111915"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/90/90ec1e62e42ab299614ed4ec569238d8375c80d8ba081183de38fb1aa0596708",
+      "checksum": "90ec1e62e42ab299614ed4ec569238d8375c80d8ba081183de38fb1aa0596708",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918003058-lla08-bb1bf0abe3bd8df5.jpg",
+      "id": "asset-90ec1e62e42ab299",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla08.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20100918002333",
+        "retrieval_url": "https://web.archive.org/web/20100918003058id_/http://bullseyepistol.com/lla08.jpg",
+        "wayback_timestamp": "20100918003058"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/91/91ddb4018da91524e47842e2902e37ad118f5caaeeab2045d3b962991d19d321",
+      "checksum": "91ddb4018da91524e47842e2902e37ad118f5caaeeab2045d3b962991d19d321",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918005318-jimclark-153d993306312180.jpg",
+      "id": "asset-91ddb4018da91524",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/jimclark.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/clark.htm",
+        "parent_article_timestamp": "20100918005302",
+        "retrieval_url": "https://web.archive.org/web/20100918005318id_/http://bullseyepistol.com/jimclark.jpg",
+        "wayback_timestamp": "20100918005318"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/93/93c00a62e75910da2cd3d7b462e02abfb40b365f3336d384f04cf3379376ff5a",
+      "checksum": "93c00a62e75910da2cd3d7b462e02abfb40b365f3336d384f04cf3379376ff5a",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918010508-ronphoto-2eeb9a9025dd9e05.jpg",
+      "id": "asset-93c00a62e75910da",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/ronphoto.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/ronbio.htm",
+        "parent_article_timestamp": "20100918010431",
+        "retrieval_url": "https://web.archive.org/web/20100918010508id_/http://bullseyepistol.com/ronphoto.jpg",
+        "wayback_timestamp": "20100918010508"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/94/94c6bd15fda3f5ea63980d99a5996add8ba9237589437cda513c6ed10616c215",
+      "checksum": "94c6bd15fda3f5ea63980d99a5996add8ba9237589437cda513c6ed10616c215",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250822215847-breech-6c386098bf888744.jpg",
+      "id": "asset-94c6bd15fda3f5ea",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "https://www.bullseyepistol.com/breech.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/malfunction.htm",
+        "parent_article_timestamp": "20250817130421",
+        "retrieval_url": "https://web.archive.org/web/20250822215847id_/https://www.bullseyepistol.com/breech.jpg",
+        "wayback_timestamp": "20250822215847"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/95/95d7644d238807c5cd7cdc23402fd39844000bb15e5634b431057a45666df7cb",
+      "checksum": "95d7644d238807c5cd7cdc23402fd39844000bb15e5634b431057a45666df7cb",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202312/referenced_image/www.bullseyepistol.com/20231222021112-gsp-69835adaf9096342.jpg",
+      "id": "asset-95d7644d238807c5",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/gsp.jpg",
+        "https://www.bullseyepistol.com/gsp.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/equipmnt.htm",
+        "parent_article_timestamp": "20250109010726",
+        "retrieval_url": "https://web.archive.org/web/20231222021112id_/https://www.bullseyepistol.com/gsp.jpg",
+        "wayback_timestamp": "20231222021112"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/99/99a36240fdb35c2ec7cdaa2c3be495e1525304e96a660401d48b80aac620e1e7",
+      "checksum": "99a36240fdb35c2ec7cdaa2c3be495e1525304e96a660401d48b80aac620e1e7",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201011/referenced_image/bullseyepistol.com/20101120111716-a2-7-71bd99bd91593219.gif",
+      "id": "asset-99a36240fdb35c2e",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/a2-7.gif",
+        "http://www.bullseyepistol.com:80/a2-7.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/annex2.htm",
+        "parent_article_timestamp": "20150218001128",
+        "retrieval_url": "https://web.archive.org/web/20101120111716id_/http://bullseyepistol.com/a2-7.gif",
+        "wayback_timestamp": "20101120111716"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/9d/9d48a5415494c835a984718464dec08336cf80e5f6251b3cf174a3a0a2643096",
+      "checksum": "9d48a5415494c835a984718464dec08336cf80e5f6251b3cf174a3a0a2643096",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202202/referenced_image/bullseyepistol.com/20220210135629-perry3-04a5fdeb0beca6d5.jpg",
+      "id": "asset-9d48a5415494c835",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/perry3.jpg",
+        "https://www.bullseyepistol.com/perry3.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/perrysrv.htm",
+        "parent_article_timestamp": "20250102144857",
+        "retrieval_url": "https://web.archive.org/web/20220210135629id_/http://bullseyepistol.com/perry3.jpg",
+        "wayback_timestamp": "20220210135629"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/9d/9d59392dc13989b101ee7dd88786b98d88f6acf4a289036255754ff6b7df295a",
+      "checksum": "9d59392dc13989b101ee7dd88786b98d88f6acf4a289036255754ff6b7df295a",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202012/referenced_image/www.bullseyepistol.com/20201209043152-about2-3c76701d426c66ed.jpg",
+      "id": "asset-9d59392dc13989b1",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/about2.jpg",
+        "http://www.bullseyepistol.com/about2.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/why.htm",
+        "parent_article_timestamp": "20230329142547",
+        "retrieval_url": "https://web.archive.org/web/20201209043152id_/http://www.bullseyepistol.com/about2.jpg",
+        "wayback_timestamp": "20201209043152"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/9f/9f781e4bde31702fbf8da3ef394f0fa74e76a67967e4a42b7b6ed4d882e67a70",
+      "checksum": "9f781e4bde31702fbf8da3ef394f0fa74e76a67967e4a42b7b6ed4d882e67a70",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202105/referenced_image/www.bullseyepistol.com/20210506151233-disting-5e42bf592a540eac.jpg",
+      "id": "asset-9f781e4bde31702f",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/disting.jpg",
+        "http://www.bullseyepistol.com/disting.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/secret.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20210506151233id_/http://www.bullseyepistol.com/disting.jpg",
+        "wayback_timestamp": "20210506151233"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/a0/a0dfafda35da6f3be34597f1821219c3faa074063cfb9a6680e038d9ccce58ea",
+      "checksum": "a0dfafda35da6f3be34597f1821219c3faa074063cfb9a6680e038d9ccce58ea",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202012/referenced_image/www.bullseyepistol.com/20201209043237-lla12-d5e69ae3275873a3.jpg",
+      "id": "asset-a0dfafda35da6f3b",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla12.jpg",
+        "http://www.bullseyepistol.com/lla12.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20201209043237id_/http://www.bullseyepistol.com/lla12.jpg",
+        "wayback_timestamp": "20201209043237"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/a1/a1df42574080026e094adf6fcd25d1fc81f078468d3173e190518bbdb69d95b5",
+      "checksum": "a1df42574080026e094adf6fcd25d1fc81f078468d3173e190518bbdb69d95b5",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250813162104-wong-8cf716f65dd42839.jpg",
+      "id": "asset-a1df42574080026e",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/wong.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/wong.htm",
+        "parent_article_timestamp": "20250813161015",
+        "retrieval_url": "https://web.archive.org/web/20250813162104id_/http://www.bullseyepistol.com/wong.jpg",
+        "wayback_timestamp": "20250813162104"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/a1/a1e9c2139a1f0923c58264fd67fad55963b33ec19d2e8fe5b42aed095cf87327",
+      "checksum": "a1e9c2139a1f0923c58264fd67fad55963b33ec19d2e8fe5b42aed095cf87327",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202312/referenced_image/www.bullseyepistol.com/20231222021111-pardini-9711ce5d791cf7f8.jpg",
+      "id": "asset-a1e9c2139a1f0923",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/pardini.jpg",
+        "https://www.bullseyepistol.com/pardini.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/equipmnt.htm",
+        "parent_article_timestamp": "20250109010726",
+        "retrieval_url": "https://web.archive.org/web/20231222021111id_/https://www.bullseyepistol.com/pardini.jpg",
+        "wayback_timestamp": "20231222021111"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/a2/a227a06a93abedd0464d49b805ac1b5dc1badd5e38598b399894a42b8879bbf6",
+      "checksum": "a227a06a93abedd0464d49b805ac1b5dc1badd5e38598b399894a42b8879bbf6",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201312/referenced_image/www.bullseyepistol.com/20131221122249-kenjuudo-d2055f47ef31a175.gif",
+      "id": "asset-a227a06a93abedd0",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/kenjuudo.gif",
+        "http://www.bullseyepistol.com/kenjuudo.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/zeninfo.htm",
+        "parent_article_timestamp": "20150213231014",
+        "retrieval_url": "https://web.archive.org/web/20131221122249id_/http://www.bullseyepistol.com/kenjuudo.gif",
+        "wayback_timestamp": "20131221122249"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/a2/a2e2c3b102cbecf28a73173a6b8bc73be1246789a1090e2096c99e69d938d610",
+      "checksum": "a2e2c3b102cbecf28a73173a6b8bc73be1246789a1090e2096c99e69d938d610",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202012/referenced_image/www.bullseyepistol.com/20201209043237-lla04-e9546406702a4f37.jpg",
+      "id": "asset-a2e2c3b102cbecf2",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla04.jpg",
+        "http://www.bullseyepistol.com/lla04.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20201209043237id_/http://www.bullseyepistol.com/lla04.jpg",
+        "wayback_timestamp": "20201209043237"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/a3/a32ac81433dbefeb788186bcf84f1401bc4a0f0f0b745f52c03175428d692606",
+      "checksum": "a32ac81433dbefeb788186bcf84f1401bc4a0f0f0b745f52c03175428d692606",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918005925-dothow-a152ef2a733f5a6d.jpg",
+      "id": "asset-a32ac81433dbefeb",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/dothow.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/dotsight.htm",
+        "parent_article_timestamp": "20100918005828",
+        "retrieval_url": "https://web.archive.org/web/20100918005925id_/http://bullseyepistol.com/dothow.jpg",
+        "wayback_timestamp": "20100918005925"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/a3/a37024dab715270f84ebdea26f5dd0256ea29d783732fa5d7bbac46cc8ad6253",
+      "checksum": "a37024dab715270f84ebdea26f5dd0256ea29d783732fa5d7bbac46cc8ad6253",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918012613-misfires-7445c7e3764f692a.gif",
+      "id": "asset-a37024dab715270f",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/misfires.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/techo.htm",
+        "parent_article_timestamp": "20100918012517",
+        "retrieval_url": "https://web.archive.org/web/20100918012613id_/http://bullseyepistol.com/misfires.gif",
+        "wayback_timestamp": "20100918012613"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/a6/a6266d1b89abd6c25402163debbc4c43bd962ecf56e93ad29baf255a92d96899",
+      "checksum": "a6266d1b89abd6c25402163debbc4c43bd962ecf56e93ad29baf255a92d96899",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201011/referenced_image/bullseyepistol.com/20101120111142-f6-1-5c9902ef809d3de2.jpg",
+      "id": "asset-a6266d1b89abd6c2",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/f6-1.jpg",
+        "https://www.bullseyepistol.com/f6-1.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/chapter6.htm",
+        "parent_article_timestamp": "20250102144721",
+        "retrieval_url": "https://web.archive.org/web/20101120111142id_/http://bullseyepistol.com/f6-1.jpg",
+        "wayback_timestamp": "20101120111142"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/a8/a85acc509cd235d7aef123883af10b4ea3ac73add5f42d97d410c079569a23d8",
+      "checksum": "a85acc509cd235d7aef123883af10b4ea3ac73add5f42d97d410c079569a23d8",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918001630-masaki-b-05cd11971f321dd1.jpg",
+      "id": "asset-a85acc509cd235d7",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/masaki-b.jpg",
+        "http://www.bullseyepistol.com:80/masaki-b.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/equipmnt.htm",
+        "parent_article_timestamp": "20100922095724",
+        "retrieval_url": "https://web.archive.org/web/20100918001630id_/http://bullseyepistol.com/masaki-b.jpg",
+        "wayback_timestamp": "20100918001630"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/a8/a890bf34222b040991346329457594db2c49fda32bad5aa331ee63cdca77ec97",
+      "checksum": "a890bf34222b040991346329457594db2c49fda32bad5aa331ee63cdca77ec97",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202312/referenced_image/www.bullseyepistol.com/20231222021110-sp20-ea0717136143e7f6.jpg",
+      "id": "asset-a890bf34222b0409",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/sp20.jpg",
+        "https://www.bullseyepistol.com/sp20.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/equipmnt.htm",
+        "parent_article_timestamp": "20250109010726",
+        "retrieval_url": "https://web.archive.org/web/20231222021110id_/https://www.bullseyepistol.com/sp20.jpg",
+        "wayback_timestamp": "20231222021110"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/aa/aa06782e17b71414c3abdc84fafd50d154a6f6278f75da550ec475b50d2401ed",
+      "checksum": "aa06782e17b71414c3abdc84fafd50d154a6f6278f75da550ec475b50d2401ed",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202301/referenced_image/www.bullseyepistol.com/20230117164158-firstdot-0703b330d4d137d6.jpg",
+      "id": "asset-aa06782e17b71414",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/firstdot.jpg",
+        "https://www.bullseyepistol.com/firstdot.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/dotsight.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20230117164158id_/https://www.bullseyepistol.com/firstdot.jpg",
+        "wayback_timestamp": "20230117164158"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/aa/aa8977d67821ad72ff7afd8828f64e62cbb2a0b1879f2df79159a0a211da7230",
+      "checksum": "aa8977d67821ad72ff7afd8828f64e62cbb2a0b1879f2df79159a0a211da7230",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202312/referenced_image/www.bullseyepistol.com/20231222021108-hsvictor-104590dce4dda9d5.jpg",
+      "id": "asset-aa8977d67821ad72",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/hsvictor.jpg",
+        "https://www.bullseyepistol.com/hsvictor.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/equipmnt.htm",
+        "parent_article_timestamp": "20250109010726",
+        "retrieval_url": "https://web.archive.org/web/20231222021108id_/https://www.bullseyepistol.com/hsvictor.jpg",
+        "wayback_timestamp": "20231222021108"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/ac/acc4c02bb7a6428d8a65a892735e5e71b2716efbbcccf7f2eb21c3293df03cbb",
+      "checksum": "acc4c02bb7a6428d8a65a892735e5e71b2716efbbcccf7f2eb21c3293df03cbb",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250823165519-shoulders-8fd2890d787442a6.gif",
+      "id": "asset-acc4c02bb7a6428d",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://www.bullseyepistol.com/shoulders.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/stamina.htm",
+        "parent_article_timestamp": "20250823163800",
+        "retrieval_url": "https://web.archive.org/web/20250823165519id_/http://www.bullseyepistol.com/shoulders.gif",
+        "wayback_timestamp": "20250823165519"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/ae/ae6acb44d9f143977f8e202ce38f15191ee9bc11f25679482c4d006191f21277",
+      "checksum": "ae6acb44d9f143977f8e202ce38f15191ee9bc11f25679482c4d006191f21277",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202204/referenced_image/www.bullseyepistol.com/20220401051044-clarkjr-368daf66885345d8.jpg",
+      "id": "asset-ae6acb44d9f14397",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/clarkjr.jpg",
+        "https://www.bullseyepistol.com/clarkjr.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/clark.htm",
+        "parent_article_timestamp": "20230329142547",
+        "retrieval_url": "https://web.archive.org/web/20220401051044id_/https://www.bullseyepistol.com/clarkjr.jpg",
+        "wayback_timestamp": "20220401051044"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/ae/aeddcd23d60008acc4f861463c71ae92fd5bdb572d6151c870db6c1099b26708",
+      "checksum": "aeddcd23d60008acc4f861463c71ae92fd5bdb572d6151c870db6c1099b26708",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918003358-lla22-89d9b10faf7ea079.jpg",
+      "id": "asset-aeddcd23d60008ac",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla22.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20100918002333",
+        "retrieval_url": "https://web.archive.org/web/20100918003358id_/http://bullseyepistol.com/lla22.jpg",
+        "wayback_timestamp": "20100918003358"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/b0/b0f98e6c5f384d2cd6ada1aa7972cfc635f2b19f02cb82d103c6b53514a79b73",
+      "checksum": "b0f98e6c5f384d2cd6ada1aa7972cfc635f2b19f02cb82d103c6b53514a79b73",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201011/referenced_image/bullseyepistol.com/20101120112111-a2-5-9665150a6e84b072.gif",
+      "id": "asset-b0f98e6c5f384d2c",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/a2-5.gif",
+        "http://www.bullseyepistol.com:80/a2-5.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/annex2.htm",
+        "parent_article_timestamp": "20150218001128",
+        "retrieval_url": "https://web.archive.org/web/20101120112111id_/http://bullseyepistol.com/a2-5.gif",
+        "wayback_timestamp": "20101120112111"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/b2/b21f8f809f019726d536e669f9469053493c973749ddf655917557255187fed8",
+      "checksum": "b21f8f809f019726d536e669f9469053493c973749ddf655917557255187fed8",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918003220-lla19-f727fd74c29ed018.jpg",
+      "id": "asset-b21f8f809f019726",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla19.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20100918002333",
+        "retrieval_url": "https://web.archive.org/web/20100918003220id_/http://bullseyepistol.com/lla19.jpg",
+        "wayback_timestamp": "20100918003220"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/b5/b5dfaaf46586cbd8cc841a26669b18380e5a7deee050ee62b8e463e0530afb01",
+      "checksum": "b5dfaaf46586cbd8cc841a26669b18380e5a7deee050ee62b8e463e0530afb01",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202201/referenced_image/bullseyepistol.com/20220131194139-perry1-f13f8d19b8beadfc.jpg",
+      "id": "asset-b5dfaaf46586cbd8",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/perry1.jpg",
+        "https://www.bullseyepistol.com/perry1.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/pertriv.htm",
+        "parent_article_timestamp": "20250102145217",
+        "retrieval_url": "https://web.archive.org/web/20220131194139id_/http://bullseyepistol.com/perry1.jpg",
+        "wayback_timestamp": "20220131194139"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/b6/b65daea03cf61cf9cbc2bd7859176284d45ed25b8241e9843894c33dead998c2",
+      "checksum": "b65daea03cf61cf9cbc2bd7859176284d45ed25b8241e9843894c33dead998c2",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250823000955-cutaway2-1bffbb15d86fda1f.jpg",
+      "id": "asset-b65daea03cf61cf9",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "https://www.bullseyepistol.com/cutaway2.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/malfunction.htm",
+        "parent_article_timestamp": "20250817130421",
+        "retrieval_url": "https://web.archive.org/web/20250823000955id_/https://www.bullseyepistol.com/cutaway2.jpg",
+        "wayback_timestamp": "20250823000955"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/b6/b6b36b2a37ac0f2dbe3a80d464594de1aee20f32fcf2ec51009975a97698dd6f",
+      "checksum": "b6b36b2a37ac0f2dbe3a80d464594de1aee20f32fcf2ec51009975a97698dd6f",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202301/referenced_image/www.bullseyepistol.com/20230117164136-dothow2-e35990bb19f90766.jpg",
+      "id": "asset-b6b36b2a37ac0f2d",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/dothow2.jpg",
+        "https://www.bullseyepistol.com/dothow2.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/dotsight.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20230117164136id_/https://www.bullseyepistol.com/dothow2.jpg",
+        "wayback_timestamp": "20230117164136"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/b8/b8b2f7baf617505830304f20efc980f4559bb8d3e9b87dcfac7a71de64c23885",
+      "checksum": "b8b2f7baf617505830304f20efc980f4559bb8d3e9b87dcfac7a71de64c23885",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202012/referenced_image/www.bullseyepistol.com/20201209043151-about-68125042177989b2.jpg",
+      "id": "asset-b8b2f7baf6175058",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/about.jpg",
+        "http://www.bullseyepistol.com/about.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/why.htm",
+        "parent_article_timestamp": "20230329142547",
+        "retrieval_url": "https://web.archive.org/web/20201209043151id_/http://www.bullseyepistol.com/about.jpg",
+        "wayback_timestamp": "20201209043151"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/b9/b9693eee8e1644b5d9bd41b8503ffcc536b6c1e0a81d5bae0441d760ead6fb51",
+      "checksum": "b9693eee8e1644b5d9bd41b8503ffcc536b6c1e0a81d5bae0441d760ead6fb51",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250823170958-crunches-ef698a05835f7008.gif",
+      "id": "asset-b9693eee8e1644b5",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://www.bullseyepistol.com/crunches.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/stamina.htm",
+        "parent_article_timestamp": "20250823163800",
+        "retrieval_url": "https://web.archive.org/web/20250823170958id_/http://www.bullseyepistol.com/crunches.gif",
+        "wayback_timestamp": "20250823170958"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/bd/bdc3c4502dd03aada9885eb0c03e3af30a1bb5ecf7609eef7e45e93a65bdce66",
+      "checksum": "bdc3c4502dd03aada9885eb0c03e3af30a1bb5ecf7609eef7e45e93a65bdce66",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202303/referenced_image/www.bullseyepistol.com/20230315010745-overhead-7331186666293983.gif",
+      "id": "asset-bdc3c4502dd03aad",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://www.bullseyepistol.com/overhead.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/stamina.htm",
+        "parent_article_timestamp": "20250823163800",
+        "retrieval_url": "https://web.archive.org/web/20230315010745id_/http://www.bullseyepistol.com/overhead.gif",
+        "wayback_timestamp": "20230315010745"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/be/be0f575de5a19741afd093ec0ad834358c0b52cfabd5b5ed705b117c6d3042b1",
+      "checksum": "be0f575de5a19741afd093ec0ad834358c0b52cfabd5b5ed705b117c6d3042b1",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918024634-f1-3-1f0ca9cf6777feaf.gif",
+      "id": "asset-be0f575de5a19741",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/f1-3.gif",
+        "http://www.bullseyepistol.com:80/f1-3.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/chapter1.htm",
+        "parent_article_timestamp": "20100922092530",
+        "retrieval_url": "https://web.archive.org/web/20100918024634id_/http://bullseyepistol.com/f1-3.gif",
+        "wayback_timestamp": "20100918024634"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/bf/bfd5a619326e794a5e20261bca73e860721b3b2c548dc83e0aa1900edb83248a",
+      "checksum": "bfd5a619326e794a5e20261bca73e860721b3b2c548dc83e0aa1900edb83248a",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250823010532-nofeed-82313a544d44e8c1.jpg",
+      "id": "asset-bfd5a619326e794a",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "https://www.bullseyepistol.com/nofeed.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/malfunction.htm",
+        "parent_article_timestamp": "20250817130421",
+        "retrieval_url": "https://web.archive.org/web/20250823010532id_/https://www.bullseyepistol.com/nofeed.jpg",
+        "wayback_timestamp": "20250823010532"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/c1/c18593913ceeeb9015e8b05d56360789337d06f3da62288eb21eba27aafb7790",
+      "checksum": "c18593913ceeeb9015e8b05d56360789337d06f3da62288eb21eba27aafb7790",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201110/referenced_image/www.bullseyepistol.com/20111005164301-f4-1-97bde3e801526d3c.gif",
+      "id": "asset-c18593913ceeeb90",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://www.bullseyepistol.com/f4-1.gif",
+        "http://www.bullseyepistol.com:80/f4-1.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/chapter4.htm",
+        "parent_article_timestamp": "20150217171536",
+        "retrieval_url": "https://web.archive.org/web/20111005164301id_/http://www.bullseyepistol.com/f4-1.gif",
+        "wayback_timestamp": "20111005164301"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/c2/c2c3b3e40eae47a6df0a33a497794c41b4bdf0a55c718bf07e12abfe409bf145",
+      "checksum": "c2c3b3e40eae47a6df0a33a497794c41b4bdf0a55c718bf07e12abfe409bf145",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918024555-f1-2-e36a731e1e51f454.jpg",
+      "id": "asset-c2c3b3e40eae47a6",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/f1-2.jpg",
+        "http://www.bullseyepistol.com:80/f1-2.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/chapter1.htm",
+        "parent_article_timestamp": "20100922092530",
+        "retrieval_url": "https://web.archive.org/web/20100918024555id_/http://bullseyepistol.com/f1-2.jpg",
+        "wayback_timestamp": "20100918024555"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/c3/c3946479396774a6f48ecd720d020dc9274b76be8a16007443e177b7980c8119",
+      "checksum": "c3946479396774a6f48ecd720d020dc9274b76be8a16007443e177b7980c8119",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250818174146-f2-4a-394c1e4724435857.gif",
+      "id": "asset-c3946479396774a6",
+      "media_type": "image/gif",
+      "original_urls": [
+        "https://www.bullseyepistol.com/f2-4a.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/chapter2.htm",
+        "parent_article_timestamp": "20250818163619",
+        "retrieval_url": "https://web.archive.org/web/20250818174146id_/https://www.bullseyepistol.com/f2-4a.gif",
+        "wayback_timestamp": "20250818174146"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/c3/c399b39cb9e781542b1554e855792f6c4e45da3c3e9ed1a924c303fcec7e072f",
+      "checksum": "c399b39cb9e781542b1554e855792f6c4e45da3c3e9ed1a924c303fcec7e072f",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250822231730-menck-f4baaf95ee6456c7.jpg",
+      "id": "asset-c399b39cb9e78154",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "https://www.bullseyepistol.com/menck.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/malfunction.htm",
+        "parent_article_timestamp": "20250817130421",
+        "retrieval_url": "https://web.archive.org/web/20250822231730id_/https://www.bullseyepistol.com/menck.jpg",
+        "wayback_timestamp": "20250822231730"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/c5/c57240e5561eadd510b2c60e3379dfa0ac83c2b5bbd50da5d25b7543be427f1b",
+      "checksum": "c57240e5561eadd510b2c60e3379dfa0ac83c2b5bbd50da5d25b7543be427f1b",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250824002104-handcurl-b66c2003dd421148.gif",
+      "id": "asset-c57240e5561eadd5",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://www.bullseyepistol.com/handcurl.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/stamina.htm",
+        "parent_article_timestamp": "20250823163800",
+        "retrieval_url": "https://web.archive.org/web/20250824002104id_/http://www.bullseyepistol.com/handcurl.gif",
+        "wayback_timestamp": "20250824002104"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/c8/c8426b04fdf90f74551bae240f67bb3872d608a978356096e3f6e6d91b42e397",
+      "checksum": "c8426b04fdf90f74551bae240f67bb3872d608a978356096e3f6e6d91b42e397",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201011/referenced_image/bullseyepistol.com/20101120111449-f3-3-2af1f5a18a3449ab.gif",
+      "id": "asset-c8426b04fdf90f74",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/f3-3.gif",
+        "http://www.bullseyepistol.com:80/f3-3.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/chapter3.htm",
+        "parent_article_timestamp": "20150217121630",
+        "retrieval_url": "https://web.archive.org/web/20101120111449id_/http://bullseyepistol.com/f3-3.gif",
+        "wayback_timestamp": "20101120111449"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/c9/c982c8a6d91e909c503a1530bfefa95591adaf7be2264de88fd24546a75b26ce",
+      "checksum": "c982c8a6d91e909c503a1530bfefa95591adaf7be2264de88fd24546a75b26ce",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250820161826-f2-2-1fa2da7e13f02193.gif",
+      "id": "asset-c982c8a6d91e909c",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://www.bullseyepistol.com/f2-2.gif",
+        "https://www.bullseyepistol.com/f2-2.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/chapter2.htm",
+        "parent_article_timestamp": "20250818163619",
+        "retrieval_url": "https://web.archive.org/web/20250820161826id_/http://www.bullseyepistol.com/f2-2.gif",
+        "wayback_timestamp": "20250820161826"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/c9/c9db48a68966ea66136e67a38a7536370dea85be8155e6d76c2f0171301051aa",
+      "checksum": "c9db48a68966ea66136e67a38a7536370dea85be8155e6d76c2f0171301051aa",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250823173331-curls-2fa471b1e33d1acf.gif",
+      "id": "asset-c9db48a68966ea66",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://www.bullseyepistol.com/curls.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/stamina.htm",
+        "parent_article_timestamp": "20250823163800",
+        "retrieval_url": "https://web.archive.org/web/20250823173331id_/http://www.bullseyepistol.com/curls.gif",
+        "wayback_timestamp": "20250823173331"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/ca/ca5e686ec95a6cb507ad10013b0aca3235091bdb91f7e604083eef84913a4711",
+      "checksum": "ca5e686ec95a6cb507ad10013b0aca3235091bdb91f7e604083eef84913a4711",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201110/referenced_image/www.bullseyepistol.com/20111005165641-f3-1-2461cc55577a3ed7.gif",
+      "id": "asset-ca5e686ec95a6cb5",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://www.bullseyepistol.com/f3-1.gif",
+        "http://www.bullseyepistol.com:80/f3-1.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/chapter3.htm",
+        "parent_article_timestamp": "20150217121630",
+        "retrieval_url": "https://web.archive.org/web/20111005165641id_/http://www.bullseyepistol.com/f3-1.gif",
+        "wayback_timestamp": "20111005165641"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/cc/cc64d5e50dcca3997c52eb034c76aee08c9c12ee2194eb5a6e61e6c608507c9d",
+      "checksum": "cc64d5e50dcca3997c52eb034c76aee08c9c12ee2194eb5a6e61e6c608507c9d",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918013904-perry7-4e9db34f4ba12622.jpg",
+      "id": "asset-cc64d5e50dcca399",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/perry7.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/perryfaq.htm",
+        "parent_article_timestamp": "20100918013726",
+        "retrieval_url": "https://web.archive.org/web/20100918013904id_/http://bullseyepistol.com/perry7.jpg",
+        "wayback_timestamp": "20100918013904"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/cc/cc8c7211e97be19266a8dcd99babd9151f3cfdf85b8c7bf47ef64b6906268d82",
+      "checksum": "cc8c7211e97be19266a8dcd99babd9151f3cfdf85b8c7bf47ef64b6906268d82",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201011/referenced_image/bullseyepistol.com/20101120111854-a2-1-2270f196e3865938.gif",
+      "id": "asset-cc8c7211e97be192",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/a2-1.gif",
+        "http://www.bullseyepistol.com:80/a2-1.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/annex2.htm",
+        "parent_article_timestamp": "20150218001128",
+        "retrieval_url": "https://web.archive.org/web/20101120111854id_/http://bullseyepistol.com/a2-1.gif",
+        "wayback_timestamp": "20101120111854"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/cd/cda4692748f04d23b5d74e27e6df42c343c546ba5671f34a0d9d97c4b108986b",
+      "checksum": "cda4692748f04d23b5d74e27e6df42c343c546ba5671f34a0d9d97c4b108986b",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202203/referenced_image/bullseyepistol.com/20220309225936-b2-199dc705bdfcb11d.jpg",
+      "id": "asset-cda4692748f04d23",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/b2.jpg",
+        "https://www.bullseyepistol.com/b2.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/zenread.htm",
+        "parent_article_timestamp": "20250102144629",
+        "retrieval_url": "https://web.archive.org/web/20220309225936id_/http://bullseyepistol.com/b2.jpg",
+        "wayback_timestamp": "20220309225936"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/ce/ce24b1a8d80883a7710438413c3a94b783cd6f48de5841c51def696c2638e456",
+      "checksum": "ce24b1a8d80883a7710438413c3a94b783cd6f48de5841c51def696c2638e456",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918001349-short41-ee801d305984bfad.jpg",
+      "id": "asset-ce24b1a8d80883a7",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/short41.jpg",
+        "http://www.bullseyepistol.com:80/short41.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/equipmnt.htm",
+        "parent_article_timestamp": "20100922095724",
+        "retrieval_url": "https://web.archive.org/web/20100918001349id_/http://bullseyepistol.com/short41.jpg",
+        "wayback_timestamp": "20100918001349"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/d5/d51b97e351bef6bb54f6231287fbe23a3ee9aab3d5e2dcf96a8c070fbb5c5e36",
+      "checksum": "d51b97e351bef6bb54f6231287fbe23a3ee9aab3d5e2dcf96a8c070fbb5c5e36",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201011/referenced_image/bullseyepistol.com/20101120111523-f3-2-65dbaf815695ab0b.gif",
+      "id": "asset-d51b97e351bef6bb",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/f3-2.gif",
+        "http://www.bullseyepistol.com:80/f3-2.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/chapter3.htm",
+        "parent_article_timestamp": "20150217121630",
+        "retrieval_url": "https://web.archive.org/web/20101120111523id_/http://bullseyepistol.com/f3-2.gif",
+        "wayback_timestamp": "20101120111523"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/d8/d87dcc79285ea33c1f68fa390de0140b3522bc2455e3e5bd1982b243f3cdd68b",
+      "checksum": "d87dcc79285ea33c1f68fa390de0140b3522bc2455e3e5bd1982b243f3cdd68b",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202303/referenced_image/www.bullseyepistol.com/20230316173046-askins3-ddf845e3125dc5c3.jpg",
+      "id": "asset-d87dcc79285ea33c",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/askins3.jpg",
+        "https://www.bullseyepistol.com/askins3.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/askins.htm",
+        "parent_article_timestamp": "20230329142547",
+        "retrieval_url": "https://web.archive.org/web/20230316173046id_/https://www.bullseyepistol.com/askins3.jpg",
+        "wayback_timestamp": "20230316173046"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/d9/d917674a7317e4d6642f2fd82ffd092cebb89caf7378bb9de39290c5321df3ec",
+      "checksum": "d917674a7317e4d6642f2fd82ffd092cebb89caf7378bb9de39290c5321df3ec",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918032917-hornets-dd67a204fda445cb.jpg",
+      "id": "asset-d917674a7317e4d6",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/hornets.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/imteams.htm",
+        "parent_article_timestamp": "20100918031843",
+        "retrieval_url": "https://web.archive.org/web/20100918032917id_/http://bullseyepistol.com/hornets.jpg",
+        "wayback_timestamp": "20100918032917"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/da/dac93b6e291638a1dd66e9c651f717739beac14308886d9796058f5b1c52e013",
+      "checksum": "dac93b6e291638a1dd66e9c651f717739beac14308886d9796058f5b1c52e013",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250820161010-f2-4b-7748062ad6b1b91c.gif",
+      "id": "asset-dac93b6e291638a1",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://www.bullseyepistol.com/f2-4b.gif",
+        "https://www.bullseyepistol.com/f2-4b.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/chapter2.htm",
+        "parent_article_timestamp": "20250818163619",
+        "retrieval_url": "https://web.archive.org/web/20250820161010id_/http://www.bullseyepistol.com/f2-4b.gif",
+        "wayback_timestamp": "20250820161010"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/db/dbce47c3d1dd4e5a063a12f0a9224f3f4c5d51f8ee1e99786c084f2404e9bdf3",
+      "checksum": "dbce47c3d1dd4e5a063a12f0a9224f3f4c5d51f8ee1e99786c084f2404e9bdf3",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250817135515-boltface-5891ba2ad825eab7.jpg",
+      "id": "asset-dbce47c3d1dd4e5a",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "https://www.bullseyepistol.com/boltface.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/malfunction.htm",
+        "parent_article_timestamp": "20250817130421",
+        "retrieval_url": "https://web.archive.org/web/20250817135515id_/https://www.bullseyepistol.com/boltface.jpg",
+        "wayback_timestamp": "20250817135515"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/dc/dc8acfadacaad2c01345384bfbc04edda48136c51ca0fda726c7a918e7767808",
+      "checksum": "dc8acfadacaad2c01345384bfbc04edda48136c51ca0fda726c7a918e7767808",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202312/referenced_image/www.bullseyepistol.com/20231222021108-marvel-73cd5ad51dffd339.jpg",
+      "id": "asset-dc8acfadacaad2c0",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/marvel.jpg",
+        "https://www.bullseyepistol.com/marvel.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/equipmnt.htm",
+        "parent_article_timestamp": "20250109010726",
+        "retrieval_url": "https://web.archive.org/web/20231222021108id_/https://www.bullseyepistol.com/marvel.jpg",
+        "wayback_timestamp": "20231222021108"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/de/dee449d1de1d1b8caf99bdcfab2973ab8d835fcc09b0c6e6218d5a6409d4cd10",
+      "checksum": "dee449d1de1d1b8caf99bdcfab2973ab8d835fcc09b0c6e6218d5a6409d4cd10",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918024710-f1-1-f30f700efb28b78d.gif",
+      "id": "asset-dee449d1de1d1b8c",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/f1-1.gif",
+        "http://www.bullseyepistol.com:80/f1-1.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/chapter1.htm",
+        "parent_article_timestamp": "20100922092530",
+        "retrieval_url": "https://web.archive.org/web/20100918024710id_/http://bullseyepistol.com/f1-1.gif",
+        "wayback_timestamp": "20100918024710"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/de/dee708ce8f9189d9a1c08779964a3191be279b21efb4e19cdac35792b3c50ce6",
+      "checksum": "dee708ce8f9189d9a1c08779964a3191be279b21efb4e19cdac35792b3c50ce6",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250817130617-saami-80560827288380ee.jpg",
+      "id": "asset-dee708ce8f9189d9",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "https://www.bullseyepistol.com/saami.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/malfunction.htm",
+        "parent_article_timestamp": "20250817130421",
+        "retrieval_url": "https://web.archive.org/web/20250817130617id_/https://www.bullseyepistol.com/saami.jpg",
+        "wayback_timestamp": "20250817130617"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/e0/e09a23ea739266c8bf45a3db066b4e87c01616cc9f5d5131afd0673273405f2f",
+      "checksum": "e09a23ea739266c8bf45a3db066b4e87c01616cc9f5d5131afd0673273405f2f",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202108/referenced_image/bullseyepistol.com/20210818005705-sig-6affbb25357e8fef.gif",
+      "id": "asset-e09a23ea739266c8",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/sig.gif",
+        "https://bullseyepistol.com/sig.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/advertise.htm",
+        "parent_article_timestamp": "20230329142539",
+        "retrieval_url": "https://web.archive.org/web/20210818005705id_/https://bullseyepistol.com/sig.gif",
+        "wayback_timestamp": "20210818005705"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/e2/e2c2e1173ecffdd5e44f74503f4c6421496568221d0e0a5de38e151ea7dc75e7",
+      "checksum": "e2c2e1173ecffdd5e44f74503f4c6421496568221d0e0a5de38e151ea7dc75e7",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202312/referenced_image/www.bullseyepistol.com/20231222021110-organize-7dab78e6abcc5dac.jpg",
+      "id": "asset-e2c2e1173ecffdd5",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/organize.jpg",
+        "https://www.bullseyepistol.com/organize.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/equipmnt.htm",
+        "parent_article_timestamp": "20250109010726",
+        "retrieval_url": "https://web.archive.org/web/20231222021110id_/https://www.bullseyepistol.com/organize.jpg",
+        "wayback_timestamp": "20231222021110"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/e5/e59487d21855f62b1423bd7f8af69e01a667cc9158ad79d985e7334a6b708a94",
+      "checksum": "e59487d21855f62b1423bd7f8af69e01a667cc9158ad79d985e7334a6b708a94",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250817130809-goodhit2-fdbd03dd938b0622.jpg",
+      "id": "asset-e59487d21855f62b",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "https://www.bullseyepistol.com/goodhit2.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/malfunction.htm",
+        "parent_article_timestamp": "20250817130421",
+        "retrieval_url": "https://web.archive.org/web/20250817130809id_/https://www.bullseyepistol.com/goodhit2.jpg",
+        "wayback_timestamp": "20250817130809"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/e5/e5c70172193375e80dd6bb0b02caa3875a210f51a8f234b811ab8812d7c8203c",
+      "checksum": "e5c70172193375e80dd6bb0b02caa3875a210f51a8f234b811ab8812d7c8203c",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918000032-webmastr-57c831ca996e50aa.jpg",
+      "id": "asset-e5c70172193375e8",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/webmastr.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/why.htm",
+        "parent_article_timestamp": "20100917235906",
+        "retrieval_url": "https://web.archive.org/web/20100918000032id_/http://bullseyepistol.com/webmastr.jpg",
+        "wayback_timestamp": "20100918000032"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/e8/e81d61128c5ead0799dd0dd1107183d744d61835d77ee9053425fb4bd7e3627e",
+      "checksum": "e81d61128c5ead0799dd0dd1107183d744d61835d77ee9053425fb4bd7e3627e",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202012/referenced_image/www.bullseyepistol.com/20201209043237-lla10-c145902f51b21b77.jpg",
+      "id": "asset-e81d61128c5ead07",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/lla10.jpg",
+        "http://www.bullseyepistol.com/lla10.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/cstomgun.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20201209043237id_/http://www.bullseyepistol.com/lla10.jpg",
+        "wayback_timestamp": "20201209043237"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/ea/eae2698cc1cc97a8086aa9a32f7832b23cb8955f4af5f7f479f9887b1f35b5b5",
+      "checksum": "eae2698cc1cc97a8086aa9a32f7832b23cb8955f4af5f7f479f9887b1f35b5b5",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918011601-bullguns-16718ef66195df4f.gif",
+      "id": "asset-eae2698cc1cc97a8",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/bullguns.gif",
+        "http://www.bullseyepistol.com:80/bullguns.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/bullseye.htm",
+        "parent_article_timestamp": "20100929015147",
+        "retrieval_url": "https://web.archive.org/web/20100918011601id_/http://bullseyepistol.com/bullguns.gif",
+        "wayback_timestamp": "20100918011601"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/eb/eb1c847b28665f29a342e4972181fffd73a2621f3c402671f3c2942076b9a787",
+      "checksum": "eb1c847b28665f29a342e4972181fffd73a2621f3c402671f3c2942076b9a787",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202404/referenced_image/www.bullseyepistol.com/20240406030757-tools-6ee2a9065db7cac2.jpg",
+      "id": "asset-eb1c847b28665f29",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "https://www.bullseyepistol.com/tools.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/getinto.htm",
+        "parent_article_timestamp": "20250803081017",
+        "retrieval_url": "https://web.archive.org/web/20240406030757id_/https://www.bullseyepistol.com/tools.jpg",
+        "wayback_timestamp": "20240406030757"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/ec/eccf232a11e4f2443905b20561c912832d8afb201197b3e4856c2d2b7721cecf",
+      "checksum": "eccf232a11e4f2443905b20561c912832d8afb201197b3e4856c2d2b7721cecf",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250817130913-rod-7d2c222700185d83.jpg",
+      "id": "asset-eccf232a11e4f244",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "https://www.bullseyepistol.com/rod.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/malfunction.htm",
+        "parent_article_timestamp": "20250817130421",
+        "retrieval_url": "https://web.archive.org/web/20250817130913id_/https://www.bullseyepistol.com/rod.jpg",
+        "wayback_timestamp": "20250817130913"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/ed/ed57faeabc9f5b1ba80dde03e48b4abaf43347afcd35e8c56a84c3a8b822c5e5",
+      "checksum": "ed57faeabc9f5b1ba80dde03e48b4abaf43347afcd35e8c56a84c3a8b822c5e5",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202312/referenced_image/www.bullseyepistol.com/20231222021111-lesbaer-ee61e3403b91f2d2.jpg",
+      "id": "asset-ed57faeabc9f5b1b",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://www.bullseyepistol.com/lesbaer.jpg",
+        "https://www.bullseyepistol.com/lesbaer.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/equipmnt.htm",
+        "parent_article_timestamp": "20250109010726",
+        "retrieval_url": "https://web.archive.org/web/20231222021111id_/https://www.bullseyepistol.com/lesbaer.jpg",
+        "wayback_timestamp": "20231222021111"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/ee/ee621b40e7585872ae4b200d87160dd3968b0e20173e844900b6257d361f1bb2",
+      "checksum": "ee621b40e7585872ae4b200d87160dd3968b0e20173e844900b6257d361f1bb2",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202203/referenced_image/bullseyepistol.com/20220310213151-perry2-28cd93779131ee90.jpg",
+      "id": "asset-ee621b40e7585872",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/perry2.jpg",
+        "https://www.bullseyepistol.com/perry2.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/pertriv.htm",
+        "parent_article_timestamp": "20250102145217",
+        "retrieval_url": "https://web.archive.org/web/20220310213151id_/http://bullseyepistol.com/perry2.jpg",
+        "wayback_timestamp": "20220310213151"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/ef/efc272e7db8d90a9e048fd173127a549745dc3473273c72abb1548d396fcb700",
+      "checksum": "efc272e7db8d90a9e048fd173127a549745dc3473273c72abb1548d396fcb700",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202301/referenced_image/www.bullseyepistol.com/20230117164144-britest-b827917dea8a7a83.gif",
+      "id": "asset-efc272e7db8d90a9",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/britest.gif",
+        "https://www.bullseyepistol.com/britest.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/dotsight.htm",
+        "parent_article_timestamp": "20230329142545",
+        "retrieval_url": "https://web.archive.org/web/20230117164144id_/https://www.bullseyepistol.com/britest.gif",
+        "wayback_timestamp": "20230117164144"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/f0/f039f3295ede0b9398e9d5041f39c86702b2bc92d56acd333b05f7306225264b",
+      "checksum": "f039f3295ede0b9398e9d5041f39c86702b2bc92d56acd333b05f7306225264b",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202303/referenced_image/www.bullseyepistol.com/20230316162619-askins2-0d33f816bf438541.jpg",
+      "id": "asset-f039f3295ede0b93",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/askins2.jpg",
+        "https://www.bullseyepistol.com/askins2.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/askins.htm",
+        "parent_article_timestamp": "20230329142547",
+        "retrieval_url": "https://web.archive.org/web/20230316162619id_/https://www.bullseyepistol.com/askins2.jpg",
+        "wayback_timestamp": "20230316162619"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/f1/f12cf09a7a84c79ebbbf026275b4df180aac9b86e0ba73316759406fe47c4683",
+      "checksum": "f12cf09a7a84c79ebbbf026275b4df180aac9b86e0ba73316759406fe47c4683",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202201/referenced_image/bullseyepistol.com/20220118192052-b6-4da429cd2a781a10.jpg",
+      "id": "asset-f12cf09a7a84c79e",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/b6.jpg",
+        "https://www.bullseyepistol.com/b6.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/zenread.htm",
+        "parent_article_timestamp": "20250102144629",
+        "retrieval_url": "https://web.archive.org/web/20220118192052id_/http://bullseyepistol.com/b6.jpg",
+        "wayback_timestamp": "20220118192052"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/f2/f269a83cb7240a0f96079259c19e5dbcd8f6d9c09addbc0153488b8b72f0603c",
+      "checksum": "f269a83cb7240a0f96079259c19e5dbcd8f6d9c09addbc0153488b8b72f0603c",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250822224239-toohigh-42d1c7cd44db59bb.jpg",
+      "id": "asset-f269a83cb7240a0f",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "https://www.bullseyepistol.com/toohigh.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "https://www.bullseyepistol.com/malfunction.htm",
+        "parent_article_timestamp": "20250817130421",
+        "retrieval_url": "https://web.archive.org/web/20250822224239id_/https://www.bullseyepistol.com/toohigh.jpg",
+        "wayback_timestamp": "20250822224239"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/f4/f404f02f31df9bdbf166722287d4a5d4241e54141dbb28803e4478d5ddfd807d",
+      "checksum": "f404f02f31df9bdbf166722287d4a5d4241e54141dbb28803e4478d5ddfd807d",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/www.bullseyepistol.com/20250823164121-pushups-09b7984e39b9b086.gif",
+      "id": "asset-f404f02f31df9bdb",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://www.bullseyepistol.com/pushups.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/stamina.htm",
+        "parent_article_timestamp": "20250823163800",
+        "retrieval_url": "https://web.archive.org/web/20250823164121id_/http://www.bullseyepistol.com/pushups.gif",
+        "wayback_timestamp": "20250823164121"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/f5/f515cac2b4b741c67930ef3c5e4272d0dbe45f03c927e31c46377c341458a4a1",
+      "checksum": "f515cac2b4b741c67930ef3c5e4272d0dbe45f03c927e31c46377c341458a4a1",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202508/referenced_image/bullseyepistol.com/20250815123630-zingrip2-70efb6220bcd94fd.jpg",
+      "id": "asset-f515cac2b4b741c6",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/zingrip2.jpg",
+        "http://www.bullseyepistol.com/zingrip2.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com/zins.htm",
+        "parent_article_timestamp": "20250818162844",
+        "retrieval_url": "https://web.archive.org/web/20250815123630id_/http://bullseyepistol.com/zingrip2.jpg",
+        "wayback_timestamp": "20250815123630"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/f5/f56a89e6e7b7a69e2320d5f46348325b9e7d5fea278dd6dbd87bf1f9e5011073",
+      "checksum": "f56a89e6e7b7a69e2320d5f46348325b9e7d5fea278dd6dbd87bf1f9e5011073",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918013844-perry5-fda0afd9782053ce.jpg",
+      "id": "asset-f56a89e6e7b7a69e",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/perry5.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/perryfaq.htm",
+        "parent_article_timestamp": "20100918013726",
+        "retrieval_url": "https://web.archive.org/web/20100918013844id_/http://bullseyepistol.com/perry5.jpg",
+        "wayback_timestamp": "20100918013844"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/f6/f6ac530b51682532818716fb96b1e7eacc27c65e7c8dd5d9580f97205523ab37",
+      "checksum": "f6ac530b51682532818716fb96b1e7eacc27c65e7c8dd5d9580f97205523ab37",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918024607-f1-4b-2da5e965723a4f6b.jpg",
+      "id": "asset-f6ac530b51682532",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/f1-4b.jpg",
+        "http://www.bullseyepistol.com:80/f1-4b.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/chapter1.htm",
+        "parent_article_timestamp": "20100922092530",
+        "retrieval_url": "https://web.archive.org/web/20100918024607id_/http://bullseyepistol.com/f1-4b.jpg",
+        "wayback_timestamp": "20100918024607"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/f6/f6ee2ae43a015901f47bd5340214f6f830606db5fbdea4550af8c0286a3c46ea",
+      "checksum": "f6ee2ae43a015901f47bd5340214f6f830606db5fbdea4550af8c0286a3c46ea",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/202012/referenced_image/www.bullseyepistol.com/20201209043239-issfcover-d476e8b5cd3d58b7.jpg",
+      "id": "asset-f6ee2ae43a015901",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/issfcover.jpg",
+        "http://www.bullseyepistol.com/issfcover.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/issfguide.htm",
+        "parent_article_timestamp": "20230329142547",
+        "retrieval_url": "https://web.archive.org/web/20201209043239id_/http://www.bullseyepistol.com/issfcover.jpg",
+        "wayback_timestamp": "20201209043239"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/fa/fad4c74128b3dac5c802047a02820843fb12cbbb3aab731412d93653b52f560b",
+      "checksum": "fad4c74128b3dac5c802047a02820843fb12cbbb3aab731412d93653b52f560b",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918024746-f1-5-685b3820f0ec124a.gif",
+      "id": "asset-fad4c74128b3dac5",
+      "media_type": "image/gif",
+      "original_urls": [
+        "http://bullseyepistol.com/f1-5.gif",
+        "http://www.bullseyepistol.com:80/f1-5.gif"
+      ],
+      "provenance": {
+        "parent_article_original": "http://www.bullseyepistol.com:80/chapter1.htm",
+        "parent_article_timestamp": "20100922092530",
+        "retrieval_url": "https://web.archive.org/web/20100918024746id_/http://bullseyepistol.com/f1-5.gif",
+        "wayback_timestamp": "20100918024746"
+      },
+      "status": "recovered"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/fe/fe8577ec54d2324db69faf8144c109e8cfdc324a604f23799fb607fbc52d1346",
+      "checksum": "fe8577ec54d2324db69faf8144c109e8cfdc324a604f23799fb607fbc52d1346",
+      "file_path": "archive/raw/wayback/files/20260522T185649Z/201009/referenced_image/bullseyepistol.com/20100918015520-smamu2-103cc59e03361f40.jpg",
+      "id": "asset-fe8577ec54d2324d",
+      "media_type": "image/jpeg",
+      "original_urls": [
+        "http://bullseyepistol.com/smamu2.jpg"
+      ],
+      "provenance": {
+        "parent_article_original": "http://bullseyepistol.com/amuprfil.htm",
+        "parent_article_timestamp": "20100918015504",
+        "retrieval_url": "https://web.archive.org/web/20100918015520id_/http://bullseyepistol.com/smamu2.jpg",
+        "wayback_timestamp": "20100918015520"
+      },
+      "status": "recovered"
+    }
+  ],
+  "count": 165
+}

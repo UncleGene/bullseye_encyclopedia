@@ -1,0 +1,44 @@
+{
+  "assets": [],
+  "body": {
+    "format": "html",
+    "html": "<font face=\"Arial\"><b>7. COURSES OF\nFIRE</b></font><br>\n<br>\nThe following courses and types of fire are most commonly found\nin NRA sanctioned pistol competition, fired on the targets\ndescribed in Section 4. See Section 8 for time allowances. Rule\n17.5 for courses of fire for which National Records are\nrecognized, and Rule 19.4 for courses of fire used for\nclassification.<br>\n<br>\nOther courses of fire, other time limits, or the use of other\ntargets, may be scheduled by sponsors provided the conditions are\nclearly stated in the program.<br>\n<br>\n<b>National Match Course </b></p>\n\n<table border=\"0\">\n<tr>\n<td>Stage</td>\n<td>Range</td>\n<td>Time</td>\n<td>Strings</td>\n<td>Target</td>\n</tr>\n<tr>\n<td>Slow</td>\n<td>50 yds.</td>\n<td>10 shots/10 min.</td>\n<td>1</td>\n<td>B-6</td>\n</tr>\n<tr>\n<td>Timed</td>\n<td>25 yds.</td>\n<td>5 shots/20 sec.</td>\n<td>2</td>\n<td>B-8</td>\n</tr>\n<tr>\n<td>Rapid</td>\n<td>25 yds.</td>\n<td>5 shots/10 sec.</td>\n<td>2</td>\n<td>B-8</td>\n</tr>\n</table>\n\n<p><br>\n<b>NRA Short Course</b></p>\n\n<table border=\"0\">\n<tr>\n<td>Stage</td>\n<td>Range</td>\n<td>Time</td>\n<td>Strings</td>\n<td>Target</td>\n</tr>\n<tr>\n<td>Slow</td>\n<td>25 yds.</td>\n<td>10 shots/10 min.</td>\n<td>1</td>\n<td>B-16</td>\n</tr>\n<tr>\n<td>Timed</td>\n<td>25 yds.</td>\n<td>5 shots/20 sec.</td>\n<td>2</td>\n<td>B-8</td>\n</tr>\n<tr>\n<td>Rapid</td>\n<td>25 yds.</td>\n<td>5 shots/10 sec.</td>\n<td>2</td>\n<td>B-8</td>\n</tr>\n</table>\n\n<p><br>\n<b>Gallery Course</b></p>\n\n<table border=\"0\">\n<tr>\n<td>Stage</td>\n<td>Range</td>\n<td>Time</td>\n<td>Strings</td>\n<td>Target</td>\n</tr>\n<tr>\n<td>Slow</td>\n<td>50 ft.</td>\n<td>10 shots/10 min.</td>\n<td>1</td>\n<td>B-2</td>\n</tr>\n<tr>\n<td>Timed</td>\n<td>50 ft.</td>\n<td>5 shots/20 sec.</td>\n<td>2</td>\n<td>B-3</td>\n</tr>\n<tr>\n<td>Rapid</td>\n<td>50 ft.</td>\n<td>5 shots/10 sec.</td>\n<td>2</td>\n<td>B-3</td>\n</tr>\n</table>\n\n<p align=\"left\"><br>\n<b>Single Stage Course</b><br>\n<br>\nAny number of strings (10 shot at 50 yards slow fire, or 5-shot\nat timed or rapid tire) fired at a single distance as specified\nin the conditions of the match and in the regular time allowed\nfor that type of firing.<br>\n<br>",
+    "text": "7. COURSES OF\nFIRE\nThe following courses and types of fire are most commonly found\nin NRA sanctioned pistol competition, fired on the targets\ndescribed in Section 4. See Section 8 for time allowances. Rule\n17.5 for courses of fire for which National Records are\nrecognized, and Rule 19.4 for courses of fire used for\nclassification.\nOther courses of fire, other time limits, or the use of other\ntargets, may be scheduled by sponsors provided the conditions are\nclearly stated in the program.\nNational Match Course\nStage\nRange\nTime\nStrings\nTarget\nSlow\n50 yds.\n10 shots/10 min.\n1\nB-6\nTimed\n25 yds.\n5 shots/20 sec.\n2\nB-8\nRapid\n25 yds.\n5 shots/10 sec.\n2\nB-8\nNRA Short Course\nStage\nRange\nTime\nStrings\nTarget\nSlow\n25 yds.\n10 shots/10 min.\n1\nB-16\nTimed\n25 yds.\n5 shots/20 sec.\n2\nB-8\nRapid\n25 yds.\n5 shots/10 sec.\n2\nB-8\nGallery Course\nStage\nRange\nTime\nStrings\nTarget\nSlow\n50 ft.\n10 shots/10 min.\n1\nB-2\nTimed\n50 ft.\n5 shots/20 sec.\n2\nB-3\nRapid\n50 ft.\n5 shots/10 sec.\n2\nB-3\nSingle Stage Course\nAny number of strings (10 shot at 50 yards slow fire, or 5-shot\nat timed or rapid tire) fired at a single distance as specified\nin the conditions of the match and in the regular time allowed\nfor that type of firing."
+  },
+  "byline": "NRA Conventional Pistol Rulebook",
+  "context": {
+    "html_title": "Encyclopedia of Bullseye Pistol",
+    "parent_url": "bullseye.htm"
+  },
+  "id": "rulebook7",
+  "images": [],
+  "links": [],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/rulebook7.htm"
+  ],
+  "preferred_original_url": "http://bullseyepistol.com/rulebook7.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 1,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "4a4f8e40a8292db1",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201009/article_candidate/bullseyepistol.com/20100918023638-rulebook7-cbccd7fac79833df.htm",
+        "original_url": "http://bullseyepistol.com/rulebook7.htm",
+        "sha256": "bee37baaa7bec73edcc3e33cae46d0bde4fc784834ea57a9cc1e79522403e35a",
+        "wayback_timestamp": "20100918023638"
+      }
+    ],
+    "selected_capture_id": "4a4f8e40a8292db1"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "7. Courses of Fire",
+  "updated_at": null
+}

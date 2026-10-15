@@ -1,0 +1,100 @@
+{
+  "assets": [],
+  "body": {
+    "format": "html",
+    "html": "<p><font size=\"4\" face=\"Arial\"><strong>Tournament</strong></font><font\nsize=\"3\" face=\"Arial\"><sup><strong></strong></sup></font><font\nsize=\"4\" face=\"Arial\"><strong> - Competition Administration\nProgram</strong></font><br>\nThe culmination of seven years of research and development, this\nprogram will handle all administrative aspects of a Pistol or\nRifle competition! You may explore its amazing versatility,\ntime-saving features and letter-perfect report generation at the\nOfficial Tournament Website. You gotta see it to believe it!<font\nsize=\"2\"><br>\n</font><a href=\"http://tournament.bullseyepistol.com\">Take me to\nthe Official Tournament Website</a>!</p>\n\n<p><font size=\"4\" face=\"Arial\"><strong>Score Cards for a 2700\nPistol Tournament<br>\n</strong></font>All you need is legal-sized paper and you can\nprint out these score cards, 4 cards to the page. Bring the three\nprintouts to your local copy or print house and have them printed\non colored paper or cardstock and cut and you will be running one\nclassy match.<br>\n<a href=\"scorecards.pdf\">Download the Tournament Score Cards</a></p>\n\n<p><font size=\"4\" face=\"Arial\"><strong>Range Officer's Outline\n&amp; Checklist for a 2700<br>\n</strong></font>Having a simple, yet complete outline of the\nprogram for a 2700 makes calling a match a pleasure, and helps\nprevent embarrassing mistakes that frustrate the competitors.\nThis MS Word Document serves as both an outline and a checklist\nfor your range officer.<br>\n<a href=\"checklist2700.zip\">Download the Range Officer's\nOutline/Checklist</a> </p>\n\n<p><font size=\"4\" face=\"Arial\"><strong>Mechanical Range Officer -\nMP3 Files<br>\n</strong></font>While this is not an option for Sanctioned 2700\nCompetitions, less formal practice sessions and gallery league\ncompetitions may be controlled with mechanical range commands.\nThese two .MP3 Audio files contain the commands for operating\neither a string of timed or rapid fire, respectively.<br>\nDownload the <a href=\"timed.mp3\">Timed Fire MP3</a>,or\nthe <a href=\"rapid.mp3\">Rapid\nFire MP3</a> </p>\n\n<p><font size=\"4\" face=\"Arial\"><strong>Sample By-Laws for an\nNRA-Sanctioned League<br>\n</strong></font>NRA Sanctioned Leagues make up a large percentage\nof the participation of competitive shooters. They are tremendous\nfor introducing new shooters to the sport and offering\ncompetitive practice during the off-season. However, setting up\nteams and administration for a Sanctioned League can be quite a\nchore. This MS Word Document contains a recent edition of the\nby-laws of a 55 year-old League that can well serve as a\nfoundation for your own League's operating guidelines.<br>\n<a href=\"imbylaws.htm\">Download Sample NRA-Sanctioned League\nBy-Laws</a><br></p>",
+    "text": "Tournament - Competition Administration\nProgram\nThe culmination of seven years of research and development, this\nprogram will handle all administrative aspects of a Pistol or\nRifle competition! You may explore its amazing versatility,\ntime-saving features and letter-perfect report generation at the\nOfficial Tournament Website. You gotta see it to believe it!\nTake me to\nthe Official Tournament Website!\nScore Cards for a 2700\nPistol Tournament\nAll you need is legal-sized paper and you can\nprint out these score cards, 4 cards to the page. Bring the three\nprintouts to your local copy or print house and have them printed\non colored paper or cardstock and cut and you will be running one\nclassy match.\nDownload the Tournament Score Cards\nRange Officer's Outline\n& Checklist for a 2700\nHaving a simple, yet complete outline of the\nprogram for a 2700 makes calling a match a pleasure, and helps\nprevent embarrassing mistakes that frustrate the competitors.\nThis MS Word Document serves as both an outline and a checklist\nfor your range officer.\nDownload the Range Officer's\nOutline/Checklist\nMechanical Range Officer -\nMP3 Files\nWhile this is not an option for Sanctioned 2700\nCompetitions, less formal practice sessions and gallery league\ncompetitions may be controlled with mechanical range commands.\nThese two .MP3 Audio files contain the commands for operating\neither a string of timed or rapid fire, respectively.\nDownload the Timed Fire MP3,or\nthe Rapid\nFire MP3\nSample By-Laws for an\nNRA-Sanctioned League\nNRA Sanctioned Leagues make up a large percentage\nof the participation of competitive shooters. They are tremendous\nfor introducing new shooters to the sport and offering\ncompetitive practice during the off-season. However, setting up\nteams and administration for a Sanctioned League can be quite a\nchore. This MS Word Document contains a recent edition of the\nby-laws of a 55 year-old League that can well serve as a\nfoundation for your own League's operating guidelines.\nDownload Sample NRA-Sanctioned League\nBy-Laws"
+  },
+  "byline": "For Match Directors and Stat Officers",
+  "context": {
+    "html_title": "Encyclopedia of Bullseye Pistol",
+    "parent_url": "rulebook.htm"
+  },
+  "id": "matchdir",
+  "images": [],
+  "links": [
+    {
+      "href": "http://tournament.bullseyepistol.com",
+      "resolved_url": "http://tournament.bullseyepistol.com",
+      "text": "Take me to the Official Tournament Website"
+    },
+    {
+      "href": "scorecards.pdf",
+      "resolved_url": "http://bullseyepistol.com/scorecards.pdf",
+      "text": "Download the Tournament Score Cards"
+    },
+    {
+      "href": "checklist2700.zip",
+      "resolved_url": "http://bullseyepistol.com/checklist2700.zip",
+      "text": "Download the Range Officer's Outline/Checklist"
+    },
+    {
+      "href": "timed.mp3",
+      "resolved_url": "http://bullseyepistol.com/timed.mp3",
+      "text": "Timed Fire MP3"
+    },
+    {
+      "href": "rapid.mp3",
+      "resolved_url": "http://bullseyepistol.com/rapid.mp3",
+      "text": "Rapid Fire MP3"
+    },
+    {
+      "href": "imbylaws.htm",
+      "resolved_url": "http://bullseyepistol.com/imbylaws.htm",
+      "text": "Download Sample NRA-Sanctioned League By-Laws"
+    }
+  ],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/matchdir.htm",
+    "http://bullseyepistol.com:80/matchdir.htm"
+  ],
+  "preferred_original_url": "http://bullseyepistol.com/matchdir.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 4,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "1d6d095bcc69a471",
+        "local_path": "archive/raw/wayback/files/20260522T141108Z/201009/article_candidate/bullseyepistol.com/20100918020012-matchdir-101c3667faafba1e.htm",
+        "original_url": "http://bullseyepistol.com/matchdir.htm",
+        "sha256": "24c716de825daf156d8eba003fa13605e8f8d701ddb6e53850865e2dc27417ee",
+        "wayback_timestamp": "20100918020012"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "7245fbd54a61a52e",
+        "local_path": "archive/raw/wayback/files/20260522T141108Z/201502/article_candidate/bullseyepistol.com/20150214002740-matchdir-bac9ebf6cf7f2ca7.htm",
+        "original_url": "http://bullseyepistol.com/matchdir.htm",
+        "sha256": "9e8b8656f6f705a5634f4e7705158f24bd0e0dd4911113f0e43c3fc0d1815274",
+        "wayback_timestamp": "20150214002740"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "ce3c08311c5ec98b",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201502/article_candidate/bullseyepistol.com_80/20150221103640-matchdir-ea13644dcf927853.htm",
+        "original_url": "http://bullseyepistol.com:80/matchdir.htm",
+        "sha256": "9e8b8656f6f705a5634f4e7705158f24bd0e0dd4911113f0e43c3fc0d1815274",
+        "wayback_timestamp": "20150221103640"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "90d8beda8791d60c",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/202303/article_candidate/bullseyepistol.com/20230329142547-matchdir-8ca5decdad8a8824.htm",
+        "original_url": "http://bullseyepistol.com/matchdir.htm",
+        "sha256": "9e8b8656f6f705a5634f4e7705158f24bd0e0dd4911113f0e43c3fc0d1815274",
+        "wayback_timestamp": "20230329142547"
+      }
+    ],
+    "selected_capture_id": "90d8beda8791d60c"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "Administrative Tools",
+  "updated_at": null
+}

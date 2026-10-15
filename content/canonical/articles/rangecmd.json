@@ -1,0 +1,89 @@
+{
+  "assets": [],
+  "body": {
+    "format": "html",
+    "html": "<p align=\"left\">I think everyone would agree that the most ideal\npractice environment would be actual match conditions.\nUnfortunately, most of us don't have a buddy willing to call\nrange commands and turn targets for us whenever we feel like\ngoing to the range to practice! The second best thing is a\ndedicated timer, an effective &quot;range-officer-in-a-box,&quot; like the Personal Linesman. And although you might not\nhave the cash for one of these, you probably do have a cassette\ntape player, a portable CD player, or even cooler, a portable\n.MP3 file player! The .MP3 audio files of the Range Commands will\nallow you to use your existing gadget as that coveted dedicated\ntimer.<br>\n<br>\nThe below &quot;download&quot; links are to the two audio (.MP3) files, each containing the range commands for the particular\nstage of sustained fire. Once &quot;downloaded,&quot; you will have\ntwo files, one a set of\ncommands for a string of the <i>timed fire</i> stage, and the\nother for <i>rapid fire</i>. Once on your computer, you have several\noptions. You may:</p>\n\n<ol>\n    <li><p align=\"left\">Burn them onto a CD that you can play on\n        your portable player.</p>\n    </li>\n    <li><p align=\"left\">Transfer them electronically into a\n        portable .MP3 player. </p>\n    </li>\n    <li><p align=\"left\">Play the two .MP3 files and record them\n        with an analog cassette tape recorder.</p>\n    </li>\n</ol>\n\n<p align=\"center\"><font color=\"#000000\" size=\"4\" face=\"Arial\"><strong><br>\nDownload the </strong></font><a href=\"timed.mp3\"><font\nsize=\"4\" face=\"Arial\"><strong>Timed Fire MP3</strong></font></a>,\n<font size=\"4\" face=\"Arial\"><strong>or the</strong></font> <a\nhref=\"rapid.mp3\"><font size=\"4\" face=\"Arial\"><strong>Rapid\nFire MP3</strong></font></a><br><br>\n</p>",
+    "text": "I think everyone would agree that the most ideal\npractice environment would be actual match conditions.\nUnfortunately, most of us don't have a buddy willing to call\nrange commands and turn targets for us whenever we feel like\ngoing to the range to practice! The second best thing is a\ndedicated timer, an effective \"range-officer-in-a-box,\" like the Personal Linesman. And although you might not\nhave the cash for one of these, you probably do have a cassette\ntape player, a portable CD player, or even cooler, a portable\n.MP3 file player! The .MP3 audio files of the Range Commands will\nallow you to use your existing gadget as that coveted dedicated\ntimer.\nThe below \"download\" links are to the two audio (.MP3) files, each containing the range commands for the particular\nstage of sustained fire. Once \"downloaded,\" you will have\ntwo files, one a set of\ncommands for a string of the timed fire stage, and the\nother for rapid fire. Once on your computer, you have several\noptions. You may:\nBurn them onto a CD that you can play on\nyour portable player.\nTransfer them electronically into a\nportable .MP3 player.\nPlay the two .MP3 files and record them\nwith an analog cassette tape recorder.\nDownload the Timed Fire MP3,\nor the Rapid\nFire MP3"
+  },
+  "byline": "Bring a MP3, CD or Tape Player to the Range for Practice",
+  "context": {
+    "html_title": "Encyclopedia of Bullseye Pistol",
+    "parent_url": "training.htm"
+  },
+  "id": "rangecmd",
+  "images": [],
+  "links": [
+    {
+      "href": "timed.mp3",
+      "resolved_url": "https://www.bullseyepistol.com/timed.mp3",
+      "text": "Timed Fire MP3"
+    },
+    {
+      "href": "rapid.mp3",
+      "resolved_url": "https://www.bullseyepistol.com/rapid.mp3",
+      "text": "Rapid Fire MP3"
+    }
+  ],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/rangecmd.htm",
+    "http://bullseyepistol.com:80/rangecmd.htm",
+    "https://www.bullseyepistol.com/rangecmd.htm"
+  ],
+  "preferred_original_url": "https://www.bullseyepistol.com/rangecmd.htm",
+  "provenance": {
+    "body_variant_count": 2,
+    "capture_count": 5,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "39f6f53a1572ecf5",
+        "local_path": "archive/raw/wayback/files/20260522T142631Z/201009/article_candidate/bullseyepistol.com/20100918001048-rangecmd-028b391892a07341.htm",
+        "original_url": "http://bullseyepistol.com/rangecmd.htm",
+        "sha256": "f0466147b784eaa0042589a7ff8801d5907026cf0a3a205f7481be3b2c430ab4",
+        "wayback_timestamp": "20100918001048"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "2de7d2493cbeb6b4",
+        "local_path": "archive/raw/wayback/files/20260522T141108Z/201502/article_candidate/bullseyepistol.com_80/20150206002523-rangecmd-cfb09e46f677e173.htm",
+        "original_url": "http://bullseyepistol.com:80/rangecmd.htm",
+        "sha256": "b2400cf9c9a9790ee9f0071553d26dc59e6539e82d3966841581b59ab1dbf2c5",
+        "wayback_timestamp": "20150206002523"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "45b8848fc48a0f56",
+        "local_path": "archive/raw/wayback/files/20260522T141108Z/201502/article_candidate/bullseyepistol.com/20150214035453-rangecmd-72aa707ed9c2ef0b.htm",
+        "original_url": "http://bullseyepistol.com/rangecmd.htm",
+        "sha256": "b2400cf9c9a9790ee9f0071553d26dc59e6539e82d3966841581b59ab1dbf2c5",
+        "wayback_timestamp": "20150214035453"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "845f3e4fd3400cca",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/202303/article_candidate/bullseyepistol.com/20230329142547-rangecmd-5d31ec1d680ef578.htm",
+        "original_url": "http://bullseyepistol.com/rangecmd.htm",
+        "sha256": "b2400cf9c9a9790ee9f0071553d26dc59e6539e82d3966841581b59ab1dbf2c5",
+        "wayback_timestamp": "20230329142547"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "421c89cca80fdac2",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/202501/article_candidate/www.bullseyepistol.com/20250102145054-rangecmd-3fc6bd939c94454f.htm",
+        "original_url": "https://www.bullseyepistol.com/rangecmd.htm",
+        "sha256": "b2400cf9c9a9790ee9f0071553d26dc59e6539e82d3966841581b59ab1dbf2c5",
+        "wayback_timestamp": "20250102145054"
+      }
+    ],
+    "selected_capture_id": "421c89cca80fdac2"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "Studio-Recorded Range Commands as .MP3s",
+  "updated_at": null
+}

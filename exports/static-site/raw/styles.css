@@ -1,0 +1,21 @@
+:root { color-scheme: light; --ink:#1f2933; --muted:#5d6b78; --line:#d7dde3; --paper:#fbfbf8; --accent:#1f5f8b; }
+body { margin:0; font-family: Georgia, 'Times New Roman', serif; color:var(--ink); background:var(--paper); line-height:1.55; }
+a { color:var(--accent); }
+.site-header { border-bottom:1px solid var(--line); padding:14px 22px; display:flex; justify-content:space-between; gap:16px; align-items:center; font-family: Arial, sans-serif; background:#fff; position:sticky; top:0; }
+.brand { font-weight:700; text-decoration:none; color:var(--ink); }
+nav a { margin-left:14px; font-size:14px; }
+main { max-width:960px; margin:0 auto; padding:28px 22px 56px; }
+.article { max-width:760px; }
+.meta { color:var(--muted); font-family: Arial, sans-serif; font-size:14px; }
+.sections { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:22px; }
+.section { border-top:3px solid var(--accent); padding-top:10px; }
+.section h2 { font-family:Arial,sans-serif; font-size:18px; }
+.section li { margin:7px 0; }
+.subitem { padding-left:16px; }
+.subitem a::before { content:"↳ "; color:var(--muted); font-size:12px; }
+img { max-width:100%; height:auto; }
+pre, code { white-space:pre-wrap; }
+.browse-note { font-size:13px; margin:4px 0 8px; }
+.conf-medium { font-weight:normal; font-size:14px; color:var(--muted); }
+.missing-list { padding-left: 20px; }
+.missing-list li { margin: 10px 0; }

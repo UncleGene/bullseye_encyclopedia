@@ -1,0 +1,499 @@
+{
+  "external_unresolved_ref_count": 692,
+  "internal_unresolved_by_category": {
+    "hosting-template-artifact": 11,
+    "owner-file-candidate": 8,
+    "provider-artifact": 2,
+    "site-decoration": 6,
+    "unrecovered-article": 5,
+    "unrecovered-media": 1
+  },
+  "internal_unresolved_url_count": 33,
+  "internal_unresolved_urls": [
+    {
+      "category": "provider-artifact",
+      "normalized_url": "http://bullseyepistol.com/advertise1.php",
+      "pages": [
+        "articles/site-reference-general-index/advertise-and-support-this-tremendous-resource/index.html"
+      ],
+      "reason": "Dynamic PHP page; advertising or affiliate rotation, no archived content.",
+      "ref_count": 1,
+      "url": "http://bullseyepistol.com/advertise1.php"
+    },
+    {
+      "category": "provider-artifact",
+      "normalized_url": "http://bullseyepistol.com/advertise3.htm",
+      "pages": [
+        "shared/scripts/header1.js"
+      ],
+      "reason": "Advertising or affiliate page referenced by site chrome, not article content.",
+      "ref_count": 1,
+      "url": "http://bullseyepistol.com/advertise3.htm"
+    },
+    {
+      "category": "hosting-template-artifact",
+      "normalized_url": "http://bullseyepistol.com/generalappc/javascripts/mydomaincom/input-fields.js",
+      "pages": [
+        "pages/945ecf10693ad5cae76c2d8f13e34e66/index.html",
+        "pages/input-fields/index.html",
+        "pages/jquery-pngfix-pack/index.html",
+        "pages/screen7/index.html",
+        "pages/scripts/index.html",
+        "pages/superfish/index.html",
+        "pages/util-functions/index.html"
+      ],
+      "reason": "Leftover registrar-hosting template JavaScript, not Bullseye article content.",
+      "ref_count": 7,
+      "url": "http://www.bullseyepistol.com:80/generalAppC/javascripts/mydomaincom/input-fields.js"
+    },
+    {
+      "category": "hosting-template-artifact",
+      "normalized_url": "http://bullseyepistol.com/generalappc/javascripts/mydomaincom/jquery.pngfix.pack.js",
+      "pages": [
+        "pages/945ecf10693ad5cae76c2d8f13e34e66/index.html",
+        "pages/input-fields/index.html",
+        "pages/jquery-pngfix-pack/index.html",
+        "pages/screen7/index.html",
+        "pages/scripts/index.html",
+        "pages/superfish/index.html",
+        "pages/util-functions/index.html"
+      ],
+      "reason": "Leftover registrar-hosting template JavaScript, not Bullseye article content.",
+      "ref_count": 7,
+      "url": "http://www.bullseyepistol.com:80/generalAppC/javascripts/mydomaincom/jquery.pngFix.pack.js"
+    },
+    {
+      "category": "hosting-template-artifact",
+      "normalized_url": "http://bullseyepistol.com/generalappc/javascripts/mydomaincom/scripts.js",
+      "pages": [
+        "pages/945ecf10693ad5cae76c2d8f13e34e66/index.html",
+        "pages/input-fields/index.html",
+        "pages/jquery-pngfix-pack/index.html",
+        "pages/screen7/index.html",
+        "pages/scripts/index.html",
+        "pages/superfish/index.html",
+        "pages/util-functions/index.html"
+      ],
+      "reason": "Leftover registrar-hosting template JavaScript, not Bullseye article content.",
+      "ref_count": 7,
+      "url": "http://www.bullseyepistol.com:80/generalAppC/javascripts/mydomaincom/scripts.js"
+    },
+    {
+      "category": "hosting-template-artifact",
+      "normalized_url": "http://bullseyepistol.com/generalappc/javascripts/mydomaincom/superfish.js",
+      "pages": [
+        "pages/945ecf10693ad5cae76c2d8f13e34e66/index.html",
+        "pages/input-fields/index.html",
+        "pages/jquery-pngfix-pack/index.html",
+        "pages/screen7/index.html",
+        "pages/scripts/index.html",
+        "pages/superfish/index.html",
+        "pages/util-functions/index.html"
+      ],
+      "reason": "Leftover registrar-hosting template JavaScript, not Bullseye article content.",
+      "ref_count": 7,
+      "url": "http://www.bullseyepistol.com:80/generalAppC/javascripts/mydomaincom/superfish.js"
+    },
+    {
+      "category": "hosting-template-artifact",
+      "normalized_url": "http://bullseyepistol.com/generalappc/javascripts/mydomaincom/util-functions.js",
+      "pages": [
+        "pages/945ecf10693ad5cae76c2d8f13e34e66/index.html",
+        "pages/input-fields/index.html",
+        "pages/jquery-pngfix-pack/index.html",
+        "pages/screen7/index.html",
+        "pages/scripts/index.html",
+        "pages/superfish/index.html",
+        "pages/util-functions/index.html"
+      ],
+      "reason": "Leftover registrar-hosting template JavaScript, not Bullseye article content.",
+      "ref_count": 7,
+      "url": "http://www.bullseyepistol.com:80/generalAppC/javascripts/mydomaincom/util-functions.js"
+    },
+    {
+      "category": "hosting-template-artifact",
+      "normalized_url": "http://bullseyepistol.com/generalappc/scriptcat/945ecf10693ad5cae76c2d8f13e34e66.1",
+      "pages": [
+        "pages/945ecf10693ad5cae76c2d8f13e34e66/index.html",
+        "pages/input-fields/index.html",
+        "pages/jquery-pngfix-pack/index.html",
+        "pages/screen7/index.html",
+        "pages/scripts/index.html",
+        "pages/superfish/index.html",
+        "pages/util-functions/index.html"
+      ],
+      "reason": "Registrar-hosting template asset, not part of the recovered Bullseye content set.",
+      "ref_count": 7,
+      "url": "http://www.bullseyepistol.com:80/generalAppC/scriptcat/945ecf10693ad5cae76c2d8f13e34e66.1"
+    },
+    {
+      "category": "hosting-template-artifact",
+      "normalized_url": "http://bullseyepistol.com/tournamentz.htm",
+      "pages": [
+        "pages/tournament0/index.html"
+      ],
+      "reason": "Recovered as a MyDomain placeholder page rather than Bullseye content; pruned from the release-facing as-is build.",
+      "ref_count": 1,
+      "url": "http://www.bullseyepistol.com/tournamentz.htm"
+    },
+    {
+      "category": "hosting-template-artifact",
+      "normalized_url": "http://bullseyepistol.com/tyenter.gif",
+      "pages": [
+        "pages/tournament4/index.html"
+      ],
+      "reason": "Recovered as a MyDomain placeholder page rather than a real image asset; pruned from the release-facing as-is build.",
+      "ref_count": 1,
+      "url": "http://www.bullseyepistol.com/tyenter.gif"
+    },
+    {
+      "category": "hosting-template-artifact",
+      "normalized_url": "http://bullseyepistol.com/tyhelp.jpg",
+      "pages": [
+        "pages/tournamentk/index.html"
+      ],
+      "reason": "Recovered as a MyDomain placeholder page rather than a real image asset; pruned from the release-facing as-is build.",
+      "ref_count": 1,
+      "url": "http://www.bullseyepistol.com:80/tyhelp.jpg"
+    },
+    {
+      "category": "hosting-template-artifact",
+      "normalized_url": "http://bullseyepistol.com/tylewis.jpg",
+      "pages": [
+        "pages/tournamentk/index.html"
+      ],
+      "reason": "Recovered as a MyDomain placeholder page rather than a real image asset; pruned from the release-facing as-is build.",
+      "ref_count": 1,
+      "url": "http://www.bullseyepistol.com:80/tylewis.jpg"
+    },
+    {
+      "category": "hosting-template-artifact",
+      "normalized_url": "http://bullseyepistol.com/typix.gif",
+      "pages": [
+        "pages/tournament0/index.html"
+      ],
+      "reason": "Recovered as a MyDomain placeholder page rather than a real image asset; pruned from the release-facing as-is build.",
+      "ref_count": 1,
+      "url": "http://www.bullseyepistol.com/typix.gif"
+    },
+    {
+      "category": "owner-file-candidate",
+      "normalized_url": "http://bullseyepistol.com/handicap.exe",
+      "pages": [
+        "articles/il-mo-league/scorekeeping-software/index.html"
+      ],
+      "reason": "Windows executable for league handicap scoring; likely owner-supplied.",
+      "ref_count": 1,
+      "url": "http://bullseyepistol.com/Handicap.exe"
+    },
+    {
+      "category": "owner-file-candidate",
+      "normalized_url": "http://bullseyepistol.com/ilmoscorecard.pdf",
+      "pages": [
+        "articles/il-mo-league/league-forms/index.html"
+      ],
+      "reason": "Il-Mo league scorecard PDF; likely owner-supplied.",
+      "ref_count": 1,
+      "url": "http://bullseyepistol.com/ILMOScorecard.pdf"
+    },
+    {
+      "category": "owner-file-candidate",
+      "normalized_url": "http://bullseyepistol.com/midseasonscorecard.pdf",
+      "pages": [
+        "articles/il-mo-league/league-forms/index.html"
+      ],
+      "reason": "Il-Mo mid-season scorecard PDF; likely owner-supplied.",
+      "ref_count": 1,
+      "url": "http://bullseyepistol.com/MidSeasonScorecard.pdf"
+    },
+    {
+      "category": "owner-file-candidate",
+      "normalized_url": "http://bullseyepistol.com/newshooter.pdf",
+      "pages": [
+        "articles/il-mo-league/league-forms/index.html"
+      ],
+      "reason": "New shooter orientation PDF; likely owner-supplied.",
+      "ref_count": 1,
+      "url": "http://bullseyepistol.com/NewShooter.pdf"
+    },
+    {
+      "category": "owner-file-candidate",
+      "normalized_url": "http://bullseyepistol.com/piasaapp.pdf",
+      "pages": [
+        "pages/pi-g/index.html"
+      ],
+      "reason": "PIASA application PDF; likely owner-supplied.",
+      "ref_count": 1,
+      "url": "http://www.bullseyepistol.com:80/piasaapp.pdf"
+    },
+    {
+      "category": "owner-file-candidate",
+      "normalized_url": "http://bullseyepistol.com/pom2004.zip",
+      "pages": [
+        "articles/il-mo-league/scorekeeping-software/index.html"
+      ],
+      "reason": "League data archive; likely owner-supplied.",
+      "ref_count": 1,
+      "url": "http://bullseyepistol.com/POM2004.zip"
+    },
+    {
+      "category": "owner-file-candidate",
+      "normalized_url": "http://bullseyepistol.com/signupform.pdf",
+      "pages": [
+        "articles/il-mo-league/league-forms/index.html"
+      ],
+      "reason": "League signup form PDF; likely owner-supplied.",
+      "ref_count": 1,
+      "url": "http://bullseyepistol.com/SignupForm.pdf"
+    },
+    {
+      "category": "owner-file-candidate",
+      "normalized_url": "http://bullseyepistol.com/teamadmin2004.zip",
+      "pages": [
+        "articles/il-mo-league/scorekeeping-software/index.html"
+      ],
+      "reason": "Team administration archive; likely owner-supplied.",
+      "ref_count": 1,
+      "url": "http://bullseyepistol.com/TeamAdmin2004.zip"
+    },
+    {
+      "category": "site-decoration",
+      "normalized_url": "http://bullseyepistol.com/arpc.gif",
+      "pages": [
+        "pages/tournamenty/index.html"
+      ],
+      "reason": "Club-logo image used as page decoration or navigation, not article content.",
+      "ref_count": 1,
+      "url": "http://www.bullseyepistol.com:80/arpc.gif"
+    },
+    {
+      "category": "site-decoration",
+      "normalized_url": "http://bullseyepistol.com/canton.gif",
+      "pages": [
+        "pages/tournamenty/index.html"
+      ],
+      "reason": "Club-logo image used as page decoration or navigation, not article content.",
+      "ref_count": 1,
+      "url": "http://www.bullseyepistol.com:80/canton.gif"
+    },
+    {
+      "category": "site-decoration",
+      "normalized_url": "http://bullseyepistol.com/dbgc.gif",
+      "pages": [
+        "pages/tournamenty/index.html"
+      ],
+      "reason": "Club-logo image used as page decoration or navigation, not article content.",
+      "ref_count": 1,
+      "url": "http://www.bullseyepistol.com:80/dbgc.gif"
+    },
+    {
+      "category": "site-decoration",
+      "normalized_url": "http://bullseyepistol.com/delaware.gif",
+      "pages": [
+        "pages/tournamenty/index.html"
+      ],
+      "reason": "Club-logo image used as page decoration or navigation, not article content.",
+      "ref_count": 1,
+      "url": "http://www.bullseyepistol.com:80/delaware.gif"
+    },
+    {
+      "category": "site-decoration",
+      "normalized_url": "http://bullseyepistol.com/fadebar3.jpg",
+      "pages": [
+        "shared/scripts/header2.js",
+        "shared/scripts/header5.js"
+      ],
+      "reason": "Navigation fade-bar image; site chrome with no article value.",
+      "ref_count": 2,
+      "url": "http://bullseyepistol.com/fadebar3.jpg"
+    },
+    {
+      "category": "site-decoration",
+      "normalized_url": "http://bullseyepistol.com/wlgc.gif",
+      "pages": [
+        "pages/tournamenty/index.html"
+      ],
+      "reason": "Club-logo image used as page decoration or navigation, not article content.",
+      "ref_count": 1,
+      "url": "http://www.bullseyepistol.com:80/wlgc.gif"
+    },
+    {
+      "category": "unrecovered-media",
+      "normalized_url": "http://bullseyepistol.com/bubba.wav",
+      "pages": [
+        "pages/tournament0/index.html"
+      ],
+      "reason": "Standalone audio file referenced by tournament pages; not present in the selected captures.",
+      "ref_count": 1,
+      "url": "http://www.bullseyepistol.com/bubba.wav"
+    },
+    {
+      "category": "unrecovered-article",
+      "normalized_url": "http://bullseyepistol.com/chaptr10.htm",
+      "pages": [
+        "shared/scripts/header4.js"
+      ],
+      "reason": "Variant URL for a chapter article; content exists under a different recovered URL.",
+      "ref_count": 1,
+      "url": "http://bullseyepistol.com/chaptr10.htm"
+    },
+    {
+      "category": "unrecovered-article",
+      "normalized_url": "http://bullseyepistol.com/gilhebar.htm",
+      "pages": [
+        "shared/scripts/header4.js"
+      ],
+      "reason": "Linked content page not present in the selected baseline or overlay captures.",
+      "ref_count": 1,
+      "url": "http://bullseyepistol.com/gilhebar.htm"
+    },
+    {
+      "category": "unrecovered-article",
+      "normalized_url": "http://bullseyepistol.com/help.htm",
+      "pages": [
+        "pages/tournament0/index.html"
+      ],
+      "reason": "Help page linked by recovered content but not captured in the selected baseline.",
+      "ref_count": 1,
+      "url": "http://www.bullseyepistol.com/help.htm"
+    },
+    {
+      "category": "unrecovered-article",
+      "normalized_url": "http://bullseyepistol.com/perchamp.htm",
+      "pages": [
+        "shared/scripts/header4.js"
+      ],
+      "reason": "Likely Camp Perry championship page not present in the selected captures.",
+      "ref_count": 1,
+      "url": "http://bullseyepistol.com/perchamp.htm"
+    },
+    {
+      "category": "unrecovered-article",
+      "normalized_url": "http://bullseyepistol.com/statoffice.htm",
+      "pages": [
+        "shared/scripts/header4.js"
+      ],
+      "reason": "State office page linked by recovered content but not captured in the selected baseline.",
+      "ref_count": 1,
+      "url": "http://bullseyepistol.com/statoffice.htm"
+    }
+  ],
+  "rewrite_page_buckets": {
+    "external-only": 25,
+    "internal-only": 9,
+    "mixed": 10
+  },
+  "rewrite_page_count": 44,
+  "suppressed_by_category": {
+    "hosting-template-artifact": 1,
+    "owner-file-candidate": 8,
+    "provider-artifact": 2,
+    "site-decoration": 1,
+    "unrecovered-article": 5
+  },
+  "suppressed_internal_url_count": 17,
+  "suppressed_internal_urls": [
+    {
+      "category": "provider-artifact",
+      "normalized_url": "http://bullseyepistol.com/advertise1.php",
+      "reason": "Dynamic PHP page; advertising or affiliate rotation, no archived content.",
+      "url": "http://bullseyepistol.com/advertise1.php"
+    },
+    {
+      "category": "provider-artifact",
+      "normalized_url": "http://bullseyepistol.com/advertise3.htm",
+      "reason": "Advertising or affiliate page referenced by site chrome, not article content.",
+      "url": "http://bullseyepistol.com/advertise3.htm"
+    },
+    {
+      "category": "hosting-template-artifact",
+      "normalized_url": "http://bullseyepistol.com/tournamentz.htm",
+      "reason": "Recovered as a MyDomain placeholder page rather than Bullseye content; pruned from the release-facing as-is build.",
+      "url": "http://bullseyepistol.com/tournamentz.htm"
+    },
+    {
+      "category": "owner-file-candidate",
+      "normalized_url": "http://bullseyepistol.com/handicap.exe",
+      "reason": "Windows executable for league handicap scoring; likely owner-supplied.",
+      "url": "http://bullseyepistol.com/Handicap.exe"
+    },
+    {
+      "category": "owner-file-candidate",
+      "normalized_url": "http://bullseyepistol.com/ilmoscorecard.pdf",
+      "reason": "Il-Mo league scorecard PDF; likely owner-supplied.",
+      "url": "http://bullseyepistol.com/ILMOScorecard.pdf"
+    },
+    {
+      "category": "owner-file-candidate",
+      "normalized_url": "http://bullseyepistol.com/midseasonscorecard.pdf",
+      "reason": "Il-Mo mid-season scorecard PDF; likely owner-supplied.",
+      "url": "http://bullseyepistol.com/MidSeasonScorecard.pdf"
+    },
+    {
+      "category": "owner-file-candidate",
+      "normalized_url": "http://bullseyepistol.com/newshooter.pdf",
+      "reason": "New shooter orientation PDF; likely owner-supplied.",
+      "url": "http://bullseyepistol.com/NewShooter.pdf"
+    },
+    {
+      "category": "owner-file-candidate",
+      "normalized_url": "http://bullseyepistol.com/piasaapp.pdf",
+      "reason": "PIASA application PDF; likely owner-supplied.",
+      "url": "http://bullseyepistol.com/piasaapp.pdf"
+    },
+    {
+      "category": "owner-file-candidate",
+      "normalized_url": "http://bullseyepistol.com/pom2004.zip",
+      "reason": "League data archive; likely owner-supplied.",
+      "url": "http://bullseyepistol.com/POM2004.zip"
+    },
+    {
+      "category": "owner-file-candidate",
+      "normalized_url": "http://bullseyepistol.com/signupform.pdf",
+      "reason": "League signup form PDF; likely owner-supplied.",
+      "url": "http://bullseyepistol.com/SignupForm.pdf"
+    },
+    {
+      "category": "owner-file-candidate",
+      "normalized_url": "http://bullseyepistol.com/teamadmin2004.zip",
+      "reason": "Team administration archive; likely owner-supplied.",
+      "url": "http://bullseyepistol.com/TeamAdmin2004.zip"
+    },
+    {
+      "category": "site-decoration",
+      "normalized_url": "http://bullseyepistol.com/fadebar3.jpg",
+      "reason": "Navigation fade-bar image; site chrome with no article value.",
+      "url": "http://bullseyepistol.com/fadebar3.jpg"
+    },
+    {
+      "category": "unrecovered-article",
+      "normalized_url": "http://bullseyepistol.com/chaptr10.htm",
+      "reason": "Variant URL for a chapter article; content exists under a different recovered URL.",
+      "url": "http://bullseyepistol.com/chaptr10.htm"
+    },
+    {
+      "category": "unrecovered-article",
+      "normalized_url": "http://bullseyepistol.com/gilhebar.htm",
+      "reason": "Linked content page not present in the selected baseline or overlay captures.",
+      "url": "http://bullseyepistol.com/gilhebar.htm"
+    },
+    {
+      "category": "unrecovered-article",
+      "normalized_url": "http://bullseyepistol.com/help.htm",
+      "reason": "Help page linked by recovered content but not captured in the selected baseline.",
+      "url": "http://bullseyepistol.com/help.htm"
+    },
+    {
+      "category": "unrecovered-article",
+      "normalized_url": "http://bullseyepistol.com/perchamp.htm",
+      "reason": "Likely Camp Perry championship page not present in the selected captures.",
+      "url": "http://bullseyepistol.com/perchamp.htm"
+    },
+    {
+      "category": "unrecovered-article",
+      "normalized_url": "http://bullseyepistol.com/statoffice.htm",
+      "reason": "State office page linked by recovered content but not captured in the selected baseline.",
+      "url": "http://bullseyepistol.com/statoffice.htm"
+    }
+  ]
+}

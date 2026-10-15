@@ -1,0 +1,7 @@
+body { font-family: serif; line-height: 1.45; }
+h1, h2 { font-family: sans-serif; }
+.meta, .recovery-note { color: #555; font-family: sans-serif; font-size: 0.9em; }
+.article-text { white-space: pre-wrap; }
+figure { margin: 1em 0; }
+img { max-width: 100%; height: auto; }
+code { font-size: 0.9em; }

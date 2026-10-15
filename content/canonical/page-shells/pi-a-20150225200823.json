@@ -1,0 +1,18 @@
+{
+  "excluded_regions": [
+    "head",
+    "script header/footer",
+    "global style",
+    "no ARTICLE BEGINS marker"
+  ],
+  "id": "pi-a",
+  "local_path": "archive/raw/wayback/files/20260522T143136Z/201502/article_candidate/www.bullseyepistol.com_80/20150225200823-pi-a-4d2e107ae80a0de9.htm",
+  "navigation_links": [],
+  "original_url": "http://www.bullseyepistol.com:80/pi-a.htm",
+  "source_capture_id": "730a09b77a30828f",
+  "status": "page_shell",
+  "template_markers": [
+    "no ARTICLE BEGINS/ENDS marker"
+  ],
+  "wayback_timestamp": "20150225200823"
+}

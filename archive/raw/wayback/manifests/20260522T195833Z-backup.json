@@ -1,0 +1,69 @@
+{
+  "classes": "all",
+  "classification_counts": {
+    "article_candidate": 2
+  },
+  "finished_at": "2026-05-22T19:58:41.858084+00:00",
+  "inventory_manifest": "archive/raw/wayback/manifests/20260522T135739Z-inventory.json",
+  "period_counts": {
+    "201009": 1,
+    "201502": 1
+  },
+  "periods": [
+    "201009",
+    "201502",
+    "202303",
+    "202501",
+    "202508"
+  ],
+  "records": [
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/87/87872f982c55ca7977320899e931798a77f0042be649bb1955d2f02573b36cd6",
+      "byte_length": 1219,
+      "classification": "article_candidate",
+      "content_type": "text/html",
+      "http_status": 200,
+      "index": 1,
+      "local_path": "archive/raw/wayback/files/20260522T195833Z/201009/article_candidate/bullseyepistol.com/20100918012912-issfguide-bc9048196dbe4296.htm",
+      "original": "http://bullseyepistol.com/issfguide.htm",
+      "period": "201009",
+      "retrieval_url": "https://web.archive.org/web/20100918012912id_/http://bullseyepistol.com/issfguide.htm",
+      "retrieved_at": "2026-05-22T19:58:33.233092+00:00",
+      "run_id": "20260522T195833Z",
+      "sha256": "87872f982c55ca7977320899e931798a77f0042be649bb1955d2f02573b36cd6",
+      "source_digest": "JPTRLQXSXRNQKB7NVDXVMH4G7SM36VQ4",
+      "source_length": "1096",
+      "source_mimetype": "text/html",
+      "status": "success",
+      "storage_mode": "blob_created_hardlink",
+      "timestamp": "20100918012912"
+    },
+    {
+      "blob_path": "archive/raw/wayback/blobs/sha256/17/179eed559fd0f7b80240c5c1a266220ad58f8e565e2d7bf15803d2135dc83c1a",
+      "byte_length": 45306,
+      "classification": "article_candidate",
+      "content_type": "text/html",
+      "http_status": 200,
+      "index": 2,
+      "local_path": "archive/raw/wayback/files/20260522T195833Z/201502/article_candidate/bullseyepistol.com_80/20150206132803-polsby-7ac198e4aacff5f6.htm",
+      "original": "http://bullseyepistol.com:80/polsby.htm",
+      "period": "201502",
+      "retrieval_url": "https://web.archive.org/web/20150206132803id_/http://bullseyepistol.com:80/polsby.htm",
+      "retrieved_at": "2026-05-22T19:58:37.505236+00:00",
+      "run_id": "20260522T195833Z",
+      "sha256": "179eed559fd0f7b80240c5c1a266220ad58f8e565e2d7bf15803d2135dc83c1a",
+      "source_digest": "UB6NZB3ONH2KQVPODUIGFHDXQT2GITUT",
+      "source_length": "18736",
+      "source_mimetype": "text/html",
+      "status": "success",
+      "storage_mode": "blob_reused_hardlink",
+      "timestamp": "20150206132803"
+    }
+  ],
+  "run_id": "20260522T195833Z",
+  "selected_count": 2,
+  "started_at": "2026-05-22T19:58:33.232959+00:00",
+  "status_counts": {
+    "success": 2
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "assets": [
+    "asset-a1df42574080026e"
+  ],
+  "body": {
+    "format": "html",
+    "html": "<p><img src=\"wong.jpg\" align=\"right\"><i>Here is a series of articles by Master Bullseye Pistol shooter and highly successful Optometrist, Dr. Norman H. Wong, O.D.  I have not met anyone who has not learned a lot from the writings of Dr. Wong, on a topic of particular importance to competitive shooting.</i></p>\n<ul>\n<li><a href=\"wong1.htm\">For Eyecare Professionals</a></li>\n<li><a href=\"wong2.htm\">ABBE and Shooting Glasses</a></li>\n<li><a href=\"wong3.htm\">Inaccuracies in RX Glasses</a></li>\n<li><a href=\"wong4.htm\">The 20 Foot Eye Exam</a></li>\n<li><a href=\"wong5.htm\">Red Dot Focus Position</a></li>\n<li><a href=\"wong6.htm\">Obsolete RX for Shooting</a></li>\n<li><a href=\"wong7.htm\">Keeping Focused</a></li>\n<li><a href=\"wongbio.htm\">About Dr. Norman Wong</a></li></ul>",
+    "text": "Here is a series of articles by Master Bullseye Pistol shooter and highly successful Optometrist, Dr. Norman H. Wong, O.D. I have not met anyone who has not learned a lot from the writings of Dr. Wong, on a topic of particular importance to competitive shooting.\nFor Eyecare Professionals\nABBE and Shooting Glasses\nInaccuracies in RX Glasses\nThe 20 Foot Eye Exam\nRed Dot Focus Position\nObsolete RX for Shooting\nKeeping Focused\nAbout Dr. Norman Wong"
+  },
+  "byline": "Norman H. Wong, O.D.",
+  "context": {
+    "html_title": "Encyclopedia of Bullseye Pistol",
+    "parent_url": "annex2.htm"
+  },
+  "id": "wong",
+  "images": [
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-a1df42574080026e"
+      ],
+      "resolved_url": "http://www.bullseyepistol.com/wong.jpg",
+      "src": "wong.jpg",
+      "status": "recovered"
+    }
+  ],
+  "links": [
+    {
+      "href": "wong1.htm",
+      "resolved_url": "http://www.bullseyepistol.com/wong1.htm",
+      "text": "For Eyecare Professionals"
+    },
+    {
+      "href": "wong2.htm",
+      "resolved_url": "http://www.bullseyepistol.com/wong2.htm",
+      "text": "ABBE and Shooting Glasses"
+    },
+    {
+      "href": "wong3.htm",
+      "resolved_url": "http://www.bullseyepistol.com/wong3.htm",
+      "text": "Inaccuracies in RX Glasses"
+    },
+    {
+      "href": "wong4.htm",
+      "resolved_url": "http://www.bullseyepistol.com/wong4.htm",
+      "text": "The 20 Foot Eye Exam"
+    },
+    {
+      "href": "wong5.htm",
+      "resolved_url": "http://www.bullseyepistol.com/wong5.htm",
+      "text": "Red Dot Focus Position"
+    },
+    {
+      "href": "wong6.htm",
+      "resolved_url": "http://www.bullseyepistol.com/wong6.htm",
+      "text": "Obsolete RX for Shooting"
+    },
+    {
+      "href": "wong7.htm",
+      "resolved_url": "http://www.bullseyepistol.com/wong7.htm",
+      "text": "Keeping Focused"
+    },
+    {
+      "href": "wongbio.htm",
+      "resolved_url": "http://www.bullseyepistol.com/wongbio.htm",
+      "text": "About Dr. Norman Wong"
+    }
+  ],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/wong.htm",
+    "http://bullseyepistol.com:80/wong.htm",
+    "http://www.bullseyepistol.com/wong.htm"
+  ],
+  "preferred_original_url": "http://www.bullseyepistol.com/wong.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 4,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "b27a09542bc9adc5",
+        "local_path": "archive/raw/wayback/files/20260522T141108Z/201502/article_candidate/bullseyepistol.com_80/20150206133125-wong-e56dcbeb87460dd9.htm",
+        "original_url": "http://bullseyepistol.com:80/wong.htm",
+        "sha256": "ba8c195a54b388ee5ee79eb0bbb17a3514008e2e0400eee62cd46f81c454e176",
+        "wayback_timestamp": "20150206133125"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "55e9706e86283936",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/201502/article_candidate/bullseyepistol.com/20150213223531-wong-970b76ed56b51554.htm",
+        "original_url": "http://bullseyepistol.com/wong.htm",
+        "sha256": "ba8c195a54b388ee5ee79eb0bbb17a3514008e2e0400eee62cd46f81c454e176",
+        "wayback_timestamp": "20150213223531"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "0d2a32e087dc688b",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/202303/article_candidate/bullseyepistol.com/20230329142547-wong-505f2acfea322c68.htm",
+        "original_url": "http://bullseyepistol.com/wong.htm",
+        "sha256": "ba8c195a54b388ee5ee79eb0bbb17a3514008e2e0400eee62cd46f81c454e176",
+        "wayback_timestamp": "20230329142547"
+      },
+      {
+        "article_status": "recovered",
+        "capture_id": "e352b70d4c524a5b",
+        "local_path": "archive/raw/wayback/files/20260522T143136Z/202508/article_candidate/www.bullseyepistol.com/20250813161015-wong-503237af8693d2d1.htm",
+        "original_url": "http://www.bullseyepistol.com/wong.htm",
+        "sha256": "ba8c195a54b388ee5ee79eb0bbb17a3514008e2e0400eee62cd46f81c454e176",
+        "wayback_timestamp": "20250813161015"
+      }
+    ],
+    "selected_capture_id": "e352b70d4c524a5b"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "Vision Topics for Bullseye Pistol Shooters",
+  "updated_at": null
+}

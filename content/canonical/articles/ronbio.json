@@ -1,0 +1,56 @@
+{
+  "assets": [
+    "asset-93c00a62e75910da"
+  ],
+  "body": {
+    "format": "html",
+    "html": "<p><img src=\"ronphoto.jpg\" align=\"right\" hspace=\"0\" width=\"150\"\nheight=\"206\">Ron Steinbrecher is a HIGH MASTER pistol shooter\nfrom the great state of Pennsylvania. Apart from holding several\nindividual National Records in conventional pistol, he has set\nrecords and won National Titles with the UltraDot team. Ron is\none of the best all-round pistol shooters in the entire country\nand one of the nicest fellows as well.<br>\n<br>\nWith the intention of helping new shooters in the sport, Ron\nwrote a series of articles for his local club newsletter on pistol\nshooting fundamentals. He graciously took the time to retype and\nemail each of them to the Bullseye-L forum, where they eventually\nbecame archived on Ed Hall's website.<br>\n<br>\n<em>Ron contacted me by email to see if I would be interested in\nincluding his writings on the Bullseyepistol.com website. After reading his email, the articles\nwere uploaded to this site within an hour! Thank you for the fine\nwork, Ron!",
+    "text": "Ron Steinbrecher is a HIGH MASTER pistol shooter\nfrom the great state of Pennsylvania. Apart from holding several\nindividual National Records in conventional pistol, he has set\nrecords and won National Titles with the UltraDot team. Ron is\none of the best all-round pistol shooters in the entire country\nand one of the nicest fellows as well.\nWith the intention of helping new shooters in the sport, Ron\nwrote a series of articles for his local club newsletter on pistol\nshooting fundamentals. He graciously took the time to retype and\nemail each of them to the Bullseye-L forum, where they eventually\nbecame archived on Ed Hall's website.\nRon contacted me by email to see if I would be interested in\nincluding his writings on the Bullseyepistol.com website. After reading his email, the articles\nwere uploaded to this site within an hour! Thank you for the fine\nwork, Ron!"
+  },
+  "byline": "Ron Steinbrecher",
+  "context": {
+    "html_title": "Encyclopedia of Bullseye Pistol",
+    "parent_url": "ron1.htm"
+  },
+  "id": "ronbio",
+  "images": [
+    {
+      "alt": "",
+      "asset_ids": [
+        "asset-93c00a62e75910da"
+      ],
+      "resolved_url": "http://bullseyepistol.com/ronphoto.jpg",
+      "src": "ronphoto.jpg",
+      "status": "recovered"
+    }
+  ],
+  "links": [],
+  "omitted_chrome": [
+    "head",
+    "script header/footer",
+    "global style"
+  ],
+  "original_urls": [
+    "http://bullseyepistol.com/ronbio.htm"
+  ],
+  "preferred_original_url": "http://bullseyepistol.com/ronbio.htm",
+  "provenance": {
+    "body_variant_count": 1,
+    "capture_count": 1,
+    "captures": [
+      {
+        "article_status": "recovered",
+        "capture_id": "77fa30dff6cd7809",
+        "local_path": "archive/raw/wayback/files/20260522T142631Z/201009/article_candidate/bullseyepistol.com/20100918010431-ronbio-9977413b36e88801.htm",
+        "original_url": "http://bullseyepistol.com/ronbio.htm",
+        "sha256": "8b3f606bf38cfd183baafb14bb601252290c87f1699b71e5768a6c1b3e2f60a4",
+        "wayback_timestamp": "20100918010431"
+      }
+    ],
+    "selected_capture_id": "77fa30dff6cd7809"
+  },
+  "published_at": null,
+  "status": "recovered",
+  "title": "About Ron Steinbrecher",
+  "updated_at": null
+}
