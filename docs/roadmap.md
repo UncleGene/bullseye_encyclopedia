@@ -166,7 +166,7 @@ Completion evidence so far:
 
 ## M5: Presentation Implementations
 
-Status: in progress; release-facing export policy implemented, final cleanup and external EPUB validation remain
+Status: in progress; release-facing export policy implemented and external EPUB validation passed; remaining work requires explicit scope selection
 
 Purpose: Build actual generated outputs after preservation and canonical normalization are stable.
 
@@ -195,8 +195,8 @@ Completion evidence so far:
 - Final single-file release bundle: `exports/final/`
 - Raw as-is output contains canonical-grouped article folders, `10` top-level sections, `2` detected sub-article groups, `161` article-specific image files, `295` shared image files, `0` broken local references, and `0` bad page-local scripts across `295` checked files.
 - Canonical output contains `150` article pages, `165` recovered article assets, `21` additional recovered linked resources, and `0` broken local references after validation.
-- Current ebook output contains `150` article chapters and `160` embedded recovered image assets, but also embeds `21` supplemental resources that are not all EPUB-reader-safe; this must be corrected before release.
-- Shared output audit records `0` blocking findings, `4` improvement candidates, and `1` deferred release risk, with doc cleanup and EPUB release validation recommended next.
+- Current ebook output contains `150` article chapters, `160` embedded recovered image assets, and `0` non-reader-safe packaged resources; `59` internal non-article resource links are suppressed from reader-facing output.
+- The 2026-05-29 shared output audit records `0` blocking findings, `3` improvement candidates, and `1` deferred release risk. That EPUB validation risk was closed on 2026-10-15: EPUBCheck 5.4.0 passed with `0` errors and warnings; see `docs/recovery/ebook-export-report.md`.
 - Enhanced browsing is already implemented in the raw article site while preserving recovered homepage navigation.
 
 ## M6: Release-Facing Artifact Alignment

@@ -1782,7 +1782,7 @@
     "images/asset-b8b2f7baf6175058.jpg",
     "images/asset-9d59392dc13989b1.jpg"
   ],
-  "generated_at": "2026-05-29T13:54:21Z",
+  "generated_at": "2026-10-15T20:27:10Z",
   "included_article_count": 150,
   "inputs": {
     "article_dir": "content/canonical/articles",
@@ -2200,9 +2200,11 @@
         "passed": true
       },
       {
-        "name": "epubcheck_available",
-        "passed": false,
-        "risk": "epubcheck not installed"
+        "name": "epubcheck",
+        "passed": true,
+        "returncode": 0,
+        "stderr": "",
+        "stdout": "Validating using EPUB version 3.4 rules.\nNo errors or warnings detected.\nMessages: 0 fatals / 0 errors / 0 warnings / 0 infos\n\nEPUBCheck completed\n"
       }
     ],
     "passed": true

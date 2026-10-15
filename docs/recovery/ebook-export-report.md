@@ -1,6 +1,6 @@
 # Ebook Export Report
 
-Date: 2026-05-23
+Date: 2026-10-15
 
 ## Output
 
@@ -16,12 +16,11 @@ The ebook uses the raw recovered index page as the ordering and chapter-group
 authority:
 
 - Raw index: `archive/raw/wayback/files/20260522T143136Z/202508/article_candidate/www.bullseyepistol.com/20250818003737-index-5fffb450c2814c7e.html`
-- Raw-index-listed articles: `63`
-- Additional recovered articles not listed on the raw index: `87`
+- Raw-index-listed articles: `95`
+- Additional recovered articles not listed on the raw index: `55`
 
-The additional recovered articles are included for completeness in a generated
-final appendix group named `Additional Recovered Articles Not Listed on the Raw
-Index`.
+The additional recovered articles are included in evidence-backed groups from
+the enhanced canonical browse layer. The EPUB contains `15` chapter groups.
 
 ## Results
 
@@ -30,7 +29,8 @@ Index`.
 - Embedded recovered image assets: `160`
 - Missing asset records: `0`
 - Unsupported asset records: `0`
-- Unresolved internal links preserved as original URL references: `33`
+- Suppressed internal non-article resource links: `59`
+- Unresolved internal links: `0`
 - Visible asset-ID image captions: `0`
 
 ## Validation
@@ -50,7 +50,7 @@ Result:
 - `OEBPS/nav.xhtml` exists.
 - All report-listed embedded assets exist inside the EPUB package.
 - All report-listed chapter files exist inside the EPUB package.
-- All `654` local package references inside EPUB XHTML resolve with `0`
+- All `787` local package references inside EPUB XHTML resolve with `0`
   broken references.
 - No EPUB chapter uses the legacy pre-wrapped text block.
 - No EPUB chapter matches the hard-wrap candidate scan for repeated
@@ -58,9 +58,22 @@ Result:
 - No EPUB figure caption exposes an internal `asset-...` identifier.
 - Built-in validation passed.
 
-`epubcheck` is not installed locally, so full external EPUB structural
-validation remains a release risk. The exporter records that risk in
-`exports/ebook/_ebook-export-report.json`.
+EPUBCheck `5.4.0` passed with `0` errors and `0` warnings. The exporter
+records its exit code and complete output in
+`exports/ebook/_ebook-export-report.json`. The identical final edition at
+`exports/final/bullseye-pistol.epub` also passed a separate EPUBCheck run.
+
+The initial external check found `30` navigation errors: section labels were
+bare text instead of an `a` or `span` element. The generator now wraps each
+section label in `span`; article bodies, ordering, and recovered assets are
+unchanged. The existing build command runs EPUBCheck whenever it is on PATH.
+
+Install the external validator on macOS with `brew install epubcheck`.
+Run the final-edition check with:
+
+```sh
+epubcheck exports/final/bullseye-pistol.epub
+```
 
 ## Rebuild
 

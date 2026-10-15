@@ -77,7 +77,7 @@ Page shells are raw or intermediate records used to analyze templates and recurr
 
 ## Export Mapping
 
-- Ebook: the raw recovered index page defines generic topic order and chapter groups; linked canonical articles become chapter entries, eligible articles not listed on the raw index are included in an explicit additional-recovered appendix group, recovered ebook-safe assets become embedded media, and provenance becomes an appendix and metadata. See `docs/recovery/ebook-export-contract.md`.
+- Ebook: the raw recovered index page defines generic topic order and chapter groups; linked articles and their recovered series subarticles become chapter entries, additional eligible articles use evidence-backed topic groups with an explicit fallback for unplaced articles, recovered ebook-safe assets become embedded media, and provenance becomes an appendix and metadata. See `docs/recovery/ebook-export-contract.md`.
 - Raw static site: recovered pages become deployable HTML routes with original layout/chrome preserved as much as possible and dependencies rewritten to local recovered files.
 - Raw article static site: articles become HTML routes in a self-contained deployable website; assets are copied from recovered local blobs to public paths; original URLs are preserved; unavailable internal resources are centralized in `missing-artifacts.html`; navigation preserves recovered homepage sections with an additional enhanced browse layer.
 - DB engine: articles, assets, links, taxonomy, and provenance become importable records.

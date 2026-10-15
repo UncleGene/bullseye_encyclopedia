@@ -2,6 +2,10 @@
 
 Date: 2026-05-29
 
+Historical audit snapshot. The external EPUB validation risk below was closed
+on 2026-10-15; see [current EPUB validation evidence](ebook-export-report.md).
+The machine audit report remains a dated snapshot of the earlier build.
+
 ## Summary
 
 | Output | Validation | Main Counts | Improvement Signal |

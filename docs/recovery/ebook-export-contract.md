@@ -1,6 +1,6 @@
 # Ebook Export Contract
 
-Date: 2026-05-23
+Date: 2026-10-15
 
 ## Summary
 
@@ -33,9 +33,9 @@ reproducible from canonical records, recovered assets, and this contract.
   index page.
 - Raw article static export report:
   `exports/static-site/raw/_raw-export-report.json`.
-  Supporting reference only. It may be used as a parsed cache of raw-index
-  links when its `homepage_source` matches the raw index page, but it is not
-  the ordering authority.
+  Its evidence-backed `enhanced_groups` supply topic groups for eligible
+  articles not already placed under a raw-index topic. They do not override
+  the raw index's topic order or chapter labels.
 
 Input constraints:
 
@@ -92,11 +92,13 @@ Completeness guarantee:
   from the raw index page.
 - Each canonical article linked from the raw index page becomes a chapter
   entry under its raw-index chapter group.
-- Eligible canonical articles not linked from the raw index page must still be
-  included for completeness in a generated final appendix group named
-  `Additional Recovered Articles Not Listed on the Raw Index`, sorted by
-  article title and then canonical ID. The export report must mark these as
-  not raw-index-listed.
+- Include recovered profile and vision-series subarticles under their parent
+  raw-index topic, preserving the recovered series order.
+- Place remaining eligible articles in evidence-backed topic groups from the
+  raw article static export report, after the raw-index topics. Preserve the
+  report's group and article order. Keep any unplaced eligible articles in
+  `Other Recovered Articles`, sorted by article title and then canonical ID.
+  Record chapter order and raw-index-listed counts in the export report.
 - Article titles use canonical `title`. If title is missing, use the
   canonical ID with an explicit missing-title note.
 - Byline and recovered publication/update dates appear below the chapter
@@ -221,6 +223,9 @@ Deferred questions:
 
 ## Related Decisions
 
+- 2026-10-15: the user chose to retain the existing topic groups rather than
+  restore a single alphabetical appendix. This supersedes the earlier
+  additional-recovered appendix rule and preserves the current chapter order.
 - `docs/project-goals.md`: multi-target publishing readiness requires a
   single ebook, static site, and DB-backed path from canonical content.
 - `docs/requirements.md`: R4 requires ebook, static site, and DB export

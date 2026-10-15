@@ -602,7 +602,7 @@ def build_nav(sections: list[dict[str, Any]], article_map: dict[str, dict[str, A
             f'<li><a href="{chapter_href(item["article_id"])}">{html.escape(str(article_map[item["article_id"]].get("title") or item["article_id"]))}</a></li>'
             for item in section["items"]
         )
-        section_items.append(f"<li>{html.escape(section['title'])}<ol>{links}</ol></li>")
+        section_items.append(f"<li><span>{html.escape(section['title'])}</span><ol>{links}</ol></li>")
     body = (
         '<nav epub:type="toc" id="toc"><h1>Contents</h1><ol>'
         + "".join(section_items)

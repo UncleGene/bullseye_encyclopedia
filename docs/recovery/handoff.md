@@ -1,6 +1,6 @@
 # Recovery Handoff
 
-Last updated: 2026-05-29
+Last updated: 2026-10-15
 
 ## Objective
 
@@ -18,14 +18,15 @@ The static HTML output is a first-class restoration artifact with two release-fa
 
 ## Session Boundary Envelope
 
-- Git state: no `.git` repository is present in `/Users/unge/Projects/bullseye`; use file paths and manifests for continuity.
+- Git state: the project is tracked on `main`, with `origin` at `git@github.com:UncleGene/bullseye_encyclopedia.git`. Initial import: `133323e`. Use `git status` and the latest commit alongside manifests for continuity.
 - Active docs: `docs/current-state.md`, `docs/requirements.md`, `docs/roadmap.md`, `docs/recovery/canonical-navigation-refinement.md`, `docs/recovery/output-audit-report.md`, `docs/recovery/output-improvement-audit.md`, `docs/recovery/ebook-export-contract.md`, `docs/recovery/ebook-export-report.md`, `docs/recovery/canonical-static-site-report.md`, `docs/recovery/raw-static-site-report.md`, `docs/recovery/normalization-report.md`, `docs/recovery/site-engine-analysis.md`.
 - Active scripts: `tools/audit_outputs.py`, `tools/build_ebook.py`, `tools/build_canonical_static_site.py`, `tools/validate_static_site.py`, `tools/normalize_articles.py`, `tools/wayback_backup.py`, `tools/wayback_recover_images.py`, `tools/recover_static_dependencies.py`.
 - Last completed planning step: release-facing artifact policy updated in goals, requirements, roadmap, ebook contract, validation plan, recovery spec, and current state.
 - Final artifact bundle directory: `exports/final`
-- Next intended step: close the deferred EPUB validation gate when tooling is available.
+- Last completed release gate: EPUBCheck 5.4.0 passed with zero errors and warnings; see `docs/recovery/ebook-export-report.md`.
+- Next intended step: select further release work explicitly; DB import/export remains deferred.
 - Suggested next skill: `minime-implementation-step-selector`.
-- Open-question status: release-facing missing-artifact UX, `as-is` output missing-resource suppression, and EPUB resource eligibility are implemented. Deferred questions remain for owner-provided files, public URL policy, external `epubcheck`, DB import/export, and historical-version authority if later snapshot conflicts affect output.
+- Open-question status: release-facing missing-artifact UX, `as-is` output missing-resource suppression, and EPUB resource eligibility are implemented. Deferred questions remain for owner-provided files, public URL policy, DB import/export, and historical-version authority if later snapshot conflicts affect output.
 
 ## Selected Periods
 
@@ -144,7 +145,7 @@ Recovery is currently unavailable. If any of these files are later supplied out-
 
 ## Pending Work
 
-1. Install `epubcheck` locally to close the deferred EPUB release risk before any public distribution.
+1. External EPUB validation is complete for the current edition. Re-run `epubcheck exports/final/bullseye-pistol.epub` after future EPUB changes.
 2. Define the DB import/export contract only after explicit user request.
 
 ## Completed Normalization / Raw Site Work

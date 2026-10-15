@@ -1,10 +1,10 @@
 # Current State
 
-Date: 2026-05-29
+Date: 2026-10-15
 
 ## Current Slice
 
-Release-facing artifact alignment has been implemented for the static and EPUB outputs. Current focus is EPUB release validation: the `raw` site's `Missing Artifacts` page includes concise source-backed descriptions, and EPUB now suppresses remaining non-resolvable internal resource links from reader-facing output.
+Release-facing artifact alignment and external EPUB validation are complete for the current EPUB. EPUBCheck 5.4.0 passed with zero errors and warnings on 2026-10-15 after correcting section-label markup in the generated table of contents. The `raw` site's `Missing Artifacts` page includes concise source-backed descriptions, and EPUB suppresses remaining non-resolvable internal resource links from reader-facing output.
 
 ## Status
 
@@ -34,7 +34,7 @@ Release-facing artifact alignment has been implemented for the static and EPUB o
 - Current raw article site includes `165` recovered article assets, `21` additional recovered linked resources, and `7` entries in `missing-artifacts.html` for unrecovered owner-file links.
 - Each raw-site missing-artifact entry now includes a concise description reconstructed from the referring article block plus a backlink to that article.
 - Ebook export contract is documented at `docs/recovery/ebook-export-contract.md`; it now requires only EPUB-reader-safe packaged resources.
-- Current EPUB has `150` included article chapters in `10` raw-index groups plus generated appendix coverage for non-indexed articles, `160` embedded recovered image assets, `0` non-reader-safe packaged resources, `0` broken local EPUB package references, `59` suppressed internal non-article resource links, and `0` unresolved internal links.
+- Current EPUB has `150` included article chapters in `15` groups (`9` raw-index groups plus `6` generated groups for additional recovered articles), `160` embedded recovered image assets, `0` non-reader-safe packaged resources, `0` broken local EPUB package references, `59` suppressed internal non-article resource links, and `0` unresolved internal links.
 - Current final artifact bundle contains `bullseye-pistol.epub`, `bullseye-pistol.pdf`, `bullseye-pistol-raw-site.zip`, and `bullseye-pistol-as-is-site.zip`.
 - EPUB article formatting uses canonical HTML-derived paragraphs and inline recovered figures; export report verifies `0` legacy pre-wrapped chapters, `0` hard-wrap candidates, and `0` visible asset-ID image captions.
 - Shared output audit report exists at `docs/recovery/output-audit-report.md` with machine output at `exports/output-audit/_output-audit-report.json`.
@@ -56,7 +56,7 @@ Release-facing artifact alignment has been implemented for the static and EPUB o
 
 ## Open Questions
 
-Release-facing artifact alignment is implemented for `raw`, `as-is`, and EPUB. Remaining open work is centered on EPUB release validation.
+Release-facing artifact alignment is implemented for `raw`, `as-is`, and EPUB. External EPUB validation has passed; DB work and public URL policy remain deferred.
 
 Deferred or routed questions:
 
@@ -76,7 +76,7 @@ Deferred or routed questions:
 
 ## Next Step
 
-Next: run `epubcheck` when available.
+The EPUBCheck gate is closed for the current EPUB. Select any further release or presentation work explicitly; DB import/export remains deferred. See `docs/recovery/ebook-export-report.md` for the validation evidence.
 
 ## Continuation / Handoff
 
