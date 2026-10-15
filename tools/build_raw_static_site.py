@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import mimetypes
 import os
@@ -448,7 +449,8 @@ def page_script_url(
             if dst.exists():
                 dst.unlink()
             dst.write_text(rewritten, encoding="utf-8")
-    return os.path.relpath(rel_path, start=from_path.parent).replace(os.sep, "/")
+    version = hashlib.sha256((out / rel_path).read_bytes()).hexdigest()[:12]
+    return os.path.relpath(rel_path, start=from_path.parent).replace(os.sep, "/") + f"?v={version}"
 
 
 def missing_local_url(resolved_url: str, from_path: Path, attr: str, missing_notes: dict[str, Path]) -> str:

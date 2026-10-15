@@ -1,4 +1,5 @@
 import json
+import hashlib
 import re
 import subprocess
 import unittest
@@ -101,6 +102,18 @@ process.stdout.write(JSON.stringify(context));
                 self.assertTrue((script.parent.parent / unquote(url.path)).exists(), f"{script}: {href}")
                 count += 1
         self.assertGreater(count, 2000)
+
+    def test_script_urls_change_with_their_content(self):
+        count = 0
+        for page in ROOT.rglob("*.html"):
+            for src in re.findall(r'<script[^>]+src="([^"]+)"', page.read_text(errors="replace")):
+                url = urlparse(src)
+                self.assertIn("_scripts/", url.path)
+                script = page.parent / unquote(url.path)
+                version = hashlib.sha256(script.read_bytes()).hexdigest()[:12]
+                self.assertEqual(url.query, "v=" + version)
+                count += 1
+        self.assertGreater(count, 200)
 
     def test_unavailable_order_forms_and_member_login_are_removed(self):
         for page in ROOT.rglob("*.html"):

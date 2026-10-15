@@ -25,6 +25,15 @@ rebuild them or alter archive or canonical files.
 
 ## Links and banner
 
+The 2026-10-15 control repairs first deployed successfully as `430193f` in
+[run 38820995649](https://github.com/UncleGene/bullseye_encyclopedia/actions/runs/38820995649).
+Chrome confirmed the replacement Camp Perry link, removed inactive widgets,
+current `https://www.bullseyeforum.net/` destinations, and both edition switches.
+A post-deployment search check exposed cached pre-repair JavaScript. The
+generator now versions page-local script URLs by their content hash; the
+regression suite checks every emitted script URL. See
+[the function audit](site-function-audit.md) for repair policy and limitations.
+
 The historical homepage includes **Read the Clean Edition** beside **Website Index**
 in its recovered navigation and a prominent green-and-cream link directly below
 the historical banner. The accompanying text explains that it contains the same
