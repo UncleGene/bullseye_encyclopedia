@@ -74,6 +74,9 @@ process.stdout.write(JSON.stringify(context));
         for retained in ("Perfecting", "Shooting", "Biography", "Read the Clean Edition",
                          "pix", "image1.jpg", "thecmp.org/cmp-national-matches/", "onsubmit="):
             self.assertIn(retained, html)
+        downloads = "https://github.com/UncleGene/bullseye_encyclopedia/raw/main/exports/final/bullseye-pistol."
+        for extension in ("epub", "pdf"):
+            self.assertIn(f'href="{downloads}{extension}"', html)
 
     def test_related_article_arguments_resolve(self):
         count = 0

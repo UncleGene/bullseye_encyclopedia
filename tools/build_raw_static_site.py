@@ -17,6 +17,7 @@ from urllib.parse import unquote, urljoin, urlparse
 
 ARTICLE_SITE_URL = "https://unclegene.github.io/bullseye_encyclopedia/raw/"
 ARTICLE_SITE_LABEL = "Read the Clean Edition"
+DOWNLOAD_BASE_URL = "https://github.com/UncleGene/bullseye_encyclopedia/raw/main/exports/final/"
 
 ASSET_EXTENSIONS = {
     ".css",
@@ -895,7 +896,12 @@ def main() -> int:
                     'padding:10px 20px; background:#debea1; color:#103d16; '
                     f'font-weight:bold; font-size:20px;">{ARTICLE_SITE_LABEL}</a>'
                     '<p style="margin:8px 0 0; color:#fff;">The same recovered articles, with simpler navigation '
-                    'and an uncluttered reading layout.</p></div>'
+                    'and an uncluttered reading layout.</p>'
+                    '<p class="edition-downloads" style="margin:12px 0 0; padding-top:10px; border-top:1px solid #22952d; '
+                    'color:#debea1; font-weight:bold;">Download the encyclopedia: '
+                    f'<a href="{DOWNLOAD_BASE_URL}bullseye-pistol.epub" style="color:#debea1; text-decoration:underline;">EPUB</a> (e-readers)'
+                    ' <span aria-hidden="true"> | </span> '
+                    f'<a href="{DOWNLOAD_BASE_URL}bullseye-pistol.pdf" style="color:#debea1; text-decoration:underline;">PDF</a> (print)</p></div>'
                 )
                 rewritten = rewritten.replace("<!-- Bottom Main Table -->", callout + "\n<!-- Bottom Main Table -->", 1)
             version_navigation = (

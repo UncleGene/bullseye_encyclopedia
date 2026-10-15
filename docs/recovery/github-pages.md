@@ -37,7 +37,9 @@ regression suite checks every emitted script URL. See
 The historical homepage includes one prominent green-and-cream **Read the Clean Edition**
 link directly below the historical banner. Its top navigation omits the duplicate
 edition link and the dead encyclopedia Facebook account. The accompanying text explains that it contains the same
-recovered articles with simpler navigation and an uncluttered reading layout. Other historical
+recovered articles with simpler navigation and an uncluttered reading layout. The same callout
+links EPUB and PDF downloads directly from `exports/final` on the repository's
+`main` branch (GitHub serves them as `application/octet-stream`). Other historical
 content pages have a compact switch using the same green-and-cream palette.
 Empty captures, empty redirect shells, and the frameset wrapper are preserved
 without added navigation.
