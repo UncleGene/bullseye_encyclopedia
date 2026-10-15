@@ -1,4 +1,46 @@
 {
+  "active_content_policy": {
+    "removed": [
+      "newsletter subscription",
+      "live counter",
+      "embedded social feed",
+      "advertising orders",
+      "PayPal purchases",
+      "souvenir store",
+      "slideshow arrows",
+      "unrecovered club member login",
+      "empty ad redirect links"
+    ],
+    "repaired": [
+      "JavaScript header links",
+      "cookie-free escaped topic search",
+      "keyboard search submission"
+    ],
+    "replaced_with_service_links": [
+      "2015 Camp Perry countdown",
+      "NRA classification",
+      "range search",
+      "weather",
+      "directions"
+    ],
+    "source_captures_modified": false,
+    "unrecovered_slideshow_images": [
+      "http://www.bullseyepistol.com/image2.jpg",
+      "http://www.bullseyepistol.com/image3.jpg",
+      "http://www.bullseyepistol.com/image4.jpg",
+      "http://www.bullseyepistol.com/image5.jpg",
+      "http://www.bullseyepistol.com/image6.jpg",
+      "http://www.bullseyepistol.com/image7.jpg",
+      "http://www.bullseyepistol.com/image8.jpg",
+      "http://www.bullseyepistol.com/image9.jpg",
+      "http://www.bullseyepistol.com/image10.jpg",
+      "http://www.bullseyepistol.com/image11.jpg",
+      "http://www.bullseyepistol.com/image12.jpg",
+      "http://www.bullseyepistol.com/image13.jpg",
+      "http://www.bullseyepistol.com/image14.jpg",
+      "http://www.bullseyepistol.com/image15.jpg"
+    ]
+  },
   "article_groups": {
     "child_article_count": 0,
     "section_count": 15,
@@ -691,9 +733,6 @@
       "https://secure.mydomain.com/images/icons/apple-touch-icons/apple-touch-icon-mydomaincom.png",
       "https://secure.mydomain.com/images/icons/favicon_myd.ico"
     ],
-    "pages/pi-a/index.html": [
-      "http://www.piasaclub.com/"
-    ],
     "pages/pi-b/index.html": [
       "http://www.piasaclub.com/"
     ],
@@ -957,7 +996,6 @@
       "http://bullseyepistol.com/fadebar3.jpg"
     ],
     "shared/scripts/header4.js": [
-      "http://bullseyepistol.com/chaptr10.htm",
       "http://bullseyepistol.com/gilhebar.htm",
       "http://bullseyepistol.com/perchamp.htm",
       "http://bullseyepistol.com/statoffice.htm"
@@ -972,7 +1010,7 @@
     "External scripts are removed from HTML to avoid live third-party dependencies in the deployable copy."
   ],
   "output": "exports/static-site/as-is",
-  "pages_with_unresolved_local_rewrites": 44,
+  "pages_with_unresolved_local_rewrites": 43,
   "pruned_release_artifact_url_count": 12,
   "pruned_release_artifact_urls": [
     "http://bullseyepistol.com/generalappc/javascripts/mydomaincom/input-fields.js",
@@ -989,7 +1027,7 @@
     "http://bullseyepistol.com/typix.gif"
   ],
   "records_selected": 524,
-  "silent_missing_internal_url_count": 17,
+  "silent_missing_internal_url_count": 18,
   "silent_missing_internal_urls": [
     "http://bullseyepistol.com/Handicap.exe",
     "http://bullseyepistol.com/ILMOScorecard.pdf",
@@ -1000,14 +1038,15 @@
     "http://bullseyepistol.com/TeamAdmin2004.zip",
     "http://bullseyepistol.com/advertise1.php",
     "http://bullseyepistol.com/advertise3.htm",
-    "http://bullseyepistol.com/chaptr10.htm",
+    "http://bullseyepistol.com/brianbio.htm",
     "http://bullseyepistol.com/fadebar3.jpg",
     "http://bullseyepistol.com/gilhebar.htm",
     "http://bullseyepistol.com/help.htm",
     "http://bullseyepistol.com/perchamp.htm",
     "http://bullseyepistol.com/piasaapp.pdf",
     "http://bullseyepistol.com/statoffice.htm",
-    "http://bullseyepistol.com/tournamentz.htm"
+    "http://bullseyepistol.com/tournamentz.htm",
+    "http://bullseyepistol.com/wong8.htm"
   ],
   "structure": {
     "article_images": "images/ beside the corresponding grouped article page",

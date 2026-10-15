@@ -12,7 +12,7 @@ function validate(text1,text2)
  location.href='pi-kqlwpeor.php';
  else 
  {
-  location.href='pi-b.html';
+  location.href='pi-b.htm';
  }
 }
 

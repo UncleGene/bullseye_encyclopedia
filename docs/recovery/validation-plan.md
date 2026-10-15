@@ -60,6 +60,11 @@ Validate the recovery workflow for R1 Wayback Inventory, R2 Raw Capture Backup, 
 
 ### Active Content Triage
 
+- Run `python3 -m unittest discover -s tests -q` for the exported historical search and navigation regressions.
+- Rebuild the historical site from the same manifests twice and compare bytes; verify source blob checksums.
+- Check page-local scripts with `node --check`, both sites with `tools/validate_static_site.py`, and the staged combined site.
+- In Chrome, exercise Find/Enter, empty/no-match/markup queries, dropdowns, related links and both edition switches. See `site-function-audit.md` for retained and removed controls.
+
 - Sample forms, scripts, comments, search pages, widgets, or other dynamic fragments discovered during inventory.
 - Confirm raw evidence is preserved.
 - Confirm active behavior is listed separately and does not block article backup.

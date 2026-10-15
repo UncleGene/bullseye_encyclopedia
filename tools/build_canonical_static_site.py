@@ -258,6 +258,14 @@ def copy_resource(record: dict[str, Any], out: Path, resource_paths: dict[str, s
             os.link(src, dst)
         except OSError:
             shutil.copy2(src, dst)
+    if dst.suffix.lower() in {".htm", ".html"}:
+        original = src.read_bytes()
+        updated = re.sub(rb'https?://(?:www\.)?bullseyepistol\.forumotion\.com/?',
+                         b'https://www.bullseyeforum.net/', original)
+        if updated != original:
+            # Resource copies may be hardlinked to immutable captures.
+            dst.unlink()
+            dst.write_bytes(updated)
     resource_paths[normalized] = rel.as_posix()
     return rel.as_posix()
 
@@ -393,6 +401,8 @@ def rewrite_article_html(
 
 
 def page(title: str, body: str, rel_root: str = ".") -> str:
+    body = re.sub(r'https?://(?:www\.)?bullseyepistol\.forumotion\.com/?',
+                  'https://www.bullseyeforum.net/', body)
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -643,6 +653,7 @@ pre, code { white-space:pre-wrap; }
         "missing_internal_reference_count": len(missing_refs),
         "linked_resources": resource_paths,
         "historical_site_url": HISTORICAL_SITE_URL,
+        "external_link_updates": {"bullseyepistol.forumotion.com": "https://www.bullseyeforum.net/"},
         "site_banner": {"output_path": SITE_BANNER_PATH, "capture": banner_record},
         "missing_internal_references": sorted(missing_refs),
         "missing_artifacts_page": "missing-artifacts.html",

@@ -1,0 +1,50 @@
+# Published site function audit
+
+Date: 2026-10-15. Scope: R5, historical site controls, cross-variant navigation and current forum URLs in both static exports.
+
+The published page was inspected in Chrome. Changes belong to the historical
+export generators; canonical articles, EPUB and PDF are unchanged. Normalized
+HTML resources also use the current forum URL. Topic groups and article text remain intact. One pre-existing raw
+capture conversion was restored to its recorded checksum, as described below.
+
+| Feature | Finding and disposition |
+| --- | --- |
+| Camp Perry countdown | Hardcoded July 11, 2015, absolute elapsed-day count, and invalid dynamically generated image paths. Replaced by the [official National Matches page](https://thecmp.org/cmp-national-matches/); no upcoming date invented. |
+| Topic search | Find worked with a cookie, but a fresh visit failed on a null cookie and query markup was inserted unescaped. Retained the recovered 135-entry topic index; queries now use an encoded URL parameter, display safely, and handle empty/no-match searches. Added Enter handling to the recovered table-based forms. |
+| Related article links | Inline header arguments escaped URL rewriting and resolved old filenames inside new directories. Rewritten against their original page URL. |
+| Topic dropdowns and sidebar menus | Retained. Repaired extensionless search links and a misspelled chapter filename. Search references to an empty mailing-list capture retain their historical wording with a separately labeled current forum link. Replaced obsolete NRA rulebook URLs with the [official rulebook directory](https://competitions.nra.org/competition-resources/rule-books/). |
+| Classification, ranges, weather, directions | Old forms targeted obsolete services. Replaced with links to [NRA](https://competitor.nra.org/), [Where To Shoot](https://www.wheretoshoot.org/), [NWS](https://www.weather.gov/) and [Google Maps](https://www.google.com/maps/dir/). |
+| Newsletter, visitor counter, social feed, souvenir store | Removed inactive widgets. Historical capture date is identified as such; old newsletter promises removed. Ordinary historical social links remain. |
+| Contributor carousel | Only image1.jpg is recovered. Retained it and its article link; removed arrows that requested missing images 2–15. Missing URLs are explicitly recorded in the reproduction report. |
+| Orders and advertisements | Removed PayPal purchases, advertising-order and form-mail controls. Retained historical descriptions and ad images; removed ad links to empty redirect captures. |
+| Club member page | Removed the automatic outbound redirect and unavailable password form. Retained the recovered public description. No private content or login service is recreated. |
+| Quotes, articles and topic groups | Retained. Search results, related links and topic dropdowns exercised in Chrome. |
+
+Forum links now use `https://www.bullseyeforum.net/`. HTTP verification confirmed
+the old `https://bullseyepistol.forumotion.com/` responds with a 301 redirect to
+that address, which returns 200. Both HTML navigation and script-generated links
+are updated; normalized resource copies are detached from archive hardlinks
+before rewriting. Original captured URLs remain unchanged.
+
+Validation: `python3 -m unittest discover -s tests -q` covers search runtime,
+query encoding/escaping, related links, script-emitted local resources and
+removed controls. JavaScript syntax, both static exports, staged deployment,
+archive checksums and a reproducible rebuild are release gates. Chrome checks
+cover the homepage, Enter and button search, direct empty search, markup queries,
+related navigation and dropdown navigation. Final publication evidence belongs
+in `github-pages.md`.
+
+The integrity check found that the captured `piajav1.js` and its hardlinked blob
+already differed from their manifest before this work. The recorded 231-byte
+capture was reconstructed by undoing a filename/newline conversion, and accepted
+only after its SHA-256 exactly matched the existing manifest:
+`8caf8a685e7545c0f44540ff0782fd5c994930fd937e659cc6642646ce2dccbd`.
+All 613 content-addressed archive blobs then passed checksum verification.
+No manifest provenance or expected checksum was changed. Wayback retrieval was
+attempted but returned HTTP 429; the recovery used the verified local bytes.
+
+Limit: historical articles contain outbound references and old event/rule text.
+This audit does not certify every third-party page or modernize historical
+article claims. Remaining unavailable resources retain the existing export
+policy and machine reports. The original source remains available for future
+recovery.

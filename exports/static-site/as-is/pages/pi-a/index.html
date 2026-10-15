@@ -31,45 +31,12 @@ font-size: 18px;
 
 </head>
 
-<body bgcolor="#000000" onLoad="mStation(1)">
+<body bgcolor="#000000">
 <nav aria-label="Site versions" style="display:block; padding:6px 12px; background:#22952d; color:#debea1; font:bold 12px/1.5 Tahoma,Arial,sans-serif; text-align:center;"><a data-site-variant="raw" href="https://unclegene.github.io/bullseye_encyclopedia/raw/" style="color:#debea1;">Read the Clean Edition</a> <span aria-hidden="true"> | </span> <span aria-current="page">Historical site</span></nav>
 
-<script language="JavaScript" src="_scripts/piajav1.js"></script>
-
-<script language="JavaScript">
-
-if (window == top) top.location.href = 'http://www.piasaclub.com/';
-
-pic1= new Image(327,28); 
-pic1.src="../../shared/images/memtab1.gif";
-pic2= new Image(327,28); 
-pic2.src="../../shared/images/memtab2.gif";
-
-
-var lfram = new Array();
-lfram[0] = "";
-lfram[1] = "<img src='../../shared/images/memtab1.gif' width='327' height='28' onClick='mStation(2)'>";
-lfram[2] = "<img src='../../shared/images/memtab2.gif' width='327' height='28' onClick='mStation(1)'>";
-
-var rfram = new Array();
-rfram[0] = "";
-rfram[1] = "Maintaining a secure section of the website allows us to deliver&nbsp;our members&nbsp;their monthly club information electronically. &nbsp;Thus, we have effectively reduced one of the largest club expenses, printing and postage. Not only is this fiscally responsible but also environmentally responsible as well.<br><br>With the restrictions of printing space lifted, we have been able to expand the content of our monthly publication to beyond the former limitations of just a few pages for the newsletter and event calendar to now include additional information.<br><br>Select the 'ACCESS' tab above to enter the secured section for Members Only."; 
-rfram[2] = "To Enter the Members-Only Area...<br><br><img src='../../shared/images/protect.gif'><br><br><form  autocomplete='off'>Type the Characters Above : <input type='text' name='text1' id='box1' size='9'> &nbsp;(all lower case)<br><br>Type Your Access Password: <input type='password' name='text2' size='5'><br><br><br><input type='button' value='Check In!' name='Submit' onclick=javascript:validate(text1.value,text2.value)></form>";
-
-
-function mStation(i) {
-ltext.innerHTML = lfram[i];
-rtext.innerHTML = rfram[i];
-if (i==2) {
-var box = document.getElementById('box1');
-box.focus();
-}
-
-}
 
 
 
-</script>
 
 
 <div align="center"><center>
@@ -105,7 +72,7 @@ box.focus();
             </tr>
             <tr>
                 <td bgcolor="#202020" class="frm" valign="top">
-<table width="100%" cellpadding="25" cellspacing="0" border="0"><tr><td class="frm2" bgcolor="#202020"><div id="rtext">&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</div></td></tr></table>
+<table width="100%" cellpadding="25" cellspacing="0" border="0"><tr><td class="frm2" bgcolor="#202020"><div id="rtext">Maintaining a secure section of the website allows us to deliver&nbsp;our members&nbsp;their monthly club information electronically. &nbsp;Thus, we have effectively reduced one of the largest club expenses, printing and postage. Not only is this fiscally responsible but also environmentally responsible as well.<br><br>With the restrictions of printing space lifted, we have been able to expand the content of our monthly publication to beyond the former limitations of just a few pages for the newsletter and event calendar to now include additional information.</div></td></tr></table>
 
 </td>
                 <td><img src="../../shared/images/spacer.gif" width="2" height="360"></td>

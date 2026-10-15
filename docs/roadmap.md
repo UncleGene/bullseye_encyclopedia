@@ -166,6 +166,8 @@ Completion evidence so far:
 
 ## M5: Presentation Implementations
 
+2026-10-15 authorized follow-up: audit and repair historical-site controls under R5; retain topic groups and source archive. See `recovery/site-function-audit.md` for scope and verification.
+
 Status: in progress; release-facing export policy implemented and external EPUB validation passed; remaining work requires explicit scope selection
 
 Purpose: Build actual generated outputs after preservation and canonical normalization are stable.

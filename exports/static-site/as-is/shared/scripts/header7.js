@@ -9,31 +9,12 @@ p.style.backgroundColor='#0181CD';
 p.style.cursor='hand';
 }
 function Search(field) {
-var str = field.findit.value;
-var when = new Date();
-when.setMonth(when.getMonth() + 1);
-var date = when.toGMTString();
-document.cookie = "search=" + str + "; expires=" + date + ";path=/";
-window.location.href ="../../pages/search/index.html"
+var query = field.findit.value.trim();
+window.location.href = "../../pages/search/index.html" + "?q=" + encodeURIComponent(query);
 }
-function showtime() {
-var now=new Date();
-var then = new Date("July 9, 2010 07:00:00")
-var gap = then.getTime() - now.getTime();
-gap = Math.floor(gap / (1000*60*60*24));
-document.write("There are "+ (gap) +" days<br>until Camp Perry 2010!");
-}
-function mapQuest(field) {
-var start = field.start.value;
-var end = field.end.value;
-var travel = "http://www.mapquest.com/directions/main.adp?go=1&do=nw&ct=NA&1y=US&1a=&1p=&1c=&1s=&1z=" + start + "&1ah=&2y=US&2a=&2p=&2c=&2s=&2z=" + end + "&2ah=&lr=2&x=74&y=11"
-top.location.href = travel
-}
-function weatherUnderground(field) {
-var place = field.zipcode.value;
-var gothere = "http://www.weatherunderground.com/cgi-bin/findweather/getForecast?query=" + (place)
-top.location.href = gothere
-}
+
+
+
 function eMail() {
 var pb="bullseyepistol.com";
 var pa="mail";

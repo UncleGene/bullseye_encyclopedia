@@ -154,7 +154,7 @@ Acceptance criteria:
 
 ## R5: Active Content Triage
 
-Status: recorded; restoration deferred unless separately required
+Status: static-site control repair authorized on 2026-10-15
 
 Type: core
 
@@ -168,12 +168,18 @@ Functional behavior:
 - Preserve raw evidence of active content.
 - Exclude active behavior from canonical article content unless it is required to understand the article.
 - Record optional restoration decisions for later presentation work.
+- In the historical static site, retain working topic navigation and search; repair generated JavaScript links and make search usable without cookies, including keyboard submission and safely displayed queries.
+- Remove the expired 2015 Camp Perry countdown rather than invent an upcoming date. Link to the official National Matches page instead.
+- Replace obsolete lookup, range, weather and directions forms with links to current services. Remove newsletter, counter, feed, purchasing and advertising controls whose original service is not restored, and slideshow controls for unrecovered images.
+- Apply these repairs only during export, with decisions recorded in the reproduction report. Preserve raw captures and canonical article content.
+- Both static exports use the verified final forum destination `https://www.bullseyeforum.net/`, including JavaScript navigation and copied HTML redirects, while original captures retain their source URLs.
 
 Acceptance criteria:
 
 - Active/dynamic URLs and page fragments are listed in the recovery report.
 - Article backup is not blocked by unrecoverable active behavior.
 - Any active feature selected for restoration has a separate requirement before implementation.
+- Search handles empty, matching, nonmatching and markup-containing queries; internal links emitted by scripts resolve within the export. Both published variants remain reachable.
 
 ## R6: Site Engine Detection
 

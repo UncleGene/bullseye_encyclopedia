@@ -140,13 +140,13 @@ fd[1] = '<a href="../../articles/tools-of-the-trade/facts-and-figures-about-red-
 fd[2] = '<a href="../../articles/tools-of-the-trade/the-custom-built-bullseye-gun/index.html">by Larry Leutenegger</a>'
 fd[3] = '<a href="../../articles/perfecting-technique/establishing-a-system/index.html#properzero">from USAMU</a>'
 fd[4] = '<a href="../../articles/site-reference-general-index/other-popular-disciplines/index.html">Information About the Sport</a>'
-fd[5] = '<a href="http://bullseyepistol.com/chaptr10.htm">from the USAMU</a>'
-fd[6] = '<a href="http://www.nrahq.org/compete/RuleBooks/Pistol/pst-w10.pdf">from Rulebook</a>, or <a href="../../articles/site-reference-general-index/technical-data/index.html#misfire">Common Causes</a>'
+fd[5] = '<a href="../../articles/perfecting-technique/alcohol-coffee-tobacco-and-drugs/index.html">from the USAMU</a>'
+fd[6] = '<a href="https://competitions.nra.org/competition-resources/rule-books/">from Rulebook</a>, or <a href="../../articles/site-reference-general-index/technical-data/index.html#misfire">Common Causes</a>'
 fd[7] = '<a href="../../articles/tools-of-the-trade/the-essential-bullseye-equipment/index.html#ammo">Selecting .22 Ammo</a>, or <a href="../../articles/site-reference-general-index/technical-data/index.html#reload">Reloading Information</a>'
 fd[8] = '<a href="../../articles/perfecting-technique/error-analysis-and-correction/index.html">from USAMU</a>'
 fd[9] = '<a href="../../articles/perfecting-technique/attaining-a-minimum-arc-of-movement/index.html">from USAMU</a>,  or <a href="../../articles/perfecting-technique/three-lessons/index.html#still">by Bill Blankenship</a>'
 fd[10] = '<a href="../../articles/perfecting-technique/army-marksmanship-training-guide/index.html">Actual Training Guide</a>'
-fd[11] = '<a href="http://bullseyepistol.com/chaptr10.htm">from the USAMU</a>, or from <a href="../../articles/shooting-psychology/mental-aspects-of-match-shooting/index.html">Joe White</a>'
+fd[11] = '<a href="../../articles/perfecting-technique/alcohol-coffee-tobacco-and-drugs/index.html">from the USAMU</a>, or from <a href="../../articles/shooting-psychology/mental-aspects-of-match-shooting/index.html">Joe White</a>'
 fd[12] = '<a href="../../articles/perfecting-technique/error-analysis-and-correction/index.html">from USAMU</a>'
 fd[13] = '<a href="../../articles/perfecting-technique/error-analysis-and-correction/index.html">from USAMU</a>'
 fd[14] = '<a href="../../articles/camp-perry-national-matches/lodging-dining-and-entertainment/index.html">compiled by John Dreyer</a>'
@@ -160,19 +160,19 @@ fd[21] = '<a href="../../articles/tools-of-the-trade/the-essential-bullseye-equi
 fd[22] = '<a href="../../articles/perfecting-technique/mastering-the-rapid-fire-stage/index.html">Writings of the Champion</a>'
 fd[23] = '<a href="../../articles/perfecting-technique/error-analysis-and-correction/index.html">from USAMU</a>'
 fd[24] = '<a href="../../articles/perfecting-technique/establishing-a-system/index.html#checklist">from USAMU</a>'
-fd[25] = '<a href="http://www.nrahq.org/compete/RuleBooks/Pistol/pst-w19.pdf">from Rulebook</a>'
+fd[25] = '<a href="https://competitions.nra.org/competition-resources/rule-books/">from Rulebook</a>'
 fd[26] = '<a href="../../articles/tools-of-the-trade/the-essential-bullseye-equipment/index.html#supplies">by John Dreyer</a>'
 fd[27] = '<a href="../../articles/perfecting-technique/fundamentals-of-pistol-marksmanship/index.html#mental">by William Joyner</a>, or <a href="../../articles/shooting-psychology/mental-aspects-of-match-shooting/index.html">by Joe White</a>'
-fd[28] = '<a href="http://www.nrahq.org/compete/RuleBooks/Pistol/pst-w07.pdf">from Rulebook</a>'
+fd[28] = '<a href="https://competitions.nra.org/competition-resources/rule-books/">from Rulebook</a>'
 fd[29] = '<a href="../../articles/site-reference-general-index/other-popular-disciplines/index.html">Information on the Sport</a>'
-fd[30] = '<a href="http://www.nrahq.org/compete/RuleBooks/Pistol/pst-w14.pdf">from Rulebook</a>'
+fd[30] = '<a href="https://competitions.nra.org/competition-resources/rule-books/">from Rulebook</a>'
 fd[31] = '<a href="http://bullseyepistol.com/statoffice.htm">Software by John Dreyer</a>'
 fd[32] = '<a href="../../articles/perfecting-technique/diet-and-health-of-the-pistol-shooter/index.html">from USAMU</a>'
 fd[33] = '<a href="../../articles/tools-of-the-trade/facts-and-figures-about-red-dot-sights/index.html">by John Dreyer</a>'
 fd[34] = '<a href="../../articles/site-reference-general-index/about-this-website/index.html">Purpose of These Efforts</a>, or <a href="mailto:mail' + '@bullseyepistol.com">Contact Him by Email</a>'
 fd[35] = '<a href="../../articles/perfecting-technique/bullseye-pistol-basics/index.html#practice">by Allen Fulford</a>'
 fd[36] = '<a href="../../articles/tools-of-the-trade/the-essential-bullseye-equipment/index.html#ears">by John Dreyer</a>'
-fd[37] = '<a href="../bulseyel/index.html">for Paul Perrone</a>'
+fd[37] = 'for Paul Perrone (<a href="https://www.bullseyeforum.net/">current forum</a>)'
 fd[38] = '<a href="../../articles/tools-of-the-trade/don-t-compromise-on-equipment/index.html">by Randy Pafford</a>'
 fd[39] = '<a href="../../articles/tools-of-the-trade/the-essential-bullseye-equipment/index.html">by John Dreyer</a>'
 fd[40] = '<a href="../../articles/site-reference-general-index/links-to-other-sites/index.html#products">Various Links</a>'
@@ -186,20 +186,20 @@ fd[47] = '<a href="../../articles/perfecting-technique/glossary-of-terms/index.h
 fd[48] = '<a href="../../articles/perfecting-technique/three-lessons/index.html#grip">by Bill Blankenship</a>, or <a href="../../articles/perfecting-technique/attaining-a-minimum-arc-of-movement/index.html#grip">from USAMU</a>'
 fd[49] = '<a href="../../articles/tools-of-the-trade/the-benefits-of-custom-anatomical-grips/index.html">by John Dreyer</a>'
 fd[50] = '<a href="../../articles/perfecting-technique/error-analysis-and-correction/index.html">from USAMU</a>'
-fd[51] = '<a href="http://www.nrahq.org/compete/RuleBooks/Pistol/pst-w03.pdf">from Rulebook</a>, or <a href="../../articles/technical-information/restrictions-for-a-cmp-eic-service-pistol/index.html">from DCM Pamphlet</a>, or <a href="../../articles/site-reference-general-index/technical-data/index.html#hardball">from <i>American Rifleman</i></a>'
+fd[51] = '<a href="https://competitions.nra.org/competition-resources/rule-books/">from Rulebook</a>, or <a href="../../articles/technical-information/restrictions-for-a-cmp-eic-service-pistol/index.html">from DCM Pamphlet</a>, or <a href="../../articles/site-reference-general-index/technical-data/index.html#hardball">from <i>American Rifleman</i></a>'
 fd[52] = '<a href="http://bullseyepistol.com/gilhebar.htm">by John Dreyer</a>'
 fd[53] = '<a href="../../articles/site-reference-general-index/advertise-and-support-this-tremendous-resource/index.html">how to Advertise on this webiste</a>'
 fd[54] = '<a href="../../articles/site-reference-general-index/other-popular-disciplines/index.html">Information on the Sport</a>'
-fd[55] = '<a href="../bulseyel/index.html">the Bullseye-L forum</a>'
+fd[55] = 'the Bullseye-L forum (<a href="https://www.bullseyeforum.net/">current forum</a>)'
 fd[56] = '<a href="../../articles/site-reference-general-index/links-to-other-sites/index.html">Links to Other Sites</a>'
 fd[57] = '<a href="../../articles/perfecting-technique/trigger-control/index.html">by USAMU</a>'
 fd[58] = '<a href="../../articles/perfecting-technique/fundamentals-of-pistol-marksmanship/index.html">Writings of the Champion</a>'
-fd[59] = '<a href="http://www.nrahq.org/compete/RuleBooks/Pistol/pst-w01.pdf">General Definition</a>, or <a href="http://www.nrahq.org/compete/RuleBooks/Pistol/pst-w03.pdf">Service Pistol Definition</a>'
+fd[59] = '<a href="https://competitions.nra.org/competition-resources/rule-books/">General Definition</a>, or <a href="https://competitions.nra.org/competition-resources/rule-books/">Service Pistol Definition</a>'
 fd[60] = '<a href="../../articles/tools-of-the-trade/the-custom-built-bullseye-gun/index.html">Writings of the Armorer</a>'
 fd[61] = '<a href="../../articles/technical-information/m-1911-pistol-lubrication/index.html">by Ed Masaki</a>, or <a href="../../articles/tools-of-the-trade/the-essential-bullseye-equipment/index.html#supplies">by John Dreyer</a>'
-fd[62] = '<a href="http://www.nrahq.org/compete/RuleBooks/Pistol/pst-w10.pdf">from Rulebook</a>, or <a href="../../articles/site-reference-general-index/technical-data/index.html#misfire">Common Causes</a>'
+fd[62] = '<a href="https://competitions.nra.org/competition-resources/rule-books/">from Rulebook</a>, or <a href="../../articles/site-reference-general-index/technical-data/index.html#misfire">Common Causes</a>'
 fd[63] = '<a href="../../articles/technical-information/m-1911-pistol-lubrication/index.html">his Pistol Oiling Tips</a>'
-fd[64] = '<a href="http://www.nrahq.org/compete/RuleBooks/Pistol/pst-w01.pdf">from Rulebook</a>'
+fd[64] = '<a href="https://competitions.nra.org/competition-resources/rule-books/">from Rulebook</a>'
 fd[65] = '<a href="../../articles/introductory-information/nra-s-introductory-information-on-the-sport/index.html#howto">General Information</a>, or <a href="http://www.nra.org/fieldops/stateass.html">Contact NRA Affiliate Organizations</a>'
 fd[66] = '<a href="../../articles/shooting-psychology/the-psychology-of-routine/index.html">by Don Nygord</a>, or by <a href="../../articles/shooting-psychology/staying-focused-despite-match-pressure/index.html">Bob Rotella, PhD</a>'
 fd[67] = '<a href="../../articles/perfecting-technique/fundamentals-of-pistol-marksmanship/index.html#mental">by William Joyner</a>, or <a href="../../articles/shooting-psychology/mental-aspects-of-match-shooting/index.html">by Joe White</a>, or <a href="../../articles/perfecting-technique/mental-discipline/index.html">from USAMU</a>'
@@ -213,8 +213,8 @@ fd[74] = '<a href="../../articles/perfecting-technique/alcohol-coffee-tobacco-an
 fd[75] = '<a href="http://www.nra.org/fieldops/stateass.html">as Published by the NRA</a>'
 fd[76] = '<a href="../../articles/site-reference-general-index/other-popular-disciplines/index.html">From Various Sources</a>'
 fd[77] = '<a href="../../articles/tools-of-the-trade/facts-and-figures-about-red-dot-sights/index.html">by John Dreyer</a>'
-fd[78] = '<a href="../bulseyel/index.html">his Bullseye-L Mailing List</a>'
-fd[79] = '<a href="links#products">link to Company Website</a>'
+fd[78] = 'his Bullseye-L Mailing List (<a href="https://www.bullseyeforum.net/">current forum</a>)'
+fd[79] = '<a href="../../articles/site-reference-general-index/links-to-other-sites/index.html#products">link to Company Website</a>'
 fd[80] = '<a href="http://www.piasaclub.com/" target="_parent">by John Dreyer</a>'
 fd[81] = '<a href="../../articles/tools-of-the-trade/the-essential-bullseye-equipment/index.html#pistol">by John Dreyer</a>'
 fd[82] = '<a href="../../articles/tools-of-the-trade/the-essential-bullseye-equipment/index.html#45pistol">by John Dreyer</a>'
@@ -226,26 +226,26 @@ fd[87] = '<a href="../../articles/site-reference-general-index/the-nra-s-nationa
 fd[88] = '<a href="../../articles/site-reference-general-index/other-popular-disciplines/index.html">from Various Sources</a>'
 fd[89] = '<a href="../../articles/perfecting-technique/bullseye-pistol-basics/index.html#practice">by Allen Fulford</a>'
 fd[90] = '<a href="../../articles/perfecting-technique/establishing-a-system/index.html#checklist">from USAMU</a>'
-fd[91] = '<a href="http://www.nrahq.org/compete/RuleBooks/Pistol/pst-w10.pdf">from Rulebook</a>, or <a href="../../articles/the-reference-room/studio-recorded-audio-files-of-range-commands/index.html">Download the Audio File</a>'
+fd[91] = '<a href="https://competitions.nra.org/competition-resources/rule-books/">from Rulebook</a>, or <a href="../../articles/the-reference-room/studio-recorded-audio-files-of-range-commands/index.html">Download the Audio File</a>'
 fd[92] = '<a href="../../articles/perfecting-technique/mastering-the-rapid-fire-stage/index.html">by David Cartes</a>'
 fd[93] = '<a href="../../articles/the-reference-room/software-tools-for-match-directors/index.html">by John Dreyer</a>'
 fd[94] = '<a href="../../articles/site-reference-general-index/technical-data/index.html#personal">by  John Dreyer</a>'
 fd[95] = '<a href="../../articles/site-reference-general-index/technical-data/index.html#hardball">from <i>American Rifleman</i></a>'
 fd[96] = '<a href="../../articles/site-reference-general-index/technical-data/index.html#reload">General Information</a>'
 fd[97] = '<a href="../../articles/site-reference-general-index/links-to-other-sites/index.html#clubs">Various Links</a>'
-fd[98] = '<a href="http://www.nrahq.org/compete/RuleBooks/Pistol/pst-index.pdf">The Official NRA Rulebook</a>'
+fd[98] = '<a href="https://competitions.nra.org/competition-resources/rule-books/">The Official NRA Rulebook</a>'
 fd[99] = '<a href="../../articles/general-firearms-information/know-all-the-rules-of-gun-safety/index.html">General Firearm Safety Rules</a>'
 fd[100] = '<a href="../../articles/tools-of-the-trade/the-essential-bullseye-equipment/index.html#scope">by John Dreyer</a>'
 fd[101] = '<a href="../../articles/tools-of-the-trade/facts-and-figures-about-red-dot-sights/index.html">by John Dreyer</a>'
-fd[102] = '<a href="http://www.nrahq.org/compete/RuleBooks/Pistol/pst-w14.pdf">from Rulebook</a>'
-fd[103] = '<a href="http://www.nrahq.org/compete/RuleBooks/Pistol/pst-w14.pdf">The Rules</a>, or <a href="../../articles/tools-of-the-trade/the-essential-bullseye-equipment/index.html#scoring">Scoring Aids</a>'
-fd[104] = '<a href="http://www.nrahq.org/compete/RuleBooks/Pistol/pst-w03.pdf">from Rulebook</a>, or <a href="../../articles/technical-information/restrictions-for-a-cmp-eic-service-pistol/index.html">from DCM Pamphlet</a>'
+fd[102] = '<a href="https://competitions.nra.org/competition-resources/rule-books/">from Rulebook</a>'
+fd[103] = '<a href="https://competitions.nra.org/competition-resources/rule-books/">The Rules</a>, or <a href="../../articles/tools-of-the-trade/the-essential-bullseye-equipment/index.html#scoring">Scoring Aids</a>'
+fd[104] = '<a href="https://competitions.nra.org/competition-resources/rule-books/">from Rulebook</a>, or <a href="../../articles/technical-information/restrictions-for-a-cmp-eic-service-pistol/index.html">from DCM Pamphlet</a>'
 fd[105] = '<a href="../../articles/site-reference-general-index/links-to-other-sites/index.html#clubs">by John Dreyer</a>'
 fd[106] = '<a href="../../articles/introductory-information/nra-s-introductory-information-on-the-sport/index.html#howto">General Information</a>, or <a href="http://www.nra.org/fieldops/stateass.html">Contact NRA Affiliate Organizations</a>'
 fd[107] = '<a href="../../articles/perfecting-technique/error-analysis-and-correction/index.html">from USAMU</a>'
 fd[108] = '<a href="../../articles/perfecting-technique/sight-alignment/index.html">from USAMU</a>, or <a href="../../articles/perfecting-technique/optical-properties-of-the-eye/index.html">Even More Technical</a>'
 fd[109] = '<a href="../../articles/site-reference-general-index/other-popular-disciplines/index.html">Information on the Sport</a>'
-fd[110] = '<a href="http://www.nrahq.org/compete/RuleBooks/Pistol/pst-w14.pdf">from Rulebook</a>'
+fd[110] = '<a href="https://competitions.nra.org/competition-resources/rule-books/">from Rulebook</a>'
 fd[111] = '<a href="../../articles/perfecting-technique/technique-of-slow-fire/index.html">from USAMU</a>'
 fd[112] = '<a href="../../articles/site-reference-general-index/other-popular-disciplines/index.html">General Information</a>'
 fd[113] = '<a href="../../articles/site-reference-general-index/links-to-other-sites/index.html#products">Link to Website</a>, or <a href="../../articles/tools-of-the-trade/the-essential-bullseye-equipment/index.html#pistol">Model 41</a>'
@@ -256,9 +256,9 @@ fd[117] = '<a href="../../articles/tools-of-the-trade/facts-and-figures-about-re
 fd[118] = '<a href="../../articles/perfecting-technique/the-attributes-of-a-champion-shooter/index.html">by USAMU</a>'
 fd[119] = '<a href="../../articles/site-reference-general-index/links-to-other-sites/index.html#clubs">Various Links</a>'
 fd[120] = '<a href="../../articles/perfecting-technique/glossary-of-terms/index.html">by USAMU</a>'
-fd[121] = '<a href="http://www.nrahq.org/compete/RuleBooks/Pistol/pst-w15.pdf">from Rulebook</a>'
+fd[121] = '<a href="https://competitions.nra.org/competition-resources/rule-books/">from Rulebook</a>'
 fd[122] = '<a href="../../articles/perfecting-technique/technique-of-sustained-fire/index.html">by USAMU</a>'
-fd[123] = '<a href="http://www.nrahq.org/compete/RuleBooks/Pistol/pst-w01.pdf">from Rulebook</a>'
+fd[123] = '<a href="https://competitions.nra.org/competition-resources/rule-books/">from Rulebook</a>'
 fd[124] = '<a href="../../articles/perfecting-technique/bullseye-pistol-basics/index.html#practice">by Allen Fulford</a>'
 fd[125] = '<a href="../../articles/perfecting-technique/trigger-control/index.html">by USAMU</a>'
 fd[126] = '<a href="../../articles/site-reference-general-index/links-to-other-sites/index.html#clubs">Links to Various Websites</a>'
@@ -270,60 +270,24 @@ fd[131] = '<a href="../../articles/perfecting-technique/establishing-a-system/in
 fd[132] = '<a href="../../articles/site-reference-general-index/the-nra-s-national-records/index.html">from the NRA</a>'
 fd[133] = '<a href="../../articles/zen-in-the-art-of-shooting/introduction-to-zen-in-shooting/index.html">compiled by John Dreyer</a>'
 fd[134] = '<a href="../../articles/perfecting-technique/the-true-fundamentals/index.html">Writings of the Champion</a>'
-fd[135] = '<a href="rangecmd">recorded by John Dreyer</a>'
-
-function getCookie(name) {
-var cname = name + "="
-var dc = document.cookie;
-if (dc.length > 0) {
-  begin = dc.indexOf(name);
-  if (begin != -1) {
-      begin += cname.length;
-      end = dc.indexOf(";", begin);
-      if (end == -1) end = dc.length;
-      return unescape(dc.substring(begin, end));
-      }
-   }
-return null;
-}
+fd[135] = '<a href="../../articles/the-reference-room/studio-recorded-audio-files-of-range-commands/index.html">recorded by John Dreyer</a>'
 
 function findTopic() {
-var bName = getCookie("search");
-bName = bName.toUpperCase()
-document.write("Search results for query:   <font size=4> <b> " + bName + "." + "</b></font><br><br>")
-results = 0;
-if (bName != "")  {
-document.write("<ol type=1>")
+var query = (new URLSearchParams(window.location.search).get("q") || "").trim().toUpperCase();
+if (!query) {
+document.write("Enter a word in Search This Site to search the recovered topic index.");
+return;
+}
+var safeQuery = query.replace(/[&<>"']/g, function(c) {
+return {"&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;"}[c];
+});
+document.write("Search results for query: <strong>" + safeQuery + "</strong><ol>");
+var results = 0;
 for (var x = 1; x <= 135; x++) {
-
-    if (it[x].indexOf(bName) != -1)  {
-document.write("<li>"+it[x] + fd[x] + "<br>");
-results ++;
+if (it[x].indexOf(query) !== -1) {
+document.write("<li>" + it[x] + fd[x] + "</li>");
+results++;
 }
 }
-document.write("</ol>")
+document.write("</ol>" + (results ? results + " matching topics." : "There were no matches."));
 }
-if (results > 0) document.write("There were " + results + " successful matches.");
-else document.write("There were no matches.");
-
-}
-
-function outsideSearch()  {
-if (self.window.name != "Print")  {
-document.write("<div align='center'><center><br><table border='1' cellpadding='7' cellspacing='0'> <tr> <td align='right' bgcolor='#BDDCF4'><font face='Arial'><strong>Take your query </strong><strong><i>outside</i></strong><strong> the Bullseye Encyclopedia...</strong></font><form action='http://www.gunsgunsguns.com/cgi-bin/gsearch.pl' method='POST' name='gunhoo' target='_parent'> <p><font size='2' face='Tahoma'><b>GUNHOO SEARCH</b>:</font> <input type='text' size='20' name='query'><input type='submit' value=' Find '></p> </form> <form method='get' action='http://www.nrahq.org/search/default.asp' name='nra' target='_parent'><INPUT TYPE='hidden' name='cmd' value='search'><INPUT TYPE='hidden' name='index' value='1'><INPUT TYPE='hidden' name='stemming' value='Yes'><INPUT TYPE='hidden' name='maxFiles' value='10'><INPUT TYPE='hidden' name='sort' value='Hits'> <p><font size='2' face='Tahoma'><b>NRAHQ WEBSITE SEARCH</b>: </font><input type='text' size='20' name='request'><input type='submit' value=' Find '></p> </form> <form action='http://go.msn.com/1/0/default.asp' method='get' name='searchweb'> <p><font size='2' face='Tahoma'><strong>MSN SEARCH:</strong></font> <input type='text' size='20' maxlength='150' name='q' id='S1' accesskey='S' /><input type='submit' value=' Find ' /></p> </form> <form action='http://www.google.com/search' name='google'> <input type='hidden' name='hl' value='en'><input type='hidden' name='ie' value='UTF-8'><input type='hidden' name='oe' value='UTF-8'><p><font size='2' face='Tahoma'><strong>GOOGLE SEARCH:</strong></font> <input type='text' size='20' maxlength='256' name='q'><input type='submit' name='btnG' value=' Find '></p> </form> <form action='http://web.ask.com/web' method='get' name='questionbar'> <input type='hidden' name='o' value='0'><input type='hidden' name='x' value='15'><input type='hidden' name='y' value='11'><p><font size='2' face='Tahoma'><strong>ASK JEEVES SEARCH: </strong></font><input type='text' size='20' maxlength='255' name='q' /><input type='submit' value=' Find ' /></p> </form> </td> </tr></table></center></div>")
-
-var bName = getCookie("search");
-bName = bName.toLowerCase();
-document.gunhoo.query.value=bName;
-document.nra.request.value=bName;
-document.searchweb.q.value=bName;
-document.google.q.value=bName;
-document.questionbar.q.value=bName;
-}
-}
-
-
-  
-
-
-

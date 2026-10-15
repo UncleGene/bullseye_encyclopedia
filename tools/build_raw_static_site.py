@@ -549,6 +549,14 @@ def rewrite_html(
     page_scripts: dict[tuple[str, str], Path],
 ) -> tuple[str, list[str]]:
     script_missing: list[str] = []
+    if url_stem(base_original) == "pi-a":
+        member_info = re.search(r'rfram\[1\] = "(.*?)";', text, re.DOTALL)
+        if not member_info:
+            raise ValueError("Expected recovered club membership description")
+        description = member_info.group(1).split("<br><br>Select the")[0]
+        text = re.sub(r'<script\b[^>]*>.*?</script>', '', text, flags=re.IGNORECASE | re.DOTALL)
+        text = re.sub(r'\s+onLoad="mStation\(1\)"', '', text, flags=re.IGNORECASE)
+        text = re.sub(r'(<div id="rtext">).*?(</div>)', lambda m: m[1] + description + m[2], text, flags=re.DOTALL)
 
     def replace_script_tag(match: re.Match[str]) -> str:
         raw_url = match.group("src")
@@ -606,6 +614,13 @@ def rewrite_html(
         return f"{match.group('prefix')}{local}{match.group('suffix')}"
 
     text = OPTION_VALUE_RE.sub(replace_option, text)
+    # Header arguments are navigation URLs, but are not HTML attributes.
+    text = re.sub(
+        r"\bheader\([^;\n]*\)",
+        lambda m: rewrite_js(m.group(0), base_original, path_map, from_path, missing_notes)[0],
+        text,
+    )
+    text = repair_static_controls(text)
     return text, sorted(set(missing))
 
 
@@ -630,12 +645,124 @@ def rewrite_js(
             return match.group(0)
         return f"{match.group('quote')}{local}{match.group('quote')}"
 
+    # Two recovered search entries omit the extension, unlike their captures.
+    text = text.replace('href="rangecmd"', 'href="rangecmd.htm"').replace('href="links#products"', 'href="links.htm#products"')
+    text = text.replace('chaptr10.htm', 'chapter10.htm')
+    text = re.sub(r'<a href="(?:https?://(?:www\.)?bullseyepistol\.com/)?bulseyel\.htm">([^<]+)</a>',
+                  r'\1 (<a href="https://www.bullseyeforum.net/">current forum</a>)', text, flags=re.IGNORECASE)
+    text = re.sub(r'https?://(?:www\.)?bullseyepistol\.forumotion\.com/?', 'https://www.bullseyeforum.net/', text)
     rewritten = JS_STRING_URL_RE.sub(replace_string, text)
+    rewritten = re.sub(r'https?://(?:www\.)?nrahq\.org/compete/RuleBooks/Pistol/[^\s\'"<>]+',
+                       'https://competitions.nra.org/competition-resources/rule-books/', rewritten, flags=re.IGNORECASE)
     for raw_prefix in DYNAMIC_JS_ASSET_PREFIXES:
         local = local_url_for(base_original, raw_prefix, path_map, from_path)
         if local is not None:
             rewritten = rewritten.replace(raw_prefix, local)
-    return rewritten, sorted(set(missing))
+    return repair_static_scripts(rewritten), sorted(set(missing))
+
+
+def repair_static_scripts(text: str) -> str:
+    """Repair recovered client behavior without changing capture bytes."""
+    def search(match: re.Match[str]) -> str:
+        target = re.search(r'window.location.href\s*=\s*["\']([^"\']+)', match.group(0))
+        if not target:
+            raise ValueError("Recovered Search function has no destination")
+        return (
+            'function Search(field) {\n'
+            'var query = field.findit.value.trim();\n'
+            f'window.location.href = {json.dumps(target.group(1))} + "?q=" + encodeURIComponent(query);\n'
+            '}')
+
+    text = re.sub(r'function Search\(field\)\s*\{.*?\n\}', search, text, flags=re.DOTALL)
+    text = enable_keyboard_search(text)
+    text = re.sub(r'''<a href='" \+ ad[123] \+ "'>(<img[^>]+>)</a>''', r'\1', text)
+    text = text.replace("<form action='NOACTION'>", "<form onsubmit='Search(this); return false;'>")
+    # These services are replaced by ordinary links on the homepage.
+    for name in ("showtime", "mapQuest", "weatherUnderground", "rangeSearch", "nraLook", "bac", "frw"):
+        text = re.sub(rf'function {name}\([^)]*\)\s*\{{.*?\n\}}', '', text, flags=re.DOTALL)
+    if 'function findTopic()' in text:
+        text = text[:text.index('function getCookie(')] + '''function findTopic() {
+var query = (new URLSearchParams(window.location.search).get("q") || "").trim().toUpperCase();
+if (!query) {
+document.write("Enter a word in Search This Site to search the recovered topic index.");
+return;
+}
+var safeQuery = query.replace(/[&<>"']/g, function(c) {
+return {"&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;"}[c];
+});
+document.write("Search results for query: <strong>" + safeQuery + "</strong><ol>");
+var results = 0;
+for (var x = 1; x <= 135; x++) {
+if (it[x].indexOf(query) !== -1) {
+document.write("<li>" + it[x] + fd[x] + "</li>");
+results++;
+}
+}
+document.write("</ol>" + (results ? results + " matching topics." : "There were no matches."));
+}
+'''
+    return text
+
+
+def enable_keyboard_search(text: str) -> str:
+    # Several recovered forms sit between table tags; Enter needs an explicit
+    # input handler because browsers repair that invalid nesting differently.
+    return re.sub(r'(<input\b[^>]*\bname=["\']findit["\'])',
+                  r"\1 onkeydown='if(event.keyCode===13){Search(this.form);return false;}'", text,
+                  flags=re.IGNORECASE)
+
+
+def repair_static_controls(text: str) -> str:
+    original = text
+    text = re.sub(r'https?://(?:www\.)?bullseyepistol\.forumotion\.com/?', 'https://www.bullseyeforum.net/', text)
+    text = enable_keyboard_search(text)
+    text = text.replace('outsideSearch();', '')
+    text = re.sub(r'https?://(?:www\.)?(?:nrahq\.org/compete/RuleBooks/Pistol/|compete\.nra\.org/documents/pdf/compete/RuleBooks/Pistol/)[^\s\'"<>]+',
+                  'https://competitions.nra.org/competition-resources/rule-books/', text, flags=re.IGNORECASE)
+    text = re.sub(r'<form>(?=\s*<td[^>]*[\s\S]{0,120}name="findit")',
+                  '<form onsubmit="Search(this); return false;">', text)
+    # Retain historical descriptions; remove controls that submit to absent services.
+    text = re.sub(r'<form\b[^>]*>.*?</form>',
+                  lambda m: '' if any(service in m.group(0).lower() for service in
+                      ('paypal.com', 'formmailto.com', 'advertise1.php')) else m.group(0),
+                  text, flags=re.IGNORECASE | re.DOTALL)
+    return re.sub(r'^[ \t]+$', '', text, flags=re.MULTILINE) if text != original else text
+
+
+def repair_homepage(text: str) -> str:
+    """Keep the recovered visual language while removing inactive services."""
+    replacements = {
+        "News and Updates": None,
+        "Website Statistics": None,
+        "Bullseye Twitter Feed": None,
+        "Sponsor Our Website": None,
+        "Souvenirs and Apparel": None,
+        "NRA Classification Lookup": '<a href="https://competitor.nra.org/">Open NRA Competitor Classification Lookup</a>',
+        "Find Shooting Ranges": '<a href="https://www.wheretoshoot.org/">Find a range with Where To Shoot</a>',
+        "Match Preparations": '<a href="https://www.weather.gov/">Weather forecasts from the National Weather Service</a><br><br><a href="https://www.google.com/maps/dir/">Plan your travel with Google Maps</a>',
+    }
+    # These widgets have no nested tables; block() emits their opening table.
+    for title, body in replacements.items():
+        pattern = r'<script[^>]*>block\("' + re.escape(title) + r'"\);</script>.*?</tbody>\s*</table>'
+        replacement = '' if body is None else (
+            f'<script type="text/javascript">block("{title}");</script>'
+            f'<tr><td class="giz" colspan="2">{body}</td></tr></tbody></table>\n')
+        text, count = re.subn(pattern, lambda m: replacement, text, count=1, flags=re.DOTALL)
+        if count != 1:
+            raise ValueError(f"Expected one homepage widget: {title}")
+    text, count = re.subn(
+        r'<td\s+style="background-color: #22952d; width:336px;">.*?</td>',
+        '<td style="background-color:#22952d; width:336px; text-align:center;">'
+        '<a style="color:#debea1; font:bold 16px Tahoma,Arial;" '
+        'href="https://thecmp.org/cmp-national-matches/">Camp Perry National Matches</a></td>',
+        text, count=1, flags=re.DOTALL)
+    if count != 1:
+        raise ValueError("Expected one expired countdown")
+    text = re.sub(r'<td><a href="javascript:(?:bac|frw)\(\);".*?</td>', '', text, flags=re.DOTALL)
+    text = text.replace('New material was last added:', 'Recovered homepage capture:')
+    text = re.sub(r'<i>Daily</i> Twitter.*?new material is added\.', '', text, flags=re.DOTALL)
+    text = text.replace('http://www.nrahq.org/compete/nm_campperry.asp', 'https://thecmp.org/cmp-national-matches/')
+    return re.sub(r'^[ \t]+$', '', text, flags=re.MULTILINE)
 
 
 def rewrite_css(
@@ -756,6 +883,7 @@ def main() -> int:
             native_link_added = 0
             if path_map[key] == Path("index.html"):
                 rewritten = fix_index_table_layout(rewritten)
+                rewritten = repair_homepage(rewritten)
                 rewritten, native_link_added = re.subn(
                     r"(<a\b[^>]*>\s*Website Index\s*</a>)",
                     lambda m: m.group(1) + f' | <a data-site-variant="raw" href="{ARTICLE_SITE_URL}">{ARTICLE_SITE_LABEL}</a>',
@@ -843,6 +971,13 @@ def main() -> int:
         "extra_manifests": args.extra_manifest,
         "output": str(out),
         "article_site_url": ARTICLE_SITE_URL,
+        "active_content_policy": {
+            "repaired": ["JavaScript header links", "cookie-free escaped topic search", "keyboard search submission"],
+            "replaced_with_service_links": ["2015 Camp Perry countdown", "NRA classification", "range search", "weather", "directions"],
+            "removed": ["newsletter subscription", "live counter", "embedded social feed", "advertising orders", "PayPal purchases", "souvenir store", "slideshow arrows", "unrecovered club member login", "empty ad redirect links"],
+            "unrecovered_slideshow_images": [f"http://www.bullseyepistol.com/image{i}.jpg" for i in range(2, 16)],
+            "source_captures_modified": False,
+        },
         "records_selected": len(selected),
         "files_written": written,
         "index_source": str(index_source) if index_source else None,

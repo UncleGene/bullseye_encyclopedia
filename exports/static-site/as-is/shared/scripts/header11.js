@@ -7,47 +7,16 @@ function mOut(p) {
 p.style.backgroundColor='#3265a3';
 }
 function Search(field) {
-var str = field.findit.value;
-var when = new Date();
-when.setMonth(when.getMonth() + 1);
-var date = when.toGMTString();
-document.cookie = "search=" + str + "; expires=" + date + ";path=/";
-window.location.href ="../../pages/search/index.html"
-}
-function showtime() {
-var now=new Date();
-var then = new Date("July 11, 2015 01:00:00")
-var gap = then.getTime() - now.getTime();
-gap = Math.abs(Math.floor(gap / (1000*60*60*24)));
-hundi = Math.floor(gap / 100)
-deci = Math.floor((gap - (hundi * 100)) / 10)
-digi = Math.floor((gap - (hundi * 100) - (deci * 10)))
-document.write("<img src=" + hundi + ".gif height=50 width=25><img src=" + deci + ".gif height=50 width=25><img src=" + digi + ".gif height=50 width=25>");
-}
-function mapQuest(field) {
-var start = field.start.value;
-var end = field.end.value;
-var travel = "http://www.mapquest.com/directions/main.adp?go=1&do=nw&ct=NA&1y=US&1a=&1p=&1c=&1s=&1z=" + start + "&1ah=&2y=US&2a=&2p=&2c=&2s=&2z=" + end + "&2ah=&lr=2&x=74&y=11"
-top.location.href = travel
-}
-function weatherUnderground(field) {
-var place = field.zipcode.value;
-var gothere = "http://www.weatherunderground.com/cgi-bin/findweather/getForecast?query=" + (place)
-top.location.href = gothere
+var query = field.findit.value.trim();
+window.location.href = "../../pages/search/index.html" + "?q=" + encodeURIComponent(query);
 }
 
-function rangeSearch(field) {
-var start = field.zipcode.value;
-var radius = field.distance.value;
-var gothere = "http://www.shootingplaces.com/?radius=" + (radius) + "&origin_point=" + (start)
-top.location.href = gothere
-}
 
-function nraLook(field) {
-var code = field.MemID.value;
-document.nraLookup.MemberID.value = code;
-document.nraLookup.submit()
-}
+
+
+
+
+
 
 function eMail() {
 var pb="bullseyepistol.com";
@@ -78,17 +47,9 @@ var a = (qt[pk] + "<br><i>" + atr[pk] + "</i>");
 document.write (a);
 }
 
-function bac() {
-imageNo--;
-if (imageNo < 1) {imageNo = 15}
-pix.innerHTML = (ph[imageNo] + "<img style='width: 190px; height: 185px; border: 0px;' alt='' src='http://www.bullseyepistol.com/image" + imageNo + ".jpg'></a>");
-}
 
-function frw() {
-imageNo++;
-if (imageNo > 15) {imageNo = 1}
-pix.innerHTML = (ph[imageNo] + "<img style='width: 190px; height: 185px; border: 0px;' alt='' src='http://www.bullseyepistol.com/image" + imageNo + ".jpg'></a>");
-}
+
+
 
 var ph = new Object()
 ph[1] = "<a href='../../articles/perfecting-technique/a-fundamentals-clinic/index.html'>" 

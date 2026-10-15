@@ -4,6 +4,8 @@ Date: 2026-10-15
 
 ## Current Slice
 
+Historical-site function audit requested on 2026-10-15: repaired script navigation and cookie-free topic search; replaced obsolete service forms with current service links and removed unusable controls. Source archive and canonical content are preserved. See `docs/recovery/site-function-audit.md`; publication verification is recorded in `docs/recovery/github-pages.md`.
+
 GitHub Pages deployment verified on 2026-10-15 for `0b22bcd`: the historical `as-is` site is at the publication root and the normalized `raw` article site is under `/raw/`. Both URLs return HTTP 200 with the expected relative cross-links; the article header uses the recovered banner. The default GitHub URL served without a custom-domain redirect. See `docs/recovery/github-pages.md` for evidence and generator details. PDF QA and external EPUB validation remain complete.
 
 ## Status
@@ -68,7 +70,7 @@ Deferred or routed questions:
 - Ebook cover: deferred; a later pass may add a designed cover image.
 - Raw article site missing-artifact section: implemented with article backlinks and source-backed descriptions.
 - As-is output missing-resource presentation: implemented as silent suppression in reader-facing pages, with `17` internal missing URLs retained only in the report. Classification now breaks them down into `8` non-Wayback owner-file gaps, `5` unrecovered article URLs, `2` provider artifacts, `1` hosting-template artifact, and `1` decorative image.
-- As-is unresolved rewrite inventory: classified. It contains `44` pages, `692` external refs, and `33` unique internal URLs; `11` hosting-template artifact URLs dominate the internal side.
+- As-is unresolved rewrite inventory: classified; the current rebuild lists `43` pages with unresolved rewrites. The reproduction report retains individual references; the function audit records control removals and service replacements.
 - EPUB internal non-article resource handling: implemented as reader-safe suppression; `59` such links are omitted from active EPUB navigation and retained only in the export report.
 - DB import/export contract: postponed until the user explicitly requests DB work.
 

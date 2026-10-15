@@ -24,6 +24,8 @@ Ready-to-read and downloadable editions are in [`exports/final`](exports/final):
 
 Extract either website ZIP and open its `index.html` to browse locally.
 
+The historical site retains its recovered layout and topic groups. Broken navigation is repaired during export; inactive service widgets are removed or replaced with current service links. See the [function audit](docs/recovery/site-function-audit.md).
+
 ## Repository layout
 
 - [`archive/`](archive/) — recovered source captures, manifests, and provenance.

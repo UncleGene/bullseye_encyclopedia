@@ -154,8 +154,7 @@ this Site</a>
  style="background-color: #22952d; width:350px"><img
  style="width: 350px; height: 50px;" alt="Bullseye Pistol"
  src="shared/images/banner4.jpg"></td>
-      <td
- style="background-color: #22952d; width:336px;"><img src="shared/images/lclock.jpg" style="width:222px; height:50px;"><script type="text/javascript">showtime();</script><img src="shared/images/rclock.jpg" style="width:39px; height:50px;"></td>
+      <td style="background-color:#22952d; width:336px; text-align:center;"><a style="color:#debea1; font:bold 16px Tahoma,Arial;" href="https://thecmp.org/cmp-national-matches/">Camp Perry National Matches</a></td>
     </tr>
     <tr>
       <td colspan="3" class="but" bgcolor="#000060" background="shared/images/roundbar1.jpg" style="height:27px; vertical-align:middle;">&nbsp;The Oldest and Most Popular Internet-Based Information Resource on NRA Precision Pistol Shooting, the World's Greatest Sport!</td>
@@ -171,9 +170,9 @@ this Site</a>
 
 <script type="text/javascript">block("Search This Website");</script>
 <tr>
-<form><td style="width: 100%;" colspan="2"
+<form onsubmit="Search(this); return false;"><td style="width: 100%;" colspan="2"
  class="giz">
-<input size="18" maxlength="24" name="findit"
+<input size="18" maxlength="24" name="findit" onkeydown='if(event.keyCode===13){Search(this.form);return false;}'
  type="text"> <input value="Find" onclick="Search(this.form)"
  type="button"><br>
 Or jump to a general topic:&nbsp; &nbsp; &nbsp; <input size="1"
@@ -187,12 +186,12 @@ Or jump to a general topic:&nbsp; &nbsp; &nbsp; <input size="1"
 <option value="articles/site-reference-general-index/website-topic-index/index.html">Site Index</option>
 <option value="articles/perfecting-technique/army-marksmanship-training-guide/index.html">AMU Manual</option>
 <option
- value="http://www.nrahq.org/compete/RuleBooks/Pistol/pst-index.pdf">NRA
+ value="https://competitions.nra.org/competition-resources/rule-books/">NRA
 Rule Book</option>
 <option value="articles/site-reference-general-index/links-to-other-sites/index.html#clubs">Clubs/Teams</option>
 <option value="articles/site-reference-general-index/links-to-other-sites/index.html#products">Product Sources</option>
 <option
- value="http://bullseyepistol.forumotion.com/">New Bullseye-L Forum</option>
+ value="https://www.bullseyeforum.net/">New Bullseye-L Forum</option>
 <option value="articles/zen-in-the-art-of-shooting/introduction-to-zen-in-shooting/index.html">Zen in Shooting</option>
 <option value="articles/site-reference-general-index/about-this-website/index.html">About This Site</option>
 <option value="articles/site-reference-general-index/other-popular-disciplines/index.html">Other Disciplines</option>
@@ -203,72 +202,20 @@ Rule Book</option>
 </tbody>
 </table>
 <table><tr><td style="font-size:4px;">&nbsp;</td></tr></table>
-<script type="text/javascript">block("News and Updates");</script><tr>
-<form
- action="http://bullseyepistol.us4.list-manage.com/subscribe/post?u=34e8db1d62162007952ceb387&amp;id=ba9e43b1e1"
- method="post" name="mc-embedded-subscribe-form" target="_top"><td style="width: 100%;" colspan="2"
- class="giz">
-&nbsp;Subscribe to receive occasional<br>
-&nbsp;newsletters with website updates<br>
-&nbsp;and more. Enter your Email address:<br>
- <input value="" name="EMAIL"
- style="font-size: 14px; width: 95%;" maxlength="100" type="text"> <br>
- <input value="html" name="EMAILTYPE" id="mce-EMAILTYPE-0"
- checked="checked" type="radio"><label for="mce-EMAILTYPE-0">Standard</label>&nbsp;
- <input value="text" name="EMAILTYPE" id="mce-EMAILTYPE-1"
- type="radio"><label for="mce-EMAILTYPE-1">Text-Only</label> &nbsp; <input
- value="Join" name="subscribe" class="button" style="font-size: 13px;"
- type="submit">
-</td></form>
-</tr>
-</tbody>
-</table>
-<table><tr><td style="font-size:4px;">&nbsp;</td></tr></table>
-<script type="text/javascript">block("NRA Classification Lookup");</script><tr>
-<form method="post" name="nraLookup"
- action="http://www.nrahq.org/compete/classification.asp"><td style="width: 100%;" colspan="2"
- class="giz">
-Enter NRA Number:<br>
- <input name="MemberID" size="13" maxlength="10"
- type="text"><input name="source" value="" type="hidden"><font
- color="#000000"> <input name="Lookup" value=" Lookup " type="submit"></font><br>
-(Courtesy
-of NRA Competition Division)</td></form>
-</tr>
-</tbody>
-</table>
 
 <table><tr><td style="font-size:4px;">&nbsp;</td></tr></table>
-<script type="text/javascript">block("Match Preparations");</script>
-<tr>
-<form><td style="width: 100%;" colspan="2"
- class="giz">
- <div class="tit">Weather Forecast:</div>
-Enter the Range's Zip Code:<br>
- <font color="#000000"><input size="5" name="zipcode"
- type="text"> <input value="Get Forecast"
- onclick="weatherUnderground(this.form)" type="button"></font><br>
-(Courtesy
-of Weather Underground)<br>
- <br>
- <div class="tit">Travel
-Directions:</div>
-Enter your Local Zip Code:<br><input size="5" name="start"
- type="text"><br>
-Enter the Range's Zip Code:<br>
- <input size="5" name="end" type="text"> <input
- value="Get Directions" onclick="mapQuest(this.form)" type="button"><br>
- (Courtesy of MapQuest)
-</td></form>
-</tr>
-</tbody>
-</table>
+<script type="text/javascript">block("NRA Classification Lookup");</script><tr><td class="giz" colspan="2"><a href="https://competitor.nra.org/">Open NRA Competitor Classification Lookup</a></td></tr></tbody></table>
+
+
+<table><tr><td style="font-size:4px;">&nbsp;</td></tr></table>
+<script type="text/javascript">block("Match Preparations");</script><tr><td class="giz" colspan="2"><a href="https://www.weather.gov/">Weather forecasts from the National Weather Service</a><br><br><a href="https://www.google.com/maps/dir/">Plan your travel with Google Maps</a></td></tr></tbody></table>
+
 
 <table><tr><td style="font-size:4px;">&nbsp;</td></tr></table>
 <script type="text/javascript">block("Bullseye Discussion Group");</script><tr>
 <td style="width: 100%; padding-right:2px; padding-left:2px;" colspan="2"
  class="giz">
-<div align="center"><a href="http://bullseyepistol.forumotion.com/"><img src="shared/images/newblif.png" style="border: 0px solid; width: 176px; height: 122px;"></a></div>
+<div align="center"><a href="https://www.bullseyeforum.net/"><img src="shared/images/newblif.png" style="border: 0px solid; width: 176px; height: 122px;"></a></div>
 <div style="text-align:center; color:#b00000; font-family:Tahoma,Arial; font-size:14px; font-weight:bold;">WORLD-WIDE FELLOWSHIP OF<br>BULLSEYE PISTOL SHOOTERS</div>
 </td>
 </tr>
@@ -276,53 +223,18 @@ Enter the Range's Zip Code:<br>
 </table>
 
 <table><tr><td style="font-size:4px;">&nbsp;</td></tr></table>
-<script type="text/javascript">block("Find Shooting Ranges");</script>
-<tr>
-<FORM NAME="wts_search" METHOD="post" ACTION="http://wheretoshoot.org/Find_Range/wts_subresults.asp" TARGET="_new"><td style="width: 100%;" colspan="2"
- class="giz">&nbsp;Enter your Zip Code: <INPUT TYPE="text" NAME="wtszip" SIZE="5" MAXLENGTH="5" VALUE=""><br>
-&nbsp;Select Radius:
-<SELECT NAME="wtsradius">
-<OPTION  VALUE="5">5 miles</OPTION>
-<OPTION  VALUE="10">10 miles</OPTION>
-<OPTION  VALUE="15">15 miles</OPTION>
-<OPTION  VALUE="20">20 miles</OPTION>
-<OPTION  VALUE="25">25 miles</OPTION>
-<OPTION  VALUE="30">30 miles</OPTION>
-<OPTION  VALUE="60">60 miles</OPTION>
-<OPTION  VALUE="90">90 miles</OPTION>
+<script type="text/javascript">block("Find Shooting Ranges");</script><tr><td class="giz" colspan="2"><a href="https://www.wheretoshoot.org/">Find a range with Where To Shoot</a></td></tr></tbody></table>
 
-</SELECT>
-<INPUT TYPE="submit" NAME="submit1" ID="submit1" VALUE="Find"><br>
-&nbsp;(Courtesy of Wheretoshoot.org)<input size="1"
- maxlength="1" name="dummy"
- style="border: 1px solid rgb(175, 210, 254); background-color: rgb(175, 210, 254); font-size: 2px;"
- type="text">
-</td><INPUT TYPE="hidden" VALUE="2" NAME="wtssearchoption">
-<INPUT TYPE="hidden" NAME="wtstype" VALUE="1300"></form>
-</tr>
-</tbody>
-</table>
 
 <table><tr><td style="font-size:4px;">&nbsp;</td></tr></table>
-<script type="text/javascript">block("Website Statistics");</script><tr>
-<td style="width: 100%;" colspan="2"
- class="giz"> <a href="http://www.digits.com"><img
- src="http://counter.digits.com/wc/-d/4/bullseyepistol"
- alt="Counter by Digits" align="right" border="0" height="20" hspace="2"
- vspace="3" width="98"></a>On the right is the number of page
-views for this webpage
-since its beginning on Friday, 13 September 1996 as provided by
-Digits.com. This week, the daily average is 1367.6 page views per day.</td>
-</tr>
-</tbody>
-</table>
+
 <table><tr><td style="font-size:4px;">&nbsp;</td></tr></table>
 <script type="text/javascript">block("Current Revision");</script><tr>
 <td style="width: 100%;" colspan="2"
- class="giz">New material was last added:<br>
+ class="giz">Recovered homepage capture:<br>
 08/18/2025 00:37:37
  <br>
-<i>Daily</i> Twitter and Facebook posts and <i>Monthly</i> Newsletters will mention when and where new material is added.</td>
+</td>
 </tr>
 </tbody>
 </table>
@@ -343,13 +255,7 @@ Digits.com. This week, the daily average is 1367.6 page views per day.</td>
 </table>
 
 <table><tr><td style="font-size:4px;">&nbsp;</td></tr></table>
-<script type="text/javascript">block("Sponsor Our Website");</script>
-<tr>
-<td style="width: 100%;" colspan="2"
- class="giz">Support this information treasure and catalyst for the Bullseye Sport by purchasing advertising.  Find out more about this economical yet highly "targeted" advertising by clicking <a href="articles/site-reference-general-index/advertise-and-support-this-tremendous-resource/index.html">HERE</a>.</td>
-</tr>
-</tbody>
-</table>
+
 
 </td>
 <!-- Second Column Here--> <td style="width: 420px;background-color:#f0f5fa; cursor:url(shared/images/dot.gif),url(shared/images/dot.cur),auto;" valign="top">
@@ -481,7 +387,7 @@ Reference
 Room:</td>
 </tr>
 <tr>
-<td class="art" bgcolor="#ebf0f5"><a href="http://compete.nra.org/documents/pdf/compete/RuleBooks/Pistol/pistol-book.pdf">Official
+<td class="art" bgcolor="#ebf0f5"><a href="https://competitions.nra.org/competition-resources/rule-books/">Official
 NRA Precision Pistol Rulebook</a><br>
 <a href="http://www.odcmp.com/Competitions/Rulebook.pdf">Official
 CMP Rules for EIC Competitions</a><br>
@@ -538,13 +444,7 @@ Firearms Information:</td>
 </td>
 <!-- Third Column Here--> <td style="width: 260px; background-color:#dfefff;" valign="top">
 
-<script type="text/javascript">block("Souvenirs and Apparel");</script>
-<tr>
-<td style="width: 100%;" colspan="2"
- class="giz"><div align="center" style="color:#0000a0">Items to promote our chosen sport!<br><a href="http://www.bull-market.biz/" target="_new"><img src="shared/images/market.gif" vspace=5 width=170 height=154 border=0></a></div></td>
-</tr>
-</tbody>
-</table>
+
 <table><tr><td style="font-size:4px;">&nbsp;</td></tr></table>
 
 <script type="text/javascript">block("Website Features");</script>
@@ -568,9 +468,9 @@ Firearms Information:</td>
  </tr>
  <tr>
  <td class="but" onmouseover="mOver(this)"
- onclick="location.href='http://bullseyepistol.forumotion.com/'"
+ onclick="location.href='https://www.bullseyeforum.net/'"
  onmouseout="mOut(this)">&nbsp;&nbsp;<a
- href="http://bullseyepistol.forumotion.com/" target="_parent">The New Bullseye-L Forum</a></td>
+ href="https://www.bullseyeforum.net/" target="_parent">The New Bullseye-L Forum</a></td>
  </tr>
  <tr>
  <td class="but" onmouseover="mOver(this)"
@@ -587,7 +487,7 @@ Firearms Information:</td>
  onclick="location.href='articles/site-reference-general-index/links-to-other-sites/index.html#clubs'" onmouseout="mOut(this)">&nbsp;&nbsp;<a
  href="articles/site-reference-general-index/links-to-other-sites/index.html#clubs">Links to Clubs and Teams</a></td>
  </tr>
- 
+
  <tr>
  <td class="but" onmouseover="mOver(this)"
  onclick="location.href='articles/site-reference-general-index/links-to-other-sites/index.html#products'" onmouseout="mOut(this)">&nbsp;&nbsp;<a
@@ -621,15 +521,11 @@ Firearms Information:</td>
  cellpadding="0" cellspacing="2">
   <tbody>
     <tr>
-      <td><a href="javascript:bac();" onmouseover="document.back.src='shared/images/left2.jpg'"
-onmouseout="document.back.src='shared/images/left1.jpg'"><img name="back" style="width: 22px; height: 70px; border:0px;" alt=""
- src="shared/images/left1.jpg"></a></td>
+
       <td style="width: 190px; background-color:#000000;"><div id="pix"><a href="articles/perfecting-technique/a-fundamentals-clinic/index.html"><img
  style="width: 190px; height: 185px; border: 0px;" alt=""
  src="shared/images/image1.jpg"></a></div></td>
-      <td><a href="javascript:frw();" onmouseover="document.frwd.src='shared/images/right2.jpg'"
-onmouseout="document.frwd.src='shared/images/right1.jpg'"><img name="frwd" style="width: 22px; height: 70px; border:0px;" alt=""
- src="shared/images/right1.jpg"></td>
+
     </tr>
   </tbody>
 </table>
@@ -643,7 +539,7 @@ onmouseout="document.frwd.src='shared/images/right1.jpg'"><img name="frwd" style
 
 <tr>
 <td style="width: 100%; padding-left:22px;" colspan="2"
- class="giz"> <a href="http://www.nrahq.org/compete/nm_campperry.asp"
+ class="giz"> <a href="https://thecmp.org/cmp-national-matches/"
  target="_top" style="font-size:14px;">Entry Information</a><br>
  <a href="articles/camp-perry-national-matches/a-history-of-the-national-matches/index.html" style="font-size:14px;">History of Camp Perry</a><br>
  <a href="articles/camp-perry-national-matches/lodging-dining-and-entertainment/index.html" style="font-size:14px;">Lodging, Dining and Fun</a><br>
@@ -702,7 +598,7 @@ Shooting Sports USA</a></td>
  target="_parent">The Brian
 Zins Website!</a></td>
  </tr>
- 
+
 <tr>
  <td class="but" onmouseover="mOver(this)"
  onclick="top.location.href='http://www.wwmcmillan.info'"
@@ -750,19 +646,7 @@ Resource</a></td>
 </table>
 
 <table><tr><td style="font-size:4px;">&nbsp;</td></tr></table>
-<script type="text/javascript">block("Bullseye Twitter Feed");</script><tr><td style="width: 100%; padding-top: 0px;" colspan="2"
- class="giz" align="center">
-<a class="twitter-timeline" href="https://twitter.com/bullseyepistol" data-widget-id="430853993347047424">Tweets by @bullseyepistol</a>
 
-
-
-
-<span style="color:#003060; font-weight:bold; font-size:15px;">facebook</span>&nbsp; &nbsp;You may also view all of<br>our Twitter posts by visiting our<br>Facebook page with a click <a href="http://www.facebook.com/bullseyepistol">HERE</a>.
-
-</td>
-</tr>
-</tbody>
-</table>
 
 <!--
 <table><tr><td style="font-size:4px;">&nbsp;</td></tr></table>
