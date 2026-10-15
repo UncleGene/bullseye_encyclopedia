@@ -15,6 +15,7 @@ from typing import Any
 from urllib.parse import unquote, urljoin, urlparse
 
 ARTICLE_SITE_URL = "https://unclegene.github.io/bullseye_encyclopedia/raw/"
+ARTICLE_SITE_LABEL = "Read the Clean Edition"
 
 ASSET_EXTENSIONS = {
     ".css",
@@ -757,15 +758,26 @@ def main() -> int:
                 rewritten = fix_index_table_layout(rewritten)
                 rewritten, native_link_added = re.subn(
                     r"(<a\b[^>]*>\s*Website Index\s*</a>)",
-                    lambda m: m.group(1) + f' | <a data-site-variant="raw" href="{ARTICLE_SITE_URL}">Article Version</a>',
+                    lambda m: m.group(1) + f' | <a data-site-variant="raw" href="{ARTICLE_SITE_URL}">{ARTICLE_SITE_LABEL}</a>',
                     rewritten,
                     count=1,
                     flags=re.IGNORECASE,
                 )
+                callout = (
+                    '<div class="edition-callout" style="box-sizing:border-box; width:942px; max-width:100%; '
+                    'margin:12px auto; padding:16px 20px; border:2px solid #debea1; background:#103d16; '
+                    'color:#fff; text-align:center; font:14px/1.5 Tahoma,Arial,sans-serif;">'
+                    f'<a data-site-variant="raw" href="{ARTICLE_SITE_URL}" style="display:inline-block; '
+                    'padding:10px 20px; background:#debea1; color:#103d16; '
+                    f'font-weight:bold; font-size:20px;">{ARTICLE_SITE_LABEL}</a>'
+                    '<p style="margin:8px 0 0; color:#fff;">The same recovered articles, with simpler navigation '
+                    'and an uncluttered reading layout.</p></div>'
+                )
+                rewritten = rewritten.replace("<!-- Bottom Main Table -->", callout + "\n<!-- Bottom Main Table -->", 1)
             version_navigation = (
                 '<nav aria-label="Site versions" style="display:block; padding:6px 12px; '
                 'background:#22952d; color:#debea1; font:bold 12px/1.5 Tahoma,Arial,sans-serif; text-align:center;">'
-                f'<a data-site-variant="raw" href="{ARTICLE_SITE_URL}" style="color:#debea1;">Article Version</a>'
+                f'<a data-site-variant="raw" href="{ARTICLE_SITE_URL}" style="color:#debea1;">{ARTICLE_SITE_LABEL}</a>'
                 ' <span aria-hidden="true"> | </span> '
                 '<span aria-current="page">Historical site</span></nav>'
             )

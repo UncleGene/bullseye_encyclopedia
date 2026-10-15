@@ -25,8 +25,10 @@ rebuild them or alter archive or canonical files.
 
 ## Links and banner
 
-The historical homepage includes **Article Version** beside **Website Index**
-in its recovered navigation, inheriting the original styling. Other historical
+The historical homepage includes **Read the Clean Edition** beside **Website Index**
+in its recovered navigation and a prominent green-and-cream link directly below
+the historical banner. The accompanying text explains that it contains the same
+recovered articles with simpler navigation and an uncluttered reading layout. Other historical
 content pages have a compact switch using the same green-and-cream palette.
 Empty captures, empty redirect shells, and the frameset wrapper are preserved
 without added navigation.
