@@ -262,6 +262,8 @@ def copy_resource(record: dict[str, Any], out: Path, resource_paths: dict[str, s
         original = src.read_bytes()
         updated = re.sub(rb'https?://(?:www\.)?bullseyepistol\.forumotion\.com/?',
                          b'https://www.bullseyeforum.net/', original)
+        updated = re.sub(rb'''(?:\s*\|\s*)?<a\b[^>]*href=["']https?://(?:www\.)?facebook\.com/bullseyepistol/?["'][^>]*>.*?</a>''',
+                         b'', updated, flags=re.IGNORECASE | re.DOTALL)
         if updated != original:
             # Resource copies may be hardlinked to immutable captures.
             dst.unlink()

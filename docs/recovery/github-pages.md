@@ -34,9 +34,9 @@ generator now versions page-local script URLs by their content hash; the
 regression suite checks every emitted script URL. See
 [the function audit](site-function-audit.md) for repair policy and limitations.
 
-The historical homepage includes **Read the Clean Edition** beside **Website Index**
-in its recovered navigation and a prominent green-and-cream link directly below
-the historical banner. The accompanying text explains that it contains the same
+The historical homepage includes one prominent green-and-cream **Read the Clean Edition**
+link directly below the historical banner. Its top navigation omits the duplicate
+edition link and the dead encyclopedia Facebook account. The accompanying text explains that it contains the same
 recovered articles with simpler navigation and an uncluttered reading layout. Other historical
 content pages have a compact switch using the same green-and-cream palette.
 Empty captures, empty redirect shells, and the frameset wrapper are preserved

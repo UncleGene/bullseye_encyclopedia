@@ -716,6 +716,8 @@ def enable_keyboard_search(text: str) -> str:
 
 def repair_static_controls(text: str) -> str:
     original = text
+    text = re.sub(r'''(?:\s*\|\s*)?<a\b[^>]*href=["']https?://(?:www\.)?facebook\.com/bullseyepistol/?["'][^>]*>.*?</a>''',
+                  '', text, flags=re.IGNORECASE | re.DOTALL)
     text = re.sub(r'https?://(?:www\.)?bullseyepistol\.forumotion\.com/?', 'https://www.bullseyeforum.net/', text)
     text = enable_keyboard_search(text)
     text = text.replace('outsideSearch();', '')
@@ -882,17 +884,9 @@ def main() -> int:
                 used_article_image_paths,
                 page_scripts,
             )
-            native_link_added = 0
             if path_map[key] == Path("index.html"):
                 rewritten = fix_index_table_layout(rewritten)
                 rewritten = repair_homepage(rewritten)
-                rewritten, native_link_added = re.subn(
-                    r"(<a\b[^>]*>\s*Website Index\s*</a>)",
-                    lambda m: m.group(1) + f' | <a data-site-variant="raw" href="{ARTICLE_SITE_URL}">{ARTICLE_SITE_LABEL}</a>',
-                    rewritten,
-                    count=1,
-                    flags=re.IGNORECASE,
-                )
                 callout = (
                     '<div class="edition-callout" style="box-sizing:border-box; width:942px; max-width:100%; '
                     'margin:12px auto; padding:16px 20px; border:2px solid #debea1; background:#103d16; '
@@ -911,7 +905,7 @@ def main() -> int:
                 ' <span aria-hidden="true"> | </span> '
                 '<span aria-current="page">Historical site</span></nav>'
             )
-            if not native_link_added and not re.search(r"<body\b[^>]*>\s*</body\s*>", rewritten, re.IGNORECASE):
+            if path_map[key] != Path("index.html") and not re.search(r"<body\b[^>]*>\s*</body\s*>", rewritten, re.IGNORECASE):
                 rewritten, navigation_added = re.subn(
                     r"(<body\b[^>]*>(?:<center>)?[ \t]*\n)",
                     lambda m: m.group(1) + version_navigation + "\n",
