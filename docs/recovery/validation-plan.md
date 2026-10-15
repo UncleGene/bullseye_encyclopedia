@@ -96,6 +96,7 @@ Use these commands for the current generated artifacts:
 
 ```sh
 python3 -m py_compile tools/*.py
+python3 -m unittest discover -s tests -v
 python3 tools/validate_static_site.py exports/static-site/as-is --report exports/static-site/as-is/_validation-report.json
 python3 tools/validate_static_site.py exports/static-site/raw --expect-articles 150 --require-all-articles --report exports/static-site/raw/_validation-report.json
 python3 - <<'PY'
@@ -120,3 +121,8 @@ if bad:
     raise SystemExit(f"Non-reader-safe EPUB resources: {bad}")
 PY
 ```
+
+The Pages staging test checks that version switches on home and nested article
+pages resolve to the other variant on both the default GitHub host and a
+custom domain, while leaving source exports unchanged. The publishing workflow
+also validates all staged local references after rewriting those switches.

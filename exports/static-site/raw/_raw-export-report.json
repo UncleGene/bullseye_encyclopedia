@@ -105,6 +105,7 @@
       "title": "Site / Reference / General Index"
     }
   ],
+  "historical_site_url": "https://unclegene.github.io/bullseye_encyclopedia/",
   "homepage_source": {
     "local_path": "archive/raw/wayback/files/20260522T143136Z/202508/article_candidate/www.bullseyepistol.com/20250818003737-index-5fffb450c2814c7e.html",
     "original": "http://www.bullseyepistol.com/",
@@ -924,6 +925,30 @@
       "title": "Site / Reference / General Index"
     }
   ],
+  "site_banner": {
+    "capture": {
+      "blob_path": "archive/raw/wayback/blobs/sha256/f9/f99ccd86a9a8b7676fa580387cf076725dfbab573fb409956d1d68b5876fda3f",
+      "byte_length": 10907,
+      "classification": "asset",
+      "content_type": "image/gif",
+      "http_status": 200,
+      "index": 11,
+      "local_path": "archive/raw/wayback/files/20260522T141108Z/201009/asset/bullseyepistol.com/20100917235557-banner2-1c935fc375df5ae4.gif",
+      "original": "http://bullseyepistol.com/banner2.gif",
+      "period": "201009",
+      "retrieval_url": "https://web.archive.org/web/20100917235557id_/http://bullseyepistol.com/banner2.gif",
+      "retrieved_at": "2026-05-22T14:11:24.290213+00:00",
+      "run_id": "20260522T141108Z",
+      "sha256": "f99ccd86a9a8b7676fa580387cf076725dfbab573fb409956d1d68b5876fda3f",
+      "source_digest": "5TX34DY6FWTBDV2OEFXWVW6XNNFN73MG",
+      "source_length": "11462",
+      "source_mimetype": "image/gif",
+      "status": "success",
+      "storage_mode": "migrated_blob_reused_hardlink",
+      "timestamp": "20100917235557"
+    },
+    "output_path": "assets/site-banner.gif"
+  },
   "unplaced_article_count": 0,
   "unplaced_articles": []
 }

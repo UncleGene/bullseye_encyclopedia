@@ -26,9 +26,9 @@
       "passed": true
     }
   ],
-  "external_reference_count": 380,
+  "external_reference_count": 548,
   "html_file_count": 168,
-  "local_reference_count": 1530,
+  "local_reference_count": 1698,
   "passed": true,
   "site_root": "/Users/unge/Projects/bullseye/exports/static-site/raw"
 }

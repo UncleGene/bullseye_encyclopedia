@@ -132,6 +132,7 @@ Functional behavior:
 - Static HTML exports must include two tracks: an `as-is` site reproduction from recovered pages and a `raw` article site generated from normalized canonical articles.
 - The `as-is` static export must use a non-flat deployable structure: article pages grouped by canonical top-page groups, subarticles grouped under their parent article where canonical article links prove that relationship, article-specific images stored with the corresponding grouped article, and site-wide images stored under a shared images folder.
 - The `raw` article site navigation must preserve recovered original homepage sections where possible and may add provenance-backed enhanced browse groups when that improves article discovery.
+- Both static variants must provide visible links to the other published version. The historical homepage's article-version link should fit the recovered navigation style; the `raw` header must use the recovered encyclopedia banner with capture provenance retained.
 - The `raw` article site must include a dedicated `Missing Artifacts` section for unavailable internal resources that may be found later.
 - Links in the `raw` article site that target unavailable internal resources must point to the relevant `Missing Artifacts` entry.
 - The `as-is` site, EPUB, and PDF should avoid reader-facing missing-resource pages or missing-resource prose where practical; omissions must still be recorded in machine reports.
@@ -144,6 +145,7 @@ Acceptance criteria:
 - Ebook, static site, and DB export schemas are documented before implementation.
 - Export outputs can be regenerated from canonical content.
 - Static site output can be opened locally or deployed to a generic static host and navigated article-to-article.
+- Cross-variant links target the current published homepages (historical at root, articles at `/raw/`). Published switches use same-origin relative paths so changing the serving domain does not break them; standalone exports may use absolute published URLs. Verify the recovered banner checksum and per-page navigation against the generated exports and reports.
 - The `as-is` static site output preserves original page layout/chrome as much as possible while rewriting recovered local dependencies.
 - The `raw` article site has a visible `Missing Artifacts` section and all unavailable internal-resource links target that section.
 - The EPUB package manifest contains no PDF, MP3, ZIP, EXE, arbitrary HTML, or other non-reader-safe supplemental resources.

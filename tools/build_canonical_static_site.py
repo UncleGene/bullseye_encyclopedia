@@ -22,6 +22,8 @@ SECTION_RE = re.compile(r'<td[^>]*class=["\']nav["\'][^>]*>(.*?)</td>', re.IGNOR
 ART_RE = re.compile(r'<td[^>]*class=["\']art["\'][^>]*>(.*?)</td>', re.IGNORECASE | re.DOTALL)
 TAG_RE = re.compile(r"<[^>]+>")
 SPACE_RE = re.compile(r"\s+")
+SITE_BANNER_PATH = "assets/site-banner.gif"
+HISTORICAL_SITE_URL = "https://unclegene.github.io/bullseye_encyclopedia/"
 
 # Sub-articles that belong nested under a specific parent article.
 # These are injected as sub-items within the parent's homepage section rather than
@@ -401,8 +403,8 @@ def page(title: str, body: str, rel_root: str = ".") -> str:
 </head>
 <body>
 <header class="site-header">
-  <a class="brand" href="{rel_root}/index.html">Bullseye Pistol</a>
-  <nav><a href="{rel_root}/articles.html">All Articles</a><a href="{rel_root}/missing-artifacts.html">Missing Artifacts</a></nav>
+  <a class="brand" href="{rel_root}/index.html"><img class="site-banner" src="{rel_root}/{SITE_BANNER_PATH}" width="606" height="50" alt="The Encyclopedia of Bullseye Pistol"></a>
+  <nav aria-label="Site navigation"><a href="{rel_root}/articles.html">All Articles</a><a href="{rel_root}/missing-artifacts.html">Missing Artifacts</a><a data-site-variant="as-is" href="{HISTORICAL_SITE_URL}">Historical site</a></nav>
 </header>
 <main>
 {body}
@@ -440,6 +442,14 @@ def main() -> int:
         if rel:
             asset_paths[asset["id"]] = rel
     resource_records = best_resource_records(backup)
+    banner_record = resource_records.get(normalize_url("http://bullseyepistol.com/banner2.gif"))
+    if banner_record is None:
+        raise SystemExit("Recovered site banner is missing from the backup manifest.")
+    banner_source = Path(str(banner_record.get("blob_path") or banner_record["local_path"]))
+    if hashlib.sha256(banner_source.read_bytes()).hexdigest() != banner_record["sha256"]:
+        raise SystemExit("Recovered site banner checksum does not match the backup manifest.")
+    (out / "assets").mkdir(exist_ok=True)
+    shutil.copyfile(banner_source, out / SITE_BANNER_PATH)
     resource_paths: dict[str, str] = {}
     missing_refs: dict[str, str] = {}
 
@@ -482,9 +492,11 @@ def main() -> int:
 :root { color-scheme: light; --ink:#1f2933; --muted:#5d6b78; --line:#d7dde3; --paper:#fbfbf8; --accent:#1f5f8b; }
 body { margin:0; font-family: Georgia, 'Times New Roman', serif; color:var(--ink); background:var(--paper); line-height:1.55; }
 a { color:var(--accent); }
-.site-header { border-bottom:1px solid var(--line); padding:14px 22px; display:flex; justify-content:space-between; gap:16px; align-items:center; font-family: Arial, sans-serif; background:#fff; position:sticky; top:0; }
-.brand { font-weight:700; text-decoration:none; color:var(--ink); }
-nav a { margin-left:14px; font-size:14px; }
+.site-header { border-bottom:1px solid var(--line); padding:14px 22px; display:flex; flex-wrap:wrap; justify-content:space-between; gap:16px; align-items:center; font-family: Arial, sans-serif; background:#fff; position:sticky; top:0; z-index:1; }
+.brand { display:block; min-width:0; max-width:606px; flex:0 1 606px; }
+.site-banner { display:block; width:100%; height:auto; }
+nav { display:flex; flex-wrap:wrap; gap:10px 14px; }
+nav a { font-size:14px; }
 main { max-width:960px; margin:0 auto; padding:28px 22px 56px; }
 .article { max-width:760px; }
 .meta { color:var(--muted); font-family: Arial, sans-serif; font-size:14px; }
@@ -630,6 +642,8 @@ pre, code { white-space:pre-wrap; }
         "linked_resource_count": len(resource_paths),
         "missing_internal_reference_count": len(missing_refs),
         "linked_resources": resource_paths,
+        "historical_site_url": HISTORICAL_SITE_URL,
+        "site_banner": {"output_path": SITE_BANNER_PATH, "capture": banner_record},
         "missing_internal_references": sorted(missing_refs),
         "missing_artifacts_page": "missing-artifacts.html",
         "missing_artifact_anchors": {url: anchor for url, anchor in sorted(missing_refs.items())},

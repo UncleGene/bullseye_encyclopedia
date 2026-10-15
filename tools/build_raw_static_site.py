@@ -14,6 +14,7 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import unquote, urljoin, urlparse
 
+ARTICLE_SITE_URL = "https://unclegene.github.io/bullseye_encyclopedia/raw/"
 
 ASSET_EXTENSIONS = {
     ".css",
@@ -751,8 +752,31 @@ def main() -> int:
                 used_article_image_paths,
                 page_scripts,
             )
+            native_link_added = 0
             if path_map[key] == Path("index.html"):
                 rewritten = fix_index_table_layout(rewritten)
+                rewritten, native_link_added = re.subn(
+                    r"(<a\b[^>]*>\s*Website Index\s*</a>)",
+                    lambda m: m.group(1) + f' | <a data-site-variant="raw" href="{ARTICLE_SITE_URL}">Article Version</a>',
+                    rewritten,
+                    count=1,
+                    flags=re.IGNORECASE,
+                )
+            version_navigation = (
+                '<nav aria-label="Site versions" style="display:block; padding:6px 12px; '
+                'background:#22952d; color:#debea1; font:bold 12px/1.5 Tahoma,Arial,sans-serif; text-align:center;">'
+                f'<a data-site-variant="raw" href="{ARTICLE_SITE_URL}" style="color:#debea1;">Article Version</a>'
+                ' <span aria-hidden="true"> | </span> '
+                '<span aria-current="page">Historical site</span></nav>'
+            )
+            if not native_link_added and not re.search(r"<body\b[^>]*>\s*</body\s*>", rewritten, re.IGNORECASE):
+                rewritten, navigation_added = re.subn(
+                    r"(<body\b[^>]*>(?:<center>)?[ \t]*\n)",
+                    lambda m: m.group(1) + version_navigation + "\n",
+                    rewritten, count=1, flags=re.IGNORECASE,
+                )
+                if not navigation_added:
+                    rewritten = re.sub(r"(<body\b[^>]*>)", lambda m: m.group(1) + version_navigation, rewritten, count=1, flags=re.IGNORECASE)
             dst.parent.mkdir(parents=True, exist_ok=True)
             if dst.exists():
                 dst.unlink()
@@ -806,6 +830,7 @@ def main() -> int:
         "image_manifest": args.images,
         "extra_manifests": args.extra_manifest,
         "output": str(out),
+        "article_site_url": ARTICLE_SITE_URL,
         "records_selected": len(selected),
         "files_written": written,
         "index_source": str(index_source) if index_source else None,

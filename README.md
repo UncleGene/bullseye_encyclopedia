@@ -10,9 +10,9 @@ The project preserves recovered source pages and assets, records their provenanc
 
 ## Reading the encyclopedia
 
-The GitHub Pages workflow publishes the normalized article site at
-`https://unclegene.github.io/bullseye_encyclopedia/` and the historical site
-at `/as-is/`. See [deployment setup and status checks](docs/recovery/github-pages.md)
+The GitHub Pages workflow publishes the historical site at
+`https://unclegene.github.io/bullseye_encyclopedia/` and the normalized article site
+at `/raw/`. Both versions link to each other. See [deployment setup and status checks](docs/recovery/github-pages.md)
 for enabling publication and verifying the live deployment.
 
 Ready-to-read and downloadable editions are in [`exports/final`](exports/final):

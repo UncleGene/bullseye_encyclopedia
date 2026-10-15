@@ -24,15 +24,12 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Prepare website
-        run: |
-          mkdir -p "$RUNNER_TEMP/site"
-          cp -R exports/static-site/raw/. "$RUNNER_TEMP/site/"
-          cp -R exports/static-site/as-is "$RUNNER_TEMP/site/as-is"
+        run: python3 tools/stage_pages.py --out "$RUNNER_TEMP/site"
 
       - name: Validate published layout
         run: |
-          python3 tools/validate_static_site.py "$RUNNER_TEMP/site" --expect-articles 150 --require-all-articles
-          python3 tools/validate_static_site.py "$RUNNER_TEMP/site/as-is"
+          python3 tools/validate_static_site.py "$RUNNER_TEMP/site"
+          python3 tools/validate_static_site.py exports/static-site/raw --expect-articles 150 --require-all-articles
 
       - uses: actions/configure-pages@v5
 

@@ -4,7 +4,7 @@ Date: 2026-10-15
 
 ## Current Slice
 
-GitHub Pages deployment is prepared: the normalized `raw` article site is at the publication root and the historical `as-is` site is under `/as-is/`. Local validation passed for the combined layout. Repository Pages activation and live deployment verification remain outstanding; see `docs/recovery/github-pages.md`. PDF QA and external EPUB validation remain complete for the current reading editions.
+GitHub Pages layout revised: the historical `as-is` site is at the publication root and the normalized `raw` article site is under `/raw/`. Both versions provide cross-links, and the article header uses the recovered encyclopedia banner. See `docs/recovery/github-pages.md` for publication and generator details. PDF QA and external EPUB validation remain complete for the current reading editions.
 
 ## Status
 
@@ -29,7 +29,7 @@ GitHub Pages deployment is prepared: the normalized `raw` article site is at the
 - Current raw article site output is `exports/static-site/raw`.
 - Obsolete pre-rename export directories `exports/static-site/canonical` and `exports/static-site/raw-as-is` have been removed.
 - Raw article site export has produced `150` article pages under the release path.
-- Fresh validation on 2026-05-29 passed with `0` broken local references across `1,530` local references (`168` HTML files).
+- The raw site has `168` HTML files and `1,698` local references after adding the recovered banner; validation passes with `0` broken local references.
 - Current raw article site uses exact recovered homepage navigation plus enhanced browse groups with `0` unplaced articles; profile1–7 appear as sub-items under `amuprfil` in "Biography and History", and wong1–7+wongbio appear as sub-items under `wong` in "Technical Information", matching raw-site subdirectory structure.
 - Current raw article site includes `165` recovered article assets, `21` additional recovered linked resources, and `7` entries in `missing-artifacts.html` for unrecovered owner-file links.
 - Each raw-site missing-artifact entry now includes a concise description reconstructed from the referring article block plus a backlink to that article.
@@ -63,7 +63,7 @@ Deferred or routed questions:
 - Historical baseline authority: deferred until conflicting snapshots affect generated output; current selected baseline/overlay set remains the working source.
 - Alternate hostnames: `www.bullseyepistol.com` is already included; any additional old subdomains, CDN hosts, or provider preview domains require owner input or a new inventory slice.
 - Non-public assets outside Wayback: route to the new `raw` site's `Missing Artifacts` section. Recovery is currently unavailable; only later out-of-band supplied files would change that.
-- Public URL policy: user selected the `raw` article site at the GitHub Pages root and `as-is` under `/as-is/` on 2026-10-15. The publishing workflow validates and deploys committed exports; Pages must be enabled in repository settings. See `docs/recovery/github-pages.md`. Custom domains and original-domain redirects remain deferred.
+- Public URL policy: user's latest choice on 2026-10-15 is historical `as-is` at the GitHub Pages root and article `raw` under `/raw/`, superseding the earlier reversed mapping. The publishing workflow validates and deploys committed exports. See `docs/recovery/github-pages.md`. Custom domains and original-domain redirects remain deferred.
 - Article-body/chrome patterns: first pass uses recovered `ARTICLE BEGINS/ENDS` markers and page-shell evidence; broaden only if a later normalization pass finds articles without reliable markers.
 - Ebook cover: deferred; a later pass may add a designed cover image.
 - Raw article site missing-artifact section: implemented with article backlinks and source-backed descriptions.
