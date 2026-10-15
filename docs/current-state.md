@@ -4,7 +4,7 @@ Date: 2026-10-15
 
 ## Current Slice
 
-Release-facing artifact alignment and external EPUB validation are complete for the current EPUB. EPUBCheck 5.4.0 passed with zero errors and warnings on 2026-10-15 after correcting section-label markup in the generated table of contents. The `raw` site's `Missing Artifacts` page includes concise source-backed descriptions, and EPUB suppresses remaining non-resolvable internal resource links from reader-facing output.
+PDF release QA passed on 2026-10-15: structural checks cover all `574` pages and `150` article destinations; sampled visual review found no export defect. The PDF already follows the missing-resource policy, so its bytes are unchanged. Evidence and review limits are recorded in `docs/recovery/pdf-export-report.md`. External EPUB validation also remains complete: EPUBCheck 5.4.0 passed with zero errors and warnings.
 
 ## Status
 
@@ -72,11 +72,11 @@ Deferred or routed questions:
 - EPUB internal non-article resource handling: implemented as reader-safe suppression; `59` such links are omitted from active EPUB navigation and retained only in the export report.
 - DB import/export contract: postponed until the user explicitly requests DB work.
 
-- PDF export has produced `exports/pdf/bullseye-pistol.pdf` — `575` pages, `150` articles, `162` embedded images, `15` chapter groups matching EPUB and raw article site structure (profile and Wong sub-articles grouped under their parent sections); built with WeasyPrint 68.1 using `tools/build_pdf.py`. Under the new policy, PDF should avoid reader-facing missing-resource notes where practical.
+- PDF export has produced `exports/pdf/bullseye-pistol.pdf` — `574` pages, `150` articles, `162` resolved image references, and `15` topic groups; built with WeasyPrint 68.1 using `tools/build_pdf.py`. The identical final edition passed structural and sampled visual QA, with `838` working local link annotations and no generated missing-resource notices. See `docs/recovery/pdf-export-report.md`.
 
 ## Next Step
 
-The EPUBCheck gate is closed for the current EPUB. Select any further release or presentation work explicitly; DB import/export remains deferred. See `docs/recovery/ebook-export-report.md` for the validation evidence.
+EPUBCheck and PDF QA are complete for the current editions. Select any further release or presentation work explicitly; DB import/export remains deferred. See `docs/recovery/ebook-export-report.md` and `docs/recovery/pdf-export-report.md` for evidence and review limits.
 
 ## Continuation / Handoff
 

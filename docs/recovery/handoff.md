@@ -23,7 +23,7 @@ The static HTML output is a first-class restoration artifact with two release-fa
 - Active scripts: `tools/audit_outputs.py`, `tools/build_ebook.py`, `tools/build_canonical_static_site.py`, `tools/validate_static_site.py`, `tools/normalize_articles.py`, `tools/wayback_backup.py`, `tools/wayback_recover_images.py`, `tools/recover_static_dependencies.py`.
 - Last completed planning step: release-facing artifact policy updated in goals, requirements, roadmap, ebook contract, validation plan, recovery spec, and current state.
 - Final artifact bundle directory: `exports/final`
-- Last completed release gate: EPUBCheck 5.4.0 passed with zero errors and warnings; see `docs/recovery/ebook-export-report.md`.
+- Last completed release gates: EPUBCheck 5.4.0 passed with zero errors and warnings; PDF structural and sampled visual QA passed without export changes. See `docs/recovery/ebook-export-report.md` and `docs/recovery/pdf-export-report.md`.
 - Next intended step: select further release work explicitly; DB import/export remains deferred.
 - Suggested next skill: `minime-implementation-step-selector`.
 - Open-question status: release-facing missing-artifact UX, `as-is` output missing-resource suppression, and EPUB resource eligibility are implemented. Deferred questions remain for owner-provided files, public URL policy, DB import/export, and historical-version authority if later snapshot conflicts affect output.

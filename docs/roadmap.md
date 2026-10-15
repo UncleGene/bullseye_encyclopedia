@@ -198,6 +198,7 @@ Completion evidence so far:
 - Current ebook output contains `150` article chapters, `160` embedded recovered image assets, and `0` non-reader-safe packaged resources; `59` internal non-article resource links are suppressed from reader-facing output.
 - The 2026-05-29 shared output audit records `0` blocking findings, `3` improvement candidates, and `1` deferred release risk. That EPUB validation risk was closed on 2026-10-15: EPUBCheck 5.4.0 passed with `0` errors and warnings; see `docs/recovery/ebook-export-report.md`.
 - Enhanced browsing is already implemented in the raw article site while preserving recovered homepage navigation.
+- PDF release QA on 2026-10-15 confirms `574` pages, all `150` article destinations, and `838` working local link annotations. Sampled visual review and missing-resource policy checks passed without PDF changes; evidence, limitations, and PDF release notes are in `docs/recovery/pdf-export-report.md`.
 
 ## M6: Release-Facing Artifact Alignment
 
