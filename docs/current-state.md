@@ -37,7 +37,7 @@ GitHub Pages deployment verified on 2026-10-15 for `0b22bcd`: the historical `as
 - Each raw-site missing-artifact entry now includes a concise description reconstructed from the referring article block plus a backlink to that article.
 - Ebook export contract is documented at `docs/recovery/ebook-export-contract.md`; it now requires only EPUB-reader-safe packaged resources.
 - Current EPUB has `150` included article chapters in `15` groups (`9` raw-index groups plus `6` generated groups for additional recovered articles), `160` embedded recovered image assets, `0` non-reader-safe packaged resources, `0` broken local EPUB package references, `59` suppressed internal non-article resource links, and `0` unresolved internal links.
-- Current final artifact bundle contains `bullseye-pistol.epub`, `bullseye-pistol.pdf`, `bullseye-pistol-raw-site.zip`, and `bullseye-pistol-as-is-site.zip`.
+- Current downloadable editions are `bullseye-pistol.epub` and `bullseye-pistol.pdf`. Both website variants are published online; website ZIPs are no longer distributed.
 - EPUB article formatting uses canonical HTML-derived paragraphs and inline recovered figures; export report verifies `0` legacy pre-wrapped chapters, `0` hard-wrap candidates, and `0` visible asset-ID image captions.
 - Shared output audit report exists at `docs/recovery/output-audit-report.md` with machine output at `exports/output-audit/_output-audit-report.json`.
 - As-is missing-resource classification exists at `docs/recovery/as-is-missing-resource-classification.md` with machine output at `exports/output-audit/as-is-missing-resource-classification.json`.

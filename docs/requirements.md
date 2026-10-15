@@ -138,6 +138,7 @@ Functional behavior:
 - The `as-is` site, EPUB, and PDF should avoid reader-facing missing-resource pages or missing-resource prose where practical; omissions must still be recorded in machine reports.
 - EPUB output must package only EPUB-reader-safe resources: XHTML, CSS, JPEG, PNG, GIF, SVG, and required EPUB metadata/container files. PDF, MP3, ZIP, EXE, arbitrary HTML, and other non-reader-safe recovered resources must not be embedded in the EPUB.
 - Keep generated output under `exports`.
+- Publish the website variants online without distributing website ZIPs. Keep the generated site directories for reproducible Pages deployment; downloadable final editions are EPUB and PDF.
 - Do not hand-edit generated outputs as the source of truth.
 
 Acceptance criteria:

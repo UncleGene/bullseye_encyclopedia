@@ -51,8 +51,8 @@ so downloaded editions can open the other version online. Pages staging rewrites
 only the marked version-switch URLs to relative paths. Published switches stay
 on the serving domain, including an account-level custom domain, without
 hardcoding a host or repository prefix. Each variant's own page and asset links
-remain relative. Both generators own the presentation changes; the final
-website ZIPs are refreshed from the rebuilt exports.
+remain relative. Both generators own the presentation changes. Website variants
+are published online; ZIP distributions are no longer produced or tracked.
 
 ## Enable and run
 

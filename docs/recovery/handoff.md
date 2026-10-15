@@ -183,7 +183,7 @@ Recovery is currently unavailable. If any of these files are later supplied out-
 - Ebook output: `exports/ebook/bullseye-pistol.epub`
 - Ebook export report: `exports/ebook/_ebook-export-report.json`
 - Current ebook output contains `150` article chapters, `160` embedded recovered image assets, `0` broken local EPUB package references, `0` legacy pre-wrapped chapters, `0` hard-wrap candidates, `0` visible asset-ID image captions, `59` suppressed internal non-article resource links, `0` unresolved internal links, and `0` non-reader-safe packaged resources.
-- Final artifact bundle files: `exports/final/bullseye-pistol.epub`, `exports/final/bullseye-pistol.pdf`, `exports/final/bullseye-pistol-raw-site.zip`, `exports/final/bullseye-pistol-as-is-site.zip`
+- Final downloadable editions: `exports/final/bullseye-pistol.epub` and `exports/final/bullseye-pistol.pdf`. Both website variants are online through GitHub Pages; do not recreate website ZIP distributions.
 - Shared output audit artifacts were regenerated on 2026-05-29 for the `raw` / `as-is` naming and EPUB reader-safety policy.
 - Canonical navigation refinement has already been applied as enhanced browsing in the current raw article site candidate; it is no longer the next slice.
 

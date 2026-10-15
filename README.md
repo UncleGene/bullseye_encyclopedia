@@ -10,19 +10,15 @@ The project preserves recovered source pages and assets, records their provenanc
 
 ## Reading the encyclopedia
 
-The GitHub Pages workflow publishes the historical site at
-`https://unclegene.github.io/bullseye_encyclopedia/` and the normalized article site
-at `/raw/`. Both versions link to each other. See [deployment setup and status checks](docs/recovery/github-pages.md)
+Read the [historical website](https://unclegene.github.io/bullseye_encyclopedia/)
+or the [Clean Edition](https://unclegene.github.io/bullseye_encyclopedia/raw/).
+Both versions link to each other. See [deployment setup and status checks](docs/recovery/github-pages.md)
 for enabling publication and verifying the live deployment.
 
 Ready-to-read and downloadable editions are in [`exports/final`](exports/final):
 
 - [EPUB](exports/final/bullseye-pistol.epub)
 - [PDF](exports/final/bullseye-pistol.pdf)
-- [Normalized article website ZIP](exports/final/bullseye-pistol-raw-site.zip)
-- [Historical site reproduction ZIP](exports/final/bullseye-pistol-as-is-site.zip)
-
-Extract either website ZIP and open its `index.html` to browse locally.
 
 The historical site retains its recovered layout and topic groups. Broken navigation is repaired during export; inactive service widgets are removed or replaced with current service links. See the [function audit](docs/recovery/site-function-audit.md).
 

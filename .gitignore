@@ -6,3 +6,4 @@ __pycache__/
 .venv/
 .env
 .env.*
+exports/final/*-site.zip

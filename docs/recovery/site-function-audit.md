@@ -30,7 +30,9 @@ before rewriting. Original captured URLs remain unchanged.
 Validation: `python3 -m unittest discover -s tests -q` covers search runtime,
 query encoding/escaping, related links, script-emitted local resources and
 removed controls. JavaScript syntax, both static exports, staged deployment,
-archive checksums and a reproducible rebuild are release gates. Chrome checks
+archive checksums and a reproducible rebuild are release gates. Website ZIPs
+were checked during the audit but subsequently discontinued at the user's
+request; the online site exports remain the publication artifacts. Chrome checks
 cover the homepage, Enter and button search, direct empty search, markup queries,
 related navigation and dropdown navigation. Final publication evidence belongs
 in `github-pages.md`.
