@@ -79,7 +79,7 @@ process.stdout.write(JSON.stringify(context));
         count = 0
         for page in ROOT.rglob("*.html"):
             html = page.read_text(errors="replace")
-            for match in re.finditer(r'\bheader\(([^;\n]*)\)', html):
+            for match in re.finditer(r'''\bheader\(((?:"[^"\n]*"|'[^'\n]*'|[^"';\n)])*)\)''', html):
                 args = re.findall(r'"([^"]*)"', match.group(1))
                 if len(args) != 3:
                     continue

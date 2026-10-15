@@ -134,6 +134,14 @@ KNOWN_CLASSIFICATIONS: dict[str, tuple[str, str]] = {
         "unrecovered-media",
         "Standalone audio file referenced by tournament pages; not present in the selected captures.",
     ),
+    "http://bullseyepistol.com/brianbio.htm": (
+        "unrecovered-article",
+        "Author biography linked from an article header; absent from the Wayback inventory.",
+    ),
+    "http://bullseyepistol.com/wong8.htm": (
+        "unrecovered-article",
+        "Related Wong article linked from an article header; absent from the Wayback inventory.",
+    ),
     "http://bullseyepistol.com/chaptr10.htm": (
         "unrecovered-article",
         "Variant URL for a chapter article; content exists under a different recovered URL.",

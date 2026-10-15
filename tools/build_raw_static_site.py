@@ -618,7 +618,7 @@ def rewrite_html(
     text = OPTION_VALUE_RE.sub(replace_option, text)
     # Header arguments are navigation URLs, but are not HTML attributes.
     text = re.sub(
-        r"\bheader\([^;\n]*\)",
+        r"""\bheader\((?:"[^"\n]*"|'[^'\n]*'|[^"';\n)])*\)""",
         lambda m: rewrite_js(m.group(0), base_original, path_map, from_path, missing_notes)[0],
         text,
     )
