@@ -1,6 +1,6 @@
 # The Encyclopedia of Bullseye Pistol — Recovery
 
-![The Encyclopedia of Bullseye Pistol](docs/images/encyclopedia-of-bullseye-pistol.png)
+![The Encyclopedia of Bullseye Pistol](docs/images/encyclopedia-of-bullseye-pistol-banner.gif)
 
 This repository preserves and recovers **The Encyclopedia of Bullseye Pistol**, originally published at `bullseyepistol.com`.
 
