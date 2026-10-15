@@ -905,8 +905,9 @@ def main() -> int:
                 )
                 rewritten = rewritten.replace("<!-- Bottom Main Table -->", callout + "\n<!-- Bottom Main Table -->", 1)
             version_navigation = (
-                '<nav aria-label="Site versions" style="display:block; padding:6px 12px; '
-                'background:#22952d; color:#debea1; font:bold 12px/1.5 Tahoma,Arial,sans-serif; text-align:center;">'
+                '<nav aria-label="Site versions" style="display:table; margin:0 auto 6px; padding:3px 18px; '
+                'border-radius:0 0 10px 10px; background:#103d16; color:#debea1; '
+                'font:bold 12px/1.5 Tahoma,Arial,sans-serif; text-align:center;">'
                 f'<a data-site-variant="raw" href="{ARTICLE_SITE_URL}" style="color:#debea1;">{ARTICLE_SITE_LABEL}</a>'
                 ' <span aria-hidden="true"> | </span> '
                 '<span aria-current="page">Historical site</span></nav>'
