@@ -24,7 +24,8 @@ The static HTML output is a first-class restoration artifact with two release-fa
 - Last completed planning step: release-facing artifact policy updated in goals, requirements, roadmap, ebook contract, validation plan, recovery spec, and current state.
 - Final artifact bundle directory: `exports/final`
 - Last completed release gates: EPUBCheck 5.4.0 passed with zero errors and warnings; PDF structural and sampled visual QA passed without export changes. See `docs/recovery/ebook-export-report.md` and `docs/recovery/pdf-export-report.md`.
-- Next intended step: enable GitHub Pages with GitHub Actions as the source, run the publishing workflow, and verify the main and historical URLs. See `docs/recovery/github-pages.md`; DB import/export remains deferred.
+- Latest publication evidence: workflow run `38814095608` succeeded for `0b22bcd`; historical root and `/raw/` returned HTTP 200 with expected relative version links. See `docs/recovery/github-pages.md`.
+- Next intended step: select further work explicitly; DB import/export remains deferred.
 - Suggested next skill: `minime-implementation-step-selector`.
 - Open-question status: release-facing missing-artifact UX, `as-is` output missing-resource suppression, and EPUB resource eligibility are implemented. The latest GitHub Pages layout is historical `as-is` at root and article `raw` at `/raw/`, with cross-links and a recovered banner on the article site; see `docs/recovery/github-pages.md`. Deferred questions remain for owner-provided files, custom domains and original-domain redirects, DB import/export, and historical-version authority if later snapshot conflicts affect output.
 

@@ -4,7 +4,7 @@ Date: 2026-10-15
 
 ## Current Slice
 
-GitHub Pages layout revised: the historical `as-is` site is at the publication root and the normalized `raw` article site is under `/raw/`. Both versions provide cross-links, and the article header uses the recovered encyclopedia banner. See `docs/recovery/github-pages.md` for publication and generator details. PDF QA and external EPUB validation remain complete for the current reading editions.
+GitHub Pages deployment verified on 2026-10-15 for `0b22bcd`: the historical `as-is` site is at the publication root and the normalized `raw` article site is under `/raw/`. Both URLs return HTTP 200 with the expected relative cross-links; the article header uses the recovered banner. The default GitHub URL served without a custom-domain redirect. See `docs/recovery/github-pages.md` for evidence and generator details. PDF QA and external EPUB validation remain complete.
 
 ## Status
 
@@ -76,7 +76,7 @@ Deferred or routed questions:
 
 ## Next Step
 
-Enable GitHub Pages with GitHub Actions as the publishing source, run the publishing workflow, and verify the main and historical URLs. See `docs/recovery/github-pages.md`. DB import/export remains deferred.
+The selected site presentation and publication changes are complete. Select further work explicitly; DB import/export remains deferred. See `docs/recovery/github-pages.md` for live deployment evidence.
 
 ## Continuation / Handoff
 

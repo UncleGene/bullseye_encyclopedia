@@ -9,6 +9,13 @@ This supersedes the earlier root/secondary assignment.
 - Historical main site: `https://unclegene.github.io/bullseye_encyclopedia/`
 - Article version: `https://unclegene.github.io/bullseye_encyclopedia/raw/`
 
+Deployment verified on 2026-10-15: [workflow run 38814095608](https://github.com/UncleGene/bullseye_encyclopedia/actions/runs/38814095608)
+succeeded for commit `0b22bcd`. Both public URLs returned HTTP 200. The main
+homepage contains its original historical banner and the relative Article
+Version link; `/raw/` contains the recovered banner and a relative return
+link. The default GitHub URL served directly without a custom-domain redirect
+at verification time. These were HTTP/HTML checks, not live browser testing.
+
 The workflow is `.github/workflows/pages.yml`. `tools/stage_pages.py` stages the contents of
 `exports/static-site/as-is` at the deployment root and copies
 `exports/static-site/raw` into its `raw/` subdirectory. It validates the
